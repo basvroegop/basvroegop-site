@@ -1,6 +1,7 @@
 ---
 title: Publicaties
 description: Artikelen, recensies, interviews en nieuwsbrieven van Bas Vroegop.
+unlisted: true
 publish: true
 ---
 
