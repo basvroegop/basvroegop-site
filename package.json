@@ -9,6 +9,7 @@
   "homepage": "https://basvroegop.nl",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build:site": "npx quartz build && node scripts/add-trailing-slash-redirects.mjs",
     "docs": "npx quartz build --serve -d docs",
     "import:publications": "node scripts/import-publications.mjs",
     "check": "tsc --noEmit && npx prettier . --check",

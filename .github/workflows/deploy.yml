@@ -52,7 +52,7 @@ jobs:
         run: npx quartz plugin install
 
       - name: Bouw site
-        run: npx quartz build
+        run: npm run build:site
 
       - name: Upload Pages-artifact
         uses: actions/upload-pages-artifact@v3
