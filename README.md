@@ -1,17 +1,33 @@
-# Quartz v5
+# basvroegop.nl
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Persoonlijk publicatiearchief van Bas Vroegop, gebouwd met [Quartz 5](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Inhoud
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- `content/artikelen/`: 316 gepubliceerde artikelen en nieuwsbrieven.
+- `content/media/`: lokaal opgeslagen afbeeldingen die door die publicaties worden gebruikt.
+- `scripts/import-publications.mjs`: reproduceerbare import uit de publieke Ghost Content API, de Arc-verzameling en de oorspronkelijke publicaties bij Bright, AD en NU.nl.
+- `data/import-report.json`: verslag van de laatste import.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+De importer gebruikt bewust niet de map `/Freelancen`: voor extern verschenen verhalen geldt de door de betreffende redactie gepubliceerde versie als bron.
 
-## Sponsors
+## Lokaal werken
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```bash
+npm ci
+npx quartz build --serve
+```
+
+Een bestaande import opnieuw uitvoeren:
+
+```bash
+npm run import:publications -- --force
+```
+
+Let op: `--force` vervangt geïmporteerde Markdown door de opnieuw opgehaalde bronversie.
+
+## Publiceren
+
+Elke push naar `main` bouwt de site en publiceert het resultaat met GitHub Pages. Stel bij **Settings → Pages** de bron in op **GitHub Actions** en voeg daar `basvroegop.nl` als custom domain toe.
+
+De contentmap kan rechtstreeks als `/vaults/Bas/Bas/Publicaties` in de Obsidian-container worden gemount. Daardoor bewerkt Obsidian exact dezelfde Markdown-bestanden als Git, zonder een tweede kopie of synchronisatieconflicten.

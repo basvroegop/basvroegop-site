@@ -1,0 +1,71 @@
+name: Publiceer basvroegop.nl
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Haal repository op
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Stel Node.js in
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache npm
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache Quartz-plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
+
+      - name: Installeer dependencies
+        run: npm ci
+
+      - name: Installeer Quartz-plugins
+        run: npx quartz plugin install
+
+      - name: Bouw site
+        run: npx quartz build
+
+      - name: Upload Pages-artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publiceer naar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
