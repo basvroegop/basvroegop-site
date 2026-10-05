@@ -275,7 +275,10 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      exclude:
+        - "@quartz-community/note-properties"
+        - "@quartz-community/graph"
     folder:
       exclude:
         - reader-mode
