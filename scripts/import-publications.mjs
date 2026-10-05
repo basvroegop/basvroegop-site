@@ -75,6 +75,29 @@ function slugify(value) {
     .replace(/^-|-$/g, "")
 }
 
+const articleCategories = [
+  { tag: "review", folder: "recensies" },
+  { tag: "nieuwsbrief", folder: "nieuwsbrieven" },
+  { tag: "interview", folder: "interviews" },
+]
+
+function articleRoute(slug, tags = []) {
+  const category = articleCategories.find(({ tag }) =>
+    tags.some((candidate) => String(candidate).toLowerCase() === tag),
+  )
+  const remainingTags = tags.filter(
+    (candidate) => !articleCategories.some(({ tag }) => String(candidate).toLowerCase() === tag),
+  )
+  const directory = category ? ["artikelen", category.folder] : ["artikelen"]
+
+  return {
+    relativePath: path.posix.join(...directory, `${slug}.md`),
+    relativePrefix: category ? "../../" : "../",
+    tags: remainingTags.length ? remainingTags : undefined,
+    aliases: [`/${slug}`, `/artikelen/${slug}`],
+  }
+}
+
 function normalizeTitle(value) {
   return slugify(
     value
@@ -316,7 +339,7 @@ async function htmlToMarkdown(html, { slug, source = "gamepraat", relativePrefix
       const url = new URL(href, GHOST_URL)
       if (url.hostname === "gamepraat.nl") {
         const slug = url.pathname.replace(/^\/+|\/+$/g, "")
-        if (slug) $(element).attr("href", slug === "over-mij" ? "../over-mij" : `./${slug}`)
+        if (slug) $(element).attr("href", slug === "over-mij" ? "/over-mij" : `/artikelen/${slug}`)
       }
     } catch {
       // Leave unusual but valid relative links untouched.
@@ -396,27 +419,32 @@ async function importGhost() {
     sourceUrls: new Set(),
   }
   for (const post of posts) {
+    const importedTags = post.tags?.map((tag) => tag.name).filter((tag) => !tag.startsWith("#"))
+    const route = articleRoute(post.slug, importedTags)
     const migratedHtml = await migrateLegacyBrightLinks(post.html)
     const $ = load(migratedHtml, null, false)
     $("a[href]").each((_index, element) => {
       existing.sourceUrls.add(canonicalUrl($(element).attr("href")))
     })
 
-    const markdown = await htmlToMarkdown(migratedHtml, { slug: post.slug })
+    const markdown = await htmlToMarkdown(migratedHtml, {
+      slug: post.slug,
+      relativePrefix: route.relativePrefix,
+    })
     let socialImage
     if (post.feature_image) {
       const local = await downloadImage(post.feature_image, "gamepraat", post.slug)
-      if (local) socialImage = `../${local}`
+      if (local) socialImage = `${route.relativePrefix}${local}`
     }
     await writeMarkdown(
-      path.posix.join("artikelen", `${post.slug}.md`),
+      route.relativePath,
       {
         title: post.title,
         description: post.custom_excerpt || post.excerpt,
         published: isoDate(post.published_at),
         modified: isoDate(post.updated_at),
-        tags: post.tags?.map((tag) => tag.name).filter((tag) => !tag.startsWith("#")),
-        aliases: [`/${post.slug}`],
+        tags: route.tags,
+        aliases: route.aliases,
         author: post.primary_author?.name || post.authors?.[0]?.name,
         source: "Gamepraat",
         sourceUrl: post.url,
@@ -534,21 +562,23 @@ async function importBright(item, oldId, existing) {
     return
   }
 
+  const slug = `${slugify(displayTitle)}-review`
+  const route = articleRoute(slug, ["Review", "Games", "Elders gepubliceerd", "Bright"])
   let markdown = await htmlToMarkdown(article.newsText, {
-    slug: `${slugify(displayTitle)}-review`,
+    slug,
     source: "bright",
+    relativePrefix: route.relativePrefix,
   })
   markdown = insertSourceNote(markdown, "Bright", liveUrl, "recensie")
-  const slug = `${slugify(displayTitle)}-review`
   await writeMarkdown(
-    path.posix.join("artikelen", `${slug}.md`),
+    route.relativePath,
     {
       title: displayTitle,
       description: descriptionFromMarkdown(markdown),
       published: isoDate(article.newsPublishDate || article.newsDate),
       modified: isoDate(article.newsDateUpdate),
-      tags: ["Review", "Games", "Elders gepubliceerd", "Bright"],
-      aliases: [`/${slug}`],
+      tags: route.tags,
+      aliases: route.aliases,
       author: article.author.fullName,
       source: "Bright",
       sourceUrl: liveUrl,
@@ -605,8 +635,9 @@ async function importAd(item, existing) {
     throw new Error(`AD body looks incomplete (${markdown.length} characters)`)
   markdown = insertSourceNote(markdown, "AD", item.url)
   const slug = sourceSlugFromUrl(item.url, title)
+  const route = articleRoute(slug, ["Games", "Elders gepubliceerd", "AD"])
   await writeMarkdown(
-    path.posix.join("artikelen", `${slug}.md`),
+    route.relativePath,
     {
       title,
       description: $('meta[name="description"]').attr("content"),
@@ -616,8 +647,8 @@ async function importAd(item, existing) {
       modified: isoDate(
         $('meta[property="article:modified_time"]').attr("content") || schema.dateModified,
       ),
-      tags: ["Games", "Elders gepubliceerd", "AD"],
-      aliases: [`/${slug}`],
+      tags: route.tags,
+      aliases: route.aliases,
       author,
       source: "AD",
       sourceUrl: item.url,
@@ -659,15 +690,16 @@ async function importNu(item, existing) {
   )
   if (markdown.split(/\s+/).length < 500) throw new Error("NU.nl article body looks incomplete")
   const slug = sourceSlugFromUrl(item.url, title)
+  const route = articleRoute(slug, ["Review", "Games", "Elders gepubliceerd", "NU.nl"])
   await writeMarkdown(
-    path.posix.join("artikelen", `${slug}.md`),
+    route.relativePath,
     {
       title,
       description,
       published: isoDate(schema.datePublished),
       modified: isoDate(schema.dateModified),
-      tags: ["Review", "Games", "Elders gepubliceerd", "NU.nl"],
-      aliases: [`/${slug}`],
+      tags: route.tags,
+      aliases: route.aliases,
       author: "Bastiaan Vroegop",
       source: "NU.nl",
       sourceUrl: item.url,
