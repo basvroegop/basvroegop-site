@@ -31,3 +31,5 @@ Let op: `--force` vervangt geïmporteerde Markdown door de opnieuw opgehaalde br
 Elke push naar `main` bouwt de site en publiceert het resultaat met GitHub Pages. Stel bij **Settings → Pages** de bron in op **GitHub Actions** en voeg daar `basvroegop.nl` als custom domain toe.
 
 De contentmap kan rechtstreeks als `/vaults/Bas/Bas/Publicaties` in de Obsidian-container worden gemount. Daardoor bewerkt Obsidian exact dezelfde Markdown-bestanden als Git, zonder een tweede kopie of synchronisatieconflicten.
+
+`scripts/publish-content.sh` commit wijzigingen onder `content/`, haalt eventuele wijzigingen van GitHub op en pusht `main`. Op de Unraid-server kan dit script via User Scripts periodiek worden uitgevoerd; iedere succesvolle push start vervolgens de Pages-workflow.
