@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /tree-of-savior-preview
+  - /artikelen/tree-of-savior-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/tree-of-savior-preview/

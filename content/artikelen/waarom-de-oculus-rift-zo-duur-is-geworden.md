@@ -9,6 +9,7 @@ tags:
   - Tech
 aliases:
   - /waarom-de-oculus-rift-zo-duur-is-geworden
+  - /artikelen/waarom-de-oculus-rift-zo-duur-is-geworden
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-de-oculus-rift-zo-duur-is-geworden/

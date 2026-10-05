@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /verrassing-the-old-republic-is-nu-een-leuke-star-wars-game
+  - /artikelen/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game/

@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /beat-saber-preview
+  - /artikelen/beat-saber-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/beat-saber-preview/

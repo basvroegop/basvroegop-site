@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen
+  - /artikelen/wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen~adcda97a/

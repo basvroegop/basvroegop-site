@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /de-catherine-taart-en-het-verschil-tussen-inkoop-en-verkoopcijfers
+  - /artikelen/de-catherine-taart-en-het-verschil-tussen-inkoop-en-verkoopcijfers
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-catherine-taart-en-het-verschil-tussen-inkoop-en-verkoopcijfers/

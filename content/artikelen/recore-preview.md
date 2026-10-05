@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /recore-preview
+  - /artikelen/recore-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/recore-preview/

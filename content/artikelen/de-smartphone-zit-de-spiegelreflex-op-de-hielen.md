@@ -9,6 +9,7 @@ tags:
   - Tech
 aliases:
   - /de-smartphone-zit-de-spiegelreflex-op-de-hielen
+  - /artikelen/de-smartphone-zit-de-spiegelreflex-op-de-hielen
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-smartphone-zit-de-spiegelreflex-op-de-hielen/

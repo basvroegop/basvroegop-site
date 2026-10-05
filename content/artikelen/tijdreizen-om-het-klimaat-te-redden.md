@@ -11,6 +11,7 @@ tags:
   - Games
 aliases:
   - /tijdreizen-om-het-klimaat-te-redden
+  - /artikelen/tijdreizen-om-het-klimaat-te-redden
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/tijdreizen-om-het-klimaat-te-redden/

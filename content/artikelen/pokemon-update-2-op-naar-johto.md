@@ -9,6 +9,7 @@ tags:
   - Livingdex
 aliases:
   - /pokemon-update-2-op-naar-johto
+  - /artikelen/pokemon-update-2-op-naar-johto
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-update-2-op-naar-johto/

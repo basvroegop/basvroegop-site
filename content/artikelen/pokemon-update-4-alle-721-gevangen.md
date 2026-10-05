@@ -9,6 +9,7 @@ tags:
   - Livingdex
 aliases:
   - /pokemon-update-4-alle-721-gevangen
+  - /artikelen/pokemon-update-4-alle-721-gevangen
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-update-4-alle-721-gevangen/

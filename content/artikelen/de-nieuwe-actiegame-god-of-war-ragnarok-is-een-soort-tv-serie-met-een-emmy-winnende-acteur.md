@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur
+  - /artikelen/de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur~aa89cedf/

@@ -9,6 +9,7 @@ tags:
   - Livingdex
 aliases:
   - /de-jacht-op-alle-721-pokemon-is-geopend
+  - /artikelen/de-jacht-op-alle-721-pokemon-is-geopend
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-jacht-op-alle-721-pokemon-is-geopend/

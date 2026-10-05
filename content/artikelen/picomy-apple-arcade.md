@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /picomy-apple-arcade
+  - /artikelen/picomy-apple-arcade
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/picomy-apple-arcade/

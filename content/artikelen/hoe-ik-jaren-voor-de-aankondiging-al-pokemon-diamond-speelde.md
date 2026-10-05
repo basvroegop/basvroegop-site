@@ -3,9 +3,9 @@ title: Hoe ik jaren voor de aankondiging al Pokémon Diamond speelde
 description: Slimme bootleggers pikten graantje mee van hype.
 published: 2017-03-19
 modified: 2022-07-01
-tags: []
 aliases:
   - /hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde
+  - /artikelen/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/

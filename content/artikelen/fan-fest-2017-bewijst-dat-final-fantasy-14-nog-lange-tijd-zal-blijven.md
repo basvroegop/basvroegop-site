@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven
+  - /artikelen/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven/

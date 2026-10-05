@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /xenoblade-chronicles-3
+  - /artikelen/xenoblade-chronicles-3
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/xenoblade-chronicles-3/

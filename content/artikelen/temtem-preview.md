@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /temtem-preview
+  - /artikelen/temtem-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/temtem-preview/

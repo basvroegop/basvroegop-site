@@ -8,6 +8,7 @@ tags:
   - Tech
 aliases:
   - /koffie-welnee-we-treffen-elkaar-in-virtuele-wereld-facebook-horizon
+  - /artikelen/koffie-welnee-we-treffen-elkaar-in-virtuele-wereld-facebook-horizon
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/koffie-welnee-we-treffen-elkaar-in-virtuele-wereld-facebook-horizon/

@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /deze-switch-controller-lost-nintendo-s-grootste-mankement-op
+  - /artikelen/deze-switch-controller-lost-nintendo-s-grootste-mankement-op
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/deze-switch-controller-lost-nintendo-s-grootste-mankement-op~a430bb0f/

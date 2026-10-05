@@ -13,6 +13,7 @@ tags:
   - Games
 aliases:
   - /nog-nooit-was-china-zo-groot-op-gamescom
+  - /artikelen/nog-nooit-was-china-zo-groot-op-gamescom
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/nog-nooit-was-china-zo-groot-op-gamescom/

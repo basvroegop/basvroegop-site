@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen
+  - /artikelen/de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen~af4d54b0/

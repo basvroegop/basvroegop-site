@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /monster-hunter-rise-preview
+  - /artikelen/monster-hunter-rise-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/monster-hunter-rise-preview/

@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /we-hebben-de-steam-deck-geprobeerd-5-dingen-die-opvallen-aan-de-nintendo-switch-killer
+  - /artikelen/we-hebben-de-steam-deck-geprobeerd-5-dingen-die-opvallen-aan-de-nintendo-switch-killer
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/we-hebben-de-steam-deck-geprobeerd-5-dingen-die-opvallen-aan-de-nintendo-switch-killer~a4c1d096/

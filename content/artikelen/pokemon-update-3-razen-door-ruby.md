@@ -9,6 +9,7 @@ tags:
   - Livingdex
 aliases:
   - /pokemon-update-3-razen-door-ruby
+  - /artikelen/pokemon-update-3-razen-door-ruby
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-update-3-razen-door-ruby/

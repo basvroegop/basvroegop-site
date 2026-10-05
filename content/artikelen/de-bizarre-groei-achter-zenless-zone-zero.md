@@ -6,9 +6,9 @@ description: |-
   Deze editie van Gamepraat telt 755 woorden en neemt vier minuten van je tijd in beslag. Vind je dit leuk om te lezen? Neem een betaald abonnement, doneer eenmalig iets op Petje Af of stuur de nieuwsbrief door naar
 published: 2024-07-04
 modified: 2024-07-04
-tags: []
 aliases:
   - /de-bizarre-groei-achter-zenless-zone-zero
+  - /artikelen/de-bizarre-groei-achter-zenless-zone-zero
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-bizarre-groei-achter-zenless-zone-zero/

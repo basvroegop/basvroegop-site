@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch
+  - /artikelen/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch/

@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /geen-grijs-te-bekennen-in-dragon-age-2
+  - /artikelen/geen-grijs-te-bekennen-in-dragon-age-2
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/geen-grijs-te-bekennen-in-dragon-age-2/

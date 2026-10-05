@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage
+  - /artikelen/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage/

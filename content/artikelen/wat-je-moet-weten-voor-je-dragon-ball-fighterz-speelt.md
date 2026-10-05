@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt
+  - /artikelen/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt/

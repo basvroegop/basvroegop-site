@@ -13,6 +13,7 @@ tags:
   - Games
 aliases:
   - /mega-man-battle-network-esport
+  - /artikelen/mega-man-battle-network-esport
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/mega-man-battle-network-esport/

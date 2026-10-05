@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is
+  - /artikelen/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is/

@@ -10,6 +10,7 @@ tags:
   - Games
 aliases:
   - /pokemon-spelers-boos-vanwege-halvering-monsters
+  - /artikelen/pokemon-spelers-boos-vanwege-halvering-monsters
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-spelers-boos-vanwege-halvering-monsters/

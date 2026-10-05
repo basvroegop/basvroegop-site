@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /resident-evil-village-iphone-handson
+  - /artikelen/resident-evil-village-iphone-handson
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/resident-evil-village-iphone-handson/

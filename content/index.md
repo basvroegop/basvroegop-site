@@ -12,7 +12,7 @@ Ik ben Bas Vroegop. Ik schrijf over technologie, videogames en hun invloed op de
 
 ## Blader op onderwerp
 
-- [[tags/nieuwsbrief|Nieuwsbrief]] — Gamepraat en columns
-- [[tags/review|Recensies]] — games en hardware
-- [[tags/interview|Interviews]] — makers en spelers
+- [[artikelen/nieuwsbrieven|Nieuwsbrieven]] — Gamepraat en columns
+- [[artikelen/recensies|Recensies]] — games en hardware
+- [[artikelen/interviews|Interviews]] — makers en spelers
 - [[tags/elders-gepubliceerd|Elders gepubliceerd]] — Bright, AD, NU.nl en meer

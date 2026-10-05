@@ -9,6 +9,7 @@ tags:
   - AD
 aliases:
   - /de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games
+  - /artikelen/de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games~abb72ee6/

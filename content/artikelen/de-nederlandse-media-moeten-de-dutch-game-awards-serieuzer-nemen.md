@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen
+  - /artikelen/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen/

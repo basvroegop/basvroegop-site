@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement
+  - /artikelen/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement/

@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /40-jaar-pac-man
+  - /artikelen/40-jaar-pac-man
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/40-jaar-pac-man/

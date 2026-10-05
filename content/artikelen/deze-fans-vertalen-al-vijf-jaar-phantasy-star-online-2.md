@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2
+  - /artikelen/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/

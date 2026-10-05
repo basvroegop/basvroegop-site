@@ -9,6 +9,7 @@ tags:
   - Livingdex
 aliases:
   - /pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen
+  - /artikelen/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen/

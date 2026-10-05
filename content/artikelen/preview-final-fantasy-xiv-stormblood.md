@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /preview-final-fantasy-xiv-stormblood
+  - /artikelen/preview-final-fantasy-xiv-stormblood
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/preview-final-fantasy-xiv-stormblood/

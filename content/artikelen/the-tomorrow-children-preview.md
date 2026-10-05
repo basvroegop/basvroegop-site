@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /the-tomorrow-children-preview
+  - /artikelen/the-tomorrow-children-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/the-tomorrow-children-preview/

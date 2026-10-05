@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /diablo-iv-preview
+  - /artikelen/diablo-iv-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/diablo-iv-preview/

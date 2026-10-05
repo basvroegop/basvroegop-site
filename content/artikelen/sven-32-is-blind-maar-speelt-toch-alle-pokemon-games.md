@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /sven-32-is-blind-maar-speelt-toch-alle-pokemon-games
+  - /artikelen/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games/

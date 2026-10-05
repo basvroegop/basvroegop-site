@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /assassins-creed-valhalla-is-meer-actie-minder-stealth
+  - /artikelen/assassins-creed-valhalla-is-meer-actie-minder-stealth
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/assassins-creed-valhalla-is-meer-actie-minder-stealth/

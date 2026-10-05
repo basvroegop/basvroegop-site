@@ -8,6 +8,7 @@ tags:
   - Achtergrond
 aliases:
   - /favoriete-games-2022
+  - /artikelen/favoriete-games-2022
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/favoriete-games-2022/
@@ -39,7 +40,7 @@ Jrpg's gaan vaak over grootse thema's zoals onderdrukking en racisme, wat altijd
 
 Je team bestaat uit kindsoldaten uit twee strijdende facties, die noodgedwongen moeten samenwerken als ze worden verbannen door hun thuislanden. Dat zorgt voor spanningen die de hoofdrolspelers niet meteen aan de kant kunnen zetten. Immers: hoe leer je om samen te werken met de vijand die misschien wel jouw strijdmakkers heeft vermoord?
 
-Daarnaast worden mensen in _Xenoblade Chronicles 3_ slechts tien jaar oud, waarna ze weer opgaan in de ether. Voor sci-fi en fantasy geen nieuw concept, maar in dit geval wordt het gebruikt om een [intiem verhaal over de dood](./xenoblade-chronicles-3) te vertellen. Een personage dat de tien jaar nadert worstelt hier bijvoorbeeld mee zoals een terminaal zieke dat ook zou doen.
+Daarnaast worden mensen in _Xenoblade Chronicles 3_ slechts tien jaar oud, waarna ze weer opgaan in de ether. Voor sci-fi en fantasy geen nieuw concept, maar in dit geval wordt het gebruikt om een [intiem verhaal over de dood](/artikelen/xenoblade-chronicles-3) te vertellen. Een personage dat de tien jaar nadert worstelt hier bijvoorbeeld mee zoals een terminaal zieke dat ook zou doen.
 
 [Bekijk ingesloten media](https://www.youtube.com/embed/k6GJlPOhPnE?feature=oembed)
 
@@ -57,6 +58,6 @@ _Elden Ring_ is misschien wel de beste game van zijn generatie, maar _Chained Ec
 
 Het bijzonderste is denk ik het vechtsysteem. Waar andere jrpg's je argeloos op A laten rammen om gevechten door te komen, is ieder gevecht in _Chained Echoes_ een tactische uitdaging. Tussendoor krijg je ook altijd je levens- en techniekpunten terug, wat de ruimte geeft om steeds weer alles uit de kast te halen.
 
-Ook bijzonder: deze game is gemaakt door één persoon. Dat merk je ook in het verhaal, waar duidelijk een soort auteurschap in schuilt. In een [eerdere blog](./review-chained-echoes) heb ik uitgezet wat de game zo bijzonder maakt.
+Ook bijzonder: deze game is gemaakt door één persoon. Dat merk je ook in het verhaal, waar duidelijk een soort auteurschap in schuilt. In een [eerdere blog](/artikelen/review-chained-echoes) heb ik uitgezet wat de game zo bijzonder maakt.
 
 [Bekijk ingesloten media](https://www.youtube.com/embed/sttWaY-2Leo?feature=oembed)

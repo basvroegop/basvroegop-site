@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef
+  - /artikelen/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef/

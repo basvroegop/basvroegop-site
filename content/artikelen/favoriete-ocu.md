@@ -7,6 +7,7 @@ tags:
   - Games
 aliases:
   - /favoriete-ocu
+  - /artikelen/favoriete-ocu
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/favoriete-ocu/

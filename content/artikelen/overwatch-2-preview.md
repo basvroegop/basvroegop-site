@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /overwatch-2-preview
+  - /artikelen/overwatch-2-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/overwatch-2-preview/

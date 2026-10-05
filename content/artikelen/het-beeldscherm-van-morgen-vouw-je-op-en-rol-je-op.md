@@ -10,6 +10,7 @@ tags:
   - Tech
 aliases:
   - /het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-op
+  - /artikelen/het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-op
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-op/

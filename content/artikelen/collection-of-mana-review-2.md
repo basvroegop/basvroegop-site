@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /collection-of-mana-review-2
+  - /artikelen/collection-of-mana-review-2
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/collection-of-mana-review-2/

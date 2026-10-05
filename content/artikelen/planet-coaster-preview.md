@@ -8,6 +8,7 @@ tags:
   - Games
 aliases:
   - /planet-coaster-preview
+  - /artikelen/planet-coaster-preview
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/planet-coaster-preview/
