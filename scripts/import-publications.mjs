@@ -8,7 +8,6 @@ import YAML from "yaml"
 
 const ROOT = process.cwd()
 const CONTENT_DIR = path.join(ROOT, "content")
-const ARTICLE_DIR = path.join(CONTENT_DIR, "artikelen")
 const MEDIA_DIR = path.join(CONTENT_DIR, "media")
 const REPORT_PATH = path.join(ROOT, "data", "import-report.json")
 
@@ -88,13 +87,16 @@ function articleRoute(slug, tags = []) {
   const remainingTags = tags.filter(
     (candidate) => !articleCategories.some(({ tag }) => String(candidate).toLowerCase() === tag),
   )
-  const directory = category ? ["artikelen", category.folder] : ["artikelen"]
+  const directory = category ? [category.folder] : []
+  const aliases = category
+    ? [`/${slug}`, `/artikelen/${slug}`, `/artikelen/${category.folder}/${slug}`]
+    : [`/artikelen/${slug}`]
 
   return {
     relativePath: path.posix.join(...directory, `${slug}.md`),
-    relativePrefix: category ? "../../" : "../",
+    relativePrefix: category ? "../" : "./",
     tags: remainingTags.length ? remainingTags : undefined,
-    aliases: [`/${slug}`, `/artikelen/${slug}`],
+    aliases,
   }
 }
 
@@ -339,7 +341,7 @@ async function htmlToMarkdown(html, { slug, source = "gamepraat", relativePrefix
       const url = new URL(href, GHOST_URL)
       if (url.hostname === "gamepraat.nl") {
         const slug = url.pathname.replace(/^\/+|\/+$/g, "")
-        if (slug) $(element).attr("href", slug === "over-mij" ? "/over-mij" : `/artikelen/${slug}`)
+        if (slug) $(element).attr("href", slug === "over-mij" ? "/over-mij" : `/${slug}`)
       }
     } catch {
       // Leave unusual but valid relative links untouched.
@@ -736,7 +738,7 @@ async function importArc(existing) {
 }
 
 async function main() {
-  await fs.mkdir(ARTICLE_DIR, { recursive: true })
+  await fs.mkdir(CONTENT_DIR, { recursive: true })
   await fs.mkdir(path.dirname(REPORT_PATH), { recursive: true })
   const existing = await importGhost()
   await importArc(existing)
