@@ -24,7 +24,7 @@ In Hades ga je continu dood. Niet vreemd in een game, maar er zijn er weinig waa
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/10/28/in-hades-is-doodgaan-juist-de-bedoeling-a4017724).
 
 Je speelt als Zagreus, die wil ontglippen aan het bewind van zijn vader Hades, die de Griekse god van de onderwereld is. Dat kan hij alleen door zich een weg door het land der doden te vechten en te ontsnappen naar Olympus. Het spelprincipe hierachter lijkt eerst simpel: Zagreus wandelt steeds een nieuwe kamer in om vijanden te verslaan, waarna een upgrade verschijnt en hij naar een nieuwe kamer kan gaan. Op die manier wordt hij steeds sterker, terwijl vijanden ook dodelijker worden.
 

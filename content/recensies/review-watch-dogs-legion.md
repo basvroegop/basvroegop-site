@@ -20,7 +20,7 @@ Met de eerste __Watch Dogs__ zet het Franse Ubisoft in 2014 een grimmige game ov
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/11/04/hackersgame-wil-niemand-voor-de-schenen-schoppen-a4018559).
 
 Het vervolg in 2016 was iets joliger. In het derde deel, __Watch Dogs: Legion,__ poogt Ubisoft weer terug te grijpen naar de serieuzere toon. Aan het begin van de game is te zien hoe een groep hackers een gigantische aanslag pleegt, waarna spanningen in Londen steeds hoger oplopen. Immigratie wordt aan banden gelegd terwijl een private politiemacht een lockdown afdwingt.
 

@@ -20,7 +20,7 @@ Nintendo’s nieuwste game __51 Worldwide Games__ laat je schaken, dammen en pok
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/06/04/yahtzee-en-50-andere-klassiekers-op-switch-a4001690).
 
 Al die games kan je solo spelen, tegen de computer. Vooraf krijg je een korte uitleg; handig bij obscure titels als Carrom en Sterhalma. Maar de bundel komt het beste tot zijn recht met medespelers. Je kunt tegen elkaar spelen op één Switch: het aanraakscherm of de los te koppelen gamepads gebruik je om dezelfde machine te bedienen. Bij airhockey zie je de tafel dan van boven, zodat je het scherm tussen beide spelers kan leggen. Kaartspellen als poker kunnen niet op één Switch worden gespeeld, omdat je dan elkaars kaarten kan inzien. Heb je meerdere Switch-spelcomputers in huis, dan kun je ook draadloos spelen. Bij andere games moet ieder dan een kopie bezitten, maar niet bij 51 Worldwide Games: tot vier mensen kunnen op één editie aan de slag.
 

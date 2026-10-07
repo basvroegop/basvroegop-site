@@ -22,7 +22,7 @@ T__rials of Mana__ is ideaal voor fantasyfans die niks willen weten van het poli
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/05/18/een-sprookje-met-een-90s-vibe-a3999994).
 
 Geen wonder: __Trials of Mana__ is een remake van een spel dat in de jaren '90 verscheen, in een tijd dat sprookjesfilms van Disney hoogtij vierden. Door een gebrek aan grafische capaciteit hadden gamemakers niet de ruimte voor nuances, waardoor verhalen al snel gingen over helden die cartooneske schurken te lijf gingen.
 

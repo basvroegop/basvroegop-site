@@ -22,7 +22,7 @@ Nintendo had in 2006 iets bijzonders in handen met Dr. Kawashima’s Brain Train
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/01/16/brain-training-voor-switch-voelt-niet-van-deze-tijd-a3987110).
 
 Het bedrijf probeert dit succes te herhalen door een nieuwe versie uit te brengen voor de Nintendo Switch. Ook bij dit vervolg moet je de spelcomputer een kwartslag draaien, waardoor het voelt alsof je een boek vasthoudt.
 

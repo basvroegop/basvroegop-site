@@ -19,7 +19,7 @@ Virtual reality (VR) is de toekomst. Dat denkt in elk geval Facebook, de techgig
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder in NRC Handelsblad.
+> Dit artikel verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2019/10/08/tot-straks-in-de-virtuele-wereld-facebook-horizon-a3975990).
 
 Mark Zuckerberg, de baas van Facebook, presenteerde onlangs Facebook Horizon, een virtuele wereld waarin iedereen wordt uitgenodigd. Dit moet dé plek worden waar je vrienden ontmoet, spelletjes speelt, of vergadert met collega’s. Binnenkort begint Facebook met testen.
 

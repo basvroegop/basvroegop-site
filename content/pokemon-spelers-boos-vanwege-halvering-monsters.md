@@ -23,7 +23,7 @@ De woede begon enkele maanden geleden, toen de bouwers zeiden dat niet alle mons
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder in NRC Handelsblad.
+> Dit artikel verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2019/11/15/pokemon-spelers-boos-vanwege-halvering-monsters-a3980478).
 
 Na een groot lek afgelopen week bleek pas hoe sterk er in het aantal monsters is gesneden. In de game zijn slechts vierhonderd te vangen, een ruime halvering. Fans balen, want één van de kernactiviteiten in Pokémon-games is om alle monsters te vangen. Ze vrezen dat de game hiermee slechts de helft van de door hun gewilde inhoud bevat.
 

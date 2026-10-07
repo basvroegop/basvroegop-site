@@ -20,7 +20,7 @@ Het in 2004 verschenen World of Warcraft doet nog steeds mee. Ontwikkelaar Blizz
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/12/16/met-shadowlands-is-world-of-warcraft-eindelijk-weer-toegankelijk-voor-beginners-a4024050).
 
 Die constante expansie maakte de game slecht benaderbaar voor nieuwkomers. Wie met vrienden wilde spelen, moest veel tijd investeren om een personage eerst op level 120 te krijgen. Eerst moest je door oude gebieden die nagenoeg waren uitgestorven - de meeste spelers waren vertrokken naar nieuwe spelzones. De zoektocht naar power-ups verloor zijn betekenis omdat het spaarzame aantal upgrades verspreid werd over het forse aantal levels.
 

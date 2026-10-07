@@ -20,7 +20,7 @@ Aan het begin van Marvel’s nieuwe game __Avengers__ slaat het noodlot toe. Een
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/09/21/in-avengers-draait-het-louter-om-actie-a4012912).
 
 Superheld-in-spé Kamala Khan ontdekt dat juist de politiemacht achter de aanslag zat. Ze besluit daarom het superheldencollectief Avengers weer bij elkaar te krijgen. Wat volgt is een traditioneel actiespel dat de formule van Marvel-films tot op de letter volgt. Je begint als Kamala en ontmoet gaandeweg meer speelbare helden. Iedere figuur onderscheidt zich met eigen gimmicks van de rest.
 

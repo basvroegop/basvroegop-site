@@ -21,7 +21,7 @@ In de Paper Mario-serie is Mario niet het 3D-personage uit voorgaande titels. Hi
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/07/16/in-paper-mario-zijn-je-grootste-vijanden-origamivouwsels-a4006136).
 
 De grote vijand in de nieuwste uitgave __The Origami King__ is de Origami koning die iedereen in het koninkrijk omvouwt tot origamiknutsels. Wie wordt getransformeerd is meteen een agressieve vijand voor Mario om te verslaan. Dat sluit geweldig aan bij het papierthema van de game: niet alleen zien de origamivijanden er creatief uit, ze staan door hun gebogen vouwlijnen haaks op de platte 2D-helden van het spel.
 

@@ -2,7 +2,7 @@
 title: De smartphone zit de spiegelreflex op de hielen
 description: |
   Kan je spiegelreflexcamera weg nu de nieuwste smartphones drie camera’s hebben? Of leggen deze het af bij nachtfoto’s en portretten?
-published: 2020-01-18
+published: 2020-01-28
 modified: 2022-07-04
 tags:
   - Achtergrond
@@ -20,7 +20,7 @@ Techgiganten proberen de fotofunctionaliteit van hun smartphones steeds beter te
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/01/28/de-smartphone-zit-de-spiegelreflex-op-de-hielen-a3988328).
 
 De race om de megapixel lijkt in smartphoneland overigens voorbij. Telefoonmakers probeerden jarenlang de camera te verbeteren door simpelweg het gefotografeerde plaatje groter te maken, maar inmiddels wordt naar andere technologie gegrepen. Telefoons hebben tegenwoordig bijvoorbeeld meerdere lenzen achterop, waarmee je kunt inzoomen zonder kwaliteitsverlies.
 

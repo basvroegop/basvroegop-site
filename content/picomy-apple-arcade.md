@@ -21,7 +21,7 @@ Zo’n abonnementsmodel is een frisse wind in de App Store. Tot voor kort verdie
 
 > [!NOTE]
 >
-> Dit artikel stond eerder in NRC Handelsblad.
+> Dit artikel stond eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2019/12/10/rotterdamse-game-in-nieuwe-speelhal-apple-a3983217).
 
 Apple Arcade staat inmiddels vol nieuwe titels van bekende makers. De ontwikkelaar van puzzelspel __Monument Valley__ biedt bijvoorbeeld [__Assemble With Care__](https://www.assemblegame.com/?ref=gamepraat.nl), een verhalend spelletje waarin je oude apparaten moet repareren. En de studio achter avonturenspel __Oceanhorn__ maakte een [volwaardig vervolg in 3D](https://apps.apple.com/nl/app/oceanhorn/id708196645?ref=gamepraat.nl), dat eruitziet als een game voor spelcomputers. Spellen van Apple Arcade speel je echter op een gewone computer, tablet of smartphone.
 

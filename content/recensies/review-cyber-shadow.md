@@ -20,7 +20,7 @@ C__yber Shadow__ had niet misstaan op de eerste 8-bits-spelcomputers uit de jare
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2021/02/03/cyber-shadow-is-een-game-voor-iedereen-die-terugverlangt-naar-een-lang-verloren-tijd-a4030383).
 
 Uitstekende chiptunemuziek en een filter om een oud beeldbuisscherm te simuleren maken de nostalgietrip af. Door die laatste vervormt het scherm en zie je kleine imperfecties, waar we op huidige platte HDTV’s nog maar zelden last van hebben.
 

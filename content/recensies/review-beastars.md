@@ -21,7 +21,7 @@ Centraal in Beastars staat Legosi, een jonge grijze wolf die woont op een presti
 
 > [!NOTE]
 >
-> Deze review stond eerder in NRC Handelsblad.
+> Deze review stond eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/04/14/netflix-schattige-dierenserie-beastars-gaat-over-seks-geweld-en-racisme-a3996717).
 
 Dat interne conflict verergert als hij geobsedeerd raakt van een konijnenmeisje en niet zeker weet wat die gevoelens betekenen: is hij verliefd, of is het zijn drang om haar op te peuzelen? Tegelijkertijd worden op school een paar herbivoren op mysterieuze wijze doodgebeten, waardoor de verhoudingen tussen carnivoor en herbivoor op scherp komen te staan.
 

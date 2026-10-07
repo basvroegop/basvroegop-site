@@ -20,7 +20,7 @@ De nieuwste Mario Kart laat karts racen door je eigen, echte woonkamer. Een gimm
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/10/28/scheuren-door-je-huiskamer-is-zeker-een-a-twee-keer-heel-leuk-a4017600).
 
 Op dit moment wordt AR op smartphones gebruikt als gimmick. Apps van webwinkels laten zien hoe een bank in de woonkamer past, terwijl games als Pokémon Go monstertjes in de echte wereld tonen. Geavanceerdere spelletjes projecteren een gamelevel op een koffietafel. Dat dient vooral ter demonstratie: logische AR-games zijn er amper.
 

@@ -20,7 +20,7 @@ Xenoblade Chronicles was bijna nooit in Europa verschenen. Uitgevers hadden het 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/07/02/xenoblade-chronicles-definitive-edition-is-religieus-en-intiem-a4004786).
 
 Achteraf zal Nintendo blij zijn te hebben toegehapt want Xenoblade werd een succes. Inmiddels verschijnt de game alweer voor de derde keer: na versies voor de Wii en 3DS is nu een remake verschenen voor de Switch-spelcomputer. De nieuwe versie is op veel fronten opgepoetst: de wereld is mooier, personages zien er strakker uit en de algehele interface zit logischer in elkaar. Ook is de volledige soundtrack opnieuw gecomponeerd. Er is een extra campagne aan de game toegevoegd, die dient als epiloog van het originele verhaal. Een lokkertje voor wie de game eerder heeft gespeeld.
 

@@ -22,7 +22,7 @@ Maar de commerciële belangen van Activision botsten met de ontwerpideeën van o
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/12/02/een-game-vol-geheimen-en-mysteries-a4022230?ref=gamepraat.nl).
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/12/02/een-game-vol-geheimen-en-mysteries-a4022230).
 
 Sinds die breuk is __Destiny 2__ met updates een redelijkere game geworden. Goksystemen zijn vervangen door simpelere vormen van progressie, waarbij goed samenspel wordt beloond. Daarnaast is een gratis editie verschenen die iedereen toegang geeft tot een fors deel van het spel.
 

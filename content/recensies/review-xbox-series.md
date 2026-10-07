@@ -24,7 +24,7 @@ Van nieuwe, exclusieve Xbox Series X-games is geen sprake: ieder spel is ook op 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/11/16/gedurfde-software-conservatieve-hardware-a4020204).
 
 Ook oude games werken beter en laden sneller op de nieuwe Xbox. Auto HDR zorgt ervoor dat deze worden aangepast voor moderne televisies, met als gevolg een hoger contrast en breder kleurbereik. De Xbox kan meerdere games in het geheugen vasthouden om razendsnel te wisselen, iets dat concurrenten bij slechts één spel tegelijk doen.
 

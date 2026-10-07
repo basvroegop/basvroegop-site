@@ -21,7 +21,7 @@ Een jaar geleden begon de trend al: de Chinese smartphonemaker Royole liet tijde
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder in NRC Handelsblad.
+> Dit artikel verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/01/13/het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-op-a3986635).
 
 Dit jaar bewees de CES dat de technologie niet beperkt blijft tot telefoons. Opvouwschermen, maar ook andere beeldschermen stonden vorige week centraal tijdens de internationale gadgetbeurs waar vertegenwoordigers van de grote technologiebedrijven hun plannen voor het komende jaar presenteren. Sommige producten zijn zo apart dat ze vooral bedoeld lijken om op te vallen, niet om op korte termijn op de markt te brengen.
 

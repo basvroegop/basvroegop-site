@@ -22,7 +22,7 @@ Final Fantasy VII is het invloedrijkste rollenspel van zijn tijd. De game uit 19
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/04/07/final-fantasy-controversiele-heruitgave-van-klassieke-game-a3996099).
 
 __Final Fantasy VII Remake__ is helemaal opnieuw uitgedacht. Je speelt als zwaardvechter Cloud Strife. In industriestad Midgar helpt hij ecoterroristengroep Avalanche die vecht tegen energiebedrijf Shinra. Dat levert stroom door alle levenskracht uit de aarde te pompen. Het verhaal lijkt directe kritiek op de huidige wereld, waarin milieugroepen staan tegenover oliemaatschappijen.
 

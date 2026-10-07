@@ -24,7 +24,7 @@ Dat terwijl de Half-Life-games juist een stempel hadden gedrukt op de gameswerel
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/04/21/half-life-alyx-is-het-beste-dat-je-in-vr-kunt-beleven-a3997285).
 
 ## Dit voelt als echt
 

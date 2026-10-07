@@ -20,7 +20,7 @@ Nintendo had een decennium geleden groot succes op de fitnessmarkt met bewegings
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2019/10/21/ring-fit-adventure-geeft-gamers-een-smoes-om-te-sporten-a3977495).
 
 Je schuift een van je gamecontrollers in de ring, terwijl je een tweede met een bijgeleverde band aan je been hangt. Ingebouwde bewegingssensoren houden bij hoe je de apparaten en je lichaam draait, om te zien of je de getoonde oefening wel uitvoert. Het is een slimme, simpele manier om bijvoorbeeld sit-ups te registreren.
 

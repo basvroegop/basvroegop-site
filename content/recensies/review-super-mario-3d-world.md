@@ -1,7 +1,7 @@
 ---
 title: Super Mario 3D World + Bowser's Fury
 description: Door de flop van Wii U (2012-2016) werd Super Mario 3D World een vergeten pareltje. Nu krijgt de game een tweede leven op Nintendo Switch.
-published: 2020-02-10
+published: 2021-02-10
 modified: 2022-07-04
 tags:
   - Games
@@ -20,7 +20,7 @@ Super Mario 3D World is niet echt een nieuwe game: hij lag in 2013 al in de wink
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2021/02/10/tradionele-game-super-mario-3d-world-vooral-leuk-door-toevoeging-bowers-fury-a4031245).
 
 Het gros van __Mario 3D World__ is daarbij gelijk gebleven. Het is een vrolijk, kleurrijk platformspelletje waarin je over schildpadden en paddestoelen springt om het einde van een level te halen. De levels zijn leuk en creatief, maar ook wat traditioneel. De camera hangt op vaste punten, waardoor het spel ‘plat’ aanvoelt. Rondkijken om te verkennen kan amper. En waar voorgaande Mario-games groots uitpakten met bijvoorbeeld ruimte-avonturen, is de grootste upgrade in dit spel een kattenpak. Deze laat Mario makkelijker op muren klimmen.
 

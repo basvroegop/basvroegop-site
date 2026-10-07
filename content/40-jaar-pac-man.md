@@ -19,7 +19,7 @@ Vroeger werd er vooral buiten de deur gegamed, op hoge computerkasten in arcadeh
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder in NRC Handelsblad.
+> Dit artikel verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/05/25/en-zo-begon-het40-jaar-pac-man-a4000681).
 
 Het brein erachter is de Japanner Toru Iwatani. Hij wilde eerst flipperkasten maken, maar zijn werkgever Namco zag meer in de digitale markt. Iwatani was teleurgesteld in de games van die tijd: allemaal dood en verderf, met nadruk op oorlog en ruimtevaart. Hij besloot tot iets heel anders. Met de games Gee Bee en Cutie Q boekte hij geen succes, maar met Pac-Man was het raak. Een game die trouwens bijna Puck-Man had geheten, maar op het laatste moment een naamswijziging kreeg. Uitgever Namco was bang dat eigenwijze pubers de letter P op arcadekasten zouden veranderen in een F.
 

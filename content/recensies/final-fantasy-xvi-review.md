@@ -25,7 +25,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder in [NRC Handelsblad](https://web.archive.org/web/20230702153055/https://www.nrc.nl/nieuws/2023/06/21/final-fantasy-wat-begon-als-een-zwanenzang-mondde-uit-in-een-van-de-invloedrijkste-gameseries-ooit-a4167773).
+> Deze recensie verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/06/21/final-fantasy-wat-begon-als-een-zwanenzang-mondde-uit-in-een-van-de-invloedrijkste-gameseries-ooit-a4167773).
 
 Je speelt in Final Fantasy XVI de jonge markies Clive, die al van jongs af aan onderdeel is van een complexe politieke wereld. De wereld wordt gedomineerd door families waarin enkelen kunnen veranderen in magische reuzen die met één klap hele dorpen kunnen wegvagen. Tijdens een hinderlaag op zijn familie verliest Clive de controle en wordt hij ineens het vuurmonster Ifrit – die de keel van zijn jonge broertje doorbijt.
 

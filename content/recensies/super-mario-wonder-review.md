@@ -20,7 +20,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/10/18/inventief-super-mario-wonder-is-leuk-voor-ouder-en-kind-a4177698?ref=gamepraat.nl).
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/10/18/inventief-super-mario-wonder-is-leuk-voor-ouder-en-kind-a4177698).
 
 Het nieuwe _Super Mario Wonder_ is niet alleen de eerste Mario-platformer in zes jaar – het is ook het eerste tweedimensionale deel in elf jaar tijd. _Wonder_ grijpt qua stijl nog verder terug, naar de dagen van de Super Nintendo, maar dan met een modern jasje. Af en toe oogt de game als een waterverfschilderij, waarin de hoofdrolspeler vrijer beweegt dan in oude games: hij trekt zijn vallende petje mee als hij een buis in duikt, of holt als een enthousiast kind met zijn handen op de rug.
 

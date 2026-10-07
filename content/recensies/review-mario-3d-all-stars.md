@@ -22,7 +22,7 @@ Super Mario 64 is één van de meest invloedrijke games ooit. Een voorbeeld van 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/10/14/drie-klassieke-mario-games-krijgen-nieuw-leven-wie-kan-zich-daar-tegen-verzetten-a4015885).
 
 Er schuilt wat luiheid achter Mario 64. Nintendo heeft naast het wegwerken van wat kartelrandjes niks gedaan. Het spel wordt zelfs nog steeds in een vierkant formaat getoond, zoals voor de opkomst van breedbeeldschermen. Tijdens het spelen zijn daarom zwarte randen te zien.
 

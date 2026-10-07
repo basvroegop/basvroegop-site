@@ -22,7 +22,7 @@ De nieuwste Pokémon-game voor Nintendo Switch oogt schattig en toegankelijk, ma
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/03/31/een-stroeve-remake-van-een-klassieker-a3995350).
 
 De games waarop deze herziene versie gebaseerd is, verschenen origineel voor de Game Boy Advance en Nintendo DS in 2006. Ditmaal speel je niet als een jonge tiener die monsters traint, maar ben je een mens die zelf in een pokémon is getransformeerd. Dat zorgt voor een leuk perspectief: waar de titulaire monsters in de serie hooguit hun eigen naam schreeuwen, ontdek je in Mystery Dungeon wat voor karakters er schuilen achter de populairste mascottes.
 

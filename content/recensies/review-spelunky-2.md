@@ -18,6 +18,9 @@ publish: true
 
 S__pelunky 2__ schiet zijn voorganger op alle fronten voorbij. Het is een mooi voorbeeld van een game die zonder woorden iets prachtigs kan overbrengen. Op papier klinkt het spel simpel. Je speelt een avonturier, die probeert diep in een mysterieuze tempel door te dringen. Nu als de dochter die haar verloren ouders hoopt te vinden, de helden uit deel één.
 
+> [!NOTE]
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/09/29/spelunky-2-heel-voorzichtig-op-zoek-naar-geheimen-a4013892).
+
 Al snel wordt het verhaal opzij geschoven. Dit is niet een spel dat het moet hebben van dialogen en personage-ontwikkeling. Spelunky communiceert in de meest pure vorm, met zijn levels en zijn geheimen. De game oogt als een traditionele ‘platformer’ zoals __Mario__, maar de vele gevaren in de levels dwingen je voorzichtig te zijn. Je moet continu inschatten of je een gevaar wil trotseren of ontwijken. Je personage wordt nooit sterker, vaardiger of weerbaarder. Tegelijkertijd lukt het na urenlang spelen beter om verder en verder te komen. Jij hebt immers geleerd hoe je de vele gevaren in de grotten het beste kunt benaderen. Een geweldig gevoel.
 
 Alles in de game reageert op elkaar op verrassende wijze. Je gooit een bom in een gat, per ongeluk blaas je een heiligdom op en krijg je geesten achter je aan. Zoiets gebeurt in meer games maar hier lijkt meer sprake van toevalligheden.

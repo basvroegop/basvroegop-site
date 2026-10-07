@@ -18,6 +18,9 @@ publish: true
 
 Hoewel de Amerikaanse professionele skateboarder Tony Hawk in 2003 met pensioen ging, staat zijn naam nog steeds symbool voor zijn sport. Dat is grotendeels te danken aan de gamereeks die onder zijn naam werd gemaakt. Het eerste deel verscheen in 1999, een vervolg lag een jaar later in de winkels.
 
+> [!NOTE]
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/09/22/skateboarden-alsof-het-1999-is-a4013124).
+
 __Tony Hawk’s Pro Skater__ definieerde in één klap hoe skateboardspellen hoorden te zijn. Met __grinds__, __ollies__, __manuals__ en andere trucs zet je een zo hoog mogelijke score neer en speel je nieuwe levels en personages vrij.
 
 De Californische ontwikkelaar Neversoft hield er in 2007 mee op, en na een paar flops van een andere studio werd er een punt gezet achter de serie. Daarmee verdween meteen ook de skateboardgame, omdat concurrenten geen heil meer zagen in het genre.

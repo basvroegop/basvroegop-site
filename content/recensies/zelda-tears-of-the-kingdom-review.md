@@ -25,7 +25,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/05/11/nieuwe-zelda-game-doet-het-bijna-onmogelijke-de-speler-alle-vrijheid-geven-a4164439?ref=gamepraat.nl).
+> Deze recensie verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/05/11/nieuwe-zelda-game-doet-het-bijna-onmogelijke-de-speler-alle-vrijheid-geven-a4164439).
 
 Zelda is en blijft één van Nintendo’s belangrijkste series. Eind jaren tachtig liet het eerste deel zien hoe een avonturenspel hoorde te werken. De game zat vol met puzzels en geheime gebieden, op schoolpleinen wereldwijd werden wekenlang strategieën uitgewisseld voor hoe je de wereld het beste kon verkennen. Eind jaren negentig was opvolger Ocarina of Time de maatstaf voor 3D-games wereldwijd. Decennia later staat dat spel nog bovenaan menig favorietenlijst, zoals hoe The Godfather nog op lijstjes van filmfans staat. Sindsdien is een nieuwe Zelda een belangrijke gebeurtenis – en deze vrijdag verschijnt na zes jaar een nieuw deel, waar Nintendo al die tijd bijna niks over heeft verklapt.
 

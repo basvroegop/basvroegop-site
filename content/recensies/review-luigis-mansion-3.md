@@ -20,7 +20,7 @@ Het is geen toeval dat deel 3 van __Luigi’s Mansion__ verschijnt op 31 oktober
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2019/10/30/luigis-mansion-3-eerder-charmant-dan-eng-a3978550).
 
 De wat slungelige broer van Mario heeft in de meeste spellen een bijrolletje, met als uitzondering de __Luigi’s Mansion__\-games. In het derde deel moet hij in een spookhotel op zoek naar zijn ontvoerde broer, terwijl hij iedere verdieping probeert te ontdoen van ronddolende geesten en zich opwerkt naar de leider van de ondoden. Dat doe je door met Luigi’s zaklamp rond te schijnen totdat je een fantoom raakt en zo zichtbaar maakt. Met een stofzuiger probeer je ze naar je toe te trekken, waarna je ze heen en weer slaat tot ze de moed opgeven en zich naar binnen laten zuigen. De gelijkenissen met de Ghostbusters zijn treffend – en vermoedelijk grotendeels bewust.
 

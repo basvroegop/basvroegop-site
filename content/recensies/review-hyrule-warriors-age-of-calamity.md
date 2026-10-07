@@ -22,7 +22,7 @@ De realiteit is helaas anders. Hyrule Warriors komt uit de stal van Koei Tecmo, 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder in NRC Handelsblad.
+> Deze review verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2020/11/23/een-zelda-titel-in-naam-alleen-a4020992).
 
 In deze nieuwe Zelda wordt de spelformule van die games grotendeels toegepast. Het ziet er in elk geval spectaculair uit: je snijdt in grootse veldslagen door soms tientallen vijanden tegelijk, terwijl je kampen verovert en jouw leger naar de overwinning leidt. Het doet denken aan vechtscènes uit __Lord of the Rings__, waarbij de Nintendo Switch indrukwekkend veel personages tegelijk op het beeld tovert.
 

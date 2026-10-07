@@ -25,7 +25,7 @@ _Oxenfree 1_ was een sympathieke indie-gamehit, van de kleine, onafhankelijke ga
 
 > [!NOTE]
 >
-> Dit interview verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/07/14/met-het-vervolg-op-indie-gamehit-oxenfree-bemoeide-netflix-zich-nog-nauwelijks-a4169784?ref=gamepraat.nl).
+> Dit interview verscheen eerder in [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/07/14/met-het-vervolg-op-indie-gamehit-oxenfree-bemoeide-netflix-zich-nog-nauwelijks-a4169784).
 
 Sean Krankel en zijn neef Adam Hines hadden het juk afgeschud van de grote multinationals waar ze werkten, om voor zichzelf te beginnen. Ze huurden een klein kantoorpand in Californië en begonnen Night School: een gamestudio die kleinere, verhalende games moest maken. Hun debuut was Oxenfree, een intiem verhaal waarin je als tienermeisje Alex met vrienden naar een eiland vaart om stiekem te feesten.
 

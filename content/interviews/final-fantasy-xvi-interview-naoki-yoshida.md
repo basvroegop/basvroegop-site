@@ -25,7 +25,7 @@ publish: true
 
 > [!NOTE]
 >
-> __Dit interview verscheen eerder in__ [__NRC Handelsblad__](https://web.archive.org/web/20230702153055/https://www.nrc.nl/nieuws/2023/06/21/final-fantasy-wat-begon-als-een-zwanenzang-mondde-uit-in-een-van-de-invloedrijkste-gameseries-ooit-a4167773)__.__
+> __Dit interview verscheen eerder in__ [NRC Handelsblad](https://www.nrc.nl/nieuws/2023/06/21/final-fantasy-wat-begon-als-een-zwanenzang-mondde-uit-in-een-van-de-invloedrijkste-gameseries-ooit-a4167773)__.__
 
 De Japanse gamestudio Squaresoft kwam in de jaren tachtig niet van de grond. Geen van de spellen die het bedrijf maakte kon een succes genoemd worden. Ontwerper Hironobu Sakaguchi besloot één laatste poging te doen om van zijn passie als gameontwerper zijn beroep te maken. Hij stak zijn ziel en zaligheid in het bedenken van zijn definitieve, meest ambitieuze werk. Zijn laatste gedachtenspinsel – toepasselijk getiteld ‘Final Fantasy’.
 
