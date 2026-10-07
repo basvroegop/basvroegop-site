@@ -1,1 +1,1 @@
-export {}
+export { LegacyEmbedLinks } from "./legacyEmbedLinks"

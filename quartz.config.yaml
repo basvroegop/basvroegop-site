@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Bas Vroegop
+  pageTitle: Bastiaan Vroegop
   pageTitleSuffix: " — journalist over games en technologie"
   enableSPA: true
   enablePopovers: true
@@ -168,11 +168,13 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
+      condition: not-index
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
       position: beforeBody
       priority: 20
+      condition: not-index
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
