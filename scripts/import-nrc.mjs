@@ -504,6 +504,14 @@ function wordCount(markdown) {
     .filter(Boolean).length
 }
 
+function moveDetailsToEnd(markdown) {
+  const blocks = markdown.split(/\n{2,}/)
+  const detailsIndex = blocks.findIndex((block) => block.startsWith("> [!INFO] Details"))
+  if (detailsIndex < 0) return markdown
+  const [details] = blocks.splice(detailsIndex, 1)
+  return [...blocks, details].join("\n\n")
+}
+
 function sourceNote(noun, url, authors = []) {
   const demonstrative = noun === "recensie" ? "Deze" : "Dit"
   const collaboration = authors.length > 1 ? `, geschreven door ${authors.join(" en ")}` : ""
@@ -623,10 +631,12 @@ async function importMediatip(url) {
     if (element.is("p") && cleanText(element.text()) === "Bastiaan Vroegop") continue
     fragment("main").append(element.clone())
   }
-  const markdown = await fragmentToMarkdown(fragment("main").html() || "", {
-    slug,
-    relativePrefix: "./",
-  })
+  const markdown = moveDetailsToEnd(
+    await fragmentToMarkdown(fragment("main").html() || "", {
+      slug,
+      relativePrefix: "../",
+    }),
+  )
   if (wordCount(markdown) < 75) throw new Error(`Mediatip lijkt onvolledig: ${url}`)
   const overviewTitle = cleanText($("meta[property='og:title']").attr("content") || schema.headline)
   const description = excerpt(
@@ -636,9 +646,9 @@ async function importMediatip(url) {
       ?.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
       .replace(/[*_`]/g, "") || "",
   )
-  const note = `> [!NOTE]\n> Deze mediatip van Bastiaan Vroegop verscheen eerder als onderdeel van [${overviewTitle}](${url}) in NRC.`
+  const note = `> [!NOTE]\n> Deze mediatip verscheen eerder als onderdeel van [${overviewTitle}](${url}) in NRC.`
   await writeArticle(
-    `${slug}.md`,
+    path.posix.join("recensies", `${slug}.md`),
     {
       title,
       description,
@@ -650,6 +660,7 @@ async function importMediatip(url) {
       sourceUrl: url,
       sourceArticle: overviewTitle,
       publish: true,
+      aliases: [`/${slug}`],
     },
     `${note}\n\n${markdown}`,
   )
