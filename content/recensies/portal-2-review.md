@@ -1,6 +1,6 @@
 ---
 title: Portal 2
-description: De eerste Portal was de grote verrassing van 2007. Spelers moesten met behulp van een geweer dat twee portalen schiet - waarvan de een naar de ander leidt - kamers zien te doorkruizen. Niet overal kon echter een portaal geplaatst worden en dankzij knoppen, lasers en andere objecten was elke kamer een puzzel die je dwong anders tegen de werkelijkheid aan te kijken. Ondertussen werden spelers verbaal gekastijd door de overzienende AI GLaDOS.
+description: De eerste Portal was de grote verrassing van 2007. Spelers moesten met behulp van een geweer dat twee portalen schiet - waarvan de een naar de ander leidt - kamers zien te doorkruizen. Niet overal kon echter een portaal geplaatst worden en dankzij knoppen, lasers en andere objecten was elke kamer…
 published: 2011-04-26
 modified: 2018-04-28
 tags:

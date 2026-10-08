@@ -5,22 +5,24 @@ published: 2013-06-01
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /reus-review
   - /artikelen/reus-review
   - /artikelen/recensies/reus-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/reus-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1101016/game-van-de-week-reus.html
 socialImage: ../media/gamepraat/reus-review/9baa26017c.jpg
 publish: true
+republishedAt: https://gamepraat.nl/reus-review/
 ---
 
 Het God-gamegenre lijkt te zijn uitgestorven. Een paar jaar geleden plaatste __From Dust__ ons nog in de schoenen van een almachtig wezen, maar daarnaast leek dit bijzondere speltype stil te liggen. Jammer, want juist een game kan je laten zien met wat voor problemen zo'n God kan komen te zitten. Laat je een mensenstad het toppunt van beschaving bereiken? Of houd je ze klein om hebzucht te voorkomen?
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101016/game-van-de-week-reus.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101016/game-van-de-week-reus.html).
 
 Het verlaten spelgenre is deze maand gelukkig weer tot leven gebracht. En daar is het Nederlandse Abbey Games voor verantwoordelijk. In __Reus__ heb je de controle over de natuur. Dit gebeurt door een paar reuzen die de aardbodem bewandelen en zo invloed op de omgeving uitoefenen. Zo kan een waterreus oceanen de wereld in roepen, terwijl een bosreus juist het vaste land van gras en bomen kan voorzien.
 

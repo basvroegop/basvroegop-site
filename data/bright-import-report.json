@@ -1,0 +1,5965 @@
+{
+  "generatedAt": "2026-10-08T06:03:11.607Z",
+  "discovered": 1579,
+  "existing": 1578,
+  "imported": 0,
+  "contributionsImported": 1,
+  "updatedMetadata": 122,
+  "skipped": [
+    {
+      "newsID": 1245855,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1245835,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1245828,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1245817,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1244961,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1244950,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1244927,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1244922,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1228563,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1227967,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1199910,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1199909,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1199797,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1199800,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191210,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191207,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191195,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191183,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191162,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191138,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191130,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1191025,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189784,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189781,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189761,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189566,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189142,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189137,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189122,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1189106,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188412,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188315,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188370,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188362,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188336,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188326,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188301,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188207,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1188166,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1187797,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1187791,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1187784,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1187756,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186679,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186911,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186902,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186888,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186881,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186651,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186224,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186216,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186214,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1186208,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185322,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185328,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185304,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185294,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185280,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185263,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185248,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185235,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185135,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185093,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185067,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1185061,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1184694,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1184672,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1184667,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1184652,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183792,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183773,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183754,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183744,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183501,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183492,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183478,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183468,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183098,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183087,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183077,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1183055,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182262,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182237,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182225,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182196,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182188,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182175,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182039,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182028,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1182009,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1181996,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1181582,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1181573,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1181562,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1181550,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180692,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180681,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180664,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180655,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180476,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180462,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180441,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180430,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180062,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180054,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180042,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1180029,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179265,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179261,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179231,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179208,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179197,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179192,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179174,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179041,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179026,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1179010,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1178610,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1178599,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1178586,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177983,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177960,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177947,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177638,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177678,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177660,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1177623,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176958,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176943,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176934,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176887,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176320,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176303,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176288,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176114,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176084,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176046,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1176033,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1175460,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1175452,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1175437,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1175423,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174566,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174551,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174538,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174530,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173899,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174348,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174340,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1174317,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173909,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173882,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173869,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173086,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173073,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1173058,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172893,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172887,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172858,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172502,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172470,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172461,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1172446,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1171793,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1171767,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1171739,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1170696,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1170674,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1170649,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1170634,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1170626,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1169356,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1168079,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1168015,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1168000,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1167980,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1164993,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1162177,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1157575,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1157531,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1157522,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1157511,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1156596,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1156443,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1155483,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1155471,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1155457,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1155441,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1134304,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1134204,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1128017,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127622,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127568,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127486,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127421,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127379,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1127193,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126852,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126382,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126383,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126377,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126374,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126373,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126372,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126359,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126358,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126357,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126337,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126333,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126330,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126328,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126324,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126323,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126322,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126315,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126314,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126313,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126312,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126311,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126309,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126308,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126304,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126303,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126302,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124006,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126275,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126273,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126270,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126267,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126266,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126261,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126246,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126250,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126247,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126242,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126240,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126238,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126237,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126235,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126234,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126232,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126231,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126203,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126201,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126198,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126194,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126178,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126190,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126189,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126187,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126179,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126177,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126174,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126172,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126170,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126169,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126166,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126165,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126163,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126151,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126150,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126118,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126116,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126113,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126112,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126108,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126105,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126104,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126096,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126095,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126094,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126085,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126086,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126084,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126083,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126081,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126080,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126079,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126063,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126061,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126060,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126055,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126051,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126050,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126049,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126043,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126041,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126040,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126038,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126037,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126036,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126035,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126033,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126021,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126020,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1126019,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125994,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125974,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125990,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125988,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125986,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125985,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125983,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125977,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125975,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125972,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125966,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125964,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125961,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125960,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125958,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125957,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125956,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125934,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125933,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125932,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125921,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125920,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125918,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125906,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125904,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125901,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125898,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125894,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125892,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125890,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125887,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125886,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125877,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125876,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125869,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125865,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125863,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125839,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125838,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125837,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125807,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125808,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125804,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125802,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125801,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125783,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125794,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125791,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125789,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125788,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125772,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125782,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125779,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125778,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125776,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125775,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125774,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125753,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125773,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125752,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125751,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125750,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125715,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125714,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125710,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125699,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125708,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125705,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125703,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125701,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125700,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125689,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125684,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125686,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125682,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125681,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125680,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125678,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125661,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125660,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125659,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125628,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125626,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125625,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125621,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125619,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125617,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125615,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125613,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125600,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125598,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125597,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125595,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125592,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125591,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125590,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125589,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125567,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125566,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125565,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125525,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125531,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125529,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125524,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125521,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125520,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125516,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125517,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125509,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125506,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125504,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125502,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125500,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125498,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125497,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125496,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125495,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125477,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125476,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125475,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125451,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125449,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125448,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125445,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125443,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125442,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125441,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125437,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125436,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125434,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125433,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125421,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125420,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125419,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125412,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125417,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125411,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125408,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125406,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125385,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125384,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125383,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125355,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125356,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125345,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125346,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125344,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125342,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125340,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125337,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125334,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125327,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125325,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125323,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125322,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125320,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125316,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125314,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125313,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125311,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125289,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125288,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125287,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125258,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125257,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125255,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125254,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125252,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125251,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125248,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125245,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125239,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125238,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125236,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125228,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125226,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125225,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125222,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125220,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125219,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125215,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125198,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125197,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125196,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124017,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125173,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125172,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125166,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125163,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125162,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125160,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125157,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125158,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125156,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125147,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125144,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125145,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125141,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125143,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125140,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125139,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125138,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125136,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125116,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125115,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125114,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125084,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125083,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125079,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125077,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125076,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125069,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125073,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125072,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125068,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125060,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125059,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125057,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125058,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125056,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125054,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125053,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125052,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125051,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125049,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125035,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125034,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125004,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125003,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125002,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1125001,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124992,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124989,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124987,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124986,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124985,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124982,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124981,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124974,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124973,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124972,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124969,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124968,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124967,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124964,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124962,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124961,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124959,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124957,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124943,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124942,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124941,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124916,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124917,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124913,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124912,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124910,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124909,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124907,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124905,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124904,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124902,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124892,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124890,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124888,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124886,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124885,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124883,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124881,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124880,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124878,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124876,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124861,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124860,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124850,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124849,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124848,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124846,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124845,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124844,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124843,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124842,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124841,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124840,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124839,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124838,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124832,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124828,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124826,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124824,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124822,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124821,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124820,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124819,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124818,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124817,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124816,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124815,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124814,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124812,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124809,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124808,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124807,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124806,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124803,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124799,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124797,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124795,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124794,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124793,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124792,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124755,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124754,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124753,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124752,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124751,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124749,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124746,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124747,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124745,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124730,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124729,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124728,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124711,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124710,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124709,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124686,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124684,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124682,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124681,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124680,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124677,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124675,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124673,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124672,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124663,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124660,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124659,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124657,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124655,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124652,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124650,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124648,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124647,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124646,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124644,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124640,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124639,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124636,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124635,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124606,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124607,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124604,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124602,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124597,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124596,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124595,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124594,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124593,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124592,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124591,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124590,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124580,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124578,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124575,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124574,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124506,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124484,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124483,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124480,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124479,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124478,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124477,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124474,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124472,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124464,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124466,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124463,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124462,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124460,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124459,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124458,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124457,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124456,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124437,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124436,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124414,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124413,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124404,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124399,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124403,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124402,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124401,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124398,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124397,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124388,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124387,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124386,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124385,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124384,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124382,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124381,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124380,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124379,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124378,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124377,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124360,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124359,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124358,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124357,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124346,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124342,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124341,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124340,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124336,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124335,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124333,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124331,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124315,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124316,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124308,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124307,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124305,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124306,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124304,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124303,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124302,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124301,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124299,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124283,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124282,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124281,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124280,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124099,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124254,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124253,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124252,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124251,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124248,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124246,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124245,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124244,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124243,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124237,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124235,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124234,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124233,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124232,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124231,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124230,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124229,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124228,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124227,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124226,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124214,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124213,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124212,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124177,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124176,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124174,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124172,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124170,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124169,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124168,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124165,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124167,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124166,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124164,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124163,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124157,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124155,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124154,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124152,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124150,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124149,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124148,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124147,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124146,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124130,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124129,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124128,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124127,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124104,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124102,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124101,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124100,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124096,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124094,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124093,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124091,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124090,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124085,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124084,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124079,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124081,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124078,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124077,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124076,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124075,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124072,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124071,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124057,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124056,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124032,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124031,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124030,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124018,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124023,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124022,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124020,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124021,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124015,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124016,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124013,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124012,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124004,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124003,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124000,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124001,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123998,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123997,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123996,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123994,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123993,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1124005,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123977,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123976,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123975,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123945,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123943,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123947,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123946,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123940,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123939,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123938,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123937,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123936,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123935,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123934,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123926,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123925,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123922,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123920,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123918,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123916,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123915,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123913,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123912,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123911,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123908,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123895,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123892,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123869,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123868,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123867,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123863,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123861,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123865,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123862,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123860,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123859,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123846,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123858,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123857,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123845,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123844,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123842,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123840,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123841,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123839,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123838,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123837,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123836,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123834,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123818,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123817,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123816,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123815,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123772,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123790,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123789,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123788,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123787,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123786,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123780,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123782,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123779,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123778,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123776,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123774,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123769,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123762,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123763,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123760,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123759,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123754,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123753,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123750,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123746,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123749,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123748,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123747,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123744,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123728,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123726,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123725,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123724,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123632,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123631,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123630,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123629,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123603,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123602,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123600,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123592,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123591,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123585,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123588,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123584,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123582,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123581,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123580,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123578,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123577,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123576,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123569,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123568,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123567,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123560,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123566,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123564,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123563,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123561,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123562,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123557,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123538,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123536,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123535,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123469,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123493,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123490,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123486,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123484,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123481,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123479,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123478,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123477,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123474,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123473,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123468,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123465,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1123466,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1086866,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1104708,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1105063,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1105330,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090577,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092680,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090578,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090580,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092681,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090579,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090581,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090582,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090583,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092682,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1105948,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090584,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090585,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092683,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1105939,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1105958,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090586,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090587,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092684,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090588,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090589,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092685,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090590,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090591,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090592,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092686,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092687,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090593,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090594,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090595,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090596,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090597,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092688,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090598,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106004,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106006,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106008,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090599,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090600,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092689,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090601,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092690,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090602,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092691,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090603,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090604,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090605,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090606,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090607,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092692,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106043,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106048,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106053,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090608,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090610,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092693,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090609,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090611,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090612,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090613,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092694,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092695,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090614,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090615,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090616,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090618,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090617,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092696,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106084,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090619,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090620,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092697,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090621,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106099,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106104,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106100,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092698,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090622,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090623,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090624,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092699,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090626,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090625,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090627,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092700,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090629,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090630,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090628,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090631,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090632,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092701,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090633,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092702,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090636,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090635,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090634,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106148,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106154,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106155,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092703,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090638,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090637,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092704,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090640,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090639,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092705,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090641,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090642,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090643,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090644,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092706,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090645,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092707,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090646,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090647,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106191,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106200,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090650,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092708,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090649,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090648,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090652,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106202,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090653,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092709,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090651,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106207,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090656,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092710,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090655,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090654,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090657,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090658,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090659,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092711,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106219,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090661,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092712,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090660,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090662,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090663,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106250,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090665,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092713,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090666,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090664,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106268,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090667,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090668,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090669,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092714,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092715,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090673,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090672,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090674,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092716,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090675,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090676,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106342,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090677,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092717,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090678,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090680,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106377,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090679,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092718,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090681,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090683,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092719,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090682,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090684,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106449,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090685,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106482,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090686,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092721,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090687,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092720,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090688,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090689,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090690,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106514,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106517,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090691,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090692,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090693,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092722,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106526,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092723,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090696,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090695,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090694,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092724,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090699,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090698,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090700,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090701,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090702,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090703,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092725,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106556,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090704,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092726,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090705,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090706,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092727,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090707,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090709,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090708,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090710,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092728,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090712,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090711,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106567,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092729,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090714,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090713,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090715,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090717,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090716,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090718,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092730,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106601,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092731,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090721,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090722,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106606,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090720,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092732,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090724,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090723,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090725,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092733,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090719,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090726,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106633,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092734,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090727,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090729,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090728,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106624,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090731,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092735,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090732,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090730,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106653,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106659,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090733,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090734,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090735,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092737,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090736,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090737,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090738,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106672,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092738,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090739,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090741,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090740,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090742,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092739,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106685,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090743,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090744,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092740,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090745,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090746,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106698,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106700,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106703,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092741,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090747,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090748,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090749,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090751,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090750,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092742,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090752,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090753,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090754,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090755,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092744,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092745,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090757,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090756,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090759,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090760,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092746,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090758,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106759,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092747,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090761,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090762,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106766,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106769,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090763,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092748,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090764,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090765,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090766,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092749,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090767,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090768,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092750,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090769,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090771,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090770,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106791,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090772,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092751,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090774,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090773,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090776,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092752,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090777,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090775,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106812,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092753,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090778,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090780,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090779,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090781,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090783,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090782,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092754,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090784,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106833,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090785,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092755,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090787,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092756,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090788,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090786,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106856,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090789,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090790,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090791,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092757,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092758,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090793,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090794,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090795,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106869,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090796,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090797,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090798,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092759,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090800,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092760,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090799,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092761,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090802,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106897,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092762,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090804,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090805,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090806,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090807,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092763,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090808,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092764,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090809,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090810,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106921,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092765,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090812,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090813,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090811,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090814,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092766,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090815,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090816,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106932,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090817,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090818,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092767,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090819,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090820,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090821,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092768,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090822,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092769,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090823,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090824,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106969,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092770,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090826,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090825,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106975,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090828,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092771,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090827,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090829,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090830,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090831,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092772,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1106998,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090832,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090833,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092773,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090835,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090836,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092774,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107007,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090839,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090837,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090838,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092775,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092776,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107032,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090841,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090840,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092777,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090844,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090843,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090842,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090845,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090847,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092778,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107066,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090848,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090849,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090850,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092779,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107075,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090851,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090852,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090846,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092780,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090853,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090854,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092782,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090855,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107089,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090857,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092781,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090856,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092784,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107100,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092786,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107107,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090858,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090860,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092788,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107112,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090861,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090862,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092789,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090864,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092790,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090865,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107134,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090867,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092791,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090869,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092792,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090871,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107167,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092793,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107170,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090873,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090874,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092794,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107182,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090875,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090876,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092795,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090879,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090878,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107202,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107208,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090881,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092798,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107214,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090882,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092799,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107224,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107228,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090886,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090885,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092800,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107233,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092797,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107235,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090887,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107242,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107244,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090890,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090889,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107263,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107264,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090891,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090892,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107269,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092802,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090894,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090895,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092803,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107273,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092804,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090897,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1107281,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1090899,
+      "reason": "al aanwezig"
+    },
+    {
+      "newsID": 1092805,
+      "reason": "al aanwezig"
+    }
+  ],
+  "failures": [],
+  "images": {
+    "downloaded": 1,
+    "reused": 0,
+    "skipped": []
+  },
+  "files": [
+    "recensies/review-remarkable-paper-pro-is-een-perfect-apparaat-zonder-de-perfecte-flow.md",
+    "recensies/review-rog-ally-x-steam-deck-killer-heeft-grotere-accu-maar-alsnog-problemen.md",
+    "recensies/de-gamesir-galileo-g8-is-de-beste-gamecontroller-voor-je-smartphone.md",
+    "recensies/starfield-review-xbox-pc-gamepass-bethesda.md",
+    "recensies/asus-rog-ally-steam-deck-handheld.md",
+    "recensies/review-star-wars-jedi-survivor-grootser-leuker-en-met-meer-foutjes.md",
+    "recensies/deze-gadget-maakt-van-je-iphone-een-switch-concurrent.md",
+    "recensies/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen.md",
+    "recensies/oneplus-onthult-nieuwe-duurdere-oneplus-8-en-8-pro.md",
+    "recensies/review-chromebook-van-asus-krachtiger-dan-je-verwacht.md",
+    "recensies/review-google-stadia-werkt-magisch-heeft-nog-weinig.md",
+    "recensies/star-wars-jedi-fallen-order-game-review-ea-kopen.md",
+    "recensies/eerste-indruk-airpods-pro-doen-precies-wat-je-wil.md",
+    "recensies/eerste-indruk-htc-vive-cosmos-een-tamme-upgrade.md",
+    "recensies/eerste-indruk-apple-arcade-kan-de-app-store-voor-altijd-veranderen.md",
+    "recensies/eerste-indruk-lenovo-yoga-book-laptop-zonder-fysiek-toetsenbord.md",
+    "recensies/eerste-indruk-hasselblad-cameramodule-voor-moto-z-smartphone.md",
+    "recensies/rayman-legends-review.md",
+    "recensies/final-fantasy-xiv-review.md",
+    "recensies/tales-of-xillia-review.md",
+    "recensies/pikmin-3-review.md",
+    "recensies/dream-team-bros-review.md",
+    "recensies/cube-world-review.md",
+    "recensies/the-last-of-us-review.md",
+    "recensies/animal-crossing-new-leaf-review.md",
+    "recensies/reus-review.md",
+    "recensies/neverwinter-review.md",
+    "recensies/soul-sacrifice-review.md",
+    "recensies/fire-emblem-awakening-review.md",
+    "recensies/toki-tori-2-review.md",
+    "recensies/bioshock-infinite-review.md",
+    "recensies/monster-hunter-3-ultimate-review.md",
+    "recensies/simcity-review.md",
+    "recensies/tomb-raider-review.md",
+    "recensies/metal-gear-rising-revengeance-review.md",
+    "recensies/ni-no-kuni-review.md",
+    "recensies/skulls-of-the-shogun-review.md",
+    "recensies/path-of-exile-review.md",
+    "recensies/cart-life-review.md",
+    "recensies/snapshot-review.md",
+    "recensies/zombiu-review.md",
+    "recensies/playstation-all-stars-review.md",
+    "recensies/halo-4-review.md",
+    "recensies/assassin-s-creed-iii-review.md",
+    "recensies/xcom-enemy-unknown-review.md",
+    "recensies/dishonored-review.md",
+    "recensies/world-warcraft-mists-pandaria.md",
+    "recensies/borderlands-2-review.md",
+    "recensies/torchlight-ii-review.md",
+    "recensies/dust-an-elysian-tail-review.md",
+    "recensies/guild-wars-2-review.md",
+    "recensies/darksiders-ii-review.md",
+    "recensies/sleeping-dogs-review.md",
+    "recensies/thomas-was-alone-review.md",
+    "recensies/spec-ops-the-line-review.md",
+    "recensies/metal-gear-solid-hd-collection-review.md",
+    "recensies/lollipop-chainsaw-review.md",
+    "recensies/dragon-s-dogma-review.md",
+    "recensies/max-payne-3-review.md",
+    "recensies/diablo-iii-review.md",
+    "recensies/tera-review.md",
+    "recensies/the-witcher-2-enhanced-edition-review.md",
+    "recensies/pandora-s-tower-review.md",
+    "recensies/fez-review.md",
+    "recensies/kid-icarus-uprising-review.md",
+    "recensies/journey-review.md",
+    "recensies/street-fighter-x-tekken-review.md",
+    "recensies/eerste-indruk-playstation-vita.md",
+    "recensies/mass-effect-3-review.md",
+    "recensies/the-last-story-review.md",
+    "recensies/catherine-review.md",
+    "recensies/final-fantasy-xiii-2-review.md",
+    "recensies/soulcalibur-v-review.md",
+    "recensies/the-cat-that-got-the-milk-review.md",
+    "recensies/dustforce-review.md",
+    "recensies/rokko-chan-review.md",
+    "recensies/super-crate-box-review.md",
+    "recensies/star-wars-the-old-republic-review.md",
+    "recensies/cave-story-review.md",
+    "recensies/to-the-moon-review.md",
+    "recensies/rayman-origins-review.md",
+    "recensies/the-legend-of-zelda-skyward-sword-review.md",
+    "recensies/the-elder-scrolls-v-skyrim-review.md",
+    "recensies/call-of-duty-modern-warfare-3-review.md",
+    "recensies/uncharted-3-drake-s-deception-review.md",
+    "recensies/battlefield-3-review.md",
+    "recensies/game-vd-week-batman-arkham-city.md",
+    "recensies/forza-motorsport-4-review.md",
+    "recensies/rage-review.md",
+    "recensies/dark-souls-review.md",
+    "recensies/gears-of-war-3-review.md",
+    "recensies/dead-island-review.md",
+    "recensies/el-shaddai-ascension-of-the-metatron-review.md",
+    "recensies/deus-ex-human-revolution-review.md",
+    "recensies/xenoblade-chronicles-review.md",
+    "recensies/age-of-empires-online-review.md",
+    "recensies/trauma-review.md",
+    "recensies/insanely-twisted-shadow-planet-review.md",
+    "recensies/from-dust-review.md",
+    "recensies/dungeons-of-dredmor-review.md",
+    "recensies/civworld-review.md",
+    "recensies/proun-review.md",
+    "recensies/child-of-eden-review.md",
+    "recensies/the-legend-of-zelda-ocarina-of-time-3d-review.md",
+    "recensies/duke-nukem-forever-review.md",
+    "recensies/frozen-synapse-review.md",
+    "recensies/no-more-heroes-heroes-paradise-review.md",
+    "recensies/la-noire-review.md",
+    "recensies/brink-review.md",
+    "recensies/outland-review.md",
+    "recensies/order-en-chaos-online-review.md",
+    "recensies/portal-2-review.md",
+    "recensies/mortal-kombat-review.md",
+    "recensies/the-dishwasher-vampire-smile-review.md",
+    "recensies/crysis-2-review.md",
+    "recensies/sword-and-sworcery-review.md",
+    "recensies/pilotwings-resort-review.md",
+    "recensies/motorstorm-apocalypse-review.md",
+    "recensies/eerste-indruk-htc-incredible-s.md",
+    "recensies/dragon-age-ii-review.md",
+    "recensies/eerste-indruk-ipad-2.md",
+    "recensies/eerste-indruk-samsung-galaxy-ace.md",
+    "recensies/noclip-mediatip.md"
+  ]
+}

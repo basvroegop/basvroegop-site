@@ -1,33 +1,28 @@
 ---
 title: Duke Nukem Forever
-description: |-
-  Veertien jaar later is Duke Nukem’s terugkeer een bittere teleurstelling.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Met een ontwikkeltijd van veertien jaar was de komst van Duke Nukem Forever al tot mythe verklaard. Ontwikkelaar 3D Realms begon aan het spel in 1997, maar zei na verschillende gemiste deadlines in 2001 het spel uit te brengen 'when it’s done'. Dit hield de studio vol tot 2009, toen een gebrekkig budget ervoor zorgde dat het ontwikkelteam werd ontslagen.
-
-  Acht 3D Realms-ontwikkel
-published: 2011-04-28
+description: Veertien jaar later is Duke Nukem’s terugkeer een bittere teleurstelling.
+published: 2011-06-14
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /duke-nukem-forever-review
   - /artikelen/duke-nukem-forever-review
   - /artikelen/recensies/duke-nukem-forever-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/duke-nukem-forever-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1106030/game-van-de-week-duke-nukem-forever.html
 socialImage: ../media/gamepraat/duke-nukem-forever-review/dc2540e024.jpg
 publish: true
+republishedAt: https://gamepraat.nl/duke-nukem-forever-review/
 ---
 
 **Veertien jaar later is Duke Nukem’s terugkeer een bittere teleurstelling.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106030/game-van-de-week-duke-nukem-forever.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106030/game-van-de-week-duke-nukem-forever.html).
 
 Met een ontwikkeltijd van veertien jaar was de komst van [_Duke Nukem Forever_](http://www.dukenukemforever.com/?ref=gamepraat.nl) al tot mythe verklaard. Ontwikkelaar 3D Realms begon aan het spel in 1997, maar zei na verschillende gemiste deadlines in 2001 het spel uit te brengen 'when it’s done'. Dit hield de studio vol tot 2009, toen een gebrekkig budget ervoor zorgde dat het ontwikkelteam werd ontslagen.
 

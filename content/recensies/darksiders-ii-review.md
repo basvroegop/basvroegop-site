@@ -1,31 +1,28 @@
 ---
 title: Darksiders II
-description: |-
-  Zelda plus God of War plus Diablo is Darksiders II.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Begin 2010 wist Darksiders nagenoeg iedereen te verrassen. Het speel leek in het eerste opzicht weinig om het lichaam te hebben: hoewel de legendarische striptekenaar Joe Madueira en jedi/stemacteur Mark Hamill bij de productie waren verwikkeld, wezen vroege beelden vooral op een imitatie van God of War. Speelde je echter het spel, dan ontpopte zich al snel een modernere (en op sommige punten strakker
+description: Zelda plus God of War plus Diablo is Darksiders II.
 published: 2012-08-24
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /darksiders-ii-review
   - /artikelen/darksiders-ii-review
   - /artikelen/recensies/darksiders-ii-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/darksiders-ii-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1103004/game-van-de-week-darksiders-ii.html
 socialImage: ../media/gamepraat/darksiders-ii-review/3e5bf96900.webp
 publish: true
+republishedAt: https://gamepraat.nl/darksiders-ii-review/
 ---
 
 **Zelda plus God of War plus Diablo is Darksiders II.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103004/game-van-de-week-darksiders-ii.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103004/game-van-de-week-darksiders-ii.html).
 
 Begin 2010 wist [Darksiders](http://www.darksiders.com/?ref=gamepraat.nl) nagenoeg iedereen te verrassen. Het speel leek in het eerste opzicht weinig om het lichaam te hebben: hoewel de legendarische striptekenaar Joe Madueira en jedi/stemacteur Mark Hamill bij de productie waren verwikkeld, wezen vroege beelden vooral op een imitatie van God of War. Speelde je echter het spel, dan ontpopte zich al snel een modernere (en op sommige punten strakkere) variant op The Legend of Zelda. Darksiders II belooft meer van ditzelfde, maar voegt een van de verslavendere aspecten van andere games daar aan toe: [loot](http://en.wikipedia.org/wiki/Looting_\(gaming\)?ref=gamepraat.nl).
 

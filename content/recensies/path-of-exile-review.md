@@ -1,6 +1,6 @@
 ---
 title: Path of Exile
-description: Er zijn nogal wat ontwikkelaars die hun spellen graag met Diablo 2 vergelijken. Deze inmiddels antieke actie-RPG staat nog steeds op het netvlies van veel mensen gebrand en is volgens puristen zelfs niet door Diablo 3 geëvenaard. Pogingen van oud-Diablo-ontwikkelaar Max Schaefer onder de namen Torchlight en Torchlight II pakten goed uit, maar ook deze spellen wisten de duistere, beklemmende sfeer van de originele spellen niet terug te brengen.
+description: Er zijn nogal wat ontwikkelaars die hun spellen graag met Diablo 2 vergelijken. Deze inmiddels antieke actie-RPG staat nog steeds op het netvlies van veel mensen gebrand en is volgens puristen zelfs niet door Diablo 3 geëvenaard. Pogingen van oud-Diablo-ontwikkelaar Max Schaefer onder de namen…
 published: 2013-01-28
 modified: 2018-04-28
 tags:

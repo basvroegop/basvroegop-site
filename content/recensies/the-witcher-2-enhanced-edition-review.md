@@ -1,6 +1,6 @@
 ---
 title: The Witcher 2 Enhanced Edition
-description: "Het jaar dat The Witcher 2 er over deed om op de Xbox 360 uit te komen, lijkt bijna een slim uitgedokterde marketingcampagne. Maandenlang speelden pc-gamers het om recensies, opiniestukken en blogposts vol te schrijven over hoe fenomenaal dit spel was. Enige nadeel: de pc-game vereiste een monster van een pc. Nu het spel eindelijk een versie voor de spelcomputer heeft, is het moeilijk om het spel na alle lofzang niet aan te schaffen."
+description: "Het jaar dat The Witcher 2 er over deed om op de Xbox 360 uit te komen, lijkt bijna een slim uitgedokterde marketingcampagne. Maandenlang speelden pc-gamers het om recensies, opiniestukken en blogposts vol te schrijven over hoe fenomenaal dit spel was. Enige nadeel: de pc-game vereiste een monster…"
 published: 2012-05-02
 modified: 2018-04-28
 tags:

@@ -5,22 +5,24 @@ published: 2011-03-20
 modified: 2023-01-22
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /motorstorm-apocalypse-review
   - /artikelen/motorstorm-apocalypse-review
   - /artikelen/recensies/motorstorm-apocalypse-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/motorstorm-apocalypse-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1106807/game-van-de-week-motorstorm-apocalypse.html
 socialImage: ../media/gamepraat/motorstorm-apocalypse-review/392e965e10.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/motorstorm-apocalypse-review/
 ---
 
 Waar vele nieuwe racegames enkel innoveren met verfijnde en toegevoegde mechanieken, moet __Motorstorm: Apocalypse__ het vooral hebben van zijn setting. Jij bent een Motorstormer, een racer die de wereld over vliegt om aan de meest spectaculaire wedstrijden mee te doen. Dit keer is er een parkours uitgezet in een stad aan de Amerikaanse westkust, die wordt geteisterd door aardbevingen. De evacuatie van de bewoners is al begonnen, maar er zijn nog verschillende groeperingen die weigeren hun woonplaats te verlaten.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106807/game-van-de-week-motorstorm-apocalypse.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106807/game-van-de-week-motorstorm-apocalypse.html).
 
 Je gaat, gezien de situatie, redelijk naakt de track op: met alleen de mogeljkheid om andere auto's een kleine ram te geven en ze met een boost te passeren. Dit helpt flink mee aan het gevoel van ontsnapping en kwetsbaarheid. Je kunt alleen maar hopen dat je alle vliegende brokstukken ontwijkt en de finish bereikt.
 

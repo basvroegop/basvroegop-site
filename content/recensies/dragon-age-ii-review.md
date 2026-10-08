@@ -1,31 +1,28 @@
 ---
 title: Dragon Age II
-description: |-
-  De in traditie gegronde RPG Dragon Age wordt modern met Dragon Age II. Dit deel oogt mooier en is actievoller.
-
-  💡Deze review verscheen origineel op Bright.
-
-  Dragon Age: Origins was vooral bedoeld voor fans van de games van studio BioWare, met strategische RPG-gevechten die erg leken op die van Baldur’s Gate. De groep fans was groot genoeg om een succes te garanderen en een sequel uit te brengen. Dat dit vervolg zestien maanden later al in de winkels ligt, is opmerkelijk voor de RPG-ontwikkelaar
+description: De in traditie gegronde RPG Dragon Age wordt modern met Dragon Age II. Dit deel oogt mooier en is actievoller.
 published: 2011-03-11
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /dragon-age-ii-review
   - /artikelen/dragon-age-ii-review
   - /artikelen/recensies/dragon-age-ii-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragon-age-ii-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1106865/game-van-de-week-dragon-age-ii.html
 socialImage: ../media/gamepraat/dragon-age-ii-review/308e0115c5.jpg
 publish: true
+republishedAt: https://gamepraat.nl/dragon-age-ii-review/
 ---
 
 **De in traditie gegronde RPG _Dragon Age_ wordt modern met _Dragon Age II_. Dit deel oogt mooier en is actievoller.**
 
 > [!NOTE]
->
-> Deze review verscheen origineel op [Bright](https://www.bright.nl/nieuws/1106865/game-van-de-week-dragon-age-ii.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106865/game-van-de-week-dragon-age-ii.html).
 
 _Dragon Age: Origins_ was vooral bedoeld voor fans van de games van studio BioWare, met strategische RPG-gevechten die erg leken op die van _Baldur’s Gate_. De groep fans was groot genoeg om een succes te garanderen en een sequel uit te brengen. Dat dit vervolg zestien maanden later al in de winkels ligt, is opmerkelijk voor de RPG-ontwikkelaar.
 

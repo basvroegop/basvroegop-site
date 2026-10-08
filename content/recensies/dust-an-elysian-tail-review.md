@@ -5,22 +5,24 @@ published: 2012-09-07
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /dust-an-elysian-tail-review
   - /artikelen/dust-an-elysian-tail-review
   - /artikelen/recensies/dust-an-elysian-tail-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dust-an-elysian-tail-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1102905/game-van-de-week-dust-elysian-tail.html
 socialImage: ../media/gamepraat/dust-an-elysian-tail-review/95120a965b.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/dust-an-elysian-tail-review/
 ---
 
 Indie-games worden vaak gemaakt door slechts een enkele of een handjevol ontwikkelaars. Dat is gelijk ook de charme van dit soort spellen: na maandenlang hard werken op een zolderkamertje heeft die ene zonderling al zijn ziel en zaligheid in een product gegoten, dat daarna wereldwijd wordt gespeeld door mede-fanaten. Hierdoor is het alleen lastig om de visuele details van een grote studioproductie op het interactieve scherm te krijgen. In plaats daarvan grijpen indie-ontwikkelaars naar de visuele stijl uit de goede oude 2d-dagen, of naar een distinctieve stijl om het spel in te hullen. Dit vaak ten goede: games zoals __Super Crate Box__ van Vlambeer hebben zich de stijl van 8-bit videogames inmiddels zo eigen gemaakt dat de visuele stijl versmelt met het spelelement. Het internationaal geprezen __Limbo__ voelde spookachtig aan door het gebruik van sillhouetten.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102905/game-van-de-week-dust-elysian-tail.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102905/game-van-de-week-dust-elysian-tail.html).
 
 Het is hierdoor echter bijzonder om een indie-game voorbij te zien komen die ouderwets mooi is. Niet om zijn stijl, niet om zijn retro statement, maar gewoon door de adembenemende beelden die op het scherm worden getoverd. Iets waar __Dust: An Elysian Tail__ zichzelf fantastisch weet te profileren. Die ene ontwikkelaar achter Dust is namelijk geen verstokte programmeur of een vrijzinnige gamedesigner, maar vooral een animator. Ontwikkelaar Dean Dodrill werkte in het verleden zelfs mee aan de animatie voor het deels Hollandse __Jazz Jackrabbit__. Het resultaat is een game die speelt als een tweedimensionale actie-RPG, maar die er uitziet als een kleurrijke en hoogwaardige tekenfilm.
 

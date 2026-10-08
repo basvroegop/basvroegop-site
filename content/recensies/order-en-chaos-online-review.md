@@ -1,6 +1,6 @@
 ---
 title: Order & Chaos Online
-description: "World of Warcraft is misschien niet de grondlegger van het genre, maar wist de markt wel volledig te veranderen met zijn grote spelersaantallen. In Korea springen de ontwikkelstudio's uit de grond als paddestoelen, met vaak een enkel doel op het oog: een net zo'n groot klantenbestand als Blizzards game bij elkaar sprokkelen. Dit proberen ze met het zogeheten freemium model, waarbij de game zelf gratis te downloaden en spelen is maar je betaalt voor extra voorwerpen en queesten."
+description: "World of Warcraft is misschien niet de grondlegger van het genre, maar wist de markt wel volledig te veranderen met zijn grote spelersaantallen. In Korea springen de ontwikkelstudio's uit de grond als paddestoelen, met vaak een enkel doel op het oog: een net zo'n groot klantenbestand als Blizzards…"
 published: 2011-05-03
 modified: 2018-04-28
 tags:

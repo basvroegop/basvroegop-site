@@ -1,6 +1,6 @@
 ---
 title: "The Legend of Zelda: Ocarina of Time 3D"
-description: "Het is een cliche die genoemd moet worden: The Legend of Zelda: Ocarina of Time staat bij veel gamers te boek als het beste spel ooit uitgekomen. Onder andere de spelwereld, het geluidsdesign en de toen nog unieke, contextgevoelige besturing zorgden ervoor dat het spel tot de dag van vandaag een legendarische Metacritic-score van 99 heeft. En dat 13 jaar nadat het spel uitkwam."
+description: "Het is een cliche die genoemd moet worden: The Legend of Zelda: Ocarina of Time staat bij veel gamers te boek als het beste spel ooit uitgekomen. Onder andere de spelwereld, het geluidsdesign en de toen nog unieke, contextgevoelige besturing zorgden ervoor dat het spel tot de dag van vandaag een…"
 published: 2011-06-21
 modified: 2018-04-28
 tags:

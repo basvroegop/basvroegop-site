@@ -5,22 +5,24 @@ published: 2013-08-24
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /tales-of-xillia-review
   - /artikelen/tales-of-xillia-review
   - /artikelen/recensies/tales-of-xillia-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/tales-of-xillia-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100408/game-van-de-week-tales-xillia.html
 socialImage: ../media/gamepraat/tales-of-xillia-review/92159ffa92.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/tales-of-xillia-review/
 ---
 
 Tales of Xillia is misschien een Japans rollenspel, maar bij het zien van de gevechten tegen monsters en andere bazen zul je al snel denken dat je een vechtspel voorgeschoteld krijgt. De game combineert een snel gevechtssysteem waarbij jouw reflexen belangrijk zijn, namelijk met een uitgebreid statistiekensysteem. Dit betekent dat jij je aanvallen op het juiste moment moet uitvoeren, maar ook moet weten wanneer je opzij moet springen en een combo aan elkaar kunt rijgen.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100408/game-van-de-week-tales-xillia.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100408/game-van-de-week-tales-xillia.html).
 
 Spelers van eerdere spellen in de Tales-serie zal dit gevechtssysteem bekend voorkomen, maar dit nieuwe deel voelt gecompliceerder en ook een stuk slimmer. Waar je in eerdere games drie gewone aanvallen kon doen om de combo af te maken met een 'speciale' vaardigheid, kun je in Xillia vier vaardigheden gebruiken om je eigen combo te maken. Dit betekent dat je met de ene aanval je vijand lanceert, met de ander achter hem aangaat en hem met weer een ander terug de grond in slaat.
 

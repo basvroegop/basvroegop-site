@@ -1,6 +1,6 @@
 ---
 title: "The Elder Scrolls V: Skyrim"
-description: Spelers beginnen in Skyrim op een houten kar, op weg naar het executieblok. Net wanneer je hoofd rust op het houtblok, klaar om eraf gehakt te worden, verschijnt er een draak. Opmerkelijk, want deze wezens zijn al eeuwenlang niet gezien. Verbazing verandert echter snel in chaos, waar je als speler gebruik van maakt om te ontsnappen. Wat volgt is een avontuur waarbij je de wijde spelwereld doortrekt, op zoek naar het geheim achter de terugkeer van de draken. Tenminste, als je daar zin in hebt.
+description: Spelers beginnen in Skyrim op een houten kar, op weg naar het executieblok. Net wanneer je hoofd rust op het houtblok, klaar om eraf gehakt te worden, verschijnt er een draak. Opmerkelijk, want deze wezens zijn al eeuwenlang niet gezien. Verbazing verandert echter snel in chaos, waar je als speler…
 published: 2011-11-17
 modified: 2018-04-28
 tags:

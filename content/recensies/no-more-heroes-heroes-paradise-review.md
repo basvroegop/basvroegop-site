@@ -1,6 +1,6 @@
 ---
 title: "No More Heroes: Heroes' Paradise"
-description: Jij, Travis Touchdown, bent de nummer elf op de ranglijst van huurmoordenaars. Een aardige positie, maar veel liever bereik je de top. Iets dat je alleen voor elkaar krijgt door de tien boven je te doden. Wat volgt is een hack-'n-slash fest dat zijn weerga niet kent. Bijna iedere tegenstander die tussen jou en je volgende doelwit staat wordt wel met een finaleslag van je energiezwaard doormidden gerijt, gevolgd door een fontijn van bloed. Versla je uiteindelijk je doelwit, dan wordt je naam op een ranglijst een plekje omhoog geschoven en begint het feest opnieuw.
+description: Jij, Travis Touchdown, bent de nummer elf op de ranglijst van huurmoordenaars. Een aardige positie, maar veel liever bereik je de top. Iets dat je alleen voor elkaar krijgt door de tien boven je te doden. Wat volgt is een hack-'n-slash fest dat zijn weerga niet kent. Bijna iedere tegenstander die…
 published: 2011-05-31
 modified: 2018-04-28
 tags:

@@ -5,22 +5,24 @@ published: 2012-06-21
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /lollipop-chainsaw-review
   - /artikelen/lollipop-chainsaw-review
   - /artikelen/recensies/lollipop-chainsaw-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/lollipop-chainsaw-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1103452/game-van-de-week-lollipop-chainsaw.html
 socialImage: ../media/gamepraat/lollipop-chainsaw-review/20d14757e1.jpg
 publish: true
+republishedAt: https://gamepraat.nl/lollipop-chainsaw-review/
 ---
 
 Ontwikkelaar Suda51 is inmiddels een cultsymbool. Spellen van deze Japanner bevatten vaak een flinke lading geweld en pulp, maar zoeken zo de grenzen op dat je bijna kunt spreken over satire. Zo wist het Wii-spel __No More Heroes__ de grenzen van geweld op te zoeken door het bloedfestijn op het scherm zoveel mogelijk te verheerlijken. Dit zorgde voor een extra laag: het spel kan inmiddels gezien worden als commentaar op de huidige entertainmentindustrie waarin het gebruik van bloederige scènes de norm is geworden.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103452/game-van-de-week-lollipop-chainsaw.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103452/game-van-de-week-lollipop-chainsaw.html).
 
 Lollipop Chainsaw zet de trend van No More Heroes voort. Spelers kruipen in de huid van een cheerleader annex zombiejager, die er op school achterkomt dat al haar schoolgenoten zijn geïnfecteerd met een zombievirus. Aan haar de taak om met een kettingzaag door de ondode hordes te hakken.
 

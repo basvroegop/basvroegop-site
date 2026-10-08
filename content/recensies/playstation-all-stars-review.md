@@ -1,31 +1,28 @@
 ---
 title: PlayStation All-Stars
-description: |-
-  Hoe Sony zich laat inspireren door Apple. Koop je de game voor de Playstation 3, dan kun je hem ook installeren op je Playstation Vita.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Het lijkt een klein wonder dat een game zoals Playstation All-Stars überhaupt de winkels wist te bereiken. In dit spel vind je namelijk een twintigtal personages waarvan de rechten nagenoeg bij andere bedrijven liggen. Hierdoor kun je als Kratos uit God of War vechten tegen Danté uit Devil May Cry, of in de huid kruipe
+description: Hoe Sony zich laat inspireren door Apple. Koop je de game voor de Playstation 3, dan kun je hem ook installeren op je Playstation Vita.
 published: 2012-11-28
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /playstation-all-stars-review
   - /artikelen/playstation-all-stars-review
   - /artikelen/recensies/playstation-all-stars-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/playstation-all-stars-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1102322/game-van-de-week-playstation-all-stars.html
 socialImage: ../media/gamepraat/playstation-all-stars-review/3a2bdcee91.webp
 publish: true
+republishedAt: https://gamepraat.nl/playstation-all-stars-review/
 ---
 
 **Hoe Sony zich laat inspireren door Apple. Koop je de game voor de Playstation 3, dan kun je hem ook installeren op je Playstation Vita.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102322/game-van-de-week-playstation-all-stars.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102322/game-van-de-week-playstation-all-stars.html).
 
 Het lijkt een klein wonder dat een game zoals Playstation All-Stars überhaupt de winkels wist te bereiken. In dit spel vind je namelijk een twintigtal personages waarvan de rechten nagenoeg bij andere bedrijven liggen. Hierdoor kun je als Kratos uit _God of War_ vechten tegen Danté uit _Devil May Cry_, of in de huid kruipen van bijvoorbeeld de Big Daddy uit _BioShock_ of Raiden uit _Metal Gear_. Het spelprincipe zal Nintendo-fans niet onbekend in de oren klinken: Nintendo doet met zijn Super Smash Bros.-reeks sinds het Nintendo 64-tijdperk al ongeveer hetzelfde. Sony's variant voelt zelfs speltechnisch ontzettend als Nintendo's games.
 

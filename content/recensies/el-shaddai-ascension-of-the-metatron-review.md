@@ -1,6 +1,6 @@
 ---
 title: "El Shaddai: Ascension of the Metatron"
-description: Het komt niet vaak voor dat een game met het budget van El Shaddai een bijbeltekst probeert uit te spelen - laat staan zo'n controversiële als het Boek van Henoch. Hoewel dit een van de oudste Christelijke teksten is, wordt hij alleen geaccepteerd bij bepaalde geloofsgemeenschappen. Nu is het vooral de Ethiopisch-orthodoxe kerk die de tekst serieus neemt.
+description: Het komt niet vaak voor dat een game met het budget van El Shaddai een bijbeltekst probeert uit te spelen - laat staan zo'n controversiële als het Boek van Henoch. Hoewel dit een van de oudste Christelijke teksten is, wordt hij alleen geaccepteerd bij bepaalde geloofsgemeenschappen. Nu is het…
 published: 2011-09-07
 modified: 2018-04-28
 tags:

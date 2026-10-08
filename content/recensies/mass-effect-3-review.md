@@ -1,6 +1,6 @@
 ---
 title: Mass Effect 3
-description: "De eerste Mass Effect-game was ambitieus. Door elementen van shooters te mengen met RPG’s, probeerde ontwikkelaar BioWare een speluniversum te maken dat zich aan de vroege Star Trek\\-seizoenen en Star Wars\\-films kon meten. Terwijl jij als speler het universum probeerde te redden van een oud robotras genaamd de Reapers, maakte je keuzes met grote gevolgen. Keuzes die de rest van de trilogie van belang zouden zijn: begon je namelijk met Mass Effect 2, dan kreeg je de optie om je personage uit het eerste spel te importeren. Dit bepaalde wie er nog in leven was, hoe de huidige regering eruit zag en met wie je een romantisch verleden deelde in het tweede spel. Twee spellen later heeft bijna iedereen wel een personage dat iets anders in elkaar steekt. Bij sommigen leven oude bekenden nog, terwijl anderen voor hun eigen gewin kozen. Sommigen gingen vreemd in Mass Effect 2, terwijl anderen trouw bleven aan hun liefje uit Mass Effect 1."
+description: De eerste Mass Effect-game was ambitieus. Door elementen van shooters te mengen met RPG’s, probeerde ontwikkelaar BioWare een speluniversum te maken dat zich aan de vroege Star Trek\-seizoenen en Star Wars\-films kon meten. Terwijl jij als speler het universum probeerde te redden van een oud…
 published: 2012-03-09
 modified: 2018-04-28
 tags:

@@ -1,33 +1,28 @@
 ---
 title: Toki Tori 2
-description: |-
-  Mysterieus puzzelspel van Nederlandse bodem.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Toki Tori 2 is een downloadgame voor de Wii U afkomstig van Nederlandse bodem. Bijzonder, aangezien de Wii U op het moment van schrijven nog niet absurd veel spellen heeft die je in Nintendo's 'app store' kunt downloaden. Daarmee weet ontwikkelaar Two Tribes de aandacht op zich te vestigen - aandacht die ze kunnen gebruiken om een aantal niet conventionele spelideeën aan een flink publiek te laten zien.
-
-  In 
+description: Mysterieus puzzelspel van Nederlandse bodem.
 published: 2013-04-13
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /toki-tori-2-review
   - /artikelen/toki-tori-2-review
   - /artikelen/recensies/toki-tori-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/toki-tori-2-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1101370/game-van-de-week-toki-tori-2.html
 socialImage: ../media/gamepraat/toki-tori-2-review/e9fd1e6418.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/toki-tori-2-review/
 ---
 
 **Mysterieus puzzelspel van Nederlandse bodem.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101370/game-van-de-week-toki-tori-2.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101370/game-van-de-week-toki-tori-2.html).
 
 Toki Tori 2 is een downloadgame voor de Wii U afkomstig van Nederlandse bodem. Bijzonder, aangezien de Wii U op het moment van schrijven nog niet absurd veel spellen heeft die je in Nintendo's 'app store' kunt downloaden. Daarmee weet ontwikkelaar Two Tribes de aandacht op zich te vestigen - aandacht die ze kunnen gebruiken om een aantal niet conventionele spelideeën aan een flink publiek te laten zien.
 

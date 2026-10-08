@@ -1,31 +1,28 @@
 ---
 title: Super Crate Box
-description: |-
-  De Nederlandse indie-hit Super Crate Box is voor de iPhone en iPad verschenen. 
-
-  💡Deze review verscheen eerder op Bright.
-
-  De Nederlandse indie-game Super Crate Box bood in 2010 al een aparte spelervaring met een simpel concept: door je punten te geven voor het oppikken van wapenkratten in plaats van het doden van vijanden. De game genoot internationale aandacht, met een optreden op het International Games Festival als gevolg. Later zou ontwikkelaar Vlambeer ook nog een vliegreisje maken met Ma
+description: De Nederlandse indie-hit Super Crate Box is voor de iPhone en iPad verschenen.
 published: 2012-01-06
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /super-crate-box-review
   - /artikelen/super-crate-box-review
   - /artikelen/recensies/super-crate-box-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/super-crate-box-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1104765/game-van-de-week-super-crate-box-ios.html
 socialImage: ../media/gamepraat/super-crate-box-review/8d06cdf8d1.jpg
 publish: true
+republishedAt: https://gamepraat.nl/super-crate-box-review/
 ---
 
 **De Nederlandse indie-hit Super Crate Box is voor de iPhone en iPad verschenen.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104765/game-van-de-week-super-crate-box-ios.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104765/game-van-de-week-super-crate-box-ios.html).
 
 De Nederlandse indie-game Super Crate Box bood in 2010 al een aparte spelervaring met een simpel concept: door je punten te geven voor het oppikken van wapenkratten in plaats van het doden van vijanden. De game genoot internationale aandacht, met een optreden op het [International Games Festival](http://bright.nl/verkiezing-beste-indie-game-van-2010?ref=gamepraat.nl) als gevolg. Later zou ontwikkelaar Vlambeer ook nog een vliegreisje maken met Markus Persson, de maker van Minecraft. Anderhalf jaar na dato heeft Vlambeer de handen ineengeslagen met Halfbot ([The Blocks Cometh](http://www.halfbot.com/?page_id=279&ref=gamepraat.nl)), om het spel ook uit te brengen voor de iPhone en iPad. Een succes: in de eerste paar uur dat de game beschikbaar was, werden er meer dan [800.000 kratjes](http://www.iphoneclub.nl/160471/super-crate-box-nederlandse-culthit-op-de-iphone-verschenen/?ref=gamepraat.nl) door spelers verzameld. Dat aantal is inmiddels al opgelopen tot in de miljoenen.
 

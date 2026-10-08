@@ -5,22 +5,24 @@ published: 2012-01-21
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /dustforce-review
   - /artikelen/dustforce-review
   - /artikelen/recensies/dustforce-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dustforce-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1104649/game-van-de-week-dustforce.html
 socialImage: ../media/gamepraat/dustforce-review/0b359d500f.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/dustforce-review/
 ---
 
 Wie had ooit gedacht een game met vier schoonmakers in de hoofdrol te spelen? In plaats van het verzamelen van muntjes of andere voorwerpen moeten spelers in Dustforce de bladeren in het level opvegen. Hoe efficiënter je bent, hoe hoger je op de ranglijst eindigt.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104649/game-van-de-week-dustforce.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104649/game-van-de-week-dustforce.html).
 
 Dustforce benut alles dat je in een hedendaags 2d-platformspel hoopt te vinden: je kunt springen, slaan en zelfs een stukje vooruit schieten om vaart te maken. Tegen muren loop je op door je er tegenaan te drukken en zelfs aan plafonds is vast te klampen. Hierdoor heb je als speler zoveel bewegingsvrijheid, dat er weinig situaties zijn waarin je niet een manier kunt bedenken om je weg door een level voort te zetten.
 

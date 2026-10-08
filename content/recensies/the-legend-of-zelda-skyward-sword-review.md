@@ -1,6 +1,6 @@
 ---
 title: "The Legend of Zelda: Skyward Sword"
-description: "De belofte die Nintendo maakte bij The Legend of Zelda: Skyward Sword was groot. Dit zou de eerste voor de Wii ontwikkelde Zelda-game worden, die ook nog eens volledig gebruik zou maken van de verbeterde bewegingsbesturing van de Wii Motion Plus. Iedere beweging die jij met je rechterhand zou maken, zou zich netjes vertalen in een beweging van Link’s zwaard op het scherm. Het technische resultaat zit iets simpeler in elkaar: een gemaakte zwaardslag wordt vertaald in een aanval vanuit één van de acht kompaspunten in de juiste richting. Nodig, gezien dit ruimte geeft in het spel om de bewegingsbesturing slim in spelpuzzels te verwerken."
+description: "De belofte die Nintendo maakte bij The Legend of Zelda: Skyward Sword was groot. Dit zou de eerste voor de Wii ontwikkelde Zelda-game worden, die ook nog eens volledig gebruik zou maken van de verbeterde bewegingsbesturing van de Wii Motion Plus. Iedere beweging die jij met je rechterhand zou…"
 published: 2011-11-24
 modified: 2018-04-28
 tags:

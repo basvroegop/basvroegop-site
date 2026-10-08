@@ -1,6 +1,6 @@
 ---
 title: TERA
-description: "TERA weet al een paar jaar op gamebeurzen de aandacht te trekken met zijn unieke gevechtssysteem. Een muisklik oftoetsindruk van de speler zorgt ervoor dat je direct een aanval uitvoert, terwijl je door rond te lopen, te rollen en te blokkeren probeert schade van je vijand te vermijden. Het zorgt ervoor dat je TERA op latere levels niet kunt spelen zoals andere MMORPG's, waarbij je op een paar knopjes kunt drukken terwijl je half afgeleid naar de televisie tuurt. De belofte van een volwaardige actie-RPG maakt de ontwikkelaar alleen niet waar: na verloop van tijd wordt het steeds duidelijker dat je traditiegetrouw nog steeds aanvalsrotaties uitvoert, waarbij je moet wachten totdat een bepaalde vaardigheid weer te gebruiken is voor een volgende aanvalsronde. Gevechten zijn daardoor vooral een mix tussen traditionele MMORPG-elementen en actiespellen."
+description: TERA weet al een paar jaar op gamebeurzen de aandacht te trekken met zijn unieke gevechtssysteem. Een muisklik oftoetsindruk van de speler zorgt ervoor dat je direct een aanval uitvoert, terwijl je door rond te lopen, te rollen en te blokkeren probeert schade van je vijand te vermijden. Het zorgt…
 published: 2012-05-14
 modified: 2018-04-28
 tags:

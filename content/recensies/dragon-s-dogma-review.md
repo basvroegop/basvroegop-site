@@ -1,6 +1,6 @@
 ---
 title: Dragon's Dogma
-description: De Japanse ontwikkelaar Capcom heeft bijna al zijn troepen ingezet op de ontwikkeling van Dragon's Dogma. Het spel is Capcoms ultieme poging om een westerse markt te bereiken, een strategie die steeds meer Japanse studio's toepassen naarmate de Japanse gamesmarkt krimpt. Capcom leidt deze revolutie al een tijdje met spellen zoals Lost Planet en Dead Rising, maar zette zelden zo volledig in op een westers ogend spel.
+description: De Japanse ontwikkelaar Capcom heeft bijna al zijn troepen ingezet op de ontwikkeling van Dragon's Dogma. Het spel is Capcoms ultieme poging om een westerse markt te bereiken, een strategie die steeds meer Japanse studio's toepassen naarmate de Japanse gamesmarkt krimpt. Capcom leidt deze revolutie…
 published: 2012-06-14
 modified: 2018-04-28
 tags:

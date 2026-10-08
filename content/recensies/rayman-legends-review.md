@@ -5,22 +5,24 @@ published: 2013-09-16
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /rayman-legends-review
   - /artikelen/rayman-legends-review
   - /artikelen/recensies/rayman-legends-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/rayman-legends-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100260/game-van-de-week-rayman-legends.html
 socialImage: ../media/gamepraat/rayman-legends-review/f452eb9014.webp
 publish: true
+republishedAt: https://gamepraat.nl/rayman-legends-review/
 ---
 
 Rayman Legends is een platformgame, maar we waarderen de game niet specifiek om de vele ren- en springsegmenten. Waar Rayman echt in uitblinkt is de asynchrone multiplayer die je alleen in de Wii U-versie zult vinden. De ene speler pakt de gewone controller erbij en speelt Rayman als iedere andere 2D-game, terwijl de ander op de tablet monsters kietelt, platformen beweegt, kettingen heen en weer slingert en op andere manieren de spelwereld beïnvloedt.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100260/game-van-de-week-rayman-legends.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100260/game-van-de-week-rayman-legends.html).
 
 De vele manieren waarop de tabletspeler de wereld manipuleert helpen de eerste speler, wat zorgt voor een samenwerking die je niet in veel andere multiplayer-spellen ziet. Dit zorgt er ook voor dat je met flink wat mensen tegelijkertijd kunt spelen. Rayman Legends ondersteunt vier spelers op het scherm en een enkeling op de tablet tegelijkertijd.
 

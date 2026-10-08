@@ -1,6 +1,6 @@
 ---
 title: "Uncharted 3: Drake's Deception"
-description: "Spelers van het eerste uur zal het nieuwste avontuur van Nathan Drake bekend in de oren klinken: naar aanleiding van een voorwerp van zijn voorvader vliegt hij de wereld over, op zoek naar verborgen geheimen. Uiteindelijk komt hij 'het Atlantis van het zand' op het spoor, een oude, mythologische stad die gevuld zou zijn met schatten en eeuwenoude artefacten. Ondertussen probeert een oude bekende van Drake en zijn mentor Sully samen met haar kornuiten de stad eerder te bereiken, maar om ogenschijnlijk foute redenen. De relatie tussen Drake en Sully wordt op de proef gesteld, terwijl je als speler eindelijk leert wat er tussen de twee speelt."
+description: "Spelers van het eerste uur zal het nieuwste avontuur van Nathan Drake bekend in de oren klinken: naar aanleiding van een voorwerp van zijn voorvader vliegt hij de wereld over, op zoek naar verborgen geheimen. Uiteindelijk komt hij 'het Atlantis van het zand' op het spoor, een oude, mythologische…"
 published: 2011-11-11
 modified: 2018-04-28
 tags:

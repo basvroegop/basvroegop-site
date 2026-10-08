@@ -13,6 +13,7 @@
     "docs": "npx quartz build --serve -d docs",
     "import:publications": "node scripts/import-publications.mjs",
     "import:nrc": "node scripts/import-nrc.mjs",
+    "import:bright": "node scripts/import-bright.mjs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

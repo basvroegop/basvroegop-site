@@ -5,22 +5,24 @@ published: 2013-08-06
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /pikmin-3-review
   - /artikelen/pikmin-3-review
   - /artikelen/recensies/pikmin-3-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pikmin-3-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100550/game-van-de-week-pikmin-3.html
 socialImage: ../media/gamepraat/pikmin-3-review/ebdd41f9b6.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/pikmin-3-review/
 ---
 
 Strategiespellen vertellen vaak onpersoonlijke verhalen. Je bent de gezichtsloze commandant die zijn troepen van bovenaf bekijkt en die offer na offer zonder enige wrok maakt om de strijd maar te winnen. Het is daarom bijzonder dat Nintendo's alternatief voor het genre het totaal anders aanpakt. In Pikmin 3 speel je een groep astronauten die echt op de planeet rondloopt, en daar troepen bestaande uit plantwezens moet commanderen. De kleine poppetjes hebben alleen zoveel karakter, dat je er van zult balen als een groep een gevecht verliest.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100550/game-van-de-week-pikmin-3.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100550/game-van-de-week-pikmin-3.html).
 
 De game doet alles om je te laten geven om je Pikmin, om ze vervolgens soms met tientallen tegelijkertijd dood te laten gaan. Je hart breekt als je aan het einde van een dag in de game weer in je schip moet kruipen, om te zien dat je twee Pikmin achterlaat - die dan door wilde beesten worden verslonden.
 

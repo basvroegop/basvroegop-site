@@ -1,6 +1,6 @@
 ---
 title: Brink
-description: "In Brink vinden we onszelf op de Ark, een enorme varende stad die onder de inwoners bekend staat als de laatste plek van de beschaving. De immense groei van de capitool zorgt echter voor onrust en voedseltekorten onder de bewoners. Er vormt zich al snel een verzet dat de Ark hoopt te ontsnappen, om op zoek te gaan naar een nieuwe woonplek. Jij als speler krijgt de keuze: sluit jij je aan bij dit verzet, om ook te vechten tegen de ferme grip die de regering op zijn stad heeft, of word je deel van de militaire macht die poogt orde te bewaren?"
+description: In Brink vinden we onszelf op de Ark, een enorme varende stad die onder de inwoners bekend staat als de laatste plek van de beschaving. De immense groei van de capitool zorgt echter voor onrust en voedseltekorten onder de bewoners. Er vormt zich al snel een verzet dat de Ark hoopt te ontsnappen, om…
 published: 2011-05-17
 modified: 2018-04-28
 tags:

@@ -5,22 +5,24 @@ published: 2011-03-29
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /sword-and-sworcery-review
   - /artikelen/sword-and-sworcery-review
   - /artikelen/recensies/sword-and-sworcery-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/sword-and-sworcery-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1106749/game-van-de-week-sword-and-sworcery.html
 socialImage: ../media/gamepraat/sword-and-sworcery-review/ec085dab9f.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/sword-and-sworcery-review/
 ---
 
 Denk aan een mengelmoes van __The Legend of Zelda__ en __Ico__, en je hebt __Superbrothers: Sword & Sworcery EP__. De game richt zich vooral op het ontdekken en onderzoeken van gebieden, waar de nodige simpele puzzels zijn om op te lossen. Vechten zul je niet vaak doen (jammer, want gevechten zijn eenvoudig maar leuk), wat betekent dat je vooral ronddoolt door de spelwereld. Een atmosferische ervaring die dankzij de soundtrack een diepe indruk achterlaat. Dit is een spel dat je thuis, alleen en met een koptelefoon op moet spelen.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106749/game-van-de-week-sword-and-sworcery.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106749/game-van-de-week-sword-and-sworcery.html).
 
 Ondanks de stijlvolle, pixelachtige beelden zijn de meeste interacties in Sword & Sworcery soepel en met detail geanimeerd. Hierdoor voelt de wereld een stuk levendiger aan dan je waarschijnlijk gewend bent van een pixelgame. Niks nieuws voor een indiegame, maar gezien de lekkere beelden draagt het alleen nog maar meer bij aan de sterke atmosfeer.
 

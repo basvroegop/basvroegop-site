@@ -1,6 +1,6 @@
 ---
 title: SimCity
-description: De kans is groot dat je afgelopen week het een en ander over SimCity hebt gelezen. Het feit dat de game een online verbinding vereist om te spelen, liet al wat stof opwaaien voor de verschijning. Die rel werd vergroot door de massale serverproblemen die kort na verschijning opspeelden. Gamers die de game op dag één in huis haalden, waren niet in staat om aan de slag te gaan. Dat terwijl vorige delen juist bekend stonden om hun eenspelermodus.
+description: De kans is groot dat je afgelopen week het een en ander over SimCity hebt gelezen. Het feit dat de game een online verbinding vereist om te spelen, liet al wat stof opwaaien voor de verschijning. Die rel werd vergroot door de massale serverproblemen die kort na verschijning opspeelden. Gamers die…
 published: 2013-03-14
 modified: 2018-04-28
 tags:

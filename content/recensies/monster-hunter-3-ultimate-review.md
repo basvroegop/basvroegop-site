@@ -1,6 +1,6 @@
 ---
 title: Monster Hunter 3 Ultimate
-description: Het principe van de gamereeks is in Monster Hunter 3 Ultimate onveranderd. Het dorp waar je als jager in woont geeft je opdrachten, die helpen met het beschermen en verbeteren van je leefomgeving. In het begin van de game zul je kruiden of paddestoelen moeten verzamelen, maar na verloop van tijd mag je jagen op eerst kleine en uiteindelijk ook forse monsters in de game. Hoe verder je komt, hoe groter en sterker de monsters worden.
+description: Het principe van de gamereeks is in Monster Hunter 3 Ultimate onveranderd. Het dorp waar je als jager in woont geeft je opdrachten, die helpen met het beschermen en verbeteren van je leefomgeving. In het begin van de game zul je kruiden of paddestoelen moeten verzamelen, maar na verloop van tijd…
 published: 2013-03-20
 modified: 2018-04-28
 tags:

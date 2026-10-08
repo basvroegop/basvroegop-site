@@ -1,6 +1,6 @@
 ---
 title: Sleeping Dogs
-description: Dat spellen in een gangsterwereld niet alleen over stoere jongens en grote wapens hoeven te gaan, bewees Grand Theft Auto IV jaren geleden al. Het wachten op het vijfde deel in de befaamde serie zal geheid nog even duren, maar tot die tijd is er gelukkig Sleeping Dogs. Dit open wereld-spel lijkt in de eerste instantie het spelidee van Grand Theft Auto te lenen, maar blijkt ook naar de manier van verhaalvertelling te kijken.
+description: Dat spellen in een gangsterwereld niet alleen over stoere jongens en grote wapens hoeven te gaan, bewees Grand Theft Auto IV jaren geleden al. Het wachten op het vijfde deel in de befaamde serie zal geheid nog even duren, maar tot die tijd is er gelukkig Sleeping Dogs. Dit open wereld-spel lijkt in…
 published: 2012-08-17
 modified: 2018-04-28
 tags:

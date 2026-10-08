@@ -1,31 +1,28 @@
 ---
 title: Final Fantasy XIV
-description: |-
-  Final Fantasy XIV heeft wat opstartproblemen. Maar daarachter schuilt de meest bijzondere online wereld in jaren.
-
-  💡Deze review verscheen eerder op Bright.
-
-  De cijfervolgorde van de Final Fantasy-spellen is compleet naar de knoppen. Niet alleen is Final Fantasy Versus XIII omgedoopt naar Final Fantasy XV, maar deze zomer is Final Fantasy XIV ook voor een tweede maal uitgekomen. De eerste versie van Final Fantasy XIV was een groots, online rollenspel, waarin spelers als één van de klassen uit tr
+description: Final Fantasy XIV heeft wat opstartproblemen. Maar daarachter schuilt de meest bijzondere online wereld in jaren.
 published: 2013-09-05
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /final-fantasy-xiv-review
   - /artikelen/final-fantasy-xiv-review
   - /artikelen/recensies/final-fantasy-xiv-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-xiv-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100322/game-van-de-week-final-fantasy-xiv.html
 socialImage: ../media/gamepraat/final-fantasy-xiv-review/1f70a27362.webp
 publish: true
+republishedAt: https://gamepraat.nl/final-fantasy-xiv-review/
 ---
 
 **_Final Fantasy XIV_ heeft wat opstartproblemen. Maar daarachter schuilt de meest bijzondere online wereld in jaren.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100322/game-van-de-week-final-fantasy-xiv.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100322/game-van-de-week-final-fantasy-xiv.html).
 
 De cijfervolgorde van de Final Fantasy-spellen is compleet naar de knoppen. Niet alleen is Final Fantasy Versus XIII omgedoopt naar Final Fantasy XV, maar deze zomer is Final Fantasy XIV ook voor een tweede maal uitgekomen. De eerste versie van Final Fantasy XIV was een groots, online rollenspel, waarin spelers als één van de klassen uit traditionele Final Fantasy-spellen konden spelen. Een ambitieus voornemen, maar het daadwerkelijke spel was bij lange na niet af. Waar de meeste games de ruimte krijgen om te falen, kon Square Enix zich niet permitteren dat een deel in de grote Final Fantasy-reeks slecht werd ontvangen. Er werd daarom een nieuw team op de game gezet, die een totaal vernieuwde versie op de markt zou brengen.
 

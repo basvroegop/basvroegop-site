@@ -1,31 +1,28 @@
 ---
 title: Metal Gear Solid HD Collection
-description: |-
-  De grenzen tussen draagbare en gewone spelcomputers vervagen. Wel jammer dat Sony verwacht dat je twee versies van één game koopt.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Konami brengt met Metal Gear Solid: HD Collection de Playstation 2-klassiekers Metal Gear Solid 2 en Metal Gear Solid 3 uit op de Playstation Vita. Dat is bijzonder: beide spellen waren voor lange tijd het voorbeeld van een cinematische ervaring op een spelcomputer, wat nu ook onderweg in de trein mogelijk is. Dat is alleen
+description: De grenzen tussen draagbare en gewone spelcomputers vervagen. Wel jammer dat Sony verwacht dat je twee versies van één game koopt.
 published: 2012-06-27
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /metal-gear-solid-hd-collection-review
   - /artikelen/metal-gear-solid-hd-collection-review
   - /artikelen/recensies/metal-gear-solid-hd-collection-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/metal-gear-solid-hd-collection-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1103417/game-van-de-week-metal-gear-solid-hd-collection.html
 socialImage: ../media/gamepraat/metal-gear-solid-hd-collection-review/bd111a7642.webp
 publish: true
+republishedAt: https://gamepraat.nl/metal-gear-solid-hd-collection-review/
 ---
 
 **De grenzen tussen draagbare en gewone spelcomputers vervagen. Wel jammer dat Sony verwacht dat je twee versies van één game koopt.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103417/game-van-de-week-metal-gear-solid-hd-collection.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103417/game-van-de-week-metal-gear-solid-hd-collection.html).
 
 Konami brengt met _Metal Gear Solid: HD Collection_ de Playstation 2-klassiekers _Metal Gear Solid 2_ en _Metal Gear Solid 3_ uit op de Playstation Vita. Dat is bijzonder: beide spellen waren voor lange tijd het voorbeeld van een cinematische ervaring op een spelcomputer, wat nu ook onderweg in de trein mogelijk is. Dat is alleen niet wat de Metal Gear Solid-collectie op de Vita zo uniek maakt (Metal Gear Solid 3 verscheen eerder dit jaar immers ook op de Nintendo 3DS). De gamecollectie zet de grootste stappen richting het samenbrengen van de spelcomputer en de zakspelcomputer tot nu toe.
 

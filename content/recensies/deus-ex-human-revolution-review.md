@@ -1,6 +1,6 @@
 ---
 title: "Deus Ex: Human Revolution"
-description: "Adam Jensen is beveiligingsofficier bij Sarif Industries, een internationale autoriteit wat betreft protheses. Dat is een stuk cooler dan het klinkt: het jaar is namelijk 2027 en dit soort artificiële ledematen zijn zo ver doorontwikkeld dat ze een beter alternatief dan het natuurlijke origineel. Mechanische armen tillen makkelijk een zware container op, benen rennen zo snel als een olympisch sprinter en bionische ogen laten je zien wat je normaal nooit zou zien."
+description: "Adam Jensen is beveiligingsofficier bij Sarif Industries, een internationale autoriteit wat betreft protheses. Dat is een stuk cooler dan het klinkt: het jaar is namelijk 2027 en dit soort artificiële ledematen zijn zo ver doorontwikkeld dat ze een beter alternatief dan het natuurlijke origineel.…"
 published: 2011-08-31
 modified: 2018-04-28
 tags:

@@ -5,22 +5,24 @@ published: 2013-05-15
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /neverwinter-review
   - /artikelen/neverwinter-review
   - /artikelen/recensies/neverwinter-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/neverwinter-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1101146/game-van-de-week-neverwinter.html
 socialImage: ../media/gamepraat/neverwinter-review/500e88afc4.jpg
 publish: true
+republishedAt: https://gamepraat.nl/neverwinter-review/
 ---
 
 __Dungeons & Dragons__ worstelt er mee om populair te blijven. Het rollenspel is de absolute voorvader van alle avonturenspellen. Inmiddels zijn er genoeg games die een alternatief bieden, waardoor de omslachtigheid van Dungeons & Dragons voor sommigen de moeite niet meer waard is. Het rollenspel moet evolueren, en dat zie je terug in Neverwinter.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101146/game-van-de-week-neverwinter.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101146/game-van-de-week-neverwinter.html).
 
 Deze gratis MMORPG vindt plaats in de stad Neverwinter, misschien wel de meest legendarische stad in het Forgotten Realms-universum van Dungeons & Dragons. Dat is voor gamers geen nieuwe plek: __Neverwinter Nights__ van BioWare zette deze stad ook centraal. Waar Neverwinter Nights echter zijn best deed om Dungeons & Dragons te vertalen naar een online spelbord, is Neverwinter hooguit geïnspireerd op wat het klassieke rollenspel zo leuk maakt. Gevechten zijn snel, vereisen dat je veel heen en weer springt en vragen niet veel van je hersencapaciteit. Het praten met stadsbewoners, oplossen van mysteries en ontmantelen van vallen zit nog in de game, maar heeft ruimte gemaakt voor de actie.
 

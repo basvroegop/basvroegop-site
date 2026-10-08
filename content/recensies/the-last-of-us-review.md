@@ -1,6 +1,6 @@
 ---
 title: The Last of Us
-description: Al jaren schieten we legioenen aan zombies dood in games, maar pas sindskort nemen we een serieus kijkje naar de met zombies gevulde wereld in spellen. The Walking Dead gaf ons de nodige moeilijke keuzes, waarbij je vaak mensen moest verraden om te overleven in de verwoeste wereld. The Last of Us speelt verder op dit principe, maar biedt tegelijkertijd een actiegame van de makers van Uncharted.
+description: Al jaren schieten we legioenen aan zombies dood in games, maar pas sindskort nemen we een serieus kijkje naar de met zombies gevulde wereld in spellen. The Walking Dead gaf ons de nodige moeilijke keuzes, waarbij je vaak mensen moest verraden om te overleven in de verwoeste wereld. The Last of Us…
 published: 2013-06-25
 modified: 2018-04-28
 tags:

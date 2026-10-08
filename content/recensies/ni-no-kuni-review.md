@@ -5,22 +5,24 @@ published: 2013-02-16
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /ni-no-kuni-review
   - /artikelen/ni-no-kuni-review
   - /artikelen/recensies/ni-no-kuni-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/ni-no-kuni-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1101755/game-van-de-week-ni-no-kuni.html
 socialImage: ../media/gamepraat/ni-no-kuni-review/da844a7cf5.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/ni-no-kuni-review/
 ---
 
 De Japanse gamestudio Level 5 is berucht. Al jarenlang maken ze lange, tijdverslindende rollenspellen, waarin je als fantasyheld de wereld moet redden. De spellen zijn vaak traditioneel en vooral heel lastig, waardoor niet iedereen ze met plezier blijft spelen. Alleen gamers die zich al vanaf de 2d-dagen onderdompelen in deze langlopende sages en gecharmeerd zijn van de inmiddels verouderde spelmechanismes weten alles uit een Level 5-rollenspel te halen wat er te vinden is.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101755/game-van-de-week-ni-no-kuni.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101755/game-van-de-week-ni-no-kuni.html).
 
 De Japanse animatiestudio Studio Ghibli is beroemd. Hoewel Japanse animatieseries vaak enkel door Japanse kijkers en een handjevol fanatiekelingen in het westen worden gewaardeerd, is Ghibli er in geslaagd om de gehele wereld te fascineren met zijn films. Het is niet zomaar dat Ghibli in zee is gegaan met Disney, die de films met veel fanfare in de bioscopen uitbrengt. Veel Ghibli-films worden gezien als moderne sprookjes, geprezen om zowel de puurheid als de animatiepracht die er achter schuilt.
 

@@ -1,6 +1,6 @@
 ---
 title: "XCOM Enemy Unknown "
-description: Tussen de vele schietspellen die de laatste jaren de gameswereld in hun greep houden, is XCOM een vreemde eend in de bijt. Het spel heeft net als veel andere titels zwaargewapende soldaten die een aanvallend alienras te lijf gaan, maar pakt de executie hiervan totaal anders aan. Ditmaal ben je niet een soldaat die vanuit de eerste persoon ten strijde trekt, maar een commandant die een team stap voor stap begeleidt.
+description: Tussen de vele schietspellen die de laatste jaren de gameswereld in hun greep houden, is XCOM een vreemde eend in de bijt. Het spel heeft net als veel andere titels zwaargewapende soldaten die een aanvallend alienras te lijf gaan, maar pakt de executie hiervan totaal anders aan. Ditmaal ben je niet…
 published: 2012-11-01
 modified: 2018-04-28
 tags:

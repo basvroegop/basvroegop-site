@@ -5,22 +5,24 @@ published: 2012-08-08
 modified: 2022-09-16
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /thomas-was-alone-review
   - /artikelen/thomas-was-alone-review
   - /artikelen/recensies/thomas-was-alone-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/thomas-was-alone-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1103151/game-van-de-week-thomas-was-alone.html
 socialImage: ../media/gamepraat/thomas-was-alone-review/a040b90cbc.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/thomas-was-alone-review/
 ---
 
 In Thomas Was Alone volg je geen ridders, soldaten of magiërs tijdens een reis door gedetailleerde omgevingen. In plaats daarvan bestuur je een groep vierkante en rechthoekige blokjes, tijdens hun reis door een zwarte, hoekige wereld. We weten het, dat klinkt niet heel spannend, maar het tegendeel is waar.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103151/game-van-de-week-thomas-was-alone.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103151/game-van-de-week-thomas-was-alone.html).
 
 Aan het begin van ieder level hoor je namelijk een verhaalverteller ingesproken door de Britse komiek Danny Wallace, die je vertelt wat er allemaal door het hoofd van deze blokjes heen speelt. Hierdoor krijgen deze ogenschijnlijk dode spelfiguren al snel een eigen persoonlijkheid. Het gemiddeld gevormde rechthoek Thomas blijkt al snel een avontuurlijke en onschuldige gozer, terwijl de kleine Chris een jaloers en mopperig type is. De persoonlijkheden van de figuren zijn nauw verbonden aan de vorm van het spelfiguur: zo is Greg's mopperigheid bijvoorbeeld te danken aan zijn kleine postuur, wat er in de spelwereld voor zorgt dat hij niet heel hoog kan springen.
 

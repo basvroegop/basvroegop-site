@@ -1,33 +1,28 @@
 ---
 title: ZombiU
-description: |-
-  Het voorbeeld voor toekomstige Wii U-spellen.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Nintendo heeft met de Wii U weer een nieuwe spelcomputer uitgebracht. Traditiegetrouw komen de beste nieuwe games uit Nintendo’s eigen keuken, maar ditmaal lijkt het tegendeel waar: Ubisoft’s ZombiU weet de nieuwe controller van Nintendo op zo’n bijzondere manier te gebruiken, dat we alleen maar enthousiast kunnen worden van de toekomstplannen van andere ontwikkelaars.
-
-  Het sleutelstuk van de Wii U is de ni
+description: Het voorbeeld voor toekomstige Wii U-spellen.
 published: 2012-12-09
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /zombiu-review
   - /artikelen/zombiu-review
   - /artikelen/recensies/zombiu-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/zombiu-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1102247/game-van-de-week-zombiu.html
 socialImage: ../media/gamepraat/zombiu-review/ff1b5c4049.jpg
 publish: true
+republishedAt: https://gamepraat.nl/zombiu-review/
 ---
 
 **Het voorbeeld voor toekomstige Wii U-spellen.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102247/game-van-de-week-zombiu.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102247/game-van-de-week-zombiu.html).
 
 Nintendo heeft met de [Wii U](https://bright.nl/eerste-indruk-nintendo-wii-u?ref=gamepraat.nl) weer een nieuwe spelcomputer uitgebracht. Traditiegetrouw komen de beste nieuwe games uit Nintendo’s eigen keuken, maar ditmaal lijkt het tegendeel waar: Ubisoft’s _ZombiU_ weet de nieuwe controller van Nintendo op zo’n bijzondere manier te gebruiken, dat we alleen maar enthousiast kunnen worden van de toekomstplannen van andere ontwikkelaars.
 

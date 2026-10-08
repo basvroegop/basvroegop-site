@@ -5,22 +5,24 @@ published: 2011-07-27
 modified: 2022-07-12
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /from-dust-review
   - /artikelen/from-dust-review
   - /artikelen/recensies/from-dust-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/from-dust-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1105730/game-van-de-week-dust.html
 socialImage: ../media/gamepraat/from-dust-review/8d7626f3e9.webp
 publish: true
+republishedAt: https://gamepraat.nl/from-dust-review/
 ---
 
 In From Dust ben je niet iets tastbaars. Je wordt in het begin van het spel beschreven als de wind, een stille speler op de achtergrond van het dagelijks leven van een volksstam die in harde natuurgebieden leeft. Jij beïnvloedt de wereld om hun heen door de natuur te bewerken. Gametechnisch komt het er op neer dat je een zwevende cursor bent die zand, water en lava oppikt, om het daarna op een andere plek weer neer te leggen. Moet een dorpeling bijvoorbeeld naar de andere kant van het water, dan bouw je met zand een brug voor hem zodat hij kan oversteken.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1105730/game-van-de-week-dust.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1105730/game-van-de-week-dust.html).
 
 Alle elementen waarmee je in aanraking hebt hebben een natuurlijk effect op elkaar: water spoelt mettertijd zand weg, lava versteent wanneer het met water in aanraking komt en loopt langs groeven wanneer je dezen graaft.
 

@@ -1,6 +1,6 @@
 ---
 title: Rage
-description: Toen id Software begin jaren 90 Wolfenstein 3D uitbracht, definieerde de ontwikkelaar first person shooters. Doom, nog een schietspel uit dezelfde studio, was een van de spellen die je echt het gevoel gaf door een driedimensionale ruimte te lopen. Hoewel je in Wolfenstein 3D ook de diepte in liep, gebruikte deze oorlogsshooter truukjes om het effect te genereren. Latere Doom en Quake-spellen bouwden verder op het genre voort, door te laten zien hoe multiplayer in een schietspel werkt.
+description: Toen id Software begin jaren 90 Wolfenstein 3D uitbracht, definieerde de ontwikkelaar first person shooters. Doom, nog een schietspel uit dezelfde studio, was een van de spellen die je echt het gevoel gaf door een driedimensionale ruimte te lopen. Hoewel je in Wolfenstein 3D ook de diepte in liep,…
 published: 2011-10-13
 modified: 2018-04-28
 tags:

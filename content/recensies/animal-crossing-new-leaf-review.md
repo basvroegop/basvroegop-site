@@ -1,31 +1,28 @@
 ---
 title: Animal Crossing New Leaf
-description: |-
-  In Animal Crossing ben je de burgemeester van je eigen dorpje.
-
-  💡Deze review verscheen eerder op Bright.
-
-  Voor velen is het urenlang jezelf onderdompelen in een gamewereld het absolute hoogtepunt van het medium. De gordijnen dicht, televisie aan, controller in de hand en jezelf tijdenlang niet aan de maatschappij tonen. Animal Crossing: New Leaf voor de Nintendo 3DS zal voor dit soort spelers geen aandacht waard zijn. Animal Crossing start je namelijk een paar keer per week op, zodat je een paa
+description: In Animal Crossing ben je de burgemeester van je eigen dorpje.
 published: 2013-06-18
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /animal-crossing-new-leaf-review
   - /artikelen/animal-crossing-new-leaf-review
   - /artikelen/recensies/animal-crossing-new-leaf-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/animal-crossing-new-leaf-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100911/game-van-de-week-animal-crossing-new-leaf.html
 socialImage: ../media/gamepraat/animal-crossing-new-leaf-review/bf570c271a.jpg
 publish: true
+republishedAt: https://gamepraat.nl/animal-crossing-new-leaf-review/
 ---
 
 **In Animal Crossing ben je de burgemeester van je eigen dorpje.**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100911/game-van-de-week-animal-crossing-new-leaf.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100911/game-van-de-week-animal-crossing-new-leaf.html).
 
 Voor velen is het urenlang jezelf onderdompelen in een gamewereld het absolute hoogtepunt van het medium. De gordijnen dicht, televisie aan, controller in de hand en jezelf tijdenlang niet aan de maatschappij tonen. Animal Crossing: New Leaf voor de Nintendo 3DS zal voor dit soort spelers geen aandacht waard zijn. Animal Crossing start je namelijk een paar keer per week op, zodat je een paar minuten kunt besteden aan het bijhouden van je dorpje.
 

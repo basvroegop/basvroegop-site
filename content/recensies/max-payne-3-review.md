@@ -1,6 +1,6 @@
 ---
 title: Max Payne 3
-description: "Na Max Payne 2 dachten wij dat Max al genoeg geleden had. Een dode vrouw, een dood kind en later ook nog een dode vriendin hebben ervoor gezorgd dat de detective uit New Jersey zich in constante rouw bevindt. Volgens ontwikkelaar Rockstar is dit echter nog niet genoeg: in een derde deel krijgen we Max te zien als bodyguard in Brazilie, waar hij zijn verdriet probeert te verwerken met een flinke dosis pijnstillers en drank."
+description: "Na Max Payne 2 dachten wij dat Max al genoeg geleden had. Een dode vrouw, een dood kind en later ook nog een dode vriendin hebben ervoor gezorgd dat de detective uit New Jersey zich in constante rouw bevindt. Volgens ontwikkelaar Rockstar is dit echter nog niet genoeg: in een derde deel krijgen we…"
 published: 2012-06-02
 modified: 2018-04-28
 tags:

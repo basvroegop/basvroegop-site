@@ -5,18 +5,24 @@ published: 2011-03-23
 modified: 2022-09-16
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /pilotwings-resort-review
   - /artikelen/pilotwings-resort-review
   - /artikelen/recensies/pilotwings-resort-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pilotwings-resort-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1106773/game-van-de-week-pilotwings-resort.html
 socialImage: ../media/gamepraat/pilotwings-resort-review/db984f30c3.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/pilotwings-resort-review/
 ---
 
 Op vrijdag 25 maart ligt de Nintendo 3DS in de schappen. Selling point van de handheld: het bovenste scherm. Dit kan 3D-beelden tonen zonder dat je er een speciale bril voor nodig hebt. Een van de games waarmee de handheld wordt gelanceerd is __Pilotwings Resort__, een sequel op __Pilotwings 64__, een game waar we zo’ n 14 jaar niks meer van gehoord hebben.
+
+> [!NOTE]
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1106773/game-van-de-week-pilotwings-resort.html).
 
 Nintendo’s eigen launchtitels tonen al generaties lang aan hoe een game goed gebruik kan maken van nieuwe hardware. __Tetris__ liet zien hoe een handheld-game gemakkelijk op te pikken moet zijn, __Mario 64__ baande het pad voor 3D-platformers en __Wii Sports__ wist huiskamers te doen vallen voor motion controls. Pilotwings Resort zet deze trend voort, door aan te tonen hoe 3D relevant kan zijn in een game. Immers: de reden waarom vlieggames tot vandaag de dag nooit perfect aanvoelden, was omdat het lastig is een gevoel van diepte te creëren op een plat scherm, in de open lucht. Dit probleem lost het scherm van de 3DS op.
 

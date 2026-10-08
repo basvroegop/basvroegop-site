@@ -1,6 +1,6 @@
 ---
 title: Gears of War 3
-description: Al drie spellen lang zet Marcus Fenix' Delta Squad zich in tegen de ondergronde Locust en Lambent-legers. Deze monsters hebben inmiddels de moderne wereld ten onder laten gaan. Mensen leven in overvolle kampen, waarin er wordt gestreden om genoeg eten bij elkaar te schrapen. Wanneer deze bijna post-apocalyptische levensstijl eindelijk een beetje begint de wennen, krijgt Marcus een tape van zijn dood gewaande vader in handen. Hij heeft een laatste redmiddel ontwikkeld om de planeet voor eens en altijd te redden.
+description: Al drie spellen lang zet Marcus Fenix' Delta Squad zich in tegen de ondergronde Locust en Lambent-legers. Deze monsters hebben inmiddels de moderne wereld ten onder laten gaan. Mensen leven in overvolle kampen, waarin er wordt gestreden om genoeg eten bij elkaar te schrapen. Wanneer deze bijna…
 published: 2011-09-20
 modified: 2018-04-28
 tags:

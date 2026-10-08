@@ -1,6 +1,6 @@
 ---
 title: "Metal Gear Rising: Revengeance"
-description: Metal Gear Solid 2 was voor fans van de inmiddels beruchte gamereeks een kleine ramp. Solid Snake, grote held van de serie, was omgeruild voor een nieuw hoofdpersoon genaamd Raiden. Een blonde, enigszins vrouwelijke man die een totaal ander perspectief moest bieden op een met oorlog gevulde wereld. Het verhaal van de game was alleen zo geschreven, dat Solid Snake alsnog de hoofdrol vervulde - alleen niet terwijl jij hem speelde.
+description: Metal Gear Solid 2 was voor fans van de inmiddels beruchte gamereeks een kleine ramp. Solid Snake, grote held van de serie, was omgeruild voor een nieuw hoofdpersoon genaamd Raiden. Een blonde, enigszins vrouwelijke man die een totaal ander perspectief moest bieden op een met oorlog gevulde wereld.…
 published: 2013-02-26
 modified: 2018-04-28
 tags:

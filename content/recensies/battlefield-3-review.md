@@ -1,6 +1,6 @@
 ---
 title: Battlefield 3
-description: Raak je eens in de zoveel tijd hooguit een enkele oorlogsshooter aan, dan kost het wellicht wat moeite om Battlefield 3 te onderscheiden van de bekende Call of Duty-reeks. Beide franchises staan immers in het teken van de moderne soldaat, die zich door een explosief spektakel moet vechten. Duik je de singleplayer-modus van Battlefield 3 in, dan wordt het nog lastiger om het verschil tussen de twee te zien. Battlefield 3 laat je namelijk, net als in latere Call of Duty-games, een oorlogsverhaal naspelen door achter je oorlogsmakkers aan te rennen terwijl je cinematische dingen meemaakt.
+description: Raak je eens in de zoveel tijd hooguit een enkele oorlogsshooter aan, dan kost het wellicht wat moeite om Battlefield 3 te onderscheiden van de bekende Call of Duty-reeks. Beide franchises staan immers in het teken van de moderne soldaat, die zich door een explosief spektakel moet vechten. Duik je…
 published: 2011-11-03
 modified: 2018-04-28
 tags:

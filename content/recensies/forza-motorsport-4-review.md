@@ -1,6 +1,6 @@
 ---
 title: Forza Motorsport 4
-description: "Met de constante focus op de Playstation 3-titel Gran Turismo 5, was het succes van Forza Motorsport 3 een kleine verrassing. Het spel zette ook de druk op de ketel bij Sony, omdat Forza 3 juist alleen op de Xbox 360 verscheen. Dat deze concurrentie inmiddels serieus wordt genomen door de ontwikkelaar van Gran Turismo 5 is wel duidelijk: er kwam een flinke update uit om de lancering van Forza Motorsport 4 wind uit de zeilen te nemen."
+description: Met de constante focus op de Playstation 3-titel Gran Turismo 5, was het succes van Forza Motorsport 3 een kleine verrassing. Het spel zette ook de druk op de ketel bij Sony, omdat Forza 3 juist alleen op de Xbox 360 verscheen. Dat deze concurrentie inmiddels serieus wordt genomen door de…
 published: 2011-10-19
 modified: 2018-04-28
 tags:

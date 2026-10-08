@@ -5,22 +5,24 @@ published: 2011-12-17
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /cave-story-review
   - /artikelen/cave-story-review
   - /artikelen/recensies/cave-story-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/cave-story-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1104863/game-van-de-week-cave-story.html
 socialImage: ../media/gamepraat/cave-story-review/046103a400.jpeg
 publish: true
+republishedAt: https://gamepraat.nl/cave-story-review/
 ---
 
 Hoewel Cave Story niet de nieuwste indie-game is, staat het spel opeens weer in de schijnwerpers. Eerst werd de game opnieuw uitgebracht op Steam, met verbetere beelden en een nieuwe soundtrack. Vervolgens kwam er een nieuwe versie van de [Humble Bundle](http://www.humblebundle.com/?ref=gamepraat.nl) uit. Koop je dit indie-gamespakket, dan mag je zelf een prijs bepalen. Jouw geld gaat naast de ontwikkelaars ook naar het Rode Kruis en Child's Play, een goed doel dat met behulp van games geld inzamelt voor ziekenhuizen. Geef je meer dan het gemiddelde, dan krijg je naast spellen als [Super Meat Boy](http://www.bright.nl/game-van-de-week-super-meat-boy?ref=gamepraat.nl) en [Shank](http://www.bright.nl/game-van-de-week-shank?ref=gamepraat.nl) ook Cave Story+ cadeau. Een fraaie deal als je bedenkt dat het gemiddelde zo rond de 5 dollar ligt.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104863/game-van-de-week-cave-story.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1104863/game-van-de-week-cave-story.html).
 
 In de eerste instantie doet Cave Story vooral denken aan Metroid. Spelers bewegen zich door een relatief open, tweedimensionale spelwereld, te midden van de nodige wapens, voorwerpen en vijanden. Je hebt een aantal wapens tot je beschikking om je al schietend mee te verdedigen tegen de vele tegenstanders. Vorder je verder in de game, dan vind je gaandeweg voorwerpen die ervoor zorgen dat je op een eerder gepasseerd punt van het spel opeens iets nieuws kunt doen, zoals een deur openen .
 

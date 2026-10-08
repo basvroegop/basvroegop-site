@@ -5,22 +5,24 @@ published: 2012-10-21
 modified: 2022-09-20
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /dishonored-review
   - /artikelen/dishonored-review
   - /artikelen/recensies/dishonored-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dishonored-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1102591/game-van-de-week-dishonored.html
 socialImage: ../media/gamepraat/dishonored-review/9bf56596ff.webp
 publish: true
+republishedAt: https://gamepraat.nl/dishonored-review/
 ---
 
 Dishonored doet er niet lang over om zijn verhaal uit te stippelen. Vlak nadat jij, persoonlijk beschermer van de keizerin, van je boot stapt, wordt de keizerin van haar leven beroofd. Een moord die in jouw schoenen wordt geschoven. Je belandt in de gevangenis, waar een groep verzetsstrijders je uit helpt te ontsnappen. De originele moordenaars zouden inmiddels de macht hebben gegrepen, en daar kan jij als videogameheld iets aan doen. Wat volgt is een reeks missies waarin jij de boel recht moet zetten en dat kan alleen door de dochter van de keizerin te redden.
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102591/game-van-de-week-dishonored.html).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102591/game-van-de-week-dishonored.html).
 
 Eigenlijk is dit prinsesje de ware focus van Dishonored. Tijdens het spel wordt er meermaals nadruk gelegd op de band die jij met het kleine meisje hebt. Dat wordt meteen bij je eerste voetstappen in Dishonored al gedaan. De game legt je uit hoe je het beste rond kunt sluipen door je met haar verstoppertje te laten spelen. Naarmate je in latere missies ontdekt wat de ontvoerders allemaal met de jongedame doen, wordt je missie voor jou als speler ook steeds duidelijker. Het is moeilijk om je niet gedreven te voelen en haar zo snel mogelijk uit de klauwen van het kwaad te willen redden.
 

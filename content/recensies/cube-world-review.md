@@ -1,31 +1,28 @@
 ---
 title: Cube World
-description: |-
-  De volgende Minecraft?
-
-  💡Deze review verscheen eerder op Bright.
-
-  Cube World is een wat vreemde game om te beschrijven. De ontwikkelaar zegt elementen van Minecraft, World of Warcraft, Monster Hunter, Secret of Mana en een hoop andere games te combineren, maar het eindproduct lijkt op geen van deze spellen. Het resultaat is juist een ontzettend open rollenspel, waarin jouw held in het wild wordt geworpen en mag doen wat hij wil. Er zijn vijanden om te doden, grotten om te verkennen, steden te b
+description: De volgende Minecraft?
 published: 2013-07-13
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Bright
 aliases:
   - /cube-world-review
   - /artikelen/cube-world-review
   - /artikelen/recensies/cube-world-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/cube-world-review/
+source: Bright
+sourceUrl: https://www.bright.nl/nieuws/1100712/game-van-de-week-cube-world.html
 socialImage: ../media/gamepraat/cube-world-review/c0f511d8dc.jpg
 publish: true
+republishedAt: https://gamepraat.nl/cube-world-review/
 ---
 
 **De volgende _Minecraft_?**
 
 > [!NOTE]
->
-> Deze review verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100712/game-van-de-week-cube-world.html?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100712/game-van-de-week-cube-world.html).
 
 Cube World is een wat vreemde game om te beschrijven. De ontwikkelaar zegt elementen van _Minecraft_, _World of Warcraft_, _Monster Hunter, Secret of Mana_ en een hoop andere games te combineren, maar het eindproduct lijkt op geen van deze spellen. Het resultaat is juist een ontzettend open rollenspel, waarin jouw held in het wild wordt geworpen en mag doen wat hij wil. Er zijn vijanden om te doden, grotten om te verkennen, steden te bezoeken en boten om te bevaren, maar geen van deze bezigheden is verplicht. Je opent de wereldkaart, zoekt een bestemming op en gaat op avontuur. De wereld van de game wordt gegenereerd op basis van een cijfer dat je zelf invoert, wat betekent dat geen avontuur hetzelfde zal zijn.
 
