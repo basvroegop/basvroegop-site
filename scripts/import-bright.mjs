@@ -288,9 +288,13 @@ async function fetchArticleSummaries() {
     })
   }
 
-  return [...new Map(items.map((item) => [item.newsID, item])).values()].sort(
-    (left, right) => new Date(right.newsDate) - new Date(left.newsDate),
-  )
+  return [...new Map(items.map((item) => [item.newsID, item])).values()]
+    .filter((article) => !isNews(article))
+    .sort((left, right) => new Date(right.newsDate) - new Date(left.newsDate))
+}
+
+function isNews(article) {
+  return /^nieuws$/i.test(cleanText(article.category?.name))
 }
 
 function isReview(article) {
