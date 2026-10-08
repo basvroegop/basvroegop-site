@@ -5,6 +5,7 @@
   .page-title {
     flex: 0 1 auto;
     font-size: 1.25rem;
+    line-height: 2rem;
     white-space: nowrap;
 
     > a {
@@ -13,6 +14,7 @@
   }
 
   .search > .search-button {
+    border: 0;
     width: 2rem;
     padding: 0;
     justify-content: center;
@@ -23,6 +25,19 @@
 
     > svg {
       margin: 0;
+    }
+  }
+
+  .explorer {
+    align-self: center;
+    margin: 0;
+
+    .mobile-explorer {
+      width: 2rem;
+      height: 2rem;
+      padding: 0;
+      align-items: center;
+      justify-content: center;
     }
   }
 }
