@@ -1,3 +1,43 @@
 @use "./variables.scss" as *;
 
-// Standaard Quartz-thema; hier kunnen later bewuste aanpassingen worden toegevoegd.
+// Houd de standaard Quartz-vormgeving, maar maak de mobiele werkbalk compacter.
+@media all and ($mobile) {
+  .page-title {
+    flex: 0 0 2.25rem;
+
+    > a {
+      display: flex;
+      width: 2.25rem;
+      height: 2.25rem;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: var(--secondary);
+      color: transparent;
+      font-size: 0;
+    }
+
+    > a::before {
+      content: "BV";
+      color: var(--light);
+      font-family: var(--headerFont);
+      font-size: 0.8rem;
+      font-weight: $boldWeight;
+      letter-spacing: -0.03em;
+    }
+  }
+
+  .search > .search-button {
+    width: 2rem;
+    padding: 0;
+    justify-content: center;
+
+    > p {
+      display: none;
+    }
+
+    > svg {
+      margin: 0;
+    }
+  }
+}

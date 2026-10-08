@@ -198,6 +198,7 @@ plugins:
       position: left
       priority: 35
       group: toolbar
+      display: desktop-only
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:

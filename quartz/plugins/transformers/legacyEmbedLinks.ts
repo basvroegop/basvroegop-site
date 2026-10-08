@@ -129,7 +129,7 @@ const embedStyles = `
   margin: 1rem 0;
   border: 0;
   border-radius: 5px;
-  background: var(--lightgray);
+  background-color: var(--lightgray);
 }
 
 .external-embed.youtube,
