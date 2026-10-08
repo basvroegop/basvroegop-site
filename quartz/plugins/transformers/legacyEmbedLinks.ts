@@ -166,6 +166,6 @@ export const LegacyEmbedLinks: QuartzTransformerPlugin = () => ({
     ]
   },
   externalResources() {
-    return { css: [{ content: embedStyles }] }
+    return { css: [{ content: embedStyles, inline: true }] }
   },
 })
