@@ -69,7 +69,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content data/unpause-publications.json data/remaining-media-import-report.json
+          git add content data/unpause-publications.json data/remaining-media-import-report.json data/bright-import-report.json
           git commit -m "Importeer publicaties ouder dan een maand"
           git pull --rebase origin main
 

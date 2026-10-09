@@ -11,12 +11,26 @@ const CONTENT_DIR = path.join(ROOT, "content")
 const MEDIA_DIR = path.join(CONTENT_DIR, "media", "nrc")
 const FORCE = process.argv.includes("--force")
 const DRY_RUN = process.argv.includes("--dry-run")
+const WEEKLY = process.argv.includes("--weekly")
+const olderThanMonthsArgument = process.argv.find((argument) =>
+  argument.startsWith("--older-than-months="),
+)
+const OLDER_THAN_MONTHS = olderThanMonthsArgument
+  ? Number(olderThanMonthsArgument.split("=")[1])
+  : WEEKLY
+    ? 1
+    : 0
 const MAX_IMAGE_BYTES = 25 * 1024 * 1024
+const NRC_AUTHOR_URL = "https://www.nrc.nl/auteur/bastiaan-vroegop/"
 const HEADERS = {
   // NRC includes the per-section author credit in the crawler representation.
   // We use it to distinguish Bastiaan's text from the other mediatip authors.
   "user-agent": "Googlebot",
   "accept-language": "nl-NL,nl;q=0.9,en;q=0.8",
+}
+
+if (!Number.isInteger(OLDER_THAN_MONTHS) || OLDER_THAN_MONTHS < 0) {
+  throw new Error("--older-than-months moet een niet-negatief geheel getal zijn")
 }
 
 const standaloneArticles = [
@@ -357,6 +371,29 @@ function isoDate(value) {
   return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
 }
 
+function subtractUtcMonths(value, months) {
+  const result = new Date(value)
+  const day = result.getUTCDate()
+  result.setUTCDate(1)
+  result.setUTCMonth(result.getUTCMonth() - months)
+  const lastDay = new Date(
+    Date.UTC(result.getUTCFullYear(), result.getUTCMonth() + 1, 0),
+  ).getUTCDate()
+  result.setUTCDate(Math.min(day, lastDay))
+  return result
+}
+
+const publicationCutoff = OLDER_THAN_MONTHS
+  ? subtractUtcMonths(new Date(), OLDER_THAN_MONTHS)
+  : undefined
+
+function isOldEnough(value) {
+  if (!publicationCutoff) return true
+  const published = new Date(value)
+  if (Number.isNaN(published.valueOf())) throw new Error("NRC-publicatiedatum ontbreekt")
+  return published <= publicationCutoff
+}
+
 function yamlFrontmatter(data) {
   const clean = Object.fromEntries(
     Object.entries(data).filter(
@@ -538,8 +575,8 @@ async function writeArticle(relativePath, frontmatter, markdown) {
   return true
 }
 
-async function importStandalone(item) {
-  const $ = await fetchPage(item.url)
+async function importStandalone(item, page) {
+  const $ = page || (await fetchPage(item.url))
   const schema = pageSchema($)
   const title = cleanText($("meta[property='og:title']").attr("content") || schema.headline)
   const authors = (Array.isArray(schema.author) ? schema.author : [schema.author])
@@ -610,8 +647,8 @@ function bastiaanSection($, body) {
   return { ...gameSections[0], inferredFromCategory: true }
 }
 
-async function importMediatip(url) {
-  const $ = await fetchPage(url)
+async function importMediatip(url, page) {
+  const $ = page || (await fetchPage(url))
   const schema = pageSchema($)
   const authors = (Array.isArray(schema.author) ? schema.author : [schema.author])
     .map((author) => cleanText(author?.name))
@@ -742,7 +779,104 @@ async function pruneUnusedMedia() {
   )
 }
 
+async function knownNrcUrls() {
+  const urls = new Set()
+  async function scan(directory) {
+    for (const entry of await fs.readdir(directory, { withFileTypes: true })) {
+      const filename = path.join(directory, entry.name)
+      if (entry.isDirectory()) await scan(filename)
+      else if (entry.name.endsWith(".md")) {
+        const markdown = await fs.readFile(filename, "utf8")
+        for (const match of markdown.matchAll(
+          /https:\/\/(?:www\.)?nrc\.nl\/nieuws\/[^\s)"'>]+/gi,
+        )) {
+          urls.add(match[0].replace(/\/$/, ""))
+        }
+      }
+    }
+  }
+  await scan(CONTENT_DIR)
+  return urls
+}
+
+async function discoverAuthorUrls() {
+  const pages = new Set()
+  const urls = new Set()
+  let pageUrl = NRC_AUTHOR_URL
+  while (pageUrl && !pages.has(pageUrl)) {
+    if (pages.size >= 20) throw new Error("te veel NRC-auteurspagina's")
+    pages.add(pageUrl)
+    const $ = await fetchPage(pageUrl)
+    $("a[href*='/nieuws/']").each((_index, element) => {
+      const href = $(element).attr("href")
+      if (!href || href.includes("/mijn-nrc/")) return
+      const url = new URL(href, pageUrl)
+      if (url.hostname === "www.nrc.nl" && url.pathname.startsWith("/nieuws/")) {
+        urls.add(url.href.replace(/\/$/, ""))
+      }
+    })
+    const next = $("link[rel='next']").first().attr("href")
+    pageUrl = next ? new URL(next, pageUrl).href : undefined
+  }
+  return [...urls]
+}
+
+function dynamicStandaloneItem(url, schema, title) {
+  const keywords = Array.isArray(schema.keywords)
+    ? schema.keywords.join(" ")
+    : String(schema.keywords || "")
+  const review = /type:recensie|\brecensie\b|\breview\b/i.test(`${keywords} ${title}`)
+  const interview = /type:interview|\binterview\b/i.test(`${keywords} ${title}`)
+  const tags = []
+  if (/games?|gaming/i.test(`${keywords} ${schema.articleSection || ""}`)) tags.push("Games")
+  if (/technologie|tech/i.test(`${keywords} ${schema.articleSection || ""}`)) {
+    tags.push("Technologie")
+  }
+  if (/cultuur/i.test(`${keywords} ${schema.articleSection || ""}`)) tags.push("Cultuur")
+  return {
+    url,
+    folder: review ? "recensies" : interview ? "interviews" : undefined,
+    noun: review ? "recensie" : interview ? "interview" : "artikel",
+    tags: [...new Set(tags.length ? tags : ["Games"])],
+  }
+}
+
+async function importWeeklyNrc() {
+  const [known, discovered] = await Promise.all([knownNrcUrls(), discoverAuthorUrls()])
+  const candidates = discovered.filter((url) => !known.has(url))
+  console.log(
+    `NRC-inventaris: ${discovered.length} publicaties; ${candidates.length} nog niet lokaal gekoppeld.`,
+  )
+  for (const url of candidates) {
+    const $ = await fetchPage(url)
+    const schema = pageSchema($)
+    const published = schema.datePublished || schema.dateCreated
+    if (!isOldEnough(published)) {
+      console.log(`uitgesteld    ${url}`)
+      continue
+    }
+    const title = cleanText($("meta[property='og:title']").attr("content") || schema.headline)
+    const authors = (Array.isArray(schema.author) ? schema.author : [schema.author])
+      .map((author) => cleanText(author?.name))
+      .filter(Boolean)
+    if (!authors.includes("Bastiaan Vroegop")) {
+      throw new Error(`Bastiaan ontbreekt in de auteursregel: ${url}`)
+    }
+    if (authors.length === 1) {
+      await importStandalone(dynamicStandaloneItem(url, schema, title), $)
+    } else if (/^mediatips?\b/i.test(title)) {
+      await importMediatip(url, $)
+    } else {
+      console.warn(`overgeslagen coproductie zonder importregel: ${url}`)
+    }
+  }
+}
+
 async function main() {
+  if (WEEKLY) {
+    await importWeeklyNrc()
+    return
+  }
   for (const item of standaloneArticles) await importStandalone(item)
   for (const url of mediatipUrls) await importMediatip(url)
   await fixLocalMetadata()

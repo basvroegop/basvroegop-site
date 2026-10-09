@@ -21,8 +21,21 @@ const MAX_IMAGE_BYTES = 25 * 1024 * 1024
 const FORCE = process.argv.includes("--force")
 const DRY_RUN = process.argv.includes("--dry-run")
 const SKIP_IMAGES = process.argv.includes("--no-images")
+const WEEKLY = process.argv.includes("--weekly")
+const olderThanMonthsArgument = process.argv.find((argument) =>
+  argument.startsWith("--older-than-months="),
+)
+const OLDER_THAN_MONTHS = olderThanMonthsArgument
+  ? Number(olderThanMonthsArgument.split("=")[1])
+  : WEEKLY
+    ? 1
+    : 0
 const limitArgument = process.argv.find((argument) => argument.startsWith("--limit="))
 const LIMIT = limitArgument ? Number(limitArgument.split("=")[1]) : undefined
+
+if (!Number.isInteger(OLDER_THAN_MONTHS) || OLDER_THAN_MONTHS < 0) {
+  throw new Error("--older-than-months moet een niet-negatief geheel getal zijn")
+}
 
 const HEADERS = {
   "user-agent": "Mozilla/5.0 (compatible; BasVroegopArchive/1.0)",
@@ -140,6 +153,31 @@ function isoDate(value) {
   if (!value) return undefined
   const date = new Date(value)
   return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
+}
+
+function subtractUtcMonths(value, months) {
+  const result = new Date(value)
+  const day = result.getUTCDate()
+  result.setUTCDate(1)
+  result.setUTCMonth(result.getUTCMonth() - months)
+  const lastDay = new Date(
+    Date.UTC(result.getUTCFullYear(), result.getUTCMonth() + 1, 0),
+  ).getUTCDate()
+  result.setUTCDate(Math.min(day, lastDay))
+  return result
+}
+
+const publicationCutoff = OLDER_THAN_MONTHS
+  ? subtractUtcMonths(new Date(), OLDER_THAN_MONTHS)
+  : undefined
+
+function isOldEnough(article) {
+  if (!publicationCutoff) return true
+  const published = new Date(article.newsPublishDate || article.newsDate)
+  if (Number.isNaN(published.valueOf())) {
+    throw new Error(`Bright-publicatiedatum ontbreekt voor ${article.newsID}`)
+  }
+  return published <= publicationCutoff
 }
 
 function excerpt(value, maxLength = 300) {
@@ -730,7 +768,11 @@ async function writeReport() {
 }
 
 async function main() {
-  const [records, summaries] = await Promise.all([existingInventory(), fetchArticleSummaries()])
+  const [records, discoveredSummaries] = await Promise.all([
+    existingInventory(),
+    fetchArticleSummaries(),
+  ])
+  const summaries = discoveredSummaries.filter(isOldEnough)
   report.discovered = summaries.length + contributionSpecs.length
   const occupiedPaths = new Set(records.map((record) => record.relativePath))
   const pending = []
