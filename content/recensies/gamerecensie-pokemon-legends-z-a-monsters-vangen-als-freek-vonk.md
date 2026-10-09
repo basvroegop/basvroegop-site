@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Pokémon Legends Z-A: Monsters vangen als Freek Vonk"
+title: "Pokémon Legends Z-A: Monsters vangen als Freek Vonk"
 description: In Pokémon Legends Z-A reis je naar Lumiose, een stad met een gloeiende toren die sterk lijkt op Parijs. Als Pokémon-trainer moet je sterker worden en monsters vangen om mysterie van de toren op te lossen.
 tags:
   - Games

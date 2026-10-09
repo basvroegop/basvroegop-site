@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Animal Crossing - Pocket Camp: Een gezellig spelletje waarin niet teveel moet"
+title: "Animal Crossing - Pocket Camp: Een gezellig spelletje waarin niet teveel moet"
 description: "Animal Crossing: Pocket Camp was altijd gratis te spelen op je telefoon. Maar er werd je wel steeds gevraagd om upgrades te kopen. Bij de nieuwe versie betaal je eenmalig tien euro en dat is dat."
 tags:
   - Games

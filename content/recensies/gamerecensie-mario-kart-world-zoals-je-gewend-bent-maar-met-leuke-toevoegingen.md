@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Mario Kart World: Zoals je gewend bent, maar met leuke toevoegingen"
+title: "Mario Kart World: Zoals je gewend bent, maar met leuke toevoegingen"
 description: De nieuwe Mario Kart speelt zoals je gewend bent, maar is óók helemaal anders.
 tags:
   - Games

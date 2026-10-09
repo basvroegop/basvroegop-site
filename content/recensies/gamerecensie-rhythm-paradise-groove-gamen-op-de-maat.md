@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Rhythm Paradise Groove: Gamen op de maat"
+title: "Rhythm Paradise Groove: Gamen op de maat"
 description: Rhythm Paradise Groove bestaat uit meer dan honderd spelletjes. En die testen allemaal jouw ritmegevoel.
 tags:
   - Games

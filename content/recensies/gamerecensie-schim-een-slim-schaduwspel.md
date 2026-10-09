@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Schim: een slim schaduwspel"
+title: "Schim: een slim schaduwspel"
 description: Heb jij wel eens een schaduwspelletje gespeeld? Dat je van schaduw naar schaduw springt zonder de zonnige delen van de straat aan te raken. De makers van Schim hebben een hele game gebouwd waarin je dat als een klein spookje doet.
 tags:
   - Games

@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Astro Bot: 'een vrolijk en kleurrijk ruimte-avontuur'"
+title: "Astro Bot: 'een vrolijk en kleurrijk ruimte-avontuur'"
 description: In Astro Bot vlieg je met je honderden robotvrienden door de ruimte, tot een alien je schip kapotslaat en je vrienden naar andere planeten vliegen. Aan jou de taak om ze weer terug te vinden.
 tags:
   - Games

@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Palia: Een ontspannen en zomerse game om in op pad te gaan"
+title: "Palia: Een ontspannen en zomerse game om in op pad te gaan"
 description: In Palia bouw je aan je eigen plekje in een fantasiewereld waar ook je vrienden op een eigen stukje land een huis kunnen bouwen.
 tags:
   - Games

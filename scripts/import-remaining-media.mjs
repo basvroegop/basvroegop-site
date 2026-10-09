@@ -19,13 +19,30 @@ const IMAGE_WIDTH = 1200
 const MAX_IMAGE_BYTES = 25 * 1024 * 1024
 const DRY_RUN = process.argv.includes("--dry-run")
 const SKIP_IMAGES = process.argv.includes("--no-images")
+const WEEKLY = process.argv.includes("--weekly")
+const FAIL_ON_ERROR = WEEKLY || process.argv.includes("--fail-on-error")
+const DISCOVER_UNPAUSE = WEEKLY || process.argv.includes("--discover-unpause")
 const ONLY = process.argv.find((value) => value.startsWith("--only="))?.split("=")[1]
+const olderThanMonthsArgument = process.argv.find((value) =>
+  value.startsWith("--older-than-months="),
+)
+const OLDER_THAN_MONTHS = olderThanMonthsArgument
+  ? Number(olderThanMonthsArgument.split("=")[1])
+  : WEEKLY
+    ? 1
+    : 0
+
+if (!Number.isInteger(OLDER_THAN_MONTHS) || OLDER_THAN_MONTHS < 0) {
+  throw new Error("--older-than-months moet een positief geheel getal zijn")
+}
 
 const report = {
   generatedAt: new Date().toISOString(),
+  discovered: { kidsweek: 0, unpause: 0 },
   normalized: { gamer: 0, insideGamer: 0, powerUnlimited: 0, laadscherm: 0 },
   imported: { gamerPu: 0, kidsweek: 0, unpause: 0 },
   existing: 0,
+  deferred: [],
   failures: [],
   images: { downloaded: 0, reused: 0, skipped: [] },
   files: [],
@@ -91,6 +108,34 @@ function isoDate(value) {
   if (!value) return undefined
   const date = new Date(value)
   return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
+}
+
+function subtractUtcMonths(value, months) {
+  const result = new Date(value)
+  const day = result.getUTCDate()
+  result.setUTCDate(1)
+  result.setUTCMonth(result.getUTCMonth() - months)
+  const lastDay = new Date(
+    Date.UTC(result.getUTCFullYear(), result.getUTCMonth() + 1, 0),
+  ).getUTCDate()
+  result.setUTCDate(Math.min(day, lastDay))
+  return result
+}
+
+const publicationCutoff = OLDER_THAN_MONTHS
+  ? subtractUtcMonths(new Date(), OLDER_THAN_MONTHS)
+  : undefined
+
+function isOldEnough(value, source, url) {
+  if (!publicationCutoff) return true
+  const published = new Date(value)
+  if (Number.isNaN(published.valueOf())) {
+    report.failures.push({ source, url, reason: "publicatiedatum ontbreekt" })
+    return false
+  }
+  if (published <= publicationCutoff) return true
+  report.deferred.push({ source, url, published: published.toISOString() })
+  return false
 }
 
 function unique(values) {
@@ -548,12 +593,15 @@ async function discoverKidsweek() {
       }
     })
   }
-  return unique(urls)
+  const discovered = unique(urls)
+  report.discovered.kidsweek = discovered.length
+  return discovered
 }
 
 function parseKidsweek(html) {
   const $ = load(html)
   const data = articleFromJsonLd($)
+  const originalTitle = cleanText($("h1").first().text())
   const authorText = $("article")
     .text()
     .match(/Door\s+Bastiaan Vroegop/i)?.[0]
@@ -566,7 +614,7 @@ function parseKidsweek(html) {
     .join("\n")
   const articleData = Array.isArray(data?.author) ? data.author[0] : data?.author
   return {
-    title: $("h1").first().text(),
+    title: originalTitle.replace(/^gamerecensie\s*:?\s*/i, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),
     date:
       data?.datePublished || data?.dateCreated || html.match(/"datePublished"\s*:\s*"([^"]+)/)?.[1],
@@ -576,7 +624,8 @@ function parseKidsweek(html) {
       typeof data?.image === "string"
         ? data.image
         : data?.image?.url || $("article figure img").first().attr("src"),
-    isReview: $('p[data-testid="review-paragraph"]').length > 0,
+    isReview:
+      /^gamerecensie\b/i.test(originalTitle) || $('p[data-testid="review-paragraph"]').length > 0,
     body: turndown.turndown(htmlBody),
   }
 }
@@ -586,6 +635,7 @@ async function importKidsweek() {
     try {
       const html = await (await fetchResponse(url)).text()
       const parsed = parseKidsweek(html)
+      if (!isOldEnough(parsed.date, "Kidsweek", url)) continue
       const review = parsed.isReview || /(?:game)?recensie/i.test(parsed.title)
       const item = {
         source: "Kidsweek",
@@ -624,12 +674,14 @@ function parseUnpause(html) {
 }
 
 async function importUnpause() {
-  const urls = JSON.parse(
-    await fs.readFile(path.join(DATA_DIR, "unpause-publications.json"), "utf8"),
-  )
+  const urls = DISCOVER_UNPAUSE
+    ? await discoverUnpause()
+    : JSON.parse(await fs.readFile(path.join(DATA_DIR, "unpause-publications.json"), "utf8"))
+  report.discovered.unpause = urls.length
   for (const url of urls) {
     try {
       const parsed = parseUnpause(await (await fetchResponse(url)).text())
+      if (!isOldEnough(parsed.date, "Unpause", url)) continue
       const folder = url.includes("/recensies/")
         ? "recensies"
         : url.includes("/interview/")
@@ -642,6 +694,41 @@ async function importUnpause() {
       report.failures.push({ source: "Unpause", url, reason: error.message })
     }
   }
+}
+
+async function discoverUnpause() {
+  const pages = new Set()
+  const urls = []
+  let pageUrl = "https://www.unpause.nl/redactie/bas-vroegop/"
+
+  while (pageUrl && !pages.has(pageUrl)) {
+    if (pages.size >= 25) throw new Error("te veel Unpause-auteurspagina's")
+    pages.add(pageUrl)
+    const $ = load(await (await fetchResponse(pageUrl)).text())
+    $("a[href]").each((_, element) => {
+      const href = $(element).attr("href")
+      if (!href) return
+      const url = new URL(href, pageUrl)
+      const parts = url.pathname.split("/").filter(Boolean)
+      if (
+        url.hostname === "www.unpause.nl" &&
+        parts[0] === "verhalen" &&
+        parts.length === 3 &&
+        !["nieuws", "nieuwspauze"].includes(parts[1])
+      ) {
+        urls.push(url.href)
+      }
+    })
+    const next = $('link[rel="next"]').attr("href") || $("a.next.page-numbers").attr("href")
+    pageUrl = next ? new URL(next, pageUrl).href : undefined
+  }
+
+  const discovered = unique(urls).sort()
+  const manifestPath = path.join(DATA_DIR, "unpause-publications.json")
+  const output = `${JSON.stringify(discovered, null, 2)}\n`
+  const current = await fs.readFile(manifestPath, "utf8").catch(() => "")
+  if (!DRY_RUN && output !== current) await fs.writeFile(manifestPath, output)
+  return discovered
 }
 
 async function addCoverage() {
@@ -693,10 +780,10 @@ async function addCoverage() {
   }
 }
 
-await normalizeLegacySources()
-if (!ONLY || ONLY === "gamer-pu") await importGamerPu()
-if (!ONLY || ONLY === "kidsweek") await importKidsweek()
-if (!ONLY || ONLY === "unpause") await importUnpause()
+if (!WEEKLY) await normalizeLegacySources()
+if (!WEEKLY && (!ONLY || ONLY === "gamer-pu")) await importGamerPu()
+if (WEEKLY || !ONLY || ONLY === "kidsweek") await importKidsweek()
+if (WEEKLY || !ONLY || ONLY === "unpause") await importUnpause()
 await addCoverage()
 if (!DRY_RUN) {
   await fs.writeFile(
@@ -705,3 +792,4 @@ if (!DRY_RUN) {
   )
 }
 console.log(JSON.stringify(report, null, 2))
+if (FAIL_ON_ERROR && report.failures.length > 0) process.exitCode = 1

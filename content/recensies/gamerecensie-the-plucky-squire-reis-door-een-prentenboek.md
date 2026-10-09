@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie The Plucky Squire: Reis door een prentenboek"
+title: "The Plucky Squire: Reis door een prentenboek"
 description: In The Plucky Squire verken je een wereld die je niet vaak in games ziet. Je loopt namelijk rond in een prentenboek.
 tags:
   - Games

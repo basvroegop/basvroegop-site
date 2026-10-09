@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Fantasy Life I: Bouwen aan nieuwe levens"
+title: "Fantasy Life I: Bouwen aan nieuwe levens"
 description: In Fantasy Life I bouw je niet één leven op in een fantasiewereld, maar wel veertien!
 tags:
   - Games

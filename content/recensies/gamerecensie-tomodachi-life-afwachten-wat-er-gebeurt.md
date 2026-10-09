@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Tomodachi Life: Afwachten wat er gebeurt"
+title: "Tomodachi Life: Afwachten wat er gebeurt"
 description: In het spel Tomodachi Life ben je de baas van een eiland. Je maakt poppetjes die daar samen leven. En daarna is het afwachten wat er gebeurt...
 tags:
   - Games

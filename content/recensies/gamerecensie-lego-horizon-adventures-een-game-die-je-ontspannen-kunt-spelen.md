@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Lego Horizon Adventures: Een game die je ontspannen kunt spelen"
+title: "Lego Horizon Adventures: Een game die je ontspannen kunt spelen"
 description: Horizon is de grootste game ooit in Nederland gemaakt. Maar met zijn serieuze onderwerpen en gewelddadige momenten was het spel niet voor kinderen bedoeld. Daarom is er nu een speciale LEGO-versie.
 tags:
   - Games

@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie: Animal Well (BIGMODE)"
+title: "Animal Well (BIGMODE)"
 description: In Animal Well moet een klein wezentje uit een diep en een donker labyrint ontsnappen. Daarbij stuit je op allerlei gekke dieren die je in de weg zitten.
 tags:
   - Games

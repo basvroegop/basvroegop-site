@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Donkey Kong Country Returns: een oud spel in een nieuw jasje"
+title: "Donkey Kong Country Returns: een oud spel in een nieuw jasje"
 description: De bananen van Donkey Kong zijn gestolen door de Tiki Tak-stam. In Donkey Kong Country Returns moet jij die weer verzamelen.
 tags:
   - Games

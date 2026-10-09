@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Yoshi and the Mysterious Book: Op ontdekkingstocht"
+title: "Yoshi and the Mysterious Book: Op ontdekkingstocht"
 description: In Yoshi and the Mysterious Book duikt Yoshi in de pagina’s van een magisch boek vol bijzondere wezens. Aan de kleine dino de taak om te ontdekken wat ze allemaal kunnen.
 tags:
   - Games

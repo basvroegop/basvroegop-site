@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie: Splatoon 3 breidt uit met De Toren der Orde"
+title: "Splatoon 3 breidt uit met De Toren der Orde"
 description: Twee jaar na het uitkomen van Splatoon 3 is er nu het uitbreidingspakket De Toren der Orde. Dat voegt een helemaal nieuwe manier van spelen toe.
 tags:
   - Games

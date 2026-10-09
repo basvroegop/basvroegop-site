@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Suika Game Planet: Passen en meten op fruitplaneet"
+title: "Suika Game Planet: Passen en meten op fruitplaneet"
 description: Suika Game Planet was twee jaar geleden een onverwachte hit op de Nintendo Switch. Nu is er een tweede deel van dit fruitige spelletje.
 tags:
   - Games

@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Visions of Mana: 'een onschuldig sprookje'"
+title: "Visions of Mana: 'een onschuldig sprookje'"
 description: In deze game ben jij Val, de beste zwaardvechter uit het dorp en beschermer van een groep reizigers. Samen moeten jullie een gigantisch grote, magische boom bereiken om de wereld van de ondergang te redden. Het is een soort digitaal sprookje...
 tags:
   - Games

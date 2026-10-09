@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Pokopia: Bouwpret op een eiland"
+title: "Pokopia: Bouwpret op een eiland"
 description: Pokopia is een beetje Pokémon, een beetje Minecraft en een beetje Animal Crossing. Samen maakt dat een erg leuke game.
 tags:
   - Games

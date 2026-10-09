@@ -1,5 +1,9 @@
 {
-  "generatedAt": "2026-10-09T11:37:37.981Z",
+  "generatedAt": "2026-10-09T12:08:15.925Z",
+  "discovered": {
+    "kidsweek": 45,
+    "unpause": 12
+  },
   "normalized": {
     "gamer": 0,
     "insideGamer": 0,
@@ -11,7 +15,19 @@
     "kidsweek": 0,
     "unpause": 0
   },
-  "existing": 0,
+  "existing": 55,
+  "deferred": [
+    {
+      "source": "Kidsweek",
+      "url": "https://www.kidsweek.nl/entertainment/games/gamerecensie-hot-wheels-infinite-rush-op-missie-met-de-perfecte-auto~6b5442d",
+      "published": "2026-09-11T08:38:07.000Z"
+    },
+    {
+      "source": "Unpause",
+      "url": "https://www.unpause.nl/verhalen/achtergrond/gun-je-mega-man-team-hun-obscure-kartgame-capcom/",
+      "published": "2026-09-10T05:02:00.000Z"
+    }
+  ],
   "failures": [],
   "images": {
     "downloaded": 0,

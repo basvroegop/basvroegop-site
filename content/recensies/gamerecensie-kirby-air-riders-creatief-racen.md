@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Kirby Air Riders: Creatief racen"
+title: "Kirby Air Riders: Creatief racen"
 description: Kirby’s nieuwe racegame lijkt simpel, maar heeft stiekem heel veel manieren om te spelen.
 tags:
   - Games

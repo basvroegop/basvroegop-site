@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Dog Man Mission Impawsible: Platformspel voor beginners"
+title: "Dog Man Mission Impawsible: Platformspel voor beginners"
 description: Dog Man ken je vast van de grappige stripboeken. In zijn eerste game Mission Impawsible moet hij een superschurk tegenhouden die alle boeven uit de gevangenis heeft vrijgelaten.
 tags:
   - Games

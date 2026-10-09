@@ -18,6 +18,7 @@
     "import:nrc": "node scripts/import-nrc.mjs",
     "import:bright": "node scripts/import-bright.mjs",
     "import:remaining-media": "node scripts/import-remaining-media.mjs",
+    "import:weekly": "node scripts/import-remaining-media.mjs --weekly",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

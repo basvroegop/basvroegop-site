@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Two Point Museum: Bouwen aan een museum"
+title: "Two Point Museum: Bouwen aan een museum"
 description: In Two Point Museum ben jij de baas in een museum waar de gekste dingen gebeuren.
 tags:
   - Games

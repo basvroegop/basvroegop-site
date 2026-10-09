@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Tamagotchi Plaza: Leuke minispelletjes, maar veel herhaling"
+title: "Tamagotchi Plaza: Leuke minispelletjes, maar veel herhaling"
 description: "Járen geleden waren Tamagotchi een enorme speelgoedrage. Nu zijn de digitale huisdieren terug met een eigen game: Tamagotchi Plaza."
 tags:
   - Games

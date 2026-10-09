@@ -1,0 +1,105 @@
+name: Importeer oudere publicaties
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.changes.outputs.changed }}
+    steps:
+      - name: Haal repository op
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Stel Node.js in
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache npm
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache Quartz-plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
+
+      - name: Installeer dependencies
+        run: npm ci
+
+      - name: Importeer publicaties ouder dan een maand
+        run: npm run import:weekly
+
+      - name: Controleer of er nieuwe site-inhoud is
+        id: changes
+        shell: bash
+        run: |
+          git status --porcelain=v1 --untracked-files=all -- content > "$RUNNER_TEMP/content-status"
+          if [[ -s "$RUNNER_TEMP/content-status" ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit nieuwe publicaties en haal de laatste wijzigingen op
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content data/unpause-publications.json data/remaining-media-import-report.json
+          git commit -m "Importeer publicaties ouder dan een maand"
+          git pull --rebase origin main
+
+      - name: Installeer Quartz-plugins
+        if: steps.changes.outputs.changed == 'true'
+        run: npx quartz plugin install
+
+      - name: Bouw site
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run build:site
+
+      - name: Push nieuwe publicaties
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git push origin HEAD:main
+
+      - name: Upload Pages-artifact
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publiceer naar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

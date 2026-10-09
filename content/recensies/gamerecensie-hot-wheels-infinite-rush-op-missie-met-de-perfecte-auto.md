@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Hot Wheels Infinite Rush: Op missie met de perfecte auto"
+title: "Hot Wheels Infinite Rush: Op missie met de perfecte auto"
 description: In de nieuwste Hot Wheels-game Infinite Rush draait het niet om racen alleen. Je gaat op zoek naar de perfecte auto’s om missies mee te voltooien.
 tags:
   - Games

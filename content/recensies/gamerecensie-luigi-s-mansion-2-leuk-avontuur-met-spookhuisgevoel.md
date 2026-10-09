@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Luigi's Mansion 2: leuk avontuur met spookhuisgevoel"
+title: "Luigi's Mansion 2: leuk avontuur met spookhuisgevoel"
 description: Mario’s broer Luigi is een bangerik. Dat is pech voor hem, want steeds weer wordt hij gebeld met de vraag om spoken te verjagen. En dan is in Luigi's Mansion 2 ook nog de gebruikelijke held Mario ontvoerd.
 tags:
   - Games

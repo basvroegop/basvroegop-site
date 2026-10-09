@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Super Mario Party Jamboree: ‘Gieren op de bank’"
+title: "Super Mario Party Jamboree: ‘Gieren op de bank’"
 description: De Super Mario Party-games zijn net een bordspel, maar dan digitaal. In het nieuwe Jamboree mag je met twee figuren tegelijk aan de slag als je de spelletjes goed speelt.
 tags:
   - Games

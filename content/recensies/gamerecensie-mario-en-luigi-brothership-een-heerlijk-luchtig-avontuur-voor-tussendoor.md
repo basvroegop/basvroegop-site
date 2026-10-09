@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Mario & Luigi Brothership: Een heerlijk luchtig avontuur voor tussendoor"
+title: "Mario & Luigi Brothership: Een heerlijk luchtig avontuur voor tussendoor"
 description: In Mario & Luigi Brothership zijn de twee bekende broers naar een mysterieuze wereld gestuurd. Daar varen ze op een zeilend eiland (het Zeiland genaamd) de zee af op zoek naar avontuur.
 tags:
   - Games

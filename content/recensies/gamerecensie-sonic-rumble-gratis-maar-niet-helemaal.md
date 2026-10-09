@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Sonic Rumble: Gratis, maar niet helemaal"
+title: "Sonic Rumble: Gratis, maar niet helemaal"
 description: Sonic Rumble is speciaal gemaakt voor de smartphone én gratis te downloaden. Toch probeert het spel je steeds te verleiden om aankopen te doen.
 tags:
   - Games

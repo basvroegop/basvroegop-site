@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie: Oude Mario in een nieuw jasje"
+title: "Oude Mario in een nieuw jasje"
 description: "Paper Mario: The Thousand Year Door is een oude game in een nieuw jasje. Deze nieuwe editie ziet er niet alleen mooier uit, maar kan ook helemaal in het Nederlands gespeeld worden."
 tags:
   - Games

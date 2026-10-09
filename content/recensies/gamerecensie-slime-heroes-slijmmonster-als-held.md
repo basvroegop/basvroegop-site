@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Slime Heroes: Slijmmonster als held"
+title: "Slime Heroes: Slijmmonster als held"
 description: In games zijn slijmmonsters meestal je vijand, maar in Slime Heroes ben je er zelf een. Nadat boze monsters inbreken in het huis van jou en je drakenvriend, ga je op pad om je maatje te redden.
 tags:
   - Games

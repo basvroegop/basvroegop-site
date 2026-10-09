@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie The Legend of Zelda - Echoes of Wisdom: ‘Zelda is de held’"
+title: "The Legend of Zelda - Echoes of Wisdom: ‘Zelda is de held’"
 description: In The Legend of Zelda - Echoes of Wisdom is niet Link de held, maar Zelda. Nadat de groen gemutste held haar heeft gered, raakt hij zelf in de problemen. Nu is het aan de prinses om hem uit de brand te helpen.
 tags:
   - Games

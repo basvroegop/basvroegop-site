@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Europa: Zweven op Jupiter"
+title: "Europa: Zweven op Jupiter"
 description: In de game Europa word je wakker op één van de manen van Jupiter. Die ziet er anders dan je denkt. Mensen hebben de maan veranderd in een paradijs, met mooie grasvlaktes, stromende beekjes en dartelende dieren.
 tags:
   - Games

@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Hollow Knight - Silksong: Een prachtige en mooi gemaakte game"
+title: "Hollow Knight - Silksong: Een prachtige en mooi gemaakte game"
 description: "De nieuwe game Hollow Knight: Silksong is zó populair, dat alle online winkels overbelast raakten toen hij voor het eerst te koop was."
 tags:
   - Games

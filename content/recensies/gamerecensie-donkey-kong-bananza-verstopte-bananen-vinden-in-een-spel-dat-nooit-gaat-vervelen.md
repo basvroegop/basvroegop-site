@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Donkey Kong Bananza: Verstopte bananen vinden in een spel dat nooit gaat vervelen"
+title: "Donkey Kong Bananza: Verstopte bananen vinden in een spel dat nooit gaat vervelen"
 description: "In Donkey Kong Bananza is de bekende Nintendo-aap op zoek naar maar één ding: bananen! En het liefst de kristalachtige bananen die diep in de aardbodem verborgen zitten. Die vindt hij door vooral veel te graven: met een druk op de knop ram je door muren en vloeren heen, in deze game kun je werkelijk…"
 tags:
   - Games

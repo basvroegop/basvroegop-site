@@ -1,5 +1,5 @@
 ---
-title: "Gamerecensie Star Fox: Oude vos in nieuw jasje"
+title: "Star Fox: Oude vos in nieuw jasje"
 description: Geen nieuwe Mario of Zelda deze zomer, maar een nieuwe Fox McCloud. Of eigenlijk het oude Star Fox, maar dan in een nieuw jasje.
 tags:
   - Games
