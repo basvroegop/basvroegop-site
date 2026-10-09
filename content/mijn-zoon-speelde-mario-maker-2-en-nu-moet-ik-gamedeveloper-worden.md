@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /mijn-zoon-speelde-mario-maker-2-en-nu-moet-ik-gamedeveloper-worden
   - /artikelen/mijn-zoon-speelde-mario-maker-2-en-nu-moet-ik-gamedeveloper-worden
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/achtergrond/mijn-zoon-speelde-mario-m
 socialImage: ./media/unpause/mijn-zoon-speelde-mario-maker-2-en-nu-moet-ik-gamedeveloper-worden/a40fabbc138a.webp
 publish: true
 ---
+
+**YouTubend naar Godot**
 
 > [!NOTE]
 >

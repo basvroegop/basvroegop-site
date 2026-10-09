@@ -14,6 +14,8 @@ socialImage: ./media/gamepraat/favoriete-ocu/f5e1833433.jpg
 publish: true
 ---
 
+**Een lijstje met games die ik het liefst in virtual reality speel.**
+
 # **Toffe Oculus Quest-games**
 
 Omdat vaak wordt gevraagd welke games nou leuk zijn voor Oculus Quest, hier een klein lijstje. Mijn recensie van de Quest 2 vind je [op NU.nl](https://www.nu.nl/reviews/6083936/review-vr-bril-oculus-quest-2-is-geweldig-maar-vooral-voor-gamers.html?ref=gamepraat.nl).

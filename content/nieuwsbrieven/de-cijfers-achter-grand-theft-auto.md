@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-cijfers-achter-grand-theft-auto/e21f764c8a.jp
 publish: true
 ---
 
+**GTA VI is nu al op weg gigantisch te worden**
+
 De trailer van Grand Theft Auto VI stond gepland voor dinsdagmiddag, maar werd na een lek vannacht al gepubliceerd. Zelfs op zo’n onverwacht moment lijkt de game bezig te zijn om records te breken.
 
 Ik werd deze week veel gebeld door redacties van algemene media, die werkten aan verhalen over de aankomende Grand Theft Auto VI-trailer. Meestal is het vechten om games bij grote publicaties te mogen behandelen, maar GTA is uniek: voorgaande delen waren zó groot en zó algemeen bekend dat niemand er nog omheen kan.

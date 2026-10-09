@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/is-e3-nog-e3-zonder-de-grote-drie/2476572eb8.jpe
 publish: true
 ---
 
+**En daarnaast: hoe Hi-Fi Rush laat zien dat Game Pass ideaal is voor obscure games.**
+
 Ieder jaar neem ik me voor op te blijven voor de grote persconferenties rond E3-tijd. En ieder jaar heb ik de volgende ochtend spijt, omdat ik met mijn brakke kop het net zo goed tijdens het ontbijt had kunnen terugkijken. De E3 dreigt dit jaar - na jaren uitstel - uit elkaar te vallen, maar stiekem denk ik dat die jaarlijkse opblijftraditie nog wel intact blijft.
 
 Verder deze week: een verrassingshit van Microsoft, dat met _Hi-Fi Rush_ laat zien hoe Game Pass gebruikt kan worden voor obscuurdere, creatieve games. En in MMORPG _Final Fantasy XIV_ is een soort digitaal dopingschandaal gaande. Deze editie van de nieuwsbrief is 1.780 woorden lang en neemt ongeveer negen minuten van je tijd in beslag. We trappen af!

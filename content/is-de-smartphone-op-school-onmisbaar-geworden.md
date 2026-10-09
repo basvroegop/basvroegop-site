@@ -16,10 +16,12 @@ socialImage: ./media/nu/is-de-smartphone-op-school-onmisbaar-geworden/d1a758ab29
 publish: true
 ---
 
-"De meeste middelbare scholen maken gebruik van digitale middelen, waaronder applicaties op smartphones om te communiceren met leerlingen", zei Anita Schwab van stichting Leergeld Den Haag eerder deze week.
+**In Den Haag krijgen duizend brugklassers een gratis smartphone, omdat ze anders niet bij kunnen blijven met de klas en de lessen. Hoe essentieel is de smartphone inmiddels op middelbare scholen?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/4894730/is-de-smartphone-op-school-onmisbaar-geworden.html).
+
+"De meeste middelbare scholen maken gebruik van digitale middelen, waaronder applicaties op smartphones om te communiceren met leerlingen", zei Anita Schwab van stichting Leergeld Den Haag eerder deze week.
 
 Huiswerk en lesroosters worden in veel gevallen via smartphone-apps doorgegeven. Handig, want leerlingen hoeven niet langer een telefoonboom af te bellen als bijvoorbeeld het eerste lesuur uitvalt.
 

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-nieuwe-lootboxwet-komt-te-laat/f86dc179a2.jpg
 publish: true
 ---
 
+**En het schrijven van '30 jaar Gamehistorie' is begonnen.**
+
 Verstopt tussen andere beleidsplannen stond een week geleden iets interessants: Nederland kijkt naar nieuwe wetgeving die lootboxen aan banden legt. Een goed initiatief, maar er is een grote kans dat die wet te laat komt en meer kwaad dan goed zal doen.
 
 Excuus voor de wat late nieuwsbrief! Het was een voor mij drukke en verder nieuwsluwe week, dus vandaar dat hij eens op maandagmiddag verschijnt. Deze editie van Gamepraat telt 1.185 woorden en neemt zes minuten van je tijd in beslag - we trappen af.

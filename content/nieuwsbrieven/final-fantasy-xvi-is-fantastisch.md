@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/final-fantasy-xvi-is-fantastisch/dd15611108.jpg
 publish: true
 ---
 
+**Naoki Yoshida wil weg uit de Raad van Bestuur van Square, maar...**
+
 Weinig Japanse franchises hebben zo'n grote invloed als Final Fantasy. Het is de benchmark onder de Japanse games: Square laat al sinds eind jaren '80 zien welke kant verhalende rollenspellen op moeten. Alleen daarom is het vandaag verschenen _Final Fantasy XVI_ reuze interessant. Ik speelde de game de afgelopen weken voor NRC en ben héél blij dat ik er eindelijk met jullie over kan praten.
 
 Deze editie van Gamepraat telt 1.369 aantal woorden en neemt zeven minuten van je tijd. Volgende week weer lezen? Abonneer je hieronder, vind ik heel leuk! We trappen af.

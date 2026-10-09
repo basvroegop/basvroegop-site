@@ -63,5 +63,3 @@ Eerder lekten onwijs veel beelden van het toen nog onaangekondigde GTA VI na een
 ![Een scène uit trailer "Grand Theft Auto VI" ](./media/ad/trailer-nieuwe-grand-theft-auto-game-is-tientallen-miljoenen-keren-bekeken-op-youtube-dit-is-waarom/8615d5e63252.webp)
 
 Een scène uit trailer "Grand Theft Auto VI" © AFP
-
-_Bekijk hieronder onze video’s op techgebied:_

@@ -16,10 +16,12 @@ socialImage: ./media/nu/worden-smartphones-in-2017-weer-innovatief/44c917cf45e1.
 publish: true
 ---
 
-Het afgelopen jaar was een moeilijke periode voor smartphonemakers. Samsung worstelde met problemen rond de Galaxy Note 7, die door batterijdefecten spontaan vlam kon vatten. Rond dezelfde tijd bracht Apple een nieuwe iPhone uit die vooral werd bekritiseerd om de verwijderde koptelefoonpoort.
+**Dit weekend gaat de smartphonebeurs Mobile World Congress in Barcelona van start. Dat is hét moment voor telefoonmakers om te bewijzen dat de smartphone in 2017 weer een beetje spannend gaan worden.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/4494216/worden-smartphones-in-2017-weer-innovatief.html).
+
+Het afgelopen jaar was een moeilijke periode voor smartphonemakers. Samsung worstelde met problemen rond de Galaxy Note 7, die door batterijdefecten spontaan vlam kon vatten. Rond dezelfde tijd bracht Apple een nieuwe iPhone uit die vooral werd bekritiseerd om de verwijderde koptelefoonpoort.
 
 Anderen hadden te maken met dalende cijfers. HTC draaide verlies en Sony besloot om zijn smartphoneproductie in te perken, wegens tegenvallende resultaten. De G5 van LG flopte, ondanks een aantal innovatieve functies.
 

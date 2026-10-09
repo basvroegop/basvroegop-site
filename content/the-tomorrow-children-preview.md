@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/the-tomorrow-children-preview/45ea3f4439.jpeg
 publish: true
 ---
 
+**Van de makers van PixelJunk.**
+
 Vertel iemand dat The Tomorrow Children  is van de makers van de PixelJunk-games en of zij zal je wellicht niet geloven. Ontwikkelaar Q-Games pakt het met deze game namelijk totaal anders aan dan we gewend zijn. Weg zijn de tweedimensionale arcadespelletjes: dit is een 3D-zandbak die zich het beste met Minecraft laat vergelijken. Als Minecraft zich had afgespeeld in een esoterisch, Russisch dorp in de jaren ’60.
 
 ## Bouwen, verzamelen en verdedigen

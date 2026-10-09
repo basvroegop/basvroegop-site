@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/recore-preview/771d62316b.jpeg
 publish: true
 ---
 
+**De pijn van Mighty No. 9 herhaalt zich.**
+
 Het idee achter ReCore lijkt ons zo gaaf. Toen we vorig jaar een eerste trailer te zien kregen, zagen we een in de woestijn verdwaalde vrouw en haar robot. Een machine waar ze een band mee leek te hebben. Of nou ja, de bal hierin: al snel bleek immers dat de kern van de robot zijn ziel bevat en dat die makkelijk over te dragen is. Die ene trailer van ReCore doen denken aan Ico en The Last of Us.– Het leek op een reis waarin je metgezel wel eens een diepe indruk zou kunnen achterlaten.
 
 > [!NOTE]

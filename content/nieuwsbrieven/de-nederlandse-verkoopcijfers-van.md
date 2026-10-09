@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-nederlandse-verkoopcijfers-van/51b72b53d1.jpe
 publish: true
 ---
 
+**Verder: de bizarre AI-art van Hawken.**
+
 Zet je alle Zelda-kopers in één land, dan zou je dan zou je daar ruim zestig procent van heel Nederland mee vullen. Met de nieuwe recordcijfers zitten we nog even in de Zelda-stemming deze week.
 
 Daarnaast hebben we het over de nieuwe Hawken-game, die met slechte AI-tekeningen inspiratieloos overkomt. Deze editie van Gamepraat telt 1.002 woorden en neemt vijf minuten van je tijd in beslag. We trappen af!

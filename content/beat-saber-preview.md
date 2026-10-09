@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/beat-saber-preview/6e70d82e01.png
 publish: true
 ---
 
+**Eindelijk een jedi.**
+
 Beat Saber bewijst dat virtual reality het ideale platform voor muziekgames is. En dat lightsabers eigenlijk alles gaaf maken.
 
 > [!NOTE]

@@ -35,8 +35,6 @@ Alles veranderde toen Google ineens werd ingehaald. Het in 2015 opgerichte OpenA
 
 Waar OpenAI vaak zonder toestemming andermans data verwerkt, wil Google het netjes aanpakken. De AI van Google kan hierdoor moreel beter verantwoord worden, maar het blijft zo wel een inhaalrace voor het bedrijf. Dat was tijdens de Google-conferentie ook merkbaar: in de week dat Google zijn plannen voor een AI aankondigde die live camerabeelden interpreteert, zei OpenAI nu al een vergelijkbare technologie beschikbaar te stellen.
 
-> Uiteindelijk werken we allemaal aan de belangrijkste technologie die mensen ooit zullen bouwen, waar wij als bedrijf al jarenlang in investeren
-
 Op de vraag of OpenAI de show had gestolen van Google, reageerde Pichai laconiek: ,,Je moet uitzoomen. Wat er op één specifieke dag gebeurt maakt op termijn niet uit. Uiteindelijk werken we allemaal aan de belangrijkste technologie die mensen ooit zullen bouwen, waar wij als bedrijf al jarenlang in investeren.”
 
 Daarbij benadrukt de bestuurder dat Google in afgelopen jaren miljarden dollars heeft gestoken in de bouw van kunstmatige intelligentie. ,,Al sinds 2016 ontwerpen we speciale AI-processors. Je ziet dat andere bedrijven dit nu beginnen na te doen. We bevinden ons aan het voorfront.”

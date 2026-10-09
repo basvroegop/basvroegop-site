@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/koop-je-tweedehands-games-dan-riskeer-je-een-ban
 publish: true
 ---
 
+**De nieuwe flashkaart voor de Switch is slecht nieuws voor Nintendo - maar ook tweedehands gamekopers lopen gevaar.**
+
 **Er komt een flashkaart voor de Nintendo Switch. Dat is slecht nieuws voor Nintendo, dat zal vrezen voor een opmars in piraterij, maar ook voor Switch-eigenaren die hun games tweedehands kopen: er dreigt een situatie waarbij zij onterecht door Nintendo van online diensten geschorst zullen worden.**
 
 _Met een abonnement kun je de nieuwsbrief steunen. Een kleine (eenmalige) donatie_ [_op Petje Af_](http://petjeaf.com/gamepraat?ref=gamepraat.nl) _wordt ook gewaardeerd!_

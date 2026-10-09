@@ -16,10 +16,12 @@ socialImage: ./media/nu/illustratoren-bezorgd-over-robots-die-kunst-namaken-dit-
 publish: true
 ---
 
-Hoewel kunstmatige intelligentie al jaren in ontwikkeling is, krijgt de technologie vooral de afgelopen maanden veel aandacht. Dat zagen we bijvoorbeeld bij de [smartphoneapp Lensa](https://www.nu.nl/tech/6239058/zo-tover-je-jezelf-om-tot-cyborg-of-astronaut-op-je-profielfoto.html), die je oude selfies gebruikt om nieuwe profielfoto's voor je te maken. Andere kunstmatige intelligentie kun je een simpele opdracht geven om iets te maken, waarna de AI automatisch een soort schilderij genereert.
+**Een kunstmatige intelligentie (AI) kan in enkele seconden een prachtige schildering voor je genereren. Maar sommige kunstenaars zijn daar woest over. Zij zien dat de AI hun werk klakkeloos namaakt, soms zelfs tot hun handtekening aan toe. Mag dat zomaar?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6241871/illustratoren-bezorgd-over-robots-die-kunst-namaken-dit-is-diefstal.html).
+
+Hoewel kunstmatige intelligentie al jaren in ontwikkeling is, krijgt de technologie vooral de afgelopen maanden veel aandacht. Dat zagen we bijvoorbeeld bij de [smartphoneapp Lensa](https://www.nu.nl/tech/6239058/zo-tover-je-jezelf-om-tot-cyborg-of-astronaut-op-je-profielfoto.html), die je oude selfies gebruikt om nieuwe profielfoto's voor je te maken. Andere kunstmatige intelligentie kun je een simpele opdracht geven om iets te maken, waarna de AI automatisch een soort schilderij genereert.
 
 Die AI-software wordt getraind. Onderzoekers voeren in de programma's een gigantische hoeveelheid afbeeldingen in, waarmee de computer probeert te doorgronden hoe die in elkaar zitten. Kan een kunstmatige intelligentie dat goed genoeg, dan is die in staat haar eigen kunst te genereren.
 

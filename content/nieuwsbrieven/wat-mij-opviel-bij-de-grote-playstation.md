@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/wat-mij-opviel-bij-de-grote-playstation/91ba128c
 publish: true
 ---
 
+**Daarnaast: een kwart van alle Game Mania's verdwijnt**
+
 E3 is dit jaar afgelast, maar op woensdag voelde het toch een beetje als vanouds dankzij een uur durende presentatie van Sony. Het is lang geleden dat we zo'n serieuze persconferentie hadden. Verder deze week Game Mania, dat een kwart van zijn winkels gaat sluiten.
 
 Wil je weten wat er bij PlayStation allemaal is aangekondigd? Polygon heeft een [handig artikel](https://www.polygon.com/23736345/playstation-showcase-may-2023-new-games-trailers?ref=gamepraat.nl) met alle trailers. In de nieuwsbrief wil ik deze week inzoomen op een paar titels. Deze editie van Gamepraat telt 1.113 woorden en neemt zes minuten van je tijd in beslag. We trappen af!

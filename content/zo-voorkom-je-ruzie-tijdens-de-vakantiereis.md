@@ -16,10 +16,12 @@ socialImage: ./media/nu/zo-voorkom-je-ruzie-tijdens-de-vakantiereis/218a83206a67
 publish: true
 ---
 
-Je hebt net de juiste video op de iPad aangezet en jezelf in een lastige bocht gewrongen om hem aan de stoelhouder te bevestigen. Maar na twee minuten wordt er alweer geruzied op de achterbank, omdat je zoon of dochter ineens een andere app heeft opgestart.
+**Een iPad aan de autostoel hangen is een ideale afleidingsmanoeuvre tijdens de lange vakantieritten, maar hoe voorkom je dat kinderen vervolgens de verkeerde apps opstarten? We leggen het uit.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/vakantie/6150649/zo-voorkom-je-ruzie-tijdens-de-vakantiereis.html).
+
+Je hebt net de juiste video op de iPad aangezet en jezelf in een lastige bocht gewrongen om hem aan de stoelhouder te bevestigen. Maar na twee minuten wordt er alweer geruzied op de achterbank, omdat je zoon of dochter ineens een andere app heeft opgestart.
 
 Je kind streng toespreken om "met de vingers van de iPad te blijven" is een oplossing, maar er is ook een tweede, doeltreffendere aanpak. Je kunt een iPad na het afspelen van video's vergrendelen zodat kindervingertjes ineens niks meer gedaan krijgen.
 

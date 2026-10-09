@@ -16,10 +16,12 @@ socialImage: ./media/nu/dit-moet-je-weten-over-de-strijd-tussen-epic-apple-en-go
 publish: true
 ---
 
-Op 13 augustus voegde Epic Games een nieuwe optie toe aan _Fortnite_ op iOS en Android. Spelers konden voortaan digitale extra's in de game buiten Apple om kopen, door gebruik te maken van een nieuw betaalsysteem. Daarbij kregen spelers ook meteen een korting van 20 procent.
+**Epic Games staat lijnrecht tegenover Apple en Google, nadat beide techbedrijven Fortnite uit hun appwinkels hebben gehaald. Wat is er gebeurd en wat schuilt erachter? We zetten de feiten op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech-achtergrond/6071056/dit-moet-je-weten-over-de-strijd-tussen-epic-apple-en-google.html).
+
+Op 13 augustus voegde Epic Games een nieuwe optie toe aan _Fortnite_ op iOS en Android. Spelers konden voortaan digitale extra's in de game buiten Apple om kopen, door gebruik te maken van een nieuw betaalsysteem. Daarbij kregen spelers ook meteen een korting van 20 procent.
 
 De studio omzeilde op die manier Apples en Googles huidige beleid. Gamemakers zijn op iOS en Android verplicht om betaalsystemen van de techreuzen te gebruiken, waarbij een commissie van 30 procent wordt geïnd. Die zou nodig zijn om onder andere de kosten van de App Store en Play Store te dekken.
 
@@ -31,6 +33,8 @@ Waarschijnlijk wel, en alles wijst er op dat het bedrijf rekende op deze uitkoms
 
 Vrijwel direct nadat Apple als eerste het spel uit zijn winkel haalde, reageerde de gamemaker door een kritische video in _Fortnite_ uit te zenden, die daar door miljoenen mensen gezien werd. In deze parodie op Apples oude 1984-reclame wordt de techgigant vergeleken met een totalitaire staat.
 
+[Bekijk ingesloten media](https://www.youtube.com/embed/euiSHuaw6Q4)
+
 De video werd gevolgd door een aanklacht, waarna het bedrijf ook Google voor de rechter sleepte nadat op Google Play het spel was verwijderd. Zowel de video als de rechtbankpapieren stonden al klaar.
 
 Door de regels van Google en Apple te overtreden en het spel te laten wissen, wil de gamestudio van _Fortnite_ een voorbeeld stellen: dit gebeurt er met apps die de regels van de twee grootste smartphonebedrijven niet volgen. Daarmee was de update een valstrik om een conflict uit te lokken.
@@ -40,6 +44,8 @@ Door de regels van Google en Apple te overtreden en het spel te laten wissen, wi
 Met de rechtszaak hoopt Epic Games de regels van de appwinkels te veranderen, zodat softwaremakers bijvoorbeeld niet meer zo'n hoge commissie hoeven te betalen. In beide aanklachten stelt de gamereus dat 30 procent veel te hoog is.
 
 In het geval van Apple is er geen alternatief: apps voor iPhones en iPads mogen alleen in de App Store worden aangeboden. Epic Games hoopt door de rechtszaak ook de mogelijkheid te krijgen een eigen appwinkel op iOS te openen, iets dat Apple tot op heden niemand heeft toegestaan.
+
+[Bekijk ingesloten media](https://platform.twitter.com/embed/Tweet.html?id=1294386429833940994)
 
 "We vechten voor de vrijheid van iedereen die een smartphone heeft gekocht", verduidelijkt Sweeney op zijn Twitter-account. "Zodat zij ooit zelf kunnen kiezen vanuit welke bron ze apps kunnen installeren."
 

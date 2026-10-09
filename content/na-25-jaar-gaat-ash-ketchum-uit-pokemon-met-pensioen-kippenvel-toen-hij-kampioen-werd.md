@@ -31,8 +31,6 @@ De animatieserie volgde het avontuur van Ash Ketchum, een 10-jarige jongen die s
 
 ,,Ik kijk de serie al sinds hij in Nederland is uitgekomen, toen nog op Fox Kids”, vertelt ook de inmiddels 32-jarige Zakaria Taouss. ,,Na seizoen zes ben ik even gestopt, maar de laatste seizoenen heb ik weer gekeken. Toen begon het weer leuker te worden en werd het verhaal interessanter.”
 
-> Ash leerde mij om met verlies om te gaan
-
 ## Al decennialang een 10-jarige
 
 In afgelopen jaren werd door fans soms gekscherend over de serie gesproken. Hoewel Ash al 19 seizoenen op reis ging om Pokémon-meester te worden, was hij in de serie nog geen dag ouder geworden. Dat terwijl de fans, die vaak al sinds eind jaren 90 de serie keken en de games en het kaartspel speelden, verder studeerden, banen kregen en het huis uit gingen. Peek keek stiekem toen hij op de middelbare school zat: ,,Dat was gewoon niet zo stoer.”
@@ -54,7 +52,3 @@ En nu lijkt de fictieve 10-jarige eindelijk met pensioen te gaan: in een persber
 ,,Het is goed zo”, vindt Taouss. ,,Ik heb het idee dat alles is afgerond, er is niet echt meer iets voor hem te doen.” Volgens Peek ,,Het moest natuurlijk ooit gebeuren”. Hij gaat zelf overigens Pikachu veel meer missen, mits die ook uit de serie wordt geschreven. ,,Voor degenen die zijn opgegroeid met Ash is het zeker een ding, maar voor de kinderen die de serie nu ontdekken valt dat wel mee.”
 
 Taouss zou het wel cool vinden als Ash ooit weer terugkeert. ,,Maar dan wel in een wat oudere vorm, want hij is al mijn hele leven tien jaar oud geweest. En dat is wel een beetje gek.”
-
-_Bekijk hier een video over het 25-jarig bestaan van Pokémon:_
-
-_Bekijk hieronder onze video’s op techgebied:_

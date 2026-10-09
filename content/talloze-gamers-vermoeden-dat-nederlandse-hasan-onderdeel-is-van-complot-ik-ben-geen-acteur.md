@@ -54,5 +54,3 @@ Gamejournalist Michel Musters sprak de afgelopen maanden meermaals met Kahraman.
 ,,Gamers vervelen zich op het moment, waardoor ze massaal met zo’n complottheorie aan de haal gaan. We komen wereldwijd net wat uit de lockdowns en de jaarlijkse gamebeurs E3 viel wat tegen.” De ontkenningen van Kahraman, of het feit dat zijn bedrijf al vijf jaar bij de KvK ingeschreven staat, doen er voor sommigen dan niet meer toe.
 
 ,,Bij zo’n complot ga je dan snel verbanden zien, terwijl die er in werkelijkheid gewoon niet zijn.”
-
-_Bekijk hieronder onze video's op techgebied._

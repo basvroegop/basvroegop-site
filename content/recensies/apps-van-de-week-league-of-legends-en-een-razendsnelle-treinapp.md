@@ -18,12 +18,14 @@ socialImage: ../media/nu/apps-van-de-week-league-of-legends-en-een-razendsnelle-
 publish: true
 ---
 
-## League of Legends: Wild Rift
-
-_League of Legends_ is tot de dag van vandaag een van de populairste pc-games. Spelers nemen het in kleine teams tegen elkaar op, met als doel om zo snel mogelijk elkaars bases te verwoesten en de overwinning te claimen.
+**Een van de grootste pc-games ooit is voor smartphones verschenen en we kijken naar een app over treinstoringen. Dit zijn de apps van de week.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/tech/6125325/apps-van-de-week-league-of-legends-en-een-razendsnelle-treinapp.html).
+
+## League of Legends: Wild Rift
+
+_League of Legends_ is tot de dag van vandaag een van de populairste pc-games. Spelers nemen het in kleine teams tegen elkaar op, met als doel om zo snel mogelijk elkaars bases te verwoesten en de overwinning te claimen.
 
 Een mobiele versie genaamd _Wild Rift_ is al een tijdje in ontwikkeling en vanaf deze week voor iedereen speelbaar. Helemaal af is het spel nog niet: ontwikkelaar Riot Games noemt het een "uitgebreide test". Maar iedere geïnteresseerde is welkom om aan die test deel te nemen.
 
@@ -32,6 +34,8 @@ _Wild Rift_ lijkt in grote lijnen erg op zijn oudere broer, met teams van vijf t
 Het spel is gratis te downloaden, maar het is mogelijk om met echt geld extra personages te kopen. Riot Games belooft dat ieder personage ook vrijgespeeld kan worden zonder geld te betalen.
 
 _Download League of Legends: Wild Rift voor [iOS](https://apps.apple.com/app/id1480616990) of [Android](https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&referrer=singular_click_id%3D083f240a-63e9-4b17-ac94-f4619fa37704) (gratis)_
+
+[Bekijk ingesloten media](https://www.youtube.com/embed/e2TZAAQmGho)
 
 ## Loom
 
@@ -42,6 +46,8 @@ Dat is volgens de ontwikkelaar een handige manier om uitgebreide en persoonlijke
 De app is gratis te gebruiken, maar bedrijven kunnen voor geavanceerde functies een abonnement afsluiten. Dat kost dan minstens een tientje per maand en per gebruiker.
 
 _Download Loom voor [iOS](https://apps.apple.com/us/app/loom-quick-videos/id1474480829) of [Android](https://play.google.com/store/apps/details?id=com.loom.android) (gratis)_
+
+[Bekijk ingesloten media](https://www.youtube.com/embed/1YAOj__CHH0)
 
 ## Rijden de Treinen
 

@@ -64,5 +64,3 @@ Maar dan moet je videobelsoftware wel Center Stage ondersteunen. Dat is het geva
 ![Een videogesprek met Center Stage (boven) versus een gesprek zonder (onder).](./media/ad/de-nieuwe-mac-studio-getest-hij-maakt-een-soort-fluitgeluid/4e8906cf182b.webp)
 
 Een videogesprek met Center Stage (boven) versus een gesprek zonder (onder). © Bastiaan Vroegop
-
-_Bekijk hieronder onze video’s op techgebied:_

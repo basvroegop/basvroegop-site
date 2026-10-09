@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Power Unlimited
 aliases:
-  - /palworld-pc-gespeeld-vol-jatwerk-geweldig-idee
   - /artikelen/palworld-pc-gespeeld-vol-jatwerk-geweldig-idee
 author: Bastiaan Vroegop
 source: Power Unlimited

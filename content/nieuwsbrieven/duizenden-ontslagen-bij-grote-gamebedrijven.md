@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/duizenden-ontslagen-bij-grote-gamebedrijven/62e7
 publish: true
 ---
 
+**Verder: de beste manier om Tetris te spelen.**
+
 Je kan zeggen dat 2023 het jaar was van de grote games - en grote game-ontslagen. Of dat eerste in 2024 wordt geëvenaard moet nog blijken, maar we zijn al goed op weg om de ontslagrondes van afgelopen jaar in 2023 net zo hard door te zetten. Er werd afgelopen week flink gesneden in gamebedrijven.
 
 Deze week duiken we dieper in die ontslagen en hebben we het over misschien wel de beste versie van Tetris.

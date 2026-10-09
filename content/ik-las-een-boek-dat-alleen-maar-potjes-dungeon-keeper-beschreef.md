@@ -16,6 +16,8 @@ socialImage: ./media/gamepraat/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-ke
 publish: true
 ---
 
+**Alsof je naar een papieren livestream kijkt.**
+
 Fantasyboeken zitten meestal vol met clichés. Elven met bogen, dwergen met hamers en oude mannen met lange baarden en toverstaven. Samen vullen zij de pagina’s van deze dikke pillen, vaak indirect geïnspireerd door de werken van Tolkien. Wat dat betreft voelt het boek Dungeon Born alvast vrij uniek. Hierin speelt de zelfbewuste, gamende kerker Cal de hoofdrol.
 
 Cal begint als een simpele edelsteen, maar ontdekt al snel dat hij zijn directe omgeving kan beïnvloeden. Hij gebruikt die kennis om kamers om hem heen te bouwen met daarin monsters, planten en valstrikken, waarmee hij nieuwsgierige avonturiers probeert weg te houden van zijn gevoelige kern.

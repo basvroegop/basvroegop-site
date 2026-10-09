@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/temtem-preview/04898103b5.jpeg
 publish: true
 ---
 
+**TemTems temmen.**
+
 Pokémon heeft er met TemTem een nieuwe concurrent bij, maar is de Early Access-versie robuust genoeg om hem nu al te kopen? We namen de proef op de som.
 
 Na een succesvolle Kickstarter-campagne is er nu eindelijk een vroege versie van de game speelbaar via Steam. Daarin zitten drie van de zes beloofde eilanden, waar sommige gebieden nog zijn afgekaderd met hekken en de tekst 'Work in progress'.

@@ -16,10 +16,12 @@ socialImage: ./media/nu/gaat-de-auto-op-de-schop-het-is-de-volgende-technologisc
 publish: true
 ---
 
-De auto van de toekomst speelt precies in op je verwachtingen. Bij het instappen ziet hij met een camera wie er gaat zitten, zodat de stoel alvast goed wordt afgesteld. Vervolgens vertelt een virtuele computerstem wat er op de agenda staat, waarna je zelfrijdend richting kantoor gaat. Ondertussen kijk je nog even een aflevering van je favoriete serie op het dashboard, dat inmiddels bestaat uit één groot computerscherm. Is dit een droom? Of nabije realiteit?
+**Het lijkt er op dat de auto in de nabije toekomst vol komt te hangen met camera's, beeldschermen en andere apparatuur om onze levens te verbeteren. Verandert de auto daarmee in de volgende grote gadget, zoals in 2007 ook gebeurde bij de telefoon?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5095463/gaat-de-auto-op-de-schop-het-is-de-volgende-technologische-revolutie.html).
+
+De auto van de toekomst speelt precies in op je verwachtingen. Bij het instappen ziet hij met een camera wie er gaat zitten, zodat de stoel alvast goed wordt afgesteld. Vervolgens vertelt een virtuele computerstem wat er op de agenda staat, waarna je zelfrijdend richting kantoor gaat. Ondertussen kijk je nog even een aflevering van je favoriete serie op het dashboard, dat inmiddels bestaat uit één groot computerscherm. Is dit een droom? Of nabije realiteit?
 
 Tijdens de gadgetbeurs CES in Las Vegas stond afgelopen week één onderwerp centraal: de auto. Grote techbedrijven zoals Intel en Samsung presenteerden hun ideeën voor zelfdrijdende auto's, terwijl autobedrijven hun eigen slimme gadgets voor in het vervoer lieten zien.
 

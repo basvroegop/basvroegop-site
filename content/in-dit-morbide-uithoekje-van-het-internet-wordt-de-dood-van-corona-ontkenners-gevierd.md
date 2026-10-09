@@ -52,5 +52,3 @@ In die reacties wordt de pas overleden vrouw vooral bespot. ‘Ze heeft niet moe
 In de tussentijd wordt gespeculeerd welke corona-ontkenner als volgende in het ziekenhuis kan belanden - bijvoorbeeld de ongevaccineerde Amerikaanse politica Sarah Palin, die eerder deze week positief werd getest. Er wordt druk gediscussieerd of de overleden muzikant Meat Loaf alsnog een prijs moet winnen, omdat hij tegen het gebruik van vaccins was.
 
 De awarduitreikingen leiden tot kritiek. Eind vorig jaar schreven onderzoekers van de Universiteit van Amsterdam nog op [een blog](https://mastersofmedia.hum.uva.nl/blog/2021/10/03/the-questionable-ethics-of-r-hermancainaward/) dat de prijs ‘niet de ethische standaarden van academisch onderzoek handhaven’. De Reddit-beheerders stellen dat ze de negatieve gevolgen van desinformatie proberen te documenteren, maar volgens de onderzoekers gebeurt dat hier zonder toestemming terwijl slachtoffers negatief worden neergezet. ‘Wie echt de gevolgen van desinformatie wil vastleggen, kan dat beter op een ander platform doen.’
-
-_Bekijk hier onze video’s over het coronavirus:_

@@ -50,5 +50,3 @@ Hierna zal Apple je het verschil laten horen tussen het gewone geluid en de aang
 Op het moment werkt het audiogram alleen bij de AirPods-oordoppen en -koptelefoon van Apple, of met de koptelefoons van Beats. Die laatste worden namelijk ook door Apple gemaakt.
 
 Of andere koptelefoons op termijn ook met de technologie zullen werken, is nog maar de vraag. Vermoedelijk wil Apple zelf het geluid kunnen kalibreren om de functie goed te laten werken.
-
-_Bekijk hieronder onze video's op het gebied van technologie._

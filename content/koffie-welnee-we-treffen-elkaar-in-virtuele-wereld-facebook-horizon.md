@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/koffie-welnee-we-treffen-elkaar-in-virtuele-werel
 publish: true
 ---
 
+**De brillen waarmee je jezelf naar een digitale wereld flitst, worden niet alleen geavanceerder maar ook goedkoper. Mark Zuckerberg, de baas van Facebook, mikt hiermee nu op het grote publiek: virtual reality moet ons sociale leven drastisch veranderen.**
+
 Virtual reality (VR) is de toekomst. Dat denkt in elk geval Facebook, de techgigant investeerde al miljarden dollars in de nieuwe techniek. VR brengt je in een andere wereld. Daarvoor moet je wel een VR-bril op je hoofd zetten. Vervolgens beweeg je als vanzelf door een digitale omgeving, door je lichaam net als in de ‘echte wereld’ te gebruiken. De technologie kennen we uit sciencefiction. Sinds een paar jaar zijn er betaalbare brillen op de markt die de deze toekomst dichterbij brengen.
 
 > [!NOTE]

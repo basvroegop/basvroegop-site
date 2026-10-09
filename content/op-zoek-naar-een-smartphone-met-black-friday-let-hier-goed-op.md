@@ -59,5 +59,3 @@ Google telefoons hebben uitstekende camera’s, met daarnaast software die ze no
 
 Samsungs duurste telefoon heeft ook een bijzonder goede camera, met een resolutie van maar liefst 200 megapixel. Voor wie foto’s in een absurd hoge resolutie wil schieten.
 €1349
-
-_De makers van jou nieuwe smartphone denken daar heel goed over na (video):_

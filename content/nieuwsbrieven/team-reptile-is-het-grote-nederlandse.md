@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/team-reptile-is-het-grote-nederlandse/4d4a4f0d62
 publish: true
 ---
 
+**Verder: gamerwoede bij recensies en hoe Nederlands Guerrilla echt is**
+
 We hebben er in Nederland een succesverhaal bij. De kleine indiestudio Team Reptile uit Hilversum heeft een zodanig goed verkopende game, dat ze de afgelopen maand hoogstwaarschijnlijk miljoenen hebben verdiend.
 
 Het staat haaks op wat ik [vorige week schreef over Ronimo Games](/de-laatste-dagen-van-ronimo-en-de), dat na lange tijd steggelen uiteindelijk failliet is gegaan. Succes is niet gegarandeerd voor Nederlandse gamemakers - maar wie geluk heeft, kan vanuit Nederland dus wel een miljoenenhit scoren.

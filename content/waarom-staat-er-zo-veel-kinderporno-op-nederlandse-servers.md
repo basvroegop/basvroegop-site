@@ -16,10 +16,12 @@ socialImage: ./media/nu/waarom-staat-er-zo-veel-kinderporno-op-nederlandse-serve
 publish: true
 ---
 
-Volgens de Britse Internet Watch Foundation (IWF) staat maar liefst de helft van alle online kinderporno op Nederlandse servers. Daarmee zou ons land de marktleider op het gebied van kinderporno zijn, gevolgd door de Verenigde Staten die 12,2 procent zouden verspreiden.
+**Uit recente cijfers blijkt dat een groot deel van de internationale kinderporno op Nederlandse servers staat. Waarom speelt ons land zo'n grote rol in de verspreiding van online kindermisbruik?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5863311/waarom-staat-er-zo-veel-kinderporno-op-nederlandse-servers.html).
+
+Volgens de Britse Internet Watch Foundation (IWF) staat maar liefst de helft van alle online kinderporno op Nederlandse servers. Daarmee zou ons land de marktleider op het gebied van kinderporno zijn, gevolgd door de Verenigde Staten die 12,2 procent zouden verspreiden.
 
 Het Nederlandse Expertisebureau Online Kindermisbruik (EOKM), voorheen het Meldpunt Kinderporno, herkent zich niet in deze conclusie. In jaarcijfers afkomstig uit 2017 van zeventig wereldwijde meldpunten staat Nederland op de tweede plek, met 19 procent van alle aangetroffen kinderporno.
 
@@ -30,6 +32,10 @@ Daarmee staat Nederland hoe dan ook hoog in de lijst met landen waar kinderporno
 Volgens Arda Gerkens, managing director bij EOKM, betekent dat niet per se dat Nederlanders ook vaak actief handelen in kinderporno. "In Nederland hebben we snel internet met een paar grote knooppunten. Daardoor worden hier veel websites met plaatjes gehost. Deze image hosters lenen zich ook heel goed voor het uitwisselen van dit materiaal."
 
 Nederland is een belangrijk verzamelpunt voor het gehele Europese internet. Sinds de jaren negentig staat hier de Amsterdam Internet Exchange, een knooppunt dat internetproviders in Nederland en buitenlandse partijen met elkaar verbindt. Inmiddels is de Exchange uitgegroeid tot de op een na grootste ter wereld, waardoor veel van het Europese internet via ons land loopt.
+
+> De Booking.coms en Ubers van de wereld hebben allemaal vitale infrastructuur in Nederland liggen
+>
+> — Ruud Alaerds, brancheorganisatie Dutch Hosting Provider Association
 
 Hierdoor is Nederland een aantrekkelijk land voor grote bedrijven om servers te plaatsen. "We zijn een belangrijke datahaven voor Europa", vertelt Ruud Alaerds van brancheorganisatie Dutch Hosting Provider Association.
 

@@ -64,5 +64,3 @@ Het betekent ook dat je hier minder geavanceerde onderdelen vindt: het scherm is
 _In deze rubriek schrijven we over technologische apparaten die door Tweakers zijn beoordeeld. Bij Tweakers wordt ieder apparaat onderzocht door het testlab, waar onder andere accuduur, snelheid en andere belangrijke aspecten worden getoetst._
 
 _De redactie van Tweakers is volledig onafhankelijk. Bedrijven betalen op geen enkele manier om in deze artikelen behandeld te worden._
-
-_Deze functie op je smartwatch is echt volledig onbetrouwbaar (video):_

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/waarom-haat-iedereen-forspoken/1211c8200b.jpeg
 publish: true
 ---
 
+**En verder: hoe een beoordelingssysteem bij Blizzard tot wereldwijde ophef leidde.**
+
 Heb jij al een mening over Forspoken? En zo ja, is dat op basis van grappige online filmpjes, een recensie of omdat je de game hebt gespeeld? Het ging er deze week online wild aan toe rond de nieuwe Square Enix-game, waarbij vaak hard werd geoordeeld op basis van slechts een paar seconden aan gameplay.
 
 Verder heb ik het deze week over de laatste strubbelingen bij Blizzard, waar een beoordelingssysteem voor personeel het internationale nieuws haalde. Deze nieuwsbrief is 1.565 woorden en neemt zo'n 8 minuten van je tijd. We trappen af!

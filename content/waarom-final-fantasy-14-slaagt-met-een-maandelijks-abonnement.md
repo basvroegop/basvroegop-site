@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/waarom-final-fantasy-14-slaagt-met-een-maandelijk
 publish: true
 ---
 
+**Ieder kwartaal een klein feestje.**
+
 De wederopstanding van Final Fantasy 14 is inmiddels een bekend verhaal onder gamers. De mmo die in 2010 compleet werd gefileerd door zowel journalisten als gamers, werd door Square Enix compleet opnieuw ontwikkeld onder de noemer A Realm Reborn. Het resultaat: in 2013 was 14 een van de beste games in zijn soort. Zo wist een game die ooit een dikke onvoldoende scoorde jaren later ineens een 8,5 op Gamer.nl binnen te slepen. Op dat punt begon pas het echt interessante verhaal achter de game. Want hoe weet een van de laatste abonnements-mmo's spelers zo lang te boeien?
 
 > [!NOTE]

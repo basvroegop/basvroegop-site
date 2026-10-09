@@ -48,5 +48,3 @@ Apple ziet de App Store als extra beveiligingslaag: omdat alle apps vooraf worde
 ![](./media/ad/hier-proberen-apple-hackers-de-iphone-te-kraken-met-speciale-lasers-een-kijkje-in-het-geheime-lab/2e236b849ca0.webp)
 
 © Apple
-
-_Iedereen kan slachtoffer worden van gijzelsoftware, maar hoe voorkom je het? (video):_

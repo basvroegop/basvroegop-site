@@ -44,5 +44,3 @@ Het kan verleidelijk zijn om gewoon met je eigen mond te blazen, maar dat is onv
 Als je telefoon na het ontstoffen nog steeds niet goed oplaadt, zul je contact moeten opnemen met de winkel om je te beroepen op mogelijke garantie. Is die verlopen, dan zul je naar een reparateur moeten gaan.
 
 Het betekent niet dat de telefoon in de tussentijd onbruikbaar is. Veel moderne toestellen hebben een draadloze oplader achterop, die je kunt gebruiken totdat je oplaadpoort weer functioneert. Controleer of je telefoon dit ook ondersteunt en bestel zo nodig een draadloze oplaadmat.
-
-_Bekijk onze trending nieuwsvideo’s in onderstaande playlist:_

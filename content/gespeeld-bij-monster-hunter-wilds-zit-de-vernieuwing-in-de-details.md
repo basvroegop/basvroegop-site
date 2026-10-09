@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /gespeeld-bij-monster-hunter-wilds-zit-de-vernieuwing-in-de-details
   - /artikelen/gespeeld-bij-monster-hunter-wilds-zit-de-vernieuwing-in-de-details
 author: Bastiaan Vroegop
 source: Gamer.nl

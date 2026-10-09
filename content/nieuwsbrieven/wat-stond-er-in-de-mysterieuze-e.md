@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/wat-stond-er-in-de-mysterieuze-e/00a3337b6e.jpg
 publish: true
 ---
 
+**De e-mail die een rechtszaak over machtsmisbruik begon**
+
 De rechtszaak tussen Microsoft en marktwaakhond FTC is in volle gang. Microsoft wil graag Activision-Blizzard overnemen, maar de FTC vreest dat de techreus daarmee een oneerlijk voordeel op de gamemarkt krijgt. Omdat de FTC alleen een overname mag blokkeren via de rechtbank, wordt de strijd daar nu voortgezet. De eerste rechtbankdagen zitten vol interessante opmerkingen van beide kanten - maar waar is toch die ene, mysterieuze e-mail van Phil Spencer waar iedereen het steeds over heeft?
 
 Je zou denken dat een rechtszaak alleen spannend is tijdens zaken over moord en oplichting, maar de strijd tussen de gamegigant en waakhond zit vol smoking guns en onverwachte twists. Deze week zet ik drie dingen op rij die ik het meest fascinerend vond.

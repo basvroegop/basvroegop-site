@@ -52,5 +52,3 @@ Omdat Final Fantasy een online game is, loopt Asmongold rond in dezelfde wereld 
 Die plotselinge groei in populariteit is ergens vreemd, want World of Warcraft was juist een grote inspiratiebron voor Final Fantasy XIV-producent Naoki Yoshida. ,,Zonder Warcraft zou Final Fantasy XIV nooit hebben bestaan”, zei hij afgelopen week nog in een interview op een Japanse livestream.
 
 ,,Het is ook best raar dat spelers de populariteitscijfers van beide games gebruiken om te zien wie er wint of verliest. Zij hebben 12 miljoen abonnees, dat halen we echt niet zomaar in. Daarnaast is het best eng om te zien hoe iedere dag duizenden nieuwe spelers naar ons toe komen.”
-
-_Bekijk hieronder onze video’s op techgebied:_

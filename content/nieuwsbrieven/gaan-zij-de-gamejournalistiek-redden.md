@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/gaan-zij-de-gamejournalistiek-redden/517311d1fb.
 publish: true
 ---
 
+**Verder: het ongemak van Call of Duty**
+
 Het was een bewogen week voor gamejournalisten. Er was slechts één knullig besluit van een uitgever voor nodig om het geroemde Escapist Magazine de nek om te draaien, waarna redacteuren besloten voor zichzelf te beginnen - in dezelfde week dat oud-Kotaku-journalisten hun eigen website introduceerden. Kunnen zij het tij keren in een jaar waarin gamesites vooral worden gekort en gesloten?
 
 Verder deze week: _Modern Warfare III_ verscheen, maar heeft een zure nasmaak tijdens het Israëlisch-Palestijns conflict. Het wordt tijd om oorlog serieuzer te behandelen, zoals we ook bij films en boeken doen.

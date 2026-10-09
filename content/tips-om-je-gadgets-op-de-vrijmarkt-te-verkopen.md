@@ -16,12 +16,14 @@ socialImage: ./media/nu/tips-om-je-gadgets-op-de-vrijmarkt-te-verkopen/028c4255d
 publish: true
 ---
 
-## 1. Zoek uit wat anderen ervoor vragen
-
-Voordat je zelf probeert te gissen wat een product waard is, kun je online al de nodige informatie opzoeken. Op eBay en Marktplaats worden gadgets geregeld verkocht en bij eBay is vaak ook te zien bij welke prijzen er een akkoord is bereikt. Dat kan een indicatie geven van het bedrag dat mensen voor je oude apparatuur willen betalen.
+**Tijdens Koningsdag staan een hoop Nederlanders weer op de vrijmarkt, de ideale plek om ook je oude gadgets te verkopen. Maar waar moet je op letten als je dit doet? Wij zetten vijf tips op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/koningsdag/5863461/tips-om-je-gadgets-op-de-vrijmarkt-te-verkopen.html).
+
+## 1. Zoek uit wat anderen ervoor vragen
+
+Voordat je zelf probeert te gissen wat een product waard is, kun je online al de nodige informatie opzoeken. Op eBay en Marktplaats worden gadgets geregeld verkocht en bij eBay is vaak ook te zien bij welke prijzen er een akkoord is bereikt. Dat kan een indicatie geven van het bedrag dat mensen voor je oude apparatuur willen betalen.
 
 Winkels zoals CeX en Used-Products verkopen tweedehands gadgets en hebben op hun sites uitgebreide prijsinformatie voor veel apparatuur staan. Sta er echter bij stil dat je op de vrijmarkt meestal iets minder kunt vragen dan deze winkels doen. Zulke filialen hebben namelijk vaak een retour- en garantiebeleid, iets wat je op de vrijmarkt niet aan je kopers kunt beloven.
 

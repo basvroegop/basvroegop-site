@@ -15,6 +15,8 @@ tags:
   - Laadscherm
 ---
 
+**Slimme bootleggers pikten graantje mee van hype.**
+
 Pokémon Diamond verscheen officieel in 2006, maar ik speelde de game al zeker vijf jaar daarvoor. Niet op de Nintendo DS, waar het spel voor is uitgebracht, maar gewoon op mijn oude Game Boy Color.
 
 Een klasgenootje had tijdens een vakantie naar Polen voor een schijntje het pas verschenen Pokémon Crystal opgepikt in een ongure technologiewinkel, waar hij meteen gratis een cartridge van Pokémon Diamond bij kreeg. Dat was volgens hem een zéér zeldzame titel in de reeks – iets dat ik meteen wilde geloven. Online kwamen vaak genoeg geruchten voorbij over titels voor toekomstige Pokémon-spellen, maar tot op heden had ik nog nooit over Diamond gehoord. Nintendo zou pas jaren later het spel officieel aankondigen.

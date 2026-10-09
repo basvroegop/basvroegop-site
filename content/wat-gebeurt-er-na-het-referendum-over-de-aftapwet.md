@@ -16,10 +16,12 @@ socialImage: ./media/nu/wat-gebeurt-er-na-het-referendum-over-de-aftapwet/0312c3
 publish: true
 ---
 
-Bij het referendum moeten stemmers kiezen of ze voor of tegen de nieuwe Wet op de inlichtingen- en veiligheidsdiensten (Wiv) zijn.
+**Op woensdag wordt in een referendum gestemd over de 'aftapwet', maar wat gebeurt er met de uitslag van dit referendum?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/5182019/wat-gebeurt-er-na-het-referendum-over-de-aftapwet.html).
+
+Bij het referendum moeten stemmers kiezen of ze voor of tegen de nieuwe Wet op de inlichtingen- en veiligheidsdiensten (Wiv) zijn.
 
 In deze 'aftapwet' wordt vastgelegd hoe alle soorten internetverkeer ongericht afgetapt mogen worden. De initiatiefnemers van het referendum verwijzen er ook naar als de 'sleepwet'.
 
@@ -46,6 +48,8 @@ Op het referendumformulier zal alleen worden gevraagd of de stemmer voor of tege
 Er kan op 21 maart tot 21.00 uur worden gestemd. Tegen die tijd zullen exitpolls een inschatting van de uitslag van het referendum bieden, vermoedelijk gelijktijdig met de exitpolls van de gemeenteraadsverkiezingen.
 
 Na de stemming zal de Kiesraad de definitieve uitslag op 29 maart delen. Tegen die uitslag kan dan nog formeel bezwaar worden gemaakt.
+
+[Bekijk ingesloten media](https://art19.com/shows/53447dba-d647-4a32-96f9-a2f54106231e/episodes/bb875179-3d94-425a-ab5f-4beac113215a/embed?theme=light-blue)
 
 ## Wat als de meerderheid voor is?
 

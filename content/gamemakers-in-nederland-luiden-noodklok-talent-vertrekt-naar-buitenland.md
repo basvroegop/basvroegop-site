@@ -27,8 +27,6 @@ Nederland huisvest ook één van de grootste gamestudio’s ter wereld: het Amst
 
 Het maakt de game-industrie groter dan bijvoorbeeld de Nederlandse filmsector, die in datzelfde jaar 151,6 miljoen euro in het laatje bracht. Ook de muziekwereld is kleiner, met een omzet van 254,3 miljoen euro. Toch krijgen de gamebedrijven weinig steun vanuit de overheid om te groeien, klinkt het bij een rondvraag. Daardoor vertrekt talent naar het buitenland.
 
-> Duitsland heeft bijvoorbeeld een fonds van 70 miljoen euro. In Nederland bestaan alleen een paar kleine regelingen
-
 ## Alleen paar kleine regelingen
 
 ,,Als je Nederland vergelijkt met landen om ons heen, dan lopen we heel erg achter”, vertelt Martine Spaans, manager van de branchevereniging Dutch Game Association. ,,Duitsland heeft bijvoorbeeld een fonds van 70 miljoen euro. In Nederland bestaan alleen een paar kleine regelingen.”
@@ -38,8 +36,6 @@ Dat ondervindt ook de Nederlandse gamemaker Koen Deetman. Hij startte met zijn b
 Volgens Spaans heeft dat niet te maken met onwil, maar met hoe op dit moment naar games wordt gekeken bij ministeries. ,,Als je kijkt naar bijvoorbeeld de innovatiebox-regeling (een fiscaal voordeel bij de vennootschapsbelasting voor winsten uit vernieuwende activiteiten, red.), dan zie je dat die nog niet goed aansluit op wat deze bedrijven doen.” Dat terwijl games juist perfect op de regeling zouden aansluiten, meent zij: ze bevinden zich op het snijvlak tussen kunst en innovatie.
 
 Deze mismatch levert veel cynisme op in de sector, constateert de branchevereniging. Gamemakers moeten snoeihard hun best doen om hun werk onder de gunstige regeling te laten vallen. Spaans: ,,Dan merk je dat er bijna een soort tegenbeweging ontstaat. Dat ze ‘het maar niet doen’ omdat het zo moeilijk is.”
-
-_Lees verder onder de foto_
 
 ![Horizon Forbidden West, internationaal zeer succesvol, wordt gemaakt door een Amsterdams bedrijf.](./media/ad/gamemakers-in-nederland-luiden-noodklok-talent-vertrekt-naar-buitenland/86b3eaeaf03c.webp)
 

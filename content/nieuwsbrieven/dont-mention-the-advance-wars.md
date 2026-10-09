@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/dont-mention-the-advance-wars/ff677e51c3.jpg
 publish: true
 ---
 
+**Verder: de kannibalisatie van Game Pass en de Metroid-renaissance.**
+
 Fijn dat je weer leest! Wat denk jij: als je game op Game Pass staat, stijgen of dalen dan de losse verkopen? De meningen hierover zijn kennelijk zelfs binnen Microsoft verdeeld.
 
 Verder hebben we het deze week veel over Nintendo, dat een gigantische waslijst aan nieuwe games presenteerde. Waaronder een oorlogsgame die in april uitkomt, waarbij ze hun stinkende best doen om het niet over die betreffende oorlog te hebben. En het gaat uiteraard over _Metroid Prime Remastered_, wat misschien wel één van mijn favoriete games van 2023 gaat worden.

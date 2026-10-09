@@ -16,10 +16,12 @@ socialImage: ./media/nu/zo-voorkom-je-dat-je-online-game-of-thrones-spoilers-lee
 publish: true
 ---
 
-Hoewel de nieuwe afleveringen in Nederland op maandag verschijnen, is niet iedereen op dezelfde dag meteen in de gelegenheid om te gaan kijken.
+**Het laatste seizoen van Game of Thrones is in volle gang, waardoor het internet vol staat met spoilers over de recentste afleveringen. We zetten op een rij hoe je die spoilers op sociale media en andere websites kunt omzeilen.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/film/5866659/zo-voorkom-je-dat-je-online-game-of-thrones-spoilers-leest.html).
+
+Hoewel de nieuwe afleveringen in Nederland op maandag verschijnen, is niet iedereen op dezelfde dag meteen in de gelegenheid om te gaan kijken.
 
 Vrienden die druk tweeten over wie in de serie is doodgegaan, kunnen de aflevering daarom voor je verpesten. Gelukkig is dat bij de grootste sociale media te vermijden.
 
@@ -36,6 +38,12 @@ Dit betekent dat je zelf moet inschatten wie je waarschijnlijk spoilers zal toes
 Sociaal netwerk Twitter maakt het makkelijker om spoilers te verbergen. Onder de instellingen van de website bevindt zich de optie '[Genegeerde woorden](https://twitter.com/settings/muted_keywords)'. Als je woorden aan deze lijst toevoegt, worden tweets hierover van je tijdlijn geweerd.
 
 Je kunt aan deze lijst de naam van de serie toevoegen. Maar voor het echt grondig weren van spoilers, moet je een uitgebreidere lijst samenstellen. Voeg bijvoorbeeld alle namen van _Game of Thrones_\-personages of -hashtags toe aan de lijst, zodat discussies hierover ook worden geweerd.
+
+> [!INFO] Voorbeelden van woorden en hashtags
+>
+> -   #GameOfThrones, #GoT
+> -   Westeros, Winterfell, King's Landing, The Wall, Meereen
+> -   Arya, Sansa, Bran, Jon Snow, Daenerys, Night King
 
 In de mobiele Twitter-app vind je de lijst door bij het notificatietabblad op het tandwielicoon te drukken en vervolgens 'Genegeerd' aan te tikken.
 

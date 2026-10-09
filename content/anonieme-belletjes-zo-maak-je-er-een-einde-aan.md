@@ -40,5 +40,3 @@ Wordt een nummer achterhaald, dan zal je provider meestal contact opnemen met de
 Houdt anoniem belverkeer ondanks meerdere pogingen het te stoppen niet op? In het ergste geval kun je, indien daarvan sprake is, aangifte doen van stalking. De politie zal dan een onderzoek starten en, mits de beller wordt achterhaald, deze mogelijk vervolgen.
 
 Aangifte is voornamelijk een optie bij cybercriminelen of stalkgedrag. Bij veelvuldige belletjes van bedrijven kun je melding maken bij het Meldpunt Telemarketing.
-
-_Bekijk hieronder onze video’s op techgebied:_

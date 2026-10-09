@@ -16,12 +16,14 @@ socialImage: ./media/nu/achtergrond-wat-we-weten-over-de-russische-inmenging-op-
 publish: true
 ---
 
-## Wat is er gebeurd?
-
-Uit informatie van steeds meer bronnen blijkt dat Russische accounts op sociale media invloed probeerden uit te oefenen op meerdere manieren. Daarbij werden onder andere advertenties ingekocht bij sites zoals Facebook, Twitter en Google. In deze reclame werd onder andere verwezen naar nepnieuws met als doel om de Amerikaanse verkiezingen te beïnvloeden.
+**Het wordt steeds duidelijker hoe Rusland online invloed probeerde uit te oefenen op de Amerikaanse presidentsverkiezingen. We zetten alle beschikbare informatie op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/4971851/achtergrond-wat-we-weten-over-de-russische-inmenging-op-sociale-media.html).
+
+## Wat is er gebeurd?
+
+Uit informatie van steeds meer bronnen blijkt dat Russische accounts op sociale media invloed probeerden uit te oefenen op meerdere manieren. Daarbij werden onder andere advertenties ingekocht bij sites zoals Facebook, Twitter en Google. In deze reclame werd onder andere verwezen naar nepnieuws met als doel om de Amerikaanse verkiezingen te beïnvloeden.
 
 Zowel Twitter als Facebook hebben meerdere accounts aangetroffen die gebruikt zouden zijn om advertenties in te kopen tijdens de verkiezingsperiode, maar ook om zich te mengen in bijvoorbeeld discussies en op die manier invloed uit te oefenen. Op Twitter waren bijvoorbeeld accounts actief die hun voorkeur voor Trump als president deelden, maar deze accounts bleken achteraf te worden beheerd door Russische partijen.
 

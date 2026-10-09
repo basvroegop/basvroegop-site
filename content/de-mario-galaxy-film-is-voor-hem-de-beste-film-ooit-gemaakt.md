@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /de-mario-galaxy-film-is-voor-hem-de-beste-film-ooit-gemaakt
   - /artikelen/de-mario-galaxy-film-is-voor-hem-de-beste-film-ooit-gemaakt
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/de-mario-galaxy-film-is-voor-
 socialImage: ./media/unpause/de-mario-galaxy-film-is-voor-hem-de-beste-film-ooit-gemaakt/3f480a69d94d.webp
 publish: true
 ---
+
+**Fox is een sukkel**
 
 > [!NOTE]
 >

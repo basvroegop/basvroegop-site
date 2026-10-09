@@ -49,6 +49,3 @@ Steeds meer software van Google werkt op deze manier. Zo leert de stemassistent 
 Je kunt er wel voor kiezen om je gegevens te doneren aan het bedrijf, maar dan worden ze alleen gebruikt om de kunstmatige intelligentie te verbeteren. In feite is jouw foto dan één extra om het herkenningsalgoritme nog iets slimmer mee te maken.
 
 De app zal later dit jaar voor de eerste testers beschikbaar komen.
-
-_**Hoe denk jij over deze technologische ontwikkeling?**
-Reageren kan onderaan dit artikel. Alleen reacties voorzien van een volledige naam worden geplaatst. We doen dat omdat we een gesprek willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken._

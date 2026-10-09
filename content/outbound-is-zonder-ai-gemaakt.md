@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /outbound-is-zonder-ai-gemaakt
   - /artikelen/outbound-is-zonder-ai-gemaakt
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/outbound-is-zonder-ai-gemaakt
 socialImage: ./media/unpause/outbound-is-zonder-ai-gemaakt/827507e84d7d.webp
 publish: true
 ---
+
+**Meer mensen moeten dat weten**
 
 > [!NOTE]
 >

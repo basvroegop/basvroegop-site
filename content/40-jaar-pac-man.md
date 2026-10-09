@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/40-jaar-pac-man/9f5fb9611e.webp
 publish: true
 ---
 
+**Wie in de jaren tachtig een highscore vestigde met Pac-Man, was de held in de lokale speelhal. Het was de tijd vóór Nintendo en het thuisgamen.**
+
 Vroeger werd er vooral buiten de deur gegamed, op hoge computerkasten in arcadehallen. Populair was het spel Pac-Man, [veertig jaar geleden op 22 mei 1980 geïntroduceerd in Japan](https://pacman.com/en/?ref=gamepraat.nl). Voor een gulden kreeg je een aantal levens, waarna je met een happend bolletje zo snel mogelijk de pitjes op het scherm moest oppeuzelen. Raakte je een spookje, dan was je af. Doel: het vestigen van een highscore in de ranglijsten van je lokale hal.
 
 > [!NOTE]

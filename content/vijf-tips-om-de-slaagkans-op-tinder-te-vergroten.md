@@ -16,10 +16,12 @@ socialImage: ./media/nu/vijf-tips-om-de-slaagkans-op-tinder-te-vergroten/f37699a
 publish: true
 ---
 
-Een Tinder-profiel bestaat uit een aantal onderdelen: de profielfoto, de begeleidende tekst en de extra informatie die je eraan koppelt, zoals je opleiding, baan en Instagram-foto's.
+**Daten is inmiddels een compleet andere ervaring geworden door de opmars van datingapps zoals Tinder. We zetten op een rij hoe je een Tinder-profiel zo goed mogelijk invult, om je slaagkansen te vergroten.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/apps/5742264/vijf-tips-om-de-slaagkans-op-tinder-te-vergroten.html).
+
+Een Tinder-profiel bestaat uit een aantal onderdelen: de profielfoto, de begeleidende tekst en de extra informatie die je eraan koppelt, zoals je opleiding, baan en Instagram-foto's.
 
 Hoe je ieder onderdeel het beste kunt invullen, bespreken we met Elisabeth Timmermans, onderzoeker Media en Communicatie aan de Erasmus Universiteit en schrijver van het boek _Liefde in Tijden van Tinder_.
 
@@ -28,6 +30,10 @@ Hoe je ieder onderdeel het beste kunt invullen, bespreken we met Elisabeth Timme
 Je foto is het eerste dat in beeld komt en is volgens Timmermans soms zelfs het enige dat mensen te zien krijgen: "Veel mensen klikken niet door naar de biotekst". Het is daarom belangrijk om een duidelijke en recente foto van jezelf te kiezen.
 
 "Kies het liefst eentje waar geen anderen op staan. Anders weet de swiper niet wie je bent." Kies je er toch voor om een foto met vrienden te gebruiken, vraag de anderen dan om toestemming om hun beelden te gebruiken.
+
+> Kies een foto waar geen anderen op staan, anders weet de swiper niet wie je bent.
+>
+> — Elisabeth Timmermans
 
 "Het lijkt me het beste om een foto te gebruiken waar je helemaal of toch het merendeel van je lichaam op staat." Een bijgesneden foto kan verbergen wat je zelf niet mooi vindt, maar anderen hebben daar wellicht een andere mening over.
 
@@ -56,5 +62,9 @@ Je kunt altijd experimenteren met je teksten. Schrijver Erik Weijers schreef in 
 ## Tip 5: Denk goed na over wat voor informatie je deelt
 
 Door je Facebook-account aan Tinder te koppelen, kun je ook je baan en opleiding op een Tinder-profiel laten zien. Dat is echter niet altijd een goed idee. "Stel dat je een voornaam hebt die niet vaak voorkomt en je baan staat erbij, dan hoeft iemand maar even te googelen om alles over je te weten te komen."
+
+> Vrouwen zoeken vaker naar een hoogopgeleide man.
+>
+> — Elisabeth Timmermans
 
 Het vermelden van je werk en opleiding kan er in sommige gevallen ook toe leiden dat je minder kans van slagen hebt. "Volgens sommige onderzoekers wordt er wel naar gekeken. Vrouwen zoeken vaker bijvoorbeeld naar een hoogopgeleide man."

@@ -40,5 +40,3 @@ Let wel op: Apparaatvrije tijd is strikt genomen optioneel. Je kunt het overschr
 Android heeft een vergelijkbare functie die net wat anders heet: Digitaal welzijn. Deze vind je ook in de instellingen van je telefoon, waar je vervolgens ‘Digitaal welzijn’ kunt selecteren.
 
 Hier kies je vervolgens de Focus-optie, waar je kunt instellen wanneer je even afleidingloos wil concentreren. Je selecteert vervolgens welke apps je tijdelijk onbruikbaar wil maken en waar je geen bericht van wil hebben. Ook kun je hier een schema instellen, zodat de optie tussen 20.00 uur en 20.02 activeert.
-
-_Bekijk hieronder onze video’s op techgebied:_

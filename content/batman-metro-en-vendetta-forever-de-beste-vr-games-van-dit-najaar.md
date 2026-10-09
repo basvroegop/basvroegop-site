@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /batman-metro-en-vendetta-forever-de-beste-vr-games-van-dit-najaar
   - /artikelen/batman-metro-en-vendetta-forever-de-beste-vr-games-van-dit-najaar
 author: Bastiaan Vroegop
 source: Gamer.nl

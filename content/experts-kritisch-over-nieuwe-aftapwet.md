@@ -16,10 +16,12 @@ socialImage: ./media/nu/experts-kritisch-over-nieuwe-aftapwet/a2ca9650691e.webp
 publish: true
 ---
 
-Deze kritiek werd gedeeld bij een hoorzitting over de wet in de Tweede Kamer. De Autoriteit Persoonsgegevens (AP) was vooraf al [kritisch](http://www.nu.nl/internet/4366037/autoriteit-persoonsgegevens-vindt-nieuwe-aftapwet-ver-gaan.html) over de nieuwe wet.
+**Experts hebben zich kritisch uitgelaten over de Wet op de inlichtingen- en veiligheidsdiensten. Er zou onvoldoende toezicht zijn op de wet, die ook teveel mogelijkheden biedt om data op grote schaal in te zamelen.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/4366210/experts-kritisch-over-nieuwe-aftapwet.html).
+
+Deze kritiek werd gedeeld bij een hoorzitting over de wet in de Tweede Kamer. De Autoriteit Persoonsgegevens (AP) was vooraf al [kritisch](http://www.nu.nl/internet/4366037/autoriteit-persoonsgegevens-vindt-nieuwe-aftapwet-ver-gaan.html) over de nieuwe wet.
 
 ## Sleepnet
 

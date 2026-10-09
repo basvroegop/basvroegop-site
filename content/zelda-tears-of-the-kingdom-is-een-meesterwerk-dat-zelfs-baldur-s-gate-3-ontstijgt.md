@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /zelda-tears-of-the-kingdom-is-een-meesterwerk-dat-zelfs-baldur-s-gate-3-ontstijgt
   - /artikelen/zelda-tears-of-the-kingdom-is-een-meesterwerk-dat-zelfs-baldur-s-gate-3-ontstijgt
 author: Bastiaan Vroegop
 source: Gamer.nl

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/deze-week-begint-de-zelda-expositie/1647ce5283.j
 publish: true
 ---
 
+**Verder: waarom het zo'n slecht jaar is voor gamemakers**
+
 Het is de week van de grote Zelda-expositie in Groningen. Een paar dagen terug hebben we de laatste stukken geplaatst, waarna ik geïnterviewd werd door allerlei media - voor het eerst dat ik als journalist eens aan de andere kant van zo'n gesprek zat. Op zaterdag gaan de deuren bij Forum Groningen officieel open. Mocht je van plan zijn te gaan, ik ben er zelf op de zaterdag. Wellicht gezellig!
 
 Verder deze week: het is een geweldig jaar voor games, maar een verschrikkelijk jaar voor gamemakers. Hun toekomst is door de vele ontslagrondes namelijk onzekerder dan ooit.

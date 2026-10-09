@@ -48,5 +48,3 @@ Vrije modemkeuze geeft klanten meer opties om eigen apparatuur te kiezen, zonder
 Als klanten kunnen kiezen welke modem ze gebruiken, kunnen ze ook luxere, beter werkende apparatuur aanschaffen om hun internet mee te verbeteren. Klanten bij Ziggo klagen bijvoorbeeld bij de Consumentenbond al sinds 2019, omdat het Ziggo-model problemen geeft tijdens het gamen.
 
 Voor Ziggo brengt het echter kopzorgen met zich mee: bij de officiële modems kan de provider op afstand meekijken bij technische problemen en updates installeren, zodat problemen verholpen kunnen worden. Wie echter zelf een modem koopt, is overgeleverd aan zijn eigen kennis om storingen te verhelpen.
-
-_Bekijk onze trending nieuwsvideo’s in onderstaande playlist:_

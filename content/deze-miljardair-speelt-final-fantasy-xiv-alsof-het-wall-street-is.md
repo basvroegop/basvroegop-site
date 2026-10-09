@@ -16,6 +16,8 @@ socialImage: ./media/gamepraat/deze-miljardair-speelt-final-fantasy-xiv-alsof-he
 publish: true
 ---
 
+**Ook in deze game is geld macht.**
+
 Terwijl de meeste spelers van Final Fantasy XIV bezig zijn met het verkennen van kerkers, zit de ‘miljardair’ Shalice op haar berg goud. Deze ‘miljardair’ is inmiddels stinkend rijk in de game geworden.
 
 Iedere dag gaan duizenden spelers in Final Fantasy XIV op avontuur in een wereld gevuld met bossen, woestijnen, steden en gevaarlijke krochten. Ze werken samen om moeilijke vijanden te verslaan en om onbekende gebieden te verkennen.

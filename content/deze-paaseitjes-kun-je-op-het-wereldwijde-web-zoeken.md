@@ -16,10 +16,12 @@ socialImage: ./media/nu/deze-paaseitjes-kun-je-op-het-wereldwijde-web-zoeken/1fc
 publish: true
 ---
 
-Je vindt ze inmiddels in nagenoeg iedere grote app of game en op veel websites: _easter eggs_. Deze digitale geheimpjes zitten verstopt in de krochten van softwarecode, wachtend tot een creatieve gebruiker ze vindt.
+**Tijdens Pasen komen veel mensen samen met vrienden en familie om met de kinderen paaseieren te zoeken. Maar ook op het internet zijn er genoeg paaseieren verstopt, die je gewoon op je telefoon of laptop bij elkaar kunt rapen.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech-achtergrond/6125306/deze-paaseitjes-kun-je-op-het-wereldwijde-web-zoeken.html).
+
+Je vindt ze inmiddels in nagenoeg iedere grote app of game en op veel websites: _easter eggs_. Deze digitale geheimpjes zitten verstopt in de krochten van softwarecode, wachtend tot een creatieve gebruiker ze vindt.
 
 De eerste easter egg zat in het spel _Adventure_ uit 1980. Hoewel programmeur Warren Robinett het spel grotendeels alleen had gemaakt, mocht hij van zijn werkgever zijn naam niet in een soort virtuele aftiteling stoppen ter erkenning. Hij besloot zijn naam alsnog stiekem in het spel te verwerken; hij kon alleen gevonden worden door een reeks complexe handelingen uit te voeren.
 

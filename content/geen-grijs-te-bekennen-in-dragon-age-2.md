@@ -14,6 +14,8 @@ socialImage: ./media/gamepraat/geen-grijs-te-bekennen-in-dragon-age-2/60fe509a1e
 publish: true
 ---
 
+**Iedere vorm van nuance lijkt te zijn verdwenen.**
+
 Als Bioware-fan was ik bezorgd. De sequel op _Dragon Age: Origins_ leek wel erg snel naar buiten gepompt te worden. Met een nieuwgevonden focus op combat waar helemaal niet naar gevraagd werd vanuit de traditionele fanbase. Mijn bezoek aan de ontwikkelaar op Gamescom afgelopen zomer wist al deze zorgen in een klap weg te nemen, maar gaf reden tot hele andere zorgen. De dialogen, een van de belangrijkste aspecten van een Bioware-RPG, lijken namelijk iedere vorm van nuance te zijn verloren.
 
 > [!NOTE]

@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-waarom-huawei-liever-europa-dan-de-vs-verove
 publish: true
 ---
 
-Deze week werd de nieuwste smartphone van Huawei niet gepresenteerd in Silicon Valley, maar in München. Begin dit jaar deed het techbedrijf iets vergelijkbaars, toen de Huawei P10 uit de doeken werd gedaan op de Spaanse telecombeurs Mobile World Congress.
+**Van alle grote Aziatische techbedrijven is Huawei één van de weinigen die zich meer op Europa dan de VS richt. Waarom is ons continent zo interessant voor de groeiende techgigant? En waarom zijn de Amerikanen zo achterdochtig over het bedrijf?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/4972058/achtergrond-waarom-huawei-liever-europa-dan-de-vs-verovert.html).
+
+Deze week werd de nieuwste smartphone van Huawei niet gepresenteerd in Silicon Valley, maar in München. Begin dit jaar deed het techbedrijf iets vergelijkbaars, toen de Huawei P10 uit de doeken werd gedaan op de Spaanse telecombeurs Mobile World Congress.
 
 Huawei begon als leverancier van telecomapparatuur voor providers, maar neemt de afgelopen jaren zijn smartphonetak steeds serieuzer. Telefoons van het bedrijf moeten concurreren met bijvoorbeeld de iPhone en toestellen van Samsung; qua marktaandeel komt het bedrijf steeds dichter in de buurt bij deze concurrenten. In China is Huawei inmiddels marktleider.
 

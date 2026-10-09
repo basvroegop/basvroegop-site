@@ -18,12 +18,14 @@ socialImage: ../media/nu/apps-van-de-week-een-verzamelplek-voor-al-je-films-seri
 publish: true
 ---
 
-## Sofa
-
-De smartphoneapp Sofa biedt een manier om bij te houden wat je allemaal hebt gezien, gelezen, bekeken of zelfs gespeeld. Zo kun je een logboek maken van bijvoorbeeld welke films je leuk vond en nog eens nalezen wat je allemaal hebt geconsumeerd.
+**Een plek om alles wat je kijkt, leest en speelt te verzamelen en een manier om chatberichten in Signal te laten verdwijnen. Dit zijn de apps van de week.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/tech/6150827/apps-van-de-week-een-verzamelplek-voor-al-je-films-series-en-boeken.html).
+
+## Sofa
+
+De smartphoneapp Sofa biedt een manier om bij te houden wat je allemaal hebt gezien, gelezen, bekeken of zelfs gespeeld. Zo kun je een logboek maken van bijvoorbeeld welke films je leuk vond en nog eens nalezen wat je allemaal hebt geconsumeerd.
 
 In maart dit jaar kreeg de applicatie al een update die apps, audioboeken en bordspellen toevoegde, maar nu is hij volledig onder handen genomen door de ontwikkelaar.
 
@@ -60,3 +62,5 @@ Opmerkelijk is de manier waarop de spelwereld is vormgegeven. Die bestaat niet u
 Omdat het spel op Apple Arcade staat, moeten geïnteresseerde gamers eerst een abonnement afsluiten om het te downloaden. Daarnaast is de game niet beschikbaar op bijvoorbeeld Android.
 
 _Download [Fantasian](https://apps.apple.com/us/app/fantasian/id1517339045) voor iOS (Apple Arcade vereist)_
+
+[Bekijk ingesloten media](https://www.youtube.com/embed/o-G77XSEFqo)

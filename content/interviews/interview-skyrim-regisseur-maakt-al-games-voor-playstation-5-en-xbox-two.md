@@ -18,10 +18,12 @@ socialImage: ../media/nu/interview-skyrim-regisseur-maakt-al-games-voor-playstat
 publish: true
 ---
 
-Howard werkt inmiddels bijna 25 jaar bij Bethesda Game Studios. De ontwikkelaar stond aan het hoofd van meerdere grote games, waaronder de _Fallout_\-serie en _The Elder Scrolls_\-reeks. In de games van Howard zijn spelers meestal vrij om een open wereld te verkennen, waarin ze zelf kunnen bepalen wat ze het liefst willen worden.
+**NU.nl sprak met ontwikkelaar Todd Howard van Bethesda, het brein achter commerciële successen zoals The Elder Scrolls: Skyrim en Fallout.**
 
 > [!NOTE]
 > Dit interview verscheen eerder op [NU.nl](https://www.nu.nl/games/5310806/interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two.html).
+
+Howard werkt inmiddels bijna 25 jaar bij Bethesda Game Studios. De ontwikkelaar stond aan het hoofd van meerdere grote games, waaronder de _Fallout_\-serie en _The Elder Scrolls_\-reeks. In de games van Howard zijn spelers meestal vrij om een open wereld te verkennen, waarin ze zelf kunnen bepalen wat ze het liefst willen worden.
 
 Daarmee is Howard verantwoordelijk voor een aantal van de succesvolste games die op de markt zijn verschenen. Zijn grootste hit is _Skyrim_, een spel dat in vijf jaar tijd maar liefst 30 miljoen keer is verkocht.
 

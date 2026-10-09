@@ -16,12 +16,14 @@ socialImage: ./media/nu/deze-vernieuwingen-voegt-apple-met-ios-15-toe-aan-je-iph
 publish: true
 ---
 
-## Notificatie- en appfilters voor privé en werk
-
-De iPhone heeft al langer een Niet Storen-functie die notificaties dempt, maar in iOS 15 wordt deze optie uitgebreid. Je kunt voortaan kiezen tussen modi voor werk, privé en wanneer je gaat slapen.
+**Apple brengt maandagavond de software-update iOS 15 uit voor de iPhone, waarmee allerlei nieuwe functies voor de telefoon worden toegevoegd. We zetten de belangrijkste op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6138433/deze-vernieuwingen-voegt-apple-met-ios-15-toe-aan-je-iphone.html).
+
+## Notificatie- en appfilters voor privé en werk
+
+De iPhone heeft al langer een Niet Storen-functie die notificaties dempt, maar in iOS 15 wordt deze optie uitgebreid. Je kunt voortaan kiezen tussen modi voor werk, privé en wanneer je gaat slapen.
 
 Afhankelijk van de gekozen optie worden notificaties van bepaalde apps gedempt. In privémodus krijg je bijvoorbeeld geen berichten meer van zakelijke apps. Ook kun je het iconenscherm van je telefoon aanpassen op basis van de gekozen modus, zodat je zakelijke apps alleen op werkdagen ziet.
 

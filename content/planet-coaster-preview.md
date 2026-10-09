@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/planet-coaster-preview/c4f7a28b69.jpeg
 publish: true
 ---
 
+**Pixarpark.**
+
 We zitten al een tijdje op Planet Coaster te wachten. In maart speelden we immers al een vroege alfaversie van de pretparksimulator, die toen slechts de meest basale elementen bevatte. Inmiddels is er zo ongeveer een half jaar voorbij en is de ontwikkeling van het spel een stuk verder gevorderd. Sterker nog: de versie die wij op GamesCom te zien kregen, lijkt al verdraaid volledig te zijn.
 
 > [!NOTE]

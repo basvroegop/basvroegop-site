@@ -16,10 +16,12 @@ socialImage: ./media/nu/hoe-help-je-kinderen-zich-te-wapenen-tegen-online-afpers
 publish: true
 ---
 
-Het gebeurt steeds vaker: iemand heeft naaktfoto's in handen gekregen en gebruikt die vervolgens om het slachtoffer af te persen. Je kind dan maar verbieden om naaktfoto's te maken? Dat is geen oplossing, stelt gezinstherapeut Melle Jansen van Praktijk Heerewaarden. "We weten al generaties lang: als je zegt dat je kind iets niet mag, dan gaat hij het juist wél doen." Daarom is het belangrijk om het gesprek aan te gaan met je kind over wat hij online doet.
+**Dinsdag bleek dat de 24-jarige Gianni de W. sinds 2014 zeker 130 meisjes en jonge vrouwen zou hebben afgeperst met hun naaktbeelden. Niet alleen een nachtmerrie voor het slachtoffer, maar ook voor de ouders. Hoe kun je je kinderen wapenen tegen online pesterijen en afpersing?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/algemeen/6248429/hoe-help-je-kinderen-zich-te-wapenen-tegen-online-afpersing.html).
+
+Het gebeurt steeds vaker: iemand heeft naaktfoto's in handen gekregen en gebruikt die vervolgens om het slachtoffer af te persen. Je kind dan maar verbieden om naaktfoto's te maken? Dat is geen oplossing, stelt gezinstherapeut Melle Jansen van Praktijk Heerewaarden. "We weten al generaties lang: als je zegt dat je kind iets niet mag, dan gaat hij het juist wél doen." Daarom is het belangrijk om het gesprek aan te gaan met je kind over wat hij online doet.
 
 "Dit begint eigenlijk al op de basisschool, al is het dan niet seksueel getint. Het kan bijvoorbeeld gebeuren dat een jongen of meisje ongevraagd een foto van een klasgenoot deelt in een groepsapp. Een kind kan daar meer last van hebben dan je denkt. Kinderen moeten dan eigenlijk al leren dat het delen van andermans foto's gevolgen heeft."
 

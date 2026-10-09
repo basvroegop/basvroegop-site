@@ -16,14 +16,18 @@ socialImage: ./media/nu/gamebeurs-e3-laat-zien-hoe-ook-de-gamewereld-door-corona
 publish: true
 ---
 
-Ieder jaar presenteren gamebedrijven hun grote plannen op de beurs E3. Normaal gesproken in Los Angeles, maar wegens de coronapandemie gebeurde het ditmaal allemaal digitaal.
+**Tijdens gamebeurs E3 werd dit jaar vooral één ding duidelijk: de coronacrisis heeft een flinke impact gehad op de ontwikkeling van nieuwe games.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/6139847/gamebeurs-e3-laat-zien-hoe-ook-de-gamewereld-door-corona-is-getroffen.html).
 
+Ieder jaar presenteren gamebedrijven hun grote plannen op de beurs E3. Normaal gesproken in Los Angeles, maar wegens de coronapandemie gebeurde het ditmaal allemaal digitaal.
+
 Onder andere Nintendo, Microsoft, Ubisoft en Square Enix lieten hun titels voor de komende periode zien, maar daartussen stonden overwegend weinig verrassingen. Zo waren de grootste klappers bijvoorbeeld _Elden Ring_ en een vervolg op _The Legend of Zelda: Breath of the Wild_, twee spellen die al eens eerder waren aangekondigd en vanaf 2022 in de winkels liggen.
 
 Nintendo speelde op zijn beurt veel in op nostalgie, met vervolgen op games die begin 21e eeuw op de Game Boy Advance hoog gewaardeerd werden. Scifireeks _Metroid_ krijgt voor het eerst in negentien jaar een volwaardig nieuw deel, terwijl het tactische oorlogsspel _Advance Wars_ in het nieuw wordt gestoken.
+
+[Bekijk ingesloten media](https://www.youtube.com/embed/Pi-MRZBP91I)
 
 Xbox-maker Microsoft pakte ook uitgebreid uit met schietspel _Halo Infinite_, maar die game stond al gepland voor eind 2020. Het spel werd na onvrede van fans uitgesteld, omdat de eerste beelden er ondermaats uit zagen. Nu staat het spel gepland voor eind 2021 en zijn nieuwe, opgepoetste trailers getoond.
 

@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /pc-ports-voor-zelda-mario-banjo-kazooie-en-meer
   - /artikelen/pc-ports-voor-zelda-mario-banjo-kazooie-en-meer
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/achtergrond/decompiles-recompiles-por
 socialImage: ./media/unpause/pc-ports-voor-zelda-mario-banjo-kazooie-en-meer/71971a4c405c.webp
 publish: true
 ---
+
+**Itereren, decompileren, hercompileren**
 
 > [!NOTE]
 >

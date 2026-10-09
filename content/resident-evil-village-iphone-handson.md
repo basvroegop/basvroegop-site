@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/resident-evil-village-iphone-handson/437aab223d.j
 publish: true
 ---
 
+**Gaat Apple games serieus nemen?**
+
 Resident Evil Village op de iPhone 15 Pro bewijst dat recentelijk uitgekomen consolegames nu prima op smartphones draaien - maar gaat het Apple lukken om ook genoeg boeiende titels naar de App Store te krijgen?
 
 > [!NOTE]

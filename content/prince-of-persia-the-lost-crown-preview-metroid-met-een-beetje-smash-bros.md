@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Power Unlimited
 aliases:
-  - /prince-of-persia-the-lost-crown-preview-metroid-met-een-beetje-smash-bros
   - /artikelen/prince-of-persia-the-lost-crown-preview-metroid-met-een-beetje-smash-bros
 author: Bastiaan Vroegop
 source: Power Unlimited

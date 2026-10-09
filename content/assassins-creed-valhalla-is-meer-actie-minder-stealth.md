@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/assassins-creed-valhalla-is-meer-actie-minder-ste
 publish: true
 ---
 
+**Valhalleluja.**
+
 Hoe lang zal Assassin's Creed nog gaan over sluipmoordenaars? Bij een drie uur durende hands-on sessie van Valhalla voelde hoofdrolspeler Eivor eerder als een lompe krijger die liever op het slagveld vecht.
 
 > [!NOTE]

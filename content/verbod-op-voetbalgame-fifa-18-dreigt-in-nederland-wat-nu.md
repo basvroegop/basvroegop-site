@@ -16,10 +16,12 @@ socialImage: ./media/nu/verbod-op-voetbalgame-fifa-18-dreigt-in-nederland-wat-nu
 publish: true
 ---
 
-De Nederlandse Kansspelautoriteit doet al langer onderzoek naar zogeheten lootboxen. Dit zijn virtuele schatkisten met willekeurige beloningen die je met echt geld kunt kopen.
+**De voetbalgame FIFA 18 is een van de grote titels die mogelijk de Nederlandse gokwet overtreedt met het aanbieden van 'lootboxen'. Een verbod op het voetbalspel dreigt.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/5229374/verbod-op-voetbalgame-fifa-18-dreigt-in-nederland-wat-nu.html).
+
+De Nederlandse Kansspelautoriteit doet al langer onderzoek naar zogeheten lootboxen. Dit zijn virtuele schatkisten met willekeurige beloningen die je met echt geld kunt kopen.
 
 Vier van de tien door de Kansspelautoriteit onderzochte games overtreden de Nederlandse gokwet. De voorwerpen die spelers via de lootboxen kunnen krijgen, zijn namelijk door te verkopen.
 

@@ -64,5 +64,3 @@ Die HomePod-verbinding werkt prima bij het afspelen van video’s, maar we merkt
 Bovenstaande voordelen daargelaten, is er wel één punt waar de Google-concurrent mee wint: op een Nest Mini kun je via de stemassistent muziek op Spotify afspelen. Een belangrijk streepje voor, omdat Spotify op het moment marktleider in Nederland is.
 
 Je HomePod kan wel Spotify-muziek afspelen, maar dan moet je het vanaf een iPhone AirPlayen. Je tracks aanzetten met stembediening zit er met Spotify bij de HomePod niet in. Wie per se een HomePod wil voor muziek, moet dus overstappen naar Deezer of Apple Music.
-
-_Bekijk hieronder onze video’s op techgebied:_

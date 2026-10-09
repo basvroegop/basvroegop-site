@@ -58,5 +58,3 @@ Wel lijkt de Chinese evenknie van ChatGPT goed te zijn in redeneren, wiskunde, h
 Veel kunstmatige intelligentie is gratis beschikbaar, maar heeft ook een optioneel abonnement. Dat geeft extra functies, zoals de mogelijkheid om bijvoorbeeld video’s te generen, maar soms krijg je ook toegang tot een nieuw AI-model.
 
 Dat AI-model is eigenlijk een nieuwe, soort complexe rekensom waar de software zijn antwoorden mee genereert. Bij ChatGPT betaal je bijvoorbeeld 20 dollar per maand om het net iets betrouwbaardere GPT-4 te gebruiken.
-
-_Bekijk hieronder onze video’s op techgebied:_

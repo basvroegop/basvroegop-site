@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/wat-is-er-anders-in-dragon-ball-fighterz-op-de-sw
 publish: true
 ---
 
+**Is een draagbare Super Saiyan je geld waard?**
+
 Ruim een halfjaar nadat Dragon Ball FighterZ voor de PlayStation 4, Xbox One en pc verscheen, is het vechtspel ook op de Nintendo Switch verkrijgbaar. Hoe anders is deze port - en is het slim om hem nog een keer te kopen?
 
 > [!NOTE]

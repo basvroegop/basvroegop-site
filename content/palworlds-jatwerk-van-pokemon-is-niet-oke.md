@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /palworlds-jatwerk-van-pokemon-is-niet-oke
   - /artikelen/palworlds-jatwerk-van-pokemon-is-niet-oke
 author: Bastiaan Vroegop
 source: Gamer.nl

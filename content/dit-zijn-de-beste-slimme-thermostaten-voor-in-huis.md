@@ -16,12 +16,20 @@ socialImage: ./media/nu/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis/0b32b
 publish: true
 ---
 
-De slimme thermostaat is samen met slimme verlichting en slimme camera's met gezichtsherkenning een gadget voor in een 'smarthome'. Je koppelt de warmteregelaar aan je internetverbinding en smartphone, waardoor je bijvoorbeeld automatisch de verwarming aanzet als je bijna thuis bent.
+**Steeds meer thermostaten bevatten slimme functies, maar welke kun je het best in huis halen? Wij testen vier populaire opties.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/wonen/5756883/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis.html).
 
+De slimme thermostaat is samen met slimme verlichting en slimme camera's met gezichtsherkenning een gadget voor in een 'smarthome'. Je koppelt de warmteregelaar aan je internetverbinding en smartphone, waardoor je bijvoorbeeld automatisch de verwarming aanzet als je bijna thuis bent.
+
 In dit overzicht maken we een selectie uit de slimme thermostaten die in Nederland worden verkocht. Daarbij kijken we ook welke systemen in combinatie met een gewone cv-ketel of met stadsverwarming werken.
+
+> [!INFO] Beste koop: Nest Learning Thermostat (derde generatie)
+>
+> -   Prijs: circa 250 euro
+> -   Werkt met een cv-ketel en stadsverwarming
+> -   [Meer over in welk huis Nest werkt, vind je hier](https://nest.com/nl/support/article/Which-heating-systems-are-compatible-with-the-Nest-Learning-Thermostat)
 
 ![Nest](./media/nu/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis/e445d20271d3.webp)
 
@@ -35,6 +43,12 @@ De thermostaat heeft nog een aantal handigheidjes, zoals een koppeling met de sl
 
 **Kopen als:** Je er graag op vertrouwt dat de thermostaat zichzelf goed instelt.
 **Mijden als:** Je het idee van een bewegingssensor in huis niet fijn vindt.
+
+> [!INFO] Budgetkeuze: Honeywell Lyric
+>
+> -   Prijs: circa 150 euro
+> -   Werkt met een cv-ketel en stadsverwarming
+> -   [Meer over ondersteuning in jouw huis vind je hier](https://www.honeywellhome.com/en/general-pages/wi-fi-programmable-thermostat-home-compatibility)
 
 ![Honeywell Lyric](./media/nu/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis/46d1c72c625e.webp)
 
@@ -53,6 +67,12 @@ Activeer je het apparaat, dan toont de gadget virtuele bedieningsknoppen. Hierdo
 
 ## Alternatieven
 
+> [!INFO] Tado
+>
+> -   Prijs: circa 200 euro, 80 euro voor radiatorknoppen
+> -   Werkt met een cv-ketel of stadsverwarming
+> -   [Hier zie je of Tado ook in jouw huis werkt](https://support.tado.com/hc/nl/articles/202193195-Welke-verwarmingssystemen-worden-ondersteund-door-de-Slimme-Thermostaat-)
+
 ![Tado](./media/nu/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis/8372cc42b871.webp)
 
 _Tado — Beeld: Tado_
@@ -65,6 +85,12 @@ De totaalprijs van een huis met een Tado-thermostaat en meerdere thermostaatknop
 
 **Kopen als:** Je kamers individueel van elkaar wilt opwarmen.
 **Mijden als:** Je niet de hoofdprijs wilt betalen.
+
+> [!INFO] Toon
+>
+> -   Prijs: 199 euro, of in combinatie met een Eneco-contract
+> -   Werkt alleen met cv-ketels, niet met stadsverwarming
+> -   [Precieze informatie over ondersteuning vind je hier](https://www.eneco.nl/energieproducten/toon-thermostaat/hoe-werkt-toon/)
 
 ![Dit zijn de beste slimme thermostaten voor in huis](./media/nu/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis/b3df7e5cc747.webp)
 

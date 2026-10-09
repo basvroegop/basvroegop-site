@@ -41,12 +41,8 @@ Het was juist Ennetcom waar Taghi in het verleden meermaals gebruik van maakte. 
 
 Afgelopen jaar bleek dat de Nederlandse en Franse politie twee maanden lang kon meelezen met berichten die via OTR-versleuteling waren beveiligd, een opvolger van PGP. De politie zei software te gebruiken die door de politie Oost-Nederland is gemaakt. Deze onderschepte berichten van het bedrijf Blackbox Security en ontsleutelde ze vervolgens. Hoe dat ontsleutelen precies lukte heeft de politie niet bekendgemaakt.
 
-_Luister voor het laatste nieuws naar de AD Nieuws Update:_
-
 ## Chatapps zijn vaker versleuteld
 
 Je hebt overigens geen criminele app of telefoon nodig om beveiligd met vrienden en familie te chatten. Steeds meer chatdiensten, waaronder ook WhatsApp, iMessage en Signal, gebruiken een vorm van versleuteling die lastig is om af te luisteren.
 
 Minister Grapperhaus [pleitte](https://www.ad.nl/politiek/minister-grapperhaus-pleit-opnieuw-voor-toegang-overheid-tot-versleutelde-berichten~a82dced1/) eind 2019 nog voor het inzien van zulke berichten, en volgens bronnen van de NOS werkte de overheid aan een initiatief om versleuteling af te zwakken. Techbedrijven zeiden al meermaals dat dit niet zomaar kan.
-
-_Bekijk hieronder onze video's over Ridouan Taghi:_

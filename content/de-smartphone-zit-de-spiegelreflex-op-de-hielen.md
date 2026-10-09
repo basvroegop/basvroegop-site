@@ -16,6 +16,8 @@ socialImage: ./media/gamepraat/de-smartphone-zit-de-spiegelreflex-op-de-hielen/2
 publish: true
 ---
 
+**Kan je spiegelreflexcamera weg nu de nieuwste smartphones drie camera’s hebben? Of leggen deze het af bij nachtfoto’s en portretten?**
+
 Techgiganten proberen de fotofunctionaliteit van hun smartphones steeds beter te maken. Achterop de duurste toestellen zitten meerdere camera’s. Met softwaretrucs wordt een serieuze poging ondernomen om de nacht- en portretfoto’s te professionaliseren. Kan daarmee je spiegelreflexcamera de deur uit? NRC neemt de proef op de som, door te kijken naar de toestellen van de drie grootste telefoonmakers.
 
 > [!NOTE]

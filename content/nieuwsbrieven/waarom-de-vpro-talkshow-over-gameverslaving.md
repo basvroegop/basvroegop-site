@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/waarom-de-vpro-talkshow-over-gameverslaving/411d
 publish: true
 ---
 
+**Gameverslaving is belangrijk, maar Nadia van de VPRO deed bijna alles verkeerd**
+
 Hoewel media steeds beter over de game-industrie berichten, ging het deze week toch weer eens goed mis bij een praatprogramma van de VPRO. Deze week probeer ik te analyseren wat daar precies mis bij ging.
 
 Deze editie van Gamepraat telt 1.387 woorden en neemt zeven minuten van je tijd in beslag. Vond je hem interessant? Abonneren kan hieronder.

@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-
 publish: true
 ---
 
-In 2017 is Sonic the Hedgehog een wat obscure naam, maar rond de jaren ’90 had de mascotte een goede reputatie. Hij was de grote rivaal van Nintendo’s Super Mario. De blauwe egel had een iets stoerder imago dan Mario, waarmee het Japanse gamebedrijf Sega zijn Mega Drive-spelcomputer aan de man probeerde te krijgen.
+**De oude game-mascotte Sonic keerde deze week terug in de game Sonic Mania, die voor een groot deel door Nederlandse fans is gemaakt. Hoezo mochten zij ineens aan de slag met het oude game-icoon?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/4885922/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania.html).
+
+In 2017 is Sonic the Hedgehog een wat obscure naam, maar rond de jaren ’90 had de mascotte een goede reputatie. Hij was de grote rivaal van Nintendo’s Super Mario. De blauwe egel had een iets stoerder imago dan Mario, waarmee het Japanse gamebedrijf Sega zijn Mega Drive-spelcomputer aan de man probeerde te krijgen.
 
 Dat lukte. De Mega Drive (in andere landen bekend als de Genesis) ging bijna 30 miljoen keer over de toonbank. Hoewel Nintendo met 50 miljoen Super Nintendo-consoles alsnog marktleider was, maakte dit Sega een grote speler op de gamesmarkt.
 

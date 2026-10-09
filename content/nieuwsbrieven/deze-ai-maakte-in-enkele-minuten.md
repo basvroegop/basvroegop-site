@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/deze-ai-maakte-in-enkele-minuten/494da0d3ea.jpg
 publish: true
 ---
 
+**Daarnaast: een overleden YouTuber misbruikt voor politieke video's en GDC maakt einde aan diversiteitspanel.**
+
 Het is een week waarin nerveus naar kunstmatige intelligentie wordt gekeken. De nieuwe AI GPT-4 kan in een handomdraai hele games afleveren zonder dat er een ontwikkelaar aan te pas komt, terwijl vergelijkbare technologie wordt gebruikt om de overleden gaming-YouTuber Totalbiscuit op morbide wijze weer tot leven te brengen en dingen te laten zeggen die hij wellicht helemaal niet vond.
 
 Verder blikken we deze week alvast een beetje vooruit op de Game Developer Conference (GDC), waar een langlopende panel over diversiteit is geschrapt.

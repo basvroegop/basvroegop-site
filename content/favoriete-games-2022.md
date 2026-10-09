@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/favoriete-games-2022/f8d7cba5e6.webp
 publish: true
 ---
 
+**Tunic, Chained Echoes, Elden Ring en....**
+
 Ik had mijn favoriete games van 2022 al op een rij gezet in de [Spelkost-podcast](https://spelko.st/009-favoriete-games-2022-gotys/?ref=gamepraat.nl), maar het leek me leuk ze ook nog eens hier op te sommen.
 
 ### 5\. God of War: Ragnarök

@@ -61,5 +61,3 @@ In tegenstelling tot de MacBook Air heeft deze laptop ventilatoren om zichzelf k
 In deze rubriek schrijven we over technologische apparaten die door Tweakers zijn beoordeeld. Bij Tweakers wordt elk apparaat onderzocht door het testlab, waarbij onder andere accuduur, snelheid en andere belangrijke aspecten worden getoetst.
 
 De redactie van Tweakers is volledig onafhankelijk. Bedrijven betalen op geen enkele manier om in deze artikelen behandeld te worden.
-
-_Bekijk hieronder onze video’s op techgebied:_

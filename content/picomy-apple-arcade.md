@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/picomy-apple-arcade/2b14c31191.webp
 publish: true
 ---
 
+**Picomy heeft een primeur: de Rotterdamse studio is het eerste Nederlandse gamebedrijf dat onderdeel is van Apples nieuwe abonneedienst voor mobiele spelletjes. „Ik denk dat wij op het juiste moment de juiste game ver genoeg klaar hadden liggen.”**
+
 Apple werd eerder dit najaar weer iets meer een gamebedrijf. Met software-update iOS 13 introduceerde het bedrijf ook [Arcade](https://www.apple.com/nl/apple-arcade/?ref=gamepraat.nl). In Apples digitale speelhal heb je voor 5 euro per maand toegang tot een bibliotheek met mobiele games.
 
 Zo’n abonnementsmodel is een frisse wind in de App Store. Tot voor kort verdienden ontwikkelaars er slechts op drie manieren geld: een app per stuk verkopen, reclame aanbieden in het spel of geld vragen voor virtuele aankopen in een (gratis) game. Zo komt Apple ook gefrustreerde ouders tegemoet. Het gebeurt regelmatig dat jonge gamers met de creditcard van hun ouders voor honderden euro’s extra spullen kopen in bijvoorbeeld __Fortnite__.

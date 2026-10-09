@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/het-was-een-belangrijke-week-voor/76acc0d946.jpg
 publish: true
 ---
 
+**En het koffietafelboek '30 Jaar Gamegeschiedenis' is nu te koop**
+
 Deze week stond vrijwel iedere hoek van de Nederlandse game-industrie in de schijnwerpers. Dat begon op woensdag met de Dutch Game Day en Game Awards, waarna dit weekend de gamejournalistiek vierde dat Power Unlimited dertig jaar oud is.
 
 Daarom wil ik het deze week even alleen hebben over wat er in ons eigen land speelt - en hoe jammer het is dat bijna niemand daar echt op lijkt te letten. We trappen af.

@@ -16,10 +16,12 @@ socialImage: ./media/nu/wanneer-nemen-robots-de-wereld-over/3fea5debbe3d.webp
 publish: true
 ---
 
-In de fictieve versie van de stad Detroit zijn robots net zo populair als de hedendaagse smartphone. Bijna iedereen heeft er eentje in huis om te helpen bij alledaagse taken. De ene machine doet de boodschappen, terwijl de robot van een ander de kinderen van school haalt.
+**Op 25 mei verschijnt de nieuwe PlayStation 4-game Detroit: Become Human, waarin de wereld is gevuld met slimme robotdienaren die in huis helpen. Hoe lang duurt het tot dit sciencefictionbeeld een realiteit wordt?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5241134/wanneer-nemen-robots-de-wereld-over.html).
+
+In de fictieve versie van de stad Detroit zijn robots net zo populair als de hedendaagse smartphone. Bijna iedereen heeft er eentje in huis om te helpen bij alledaagse taken. De ene machine doet de boodschappen, terwijl de robot van een ander de kinderen van school haalt.
 
 Die robots zijn haast niet van mensen te onderscheiden. Ze hebben gewone gezichten, dragen kleding en lopen net zoals hun menselijke eigenaren rond. Het verschil is alleen te zien aan de simpele lampjes op de kleding en het hoofd van de androïdes.
 

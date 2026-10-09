@@ -16,6 +16,8 @@ socialImage: ../media/gamepraat/over-het-emotionele-lootboxdebat-in-nederland/6a
 publish: true
 ---
 
+**Slechts twee tot vier procent van de games heeft lootboxen. Dat klinkt laag en ligt toch net wat genuanceerder.**
+
 "Het lootboxdebat wordt vrij emotioneel gevoerd", vertelde de directeur van gamekijkwijzer PEGI mij afgelopen week. Dat terwijl slechts een klein percentage van de games er werkelijk gebruik van maakt. Ondanks dat kleine aantal komt toch nog een best flinke groep gamers in aanraking met dat goksysteem. Hoe dat zit, leg ik je uit in deze editie.
 
 _Deze editie van Gamepraat telt **1.012** woorden en neemt vier minuten van je tijd in beslag. Vind je dit leuk om te lezen? Stuur de nieuwsbrief door naar een vriend! Dat helpt al ontzettend._

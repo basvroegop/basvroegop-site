@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/verrassing-the-old-republic-is-nu-een-leuke-star-
 publish: true
 ---
 
+**Meer BioWare, minder WarCraft.**
+
 Vergeet eventjes alles wat je dacht te weten over Star Wars: The Old Republic. Deze bekritiseerde MMORPG is in de afgelopen maanden ineens veel toffer geworden.
 
 > [!NOTE]

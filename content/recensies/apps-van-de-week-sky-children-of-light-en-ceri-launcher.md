@@ -18,12 +18,14 @@ socialImage: ../media/nu/apps-van-de-week-sky-children-of-light-en-ceri-launcher
 publish: true
 ---
 
-## Sky: Children of the Light
-
-De nieuwe smartphonegame _Sky: Childen of the Light_ liet lang op zich wachten. Apple toonde het spel enkele jaren geleden tijdens een presentatie, om de grafische krachten van de nieuwe Apple TV te laten zien. Sindsdien was het stil rond het spel, tot hij deze week ineens in de App Store verscheen.
+**Verken een serene wereld in Sky: Children of Light, verander het iconenscherm van je Android-telefoon met Ceri Launcher en meer.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/tech/5968263/apps-van-de-week-sky-children-of-light-en-ceri-launcher.html).
+
+## Sky: Children of the Light
+
+De nieuwe smartphonegame _Sky: Childen of the Light_ liet lang op zich wachten. Apple toonde het spel enkele jaren geleden tijdens een presentatie, om de grafische krachten van de nieuwe Apple TV te laten zien. Sindsdien was het stil rond het spel, tot hij deze week ineens in de App Store verscheen.
 
 _Sky_ is gemaakt door thatgamecompany, een spelontwikkelaar die eerder bekend werd met PlayStation-titels _Flower_ en _Journey_. Deze nieuwe telg van het bedrijf lijkt vooral op die laatste. Je wandelt door woestijnen en vliegt door de lucht terwijl je de gamewereld verkent.
 

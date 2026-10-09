@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /favorieten-de-filosofie-van-final-fantasy-14-dawntrail-blijft-me-bezighouden
   - /artikelen/favorieten-de-filosofie-van-final-fantasy-14-dawntrail-blijft-me-bezighouden
 author: Bastiaan Vroegop
 source: Gamer.nl

@@ -18,10 +18,12 @@ socialImage: ../media/nu/interview-schrijver-detroit-become-human-zou-zeker-een-
 publish: true
 ---
 
-_Detroit: Become Human_ is een soort interactieve film. Spelers kruipen in de huid van drie robots. In het begin voeren die robots vooral simpele opdrachten uit, zoals het schoonmaken van een huis of het halen van boodschappen. Al snel beginnen ze echter mysterieuze softwarebugs te vertonen, waardoor ze ineens een eigen bewustzijn en emoties ontwikkelen.
+**In de PlayStation 4-game Detroit: Become Human is de robot de nieuwe smartphone. Een utopie, of gaan robots de mensheid ooit vervangen?**
 
 > [!NOTE]
 > Dit interview verscheen eerder op [NU.nl](https://www.nu.nl/games/5241359/interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen.html).
+
+_Detroit: Become Human_ is een soort interactieve film. Spelers kruipen in de huid van drie robots. In het begin voeren die robots vooral simpele opdrachten uit, zoals het schoonmaken van een huis of het halen van boodschappen. Al snel beginnen ze echter mysterieuze softwarebugs te vertonen, waardoor ze ineens een eigen bewustzijn en emoties ontwikkelen.
 
 Naarmate de game vordert, moet de speler op cruciale momenten eigen keuzes maken. Hierdoor kan het verhaal van twee verschillende spelers op totaal andere manieren verlopen.
 

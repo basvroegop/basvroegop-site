@@ -18,14 +18,23 @@ socialImage: ../media/nu/de-beste-slimme-speakers-in-nederland/207befa6bdfc.webp
 publish: true
 ---
 
-Steeds meer techbedrijven maken slimme luidsprekers. Spreek ze aan met commando's als "Hé Siri" of "Oké Google" en je kunt allerlei vragen stellen. Ze vertellen in meerdere talen bijvoorbeeld wat het huidige weer is en kunnen een wekker instellen.
+**Nu de stemassistent van Google Nederlands spreekt, worden er steeds meer slimme speakers in Nederland verkocht. We zetten vijf goede opties op een rij.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/reviews/5644103/de-beste-slimme-speakers-in-nederland.html).
 
+Steeds meer techbedrijven maken slimme luidsprekers. Spreek ze aan met commando's als "Hé Siri" of "Oké Google" en je kunt allerlei vragen stellen. Ze vertellen in meerdere talen bijvoorbeeld wat het huidige weer is en kunnen een wekker instellen.
+
 In dit overzicht kijken we naar de speakers die op dit moment in Nederland verkrijgbaar zijn. We beperken ons hierdoor voor een groot deel tot luidsprekers die de Google Assistent ondersteunen. Hoewel Apple en Amazon alternatieven hebben, zijn die hier nog niet via officiële kanalen hier te koop.
 
 ## Beste koop: Google Home
+
+> [!INFO] Details
+>
+> -   14 centimeter hoog.
+> -   Verkrijgbaar in het wit.
+> -   Klinkt prima bij gangbare volumes. Bij hoog volume een beetje hol.
+> -   Kost 149 euro.
 
 ![Google Home](../media/nu/de-beste-slimme-speakers-in-nederland/7a0575cf1f67.webp)
 
@@ -38,7 +47,20 @@ Lampjes bovenop laten met animaties en kleuren zien of de speaker luistert of ee
 **Kopen als:** Je een speaker met een redelijke prijs-kwaliteitverhouding zoekt.
 **Mijden als:** Je fysieke knoppen wil om de speaker mee te bedienen.
 
+> [!INFO] Details
+>
+> -   [Koop de speaker bij Bol.com](https://www.bol.com/nl/p/google-home-smart-speaker-wit-nederlandstalig/9200000100219755/)
+> -   [Koop de speaker bij MediaMarkt](https://www.mediamarkt.nl/nl/product/_google-home-wit-1587557.html)
+> -   [Koop de speaker bij Coolblue](https://www.coolblue.nl/product/803578/google-home.html)
+
 ## Beste budgetkeuze: Home Mini
+
+> [!INFO] Details
+>
+> -   4,2 centimeter hoog
+> -   Verkrijgbaar in zwart, wit en roze.
+> -   Klinkt hol bij hoge volumes.
+> -   Kost 59 euro.
 
 ![Google Home](../media/nu/de-beste-slimme-speakers-in-nederland/06e270b344d8.webp)
 
@@ -53,9 +75,22 @@ Door de mindere audiokwaliteit is de Home Mini niet een speaker waarop je muziek
 **Kopen als:** Je zo weinig mogelijk wil betalen voor een slimme speaker.
 **Mijden als:** Je goede audiokwaliteit verwacht.
 
+> [!INFO] Details
+>
+> -   [Koop de speaker bij Bol.com](https://www.bol.com/nl/p/google-home-mini-smart-speaker-wit-nederlandstalig/9200000100219731/)
+> -   [Koop de speaker bij MediaMarkt](https://www.mediamarkt.nl/nl/product/_google-home-mini-wit-1587555.html)
+> -   [Koop de speaker bij Coolblue](https://www.coolblue.nl/product/803581/google-home-mini-wit.html)
+
 ## Alternatieven:
 
 ## LG WK7
+
+> [!INFO] Details
+>
+> -   21 centimeter hoog
+> -   Verkrijgbaar in het zwart.
+> -   Klinkt ook bij hoge volumes prima.
+> -   Kost 200 euro.
 
 ![LG WK7](../media/nu/de-beste-slimme-speakers-in-nederland/a413c52b7783.webp)
 
@@ -70,7 +105,19 @@ Er staat wel iets tegenover die betere hardware: de WK7 is een buitengewoon fors
 **Kopen als:** Je iets meer wil betalen voor betere audiokwaliteit.
 **Mijden als:** Je op zoek bent naar een compacte speaker.
 
+> [!INFO] Details
+>
+> -   [Koop de speaker bij Bol.com](https://www.bol.com/nl/p/lg-wk7/9200000093097874/)
+> -   [Koop de speaker bij Coolblue](https://www.coolblue.nl/product/822623/lg-wk7-thinq.html?cmt=c_a,cid_1659277590,aid_63727601197,tid_pla-592740218106,gn_g,d_c&ref=849010&gclid=CjwKCAiAu_LgBRBdEiwAkovNsEwF3FN0OzSM0_NNnypVbWj76VdLZuyeDX2c6tqaRnUTR8ttZx3xeRoC4yMQAvD_BwE)
+
 ## Sonos One
+
+> [!INFO] Details
+>
+> -   16,1 centimeter hoog
+> -   Verkrijgbaar in zwart en wit.
+> -   Klinkt ook goed bij hoge volumes.
+> -   Kost 204 euro.
 
 ![Sonos One](../media/nu/de-beste-slimme-speakers-in-nederland/fe3ae6064782.webp)
 
@@ -88,5 +135,11 @@ Qua geluidskwaliteit is de Sonos One een prima, solide speaker, met een natuurli
 
 **Kopen als:** Je bereid bent om te wachten op de slimme functies.
 **Mijden als:** Je per direct een Nederlandse stemassistent wil bedienen.
+
+> [!INFO] Details
+>
+> -   [Koop de speaker bij Bol.com](https://www.bol.com/nl/p/sonos-one-wit/9200000083962846/)
+> -   [Koop de speaker bij MediaMarkt](https://www.mediamarkt.nl/nl/product/_sonos-one-wit-1542981.html)
+> -   [Koop de speaker bij Coolblue](https://www.coolblue.nl/product/795383/sonos-one-wit.html)
 
 _De speakers in bovenstaand overzicht zijn geselecteerd door de onafhankelijke redactie van NU.nl. Als je een speaker koopt, kan het zijn dat NU.nl hier geld aan verdient._

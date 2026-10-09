@@ -46,5 +46,3 @@ Op je laptop of desktopcomputer is het iets lastiger, omdat je Facebook doorgaan
 Zelfs zonder Facebook-account ben je nog niet af van het techbedrijf. Bezoek je websites die gelinkt zijn aan het advertentienetwerk van het bedrijf, dan kan dat bezoek worden vastgelegd door het bedrijf, waardoor een soort ‘schaduw-profiel’ ontstaat.
 
 Wie liever niet op die manier door Facebook in de gaten wordt gehouden, kan ervoor kiezen die Facebook-link van andere sites automatisch te blokkeren. Door een extensie zoals AdBlock Plus te installeren, kun je ervoor zorgen dat de zogeheten Facebook-pixel niet in jouw browser wordt geladen. En als die pixel niet werkt, ziet Facebook ook niks van jou.
-
-_Bekijk hieronder onze video’s op techgebied:_

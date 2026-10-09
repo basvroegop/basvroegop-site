@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/ik-dit-het-einde-van-humble-bundles/965077ba80.j
 publish: true
 ---
 
+**Verder: discriminerende jrpg's en Octopath Traveler II lijkt op Elden Ring.**
+
 Wie een Steam-game voor weinig wil, kan er vaak eentje kopen op een externe, schimmige website. Het is al jarenlang een ethisch dilemma, want schoffeer je de makers niet als je hun games via die route koopt? Nu legt Valve die webwinkels aan banden.
 
 Verder deze week: de maker van _Final Fantasy XVI_ vond de term 'jrpg' discriminerend, maar kunnen we nog af van die genrenaam? En het nieuwe _Octopath Traveler II_, één van die jrpg's, maakt een buitengewoon goede indruk.

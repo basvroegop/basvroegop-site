@@ -25,8 +25,6 @@ Gamen is allang niet meer voor alleen maar pubers. Generaties die na de jaren 80
 
 De Amsterdamse studio Guerrilla Games is een wereldspeler op die markt. Ze maakten in 2017 het spel _Horizon Zero Dawn_, bedoeld als een soort tegengeluid op eerder door hen gemaakte grauwe schietspellen. ,,In plaats van een stoere soldaat wilden we een vrouwelijk personage in een kleurrijke wereld”, vertelt gameregisseur Mathijs de Jonge.
 
-> Dit is de grootste mediaproductie van Nederlandse bodem
-
 ## Grootste mediaproductie van Nederland
 
 ,,_Horizon_ is vergelijkbaar met een _Avatar_\-film uit Hollywood”, vertelt Jan-Pieter van Seventer van de Dutch Game Garden. Zijn bedrijf helpt gamebedrijven en individuele ontwikkelaars in Nederland. ,,Dit is de grootste mediaproductie van Nederlandse bodem. Er is geen speelfilm die hier aan kan tippen, en ik denk zelfs niet dat de mediaformats uit Hilversum dit evenaren qua impact.”

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/primeur-de-eerste-gamepodcast-in/e57535dc65.jpg
 publish: true
 ---
 
+**Europa zet een kleine stap tegen lootboxgames en Stadia neemt gracieus afscheid.**
+
 Afgelopen dinsdag was ik in Hilversum voor iets bijzonders: de podcast Gamebites, die ik een decennium lang samen met collega-journalisten Erwin Vogelaar en Harry Hol maakte, werd formeel opgenomen in het archief van Beeld en Geluid. Een primeur van hun, want gamepodcasts archiveren deden ze tot nu toe niet. Dat is voor ons natuurlijk leuk, maar het is denk ik ook de zoveelste goede stap die zij nemen om onze gamegeschiedenis in Nederland te waarborgen. Dat gebeurde tot voor kort maar amper.
 
 Verder was dit ook de week waarin Googles streamingdienst Stadia het loodje legde en Europa een (kleine) stap zette in de strijd tegen lootboxen. Het komt allemaal aan bod in deze nieuwsbrief van 1.711 woorden, die zo'n 8 minuten van je tijd neemt.

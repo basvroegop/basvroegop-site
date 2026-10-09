@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/dit-gebeurt-er-met-de-game-industrie/551e83422e.
 publish: true
 ---
 
+**Verder: een overzicht van mijn favoriete nieuwsbrieven**
+
 De PVV heeft een monsterzege behaald tijdens de verkiezingen met maar liefst 37 zetels. Een kabinet met Wilders als premier is daardoor waarschijnlijk, het meeregeren van de PVV nagenoeg zeker. Maar wie grasduint door het partijprogramma van de PVV, ziet snel dat zo'n kabinet grote gevolgen op de game-industrie kan hebben.
 
 Even voorop: De PVV noemt geen enkele keer de woorden 'gamen' of 'gaming' in zijn partijprogramma. Daarnaast heeft de partij nooit op noemenswaardige wijze een standpunt genomen tegen gamegerelateerde onderwerpen zoals verslaving of geweld. Games zijn geen speerpunt geweest tijdens de verkiezingen, noch iets waar ze vanuit de oppositie heel veel mee bezig zijn geweest.

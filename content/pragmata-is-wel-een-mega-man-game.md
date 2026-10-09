@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /pragmata-is-wel-een-mega-man-game
   - /artikelen/pragmata-is-wel-een-mega-man-game
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/pragmata-is-wel-een-mega-man-
 socialImage: ./media/unpause/pragmata-is-wel-een-mega-man-game/c2f8d91b76d0.webp
 publish: true
 ---
+
+**Een pragmatische versie van de Blue Bomber**
 
 > [!NOTE]
 >
@@ -28,6 +29,8 @@ Ik ben niet de eerste die dit denkt. Afgelopen zomer laaide de discussie op, toe
 En dan speelt de game zich ook nog eens af op de maan. Je weet wel, de plek waar Mega Man Legends 2 ons 25 jaar geleden met een cliffhanger achterliet.
 
 Capcom ontkende later dat Pragmata in het geheim een Mega Man-reboot is. “Het is een compleet nieuw spel van Capcom”, vertelde producer Naoto Oyama aan [Video Games Chronicle](https://www.videogameschronicle.com/news/capcom-settles-it-no-pragmata-isnt-a-secret-mega-man-game/). Op 1 april stak Capcom nog even de draak met de geruchten door Hugh in een trailer te hullen in een ouderwets Mega Man-pak.
+
+[Bekijk ingesloten media](https://platform.twitter.com/embed/Tweet.html?id=2039130645973106768)
 
 Daarmee leek de kwestie afgehandeld, maar na het doorspelen van Pragmata kan ik het idee niet loslaten. Ik geloof best dat dit geen geheime reboot is, waarbij Capcom ons over een paar maanden verklapt dat de klassieke franchise eigenlijk terug is. Maar alles in Pragmata voelt alsof het afkomstig is uit Mega Man – of het nou een regelrechte doorvertaling is of een evolutie van ouderwetse ideeën.
 

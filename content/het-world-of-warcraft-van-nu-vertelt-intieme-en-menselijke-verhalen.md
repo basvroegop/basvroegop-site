@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /het-world-of-warcraft-van-nu-vertelt-intieme-en-menselijke-verhalen
   - /artikelen/het-world-of-warcraft-van-nu-vertelt-intieme-en-menselijke-verhalen
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/achtergrond/het-world-of-warcraft-van
 socialImage: ./media/unpause/het-world-of-warcraft-van-nu-vertelt-intieme-en-menselijke-verhalen/f2daab9177d4.webp
 publish: true
 ---
+
+**Twee voor twaalf voor vader en zoon**
 
 > [!NOTE]
 >

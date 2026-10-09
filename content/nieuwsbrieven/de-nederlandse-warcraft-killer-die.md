@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-nederlandse-warcraft-killer-die/d93769c270.jp
 publish: true
 ---
 
+**Verder: de tragedie van Gary Bowser en is Rovio echt zoveel waard?**
+
 Hallo! Sorry dat jullie even op deze editie van Gamepraat moesten wachten. Vorige week lag ik met griep op bed, waarna ik deze week de nieuwsbrief bewust twee dagen heb uitgesteld. Dat geeft me namelijk de ruimte om iets tofs met jullie te delen: het verhaal achter de schermen bij de Nederlandse MMORPG _The Chronicles of Spellborn_, dat twee decennia geleden de strijd met _World of Warcraft_ aanging. Ik ben er speciaal voor de podcast _Goed Verhaal_ ingedoken.
 
 Verder verdiepen we ons in het lot van Nintendo-hacker Gary Bowser. We maken steeds grapjes over zijn naam, maar zijn huidige situatie is niet bepaald iets om van te lachen. En is Rovio echt honderden miljoenen euro’s waard?

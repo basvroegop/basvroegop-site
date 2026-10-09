@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /xbox-is-de-grote-winnaar-van-gamescom
   - /artikelen/xbox-is-de-grote-winnaar-van-gamescom
 author: Bastiaan Vroegop
 source: Gamer.nl

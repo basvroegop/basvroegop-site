@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /vang-ze-allemaal-alle-rip-offs-in-de-trailer-van-pickmon
   - /artikelen/vang-ze-allemaal-alle-rip-offs-in-de-trailer-van-pickmon
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/vang-ze-allemaal-alle-rip-off
 socialImage: ./media/unpause/vang-ze-allemaal-alle-rip-offs-in-de-trailer-van-pickmon/dd531e69110b.webp
 publish: true
 ---
+
+**Temu-Pikachu in je plagiaatdex**
 
 > [!NOTE]
 >

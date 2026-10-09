@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/ik-speelde-zelda-tears-of-the-kingdom/88962f4416
 publish: true
 ---
 
+**Het is Zelda-week!**
+
 Gefeliciteerd met een nieuwe Zelda, allemaal! Vanaf vandaag ligt Tears of the Kingdom in de winkels. Het is een game die diep in mijn brein is gekropen en waar ik het deze week heel graag met jullie over wil hebben. Dat doen we zonder ook maar iets te spoilen.
 
 Een nieuwe Zelda betekent ook weer jaren aan games die zijn geïnspireerd hierdoor, waardoor vandaag voelt als meer dan 'gewoon' het verschijningsmoment van een nieuw spel. Zonder _Ocarina of Time_ hadden we geen _Okami_ of _Darksiders_, zonder _Breath of the Wild_ geen _Elden Ring_. Vandaag wordt (hopelijk) een nieuwe standaard voor bepaalde types games gezet.

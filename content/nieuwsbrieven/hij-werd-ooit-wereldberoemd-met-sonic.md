@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/hij-werd-ooit-wereldberoemd-met-sonic/0b88363a4f
 publish: true
 ---
 
+**Daarnaast: hoe China een markt voor retro-handhelds creëerde en waarom de grootste Amerikaanse gamevakbond zo snel is geaccepteerd.**
+
 Gefeliciteerd met het uitspelen van 2022, en leuk dat je de eerste editie van Gamepraat van 2023 leest. We kunnen nu zeggen dat we technisch gezien twee kalenderjaren bezig zijn!
 
 Vlak voor het einde van het jaar tikten we de honderd abonnees aan, en het blijft een feestje om iedere week de nieuwsbrief te vullen. Ik ben benieuwd: vind je het fijn dat deze nieuwsbrief wekelijks eenmalig verschijnt en het belangrijkste nieuws bundelt, of zou je hem liever opgesplitst verspreid over de week ontvangen? Laat het me weten door terug te mailen of hieronder te reageren.

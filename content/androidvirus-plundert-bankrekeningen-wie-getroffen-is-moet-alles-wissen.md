@@ -48,8 +48,3 @@ Krijg je op dit scherm geen enkele app te zien? Dan ben je hoogstwaarschijnlijk 
 Het virus is niet zomaar van de telefoon te wissen, waardoor je maar één oplossing hebt: het gehele toestel terugbrengen naar de fabrieksinstellingen.
 
 Op die manier raak je alles kwijt, waaronder foto’s, chatberichten en andere appinformatie. Maar het betekent ook dat criminelen niet langer je bankapps proberen te plunderen.
-
-_**Ben jij getroffen door het Androidvirus?**
-Reageren kan onderaan dit artikel. Alleen reacties voorzien van een volledige naam worden geplaatst. We doen dat omdat we een gesprek willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken_
-
-_Bekijk onze trending nieuwsvideo’s in onderstaande playlist:_

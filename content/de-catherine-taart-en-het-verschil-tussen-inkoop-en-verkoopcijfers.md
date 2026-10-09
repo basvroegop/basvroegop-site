@@ -14,6 +14,8 @@ socialImage: ./media/gamepraat/de-catherine-taart-en-het-verschil-tussen-inkoop-
 publish: true
 ---
 
+**Inkoop is geen verkoop.**
+
 Op 4 augustus 2011 plaatste game-uitgever Atlus op Twitter [de foto van een taart](https://web.archive.org/web/20160709043018/https://twitter.com/#!/AtlusUSA/status/99153805672845312), met daarop de cover van zijn nieuwste game _Catherine_ geglaceerd. Die hadden ze verdiend, vonden ze, want ze hadden in slechts twee weken 200.000 kopieën van deze game verkocht.
 
 > [!NOTE]

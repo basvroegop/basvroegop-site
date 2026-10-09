@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/schrik-niet-van-de-wisselende-mario/8ce87c08bb.j
 publish: true
 ---
 
+**Verder: één van de meest ervaren gamejournalisten in de Benelux stopt en Microsoft behaalt grote winst in de overname-oorlog.**
+
 Als er één ding is waar gamers van schrikken, dan is het een lage score op Metacritic. Bij de nieuwe Mario-film gebeurde het deze week ook, maar vrees niet meteen dat het daarom ook een slechte film is. Er zit meer achter.
 
 Verder hebben we het deze week over het vertrek van één van de meest ervaren gamejournalisten in de Benelux, die maar liefst 35 jaar geleden besloot het vak te betreden. En boekt Microsoft flinke winst in de overname-oorlog rond Activision-Blizzard, tot grote frustratie van Sony.

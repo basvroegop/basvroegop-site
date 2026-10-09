@@ -16,10 +16,12 @@ socialImage: ./media/nu/waarom-de-game-among-us-ineens-een-gigahit-was-in-2020/5
 publish: true
 ---
 
-Softwaremaker Inner Sloth bracht _Among Us_ al in 2018 uit. In het spelletje worden vier tot tien spelers onder meer op een kapot ruimteschip gedropt dat ze samen moeten repareren. Dat kan met willekeurige spelers, maar is het leukst met een groep vrienden.
+**Het kleine indiespelletje Among Us werd in 2020 één van de populairste games ter wereld.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/6096317/waarom-de-game-among-us-ineens-een-gigahit-was-in-2020.html).
+
+Softwaremaker Inner Sloth bracht _Among Us_ al in 2018 uit. In het spelletje worden vier tot tien spelers onder meer op een kapot ruimteschip gedropt dat ze samen moeten repareren. Dat kan met willekeurige spelers, maar is het leukst met een groep vrienden.
 
 De twist: tussen de spelers zitten ook saboteurs die hun metgezellen stiekem vermoorden. Dat doen ze als je bijvoorbeeld losgeslagen kabels verbindt of een computer kalibreert, waardoor de dader niet in beeld staat.
 
@@ -46,6 +48,8 @@ In december staat de game doorgaans in de top 20 meest bekeken titels op Twitch.
 Ook in Nederland wordt de game door steeds meer streamers en videomakers gespeeld. Bij de Friese YouTuber Ronald Vledder scoren zijn filmpjes van de game nog steeds bovengemiddeld goed. "Je merkt echt dat het een hype is", vertelt hij in een gesprek met NU.nl.
 
 Het is volgens Vledder een soort game die je zelden ziet. "Je kunt er eigenlijk helemaal niet goed in te zijn, je speelt door gewoonweg simpele taken uit te voeren. Maar je moet goed kunnen liegen tegen je vrienden."
+
+[Bekijk ingesloten media](https://www.youtube.com/embed/_Hd6hv52tP4)
 
 "Dat kan ik zelf overigens helemaal niet. Kennelijk word ik ineens heel kalm als ik iemand probeer te misleiden, waardoor vrienden mij gelijk doorhebben. Maar het is hilarisch om uit te zoeken wie je in een potje kan vertrouwen."
 

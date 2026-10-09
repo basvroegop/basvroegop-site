@@ -6,8 +6,6 @@ description: |-
   Het gros van het werk is al gedaan: veel van de teksten uit de Kristal-editie zijn over te zetten naar Goud en Zilver. Het belangrijkst op dit moment zijn de Pokédex-entries, die per game verschillend zijn. Iedere Dex-teks
 published: 2025-07-19
 modified: 2025-07-19
-aliases:
-  - /lokalisatiegids-gold-en-silver
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/lokalisatiegids-gold-en-silver/

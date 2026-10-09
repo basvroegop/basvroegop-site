@@ -56,8 +56,3 @@ Dat kunnen er best veel zijn. Nieuwe games zoals de Amazon-titel Lost Ark versch
 De uitspraak schiet een gat in het argument waarmee de Kansspelautoriteit games met goksystemen aan banden probeerde te leggen. Otto denkt dat er ook nog maar weinig overblijft waarop nu nog gehandhaafd kan worden: ,,Pas als lootboxen in games niet kunnen worden verkregen door te spelen of als de meeste spelers lootboxes kopen, zou je kunnen zeggen dat deze uitspraak niet geldt.”
 
 ‘De Kansspelautoriteit gaat bezien wat de consequenties van deze uitspraak zijn voor haar aanpak van lootboxen’, schrijft de waakhond in een reactie. ‘En daarmee gaan we uitzoeken in hoeverre games met lootboxen in Nederland nog worden gereguleerd’.
-
-_Bekijk hieronder onze video’s op techgebied:_
-
-**Praat mee**
-Reageren kan onderaan dit artikel. Alleen respectvolle reacties voorzien van een volledige naam worden geplaatst. We doen dat omdat we een gesprek willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken.

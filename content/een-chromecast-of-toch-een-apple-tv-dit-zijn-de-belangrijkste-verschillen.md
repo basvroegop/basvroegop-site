@@ -66,6 +66,3 @@ Voor beide opties is wat te zeggen: een Apple TV is sneller, terwijl een Chromec
 Wij zouden vooral kijken naar welk apparaat het beste in je ecosysteem past. Kijk je graag naar Apple TV+? Je kunt dan via een omweg best daar naar kijken op je Chromecast, maar op een Apple TV gaat dat een stuk makkelijker? Maar heb je een Android-telefoon? Dan is de snel bereikbare afstandsbediening-app weer een leuk voordeel.
 
 Met beide haal je hoe dan ook een prima streaming-apparaat in huis dat nagenoeg alles kan draaien.
-
-**_Praat mee_**
-_Reageren kan onderaan dit artikel. Alleen reacties voorzien van een volledige naam worden geplaatst. We doen dat omdat we een debat willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken._

@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren/ac
 publish: true
 ---
 
-Op de afdeling video-algoritmes van Netflix werken elf mensen, waarvan zeven met een doctoraat. Hun enige taak is om ervoor te zorgen dat Netflix-video’s er zo goed mogelijk uitzien met zo min mogelijk dataverbruik.
+**De hoeveelheid data die je bij het streamen van iets op Netflix verbruikt, wordt later dit jaar gehalveerd. Om dat te bereiken, wil het bedrijf films en series shot voor shot gaan analyseren.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/4512075/achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren.html).
+
+Op de afdeling video-algoritmes van Netflix werken elf mensen, waarvan zeven met een doctoraat. Hun enige taak is om ervoor te zorgen dat Netflix-video’s er zo goed mogelijk uitzien met zo min mogelijk dataverbruik.
 
 Daarbij wordt veel gekeken naar bitrates, oftewel de hoeveelheid data die per seconde wordt verbruikt bij het afspelen van een video. Een mooie HD-video heeft een hoge bitrate, waardoor er veel data wordt verstookt. Een lagere beeldkwaliteit vereist een lage bitrate.
 

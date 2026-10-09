@@ -16,10 +16,12 @@ socialImage: ./media/nu/wanneer-kun-je-in-nederland-5g-gaan-gebruiken/ae422ae8ce
 publish: true
 ---
 
-5G is de opvolger van 4G, de technologie die op dit moment wordt gebruikt voor mobiel internet. Nieuwe technologie in telecommasten moet razendsnel verbinding gaan maken met apparaten die hier ondersteuning voor hebben. Op smartphones zorgt dat er bijvoorbeeld voor dat video’s sneller streamen en foto’s sneller worden gedownload.
+**Ieder jaar spreken providers, hardwaremakers en andere technologiebedrijven op telecombeurs Mobile World Congress over een sneller 5G-netwerk. Maar wanneer kunnen wij dat 5G-netwerk nou in Nederland gaan gebruiken?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/mobiel/5159546/wanneer-kun-je-in-nederland-5g-gaan-gebruiken.html).
+
+5G is de opvolger van 4G, de technologie die op dit moment wordt gebruikt voor mobiel internet. Nieuwe technologie in telecommasten moet razendsnel verbinding gaan maken met apparaten die hier ondersteuning voor hebben. Op smartphones zorgt dat er bijvoorbeeld voor dat video’s sneller streamen en foto’s sneller worden gedownload.
 
 Het geplande 5G-netwerk krijgt ook een veel hogere bandbreedte. Deze groei in capaciteit zorgt ervoor dat er meer apparaten tegelijkertijd kunnen verbinden met dezelfde antenne, waardoor de verbinding van je smartphone stabiel blijkt op drukke plaatsen zoals luchthavens of muziekfestivals. Nu duikt de snelheid van 4G bij grote drukte omlaag.
 

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/moet-sony-een-call-of-duty-killer/b395a34054.png
 publish: true
 ---
 
+**Verder: wat te doen nu de eShop sluit en wat schuilt er achter de beta van Diablo 4?**
+
 Sony en Microsoft liggen nog steeds overhoop met elkaar, omdat die laatste Activision wil kopen. Microsoft heeft daarom een nieuwe oplossing: wat als Sony gewoon zelf een Call of Duty-killer laat maken? Dat is vast hartstikke makkelijk.
 
 Daarnaast blikken we deze week vooruit op het sluiten van de eShop, waardoor veel digitale 3DS- en Wii U-games verdwijnen. En we hebben het over de bèta van Diablo 4, die stiekem meer een marketingdemo is.

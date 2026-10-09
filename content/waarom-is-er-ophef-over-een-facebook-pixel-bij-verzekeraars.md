@@ -16,10 +16,12 @@ socialImage: ./media/nu/waarom-is-er-ophef-over-een-facebook-pixel-bij-verzekera
 publish: true
 ---
 
-Onder andere de websites van zorgverzekeraars Menzis, ONVZ en OHRA bevatten deze trackingpixels. Met deze pixels wordt het surfgedrag van bezoekers op die sites bijgehouden, die vervolgens ook naar Facebook wordt gestuurd.
+**Afgelopen week bleek dat Facebook op veel sites van zorgverzekeraars zogeheten trackingpixels heeft staan. Wat is er precies aan de hand?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/5222321/waarom-is-er-ophef-over-een-facebook-pixel-bij-verzekeraars.html).
+
+Onder andere de websites van zorgverzekeraars Menzis, ONVZ en OHRA bevatten deze trackingpixels. Met deze pixels wordt het surfgedrag van bezoekers op die sites bijgehouden, die vervolgens ook naar Facebook wordt gestuurd.
 
 Uit [onderzoek](https://www.nu.nl/internet/5217992/verzekeraars-sturen-surfgedrag-bezoekers-facebook.html) van de _NOS_ bleek dat in elk geval achttien verzekeraars deze pixels gebruiken. Verzekeraars overtraden met de trackingpixel mogelijk de Nederlandse privacywet, [meldt](https://www.nu.nl/internet/5219687/zorgverzekeraars-overtraden-mogelijk-wet-met-facebook-tracker.html) de Autoriteit Persoonsgegevens. Het is onduidelijk of er een onderzoek zal worden gestart naar de potentiële privacyschending.
 

@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-ap
 publish: true
 ---
 
-Op 3 december 1992 verstuurt de softwareontwikkelaar Neil Papworth de allereerste sms, met een Orbitel 901-telefoon. Dat was weliswaar een mobiele telefoon, maar wel eentje met een gigantisch blok voor de mobiele antennes. Papworth ontwikkelde de sms-technologie voor Vodafone en richtte zijn bericht aan toenmalig topman Richard Jarvis. Zijn eerste woorden: "Merry Christmas."
+**Het is zondag exact 25 jaar geleden dat de eerste sms werd verstuurd. Hoe relevant zijn de mobiele tekstberichten nog, nu apps zoals WhatsApp een gigantisch marktaandeel hebben?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/5030603/achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-appje-nog.html).
+
+Op 3 december 1992 verstuurt de softwareontwikkelaar Neil Papworth de allereerste sms, met een Orbitel 901-telefoon. Dat was weliswaar een mobiele telefoon, maar wel eentje met een gigantisch blok voor de mobiele antennes. Papworth ontwikkelde de sms-technologie voor Vodafone en richtte zijn bericht aan toenmalig topman Richard Jarvis. Zijn eerste woorden: "Merry Christmas."
 
 "Ik had in 1992 nog geen idee hoe populair sms'en zou worden en dat dit het begin was van emoji en chat-apps die door miljoenen worden gebruikt", stelde Papworth deze week in een verklaring. "Nu ik er op terugkijk is pas duidelijk dat dit een belangrijk moment was in de geschiedenis van mobiele telefoons."
 
@@ -28,6 +30,8 @@ Naarmate mobiele telefoons eind jaren 90 en begin 21e eeuw steeds populairder we
 De opkomst van sms was ook verantwoordelijk voor het inburgeren van een beknoptere chattaal. Het woord 'alsjeblieft' was bijvoorbeeld lastig te typen op zo'n klein cijfertoetsenbord, dus raakte het alternatief 'ajb' ingeburgerd. 'Succes' werd 'suc6', 'hou van je' veranderde in 'hvj' en 'wacht even' werd ingeruild voor 'w8 ff'.
 
 De afgelopen jaren daalt het aantal verzonden sms-berichten weer. In 2016 werden ieder kwartaal rond de 800 miljoen sms-berichten verstuurd. Steeds meer mensen zijn overgestapt naar WhatsApp en concurrenten als Facebook Messenger. Die diensten hebben respectievelijk 9,6 miljoen en 7,1 miljoen dagelijkse gebruikers in Nederland, blijkt uit cijfers van marktonderzoeker _Telecompaper_.
+
+[Bekijk ingesloten media](https://localfocus2.appspot.com/5a1ffed2b1b14)
 
 ## Chat-apps
 
@@ -38,6 +42,8 @@ Toch lijkt het te vroeg om de sms helemaal dood te verklaren. Ongeveer driekwart
 "Je ziet dat het gebruik van sms enorm is afgenomen en dat er minder behoefte aan is", onderstelt woorvoerder Robin Janszen van de provider Tele2. "Maar er wordt relatief gezien nog steeds veel gebruik van gemaakt."
 
 "Sms voorziet nog steeds in een behoefte voor een deel van onze klanten", zegt ook een persvoorlichter van KPN. "Er zijn de afgelopen jaren ook andere manieren van communiceren bijgekomen. Het gebruik van sms is daardoor afgenomen."
+
+[Bekijk ingesloten media](https://localfocus2.appspot.com/5a2000c8523da)
 
 ## Universal Profile
 

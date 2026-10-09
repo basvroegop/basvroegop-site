@@ -16,10 +16,12 @@ socialImage: ./media/nu/zo-laat-je-accounts-op-sociale-media-achter-na-je-overli
 publish: true
 ---
 
-Wie op sociale media zit, laat profielen vol met foto's, persoonlijke anekdotes en andere gebeurtenissen na op bijvoorbeeld Facebook, Instagram en Twitter.
+**Wie in de 21e eeuw overlijdt, laat een schatkist aan online informatie achter op grote websites. In dit artikel leggen we uit hoe je je hierop voorbereidt, zodat je weet wie in de toekomst al dan niet bij je informatie kan.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/5853063/zo-laat-je-accounts-op-sociale-media-achter-na-je-overlijden.html).
+
+Wie op sociale media zit, laat profielen vol met foto's, persoonlijke anekdotes en andere gebeurtenissen na op bijvoorbeeld Facebook, Instagram en Twitter.
 
 "Voor nabestaanden is zo'n profiel belangrijk na het overlijden", vertelt rouwverwerkingsspecialist Manu Keirse in gesprek met [NU.nl](http://NU.nl). "Voor hen is het iets tastbaars dat ze overhouden aan deze persoon."
 
@@ -38,6 +40,10 @@ In dat testament kun je ook opschrijven wat je zelf het liefst ziet gebeuren met
 ## 'Je verliest je privacy'
 
 "Je hebt eigenlijk geen privacy meer als je overlijdt", aldus Engelfriet. "De Europese privacywet geldt alleen voor levende mensen." Een nabestaande is daarom vrij om op je profielen te lezen wat hij of zij wil.
+
+> Al die gesprekken met levende mensen gaan de erfgenaam niks aan
+>
+> — Lucienne van der Geld, Netwerk Notarissen
 
 Volgens Lucienne van der Geld van Netwerk Notarissen is het echter niet zo simpel. "Als ik overlijd en mijn smartphone vererft naar erfgenamen, dan staan daar allemaal gesprekken op met mensen die nog wel leven. Die gaan de erfgenaam niks aan."
 

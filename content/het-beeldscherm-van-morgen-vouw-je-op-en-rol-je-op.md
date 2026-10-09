@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-o
 publish: true
 ---
 
+**Elektronicabeurs CES in Las Vegas wordt vooral een show waar fabrikanten prototypes tonen, gekke producten die ze nog lang niet op de markt brengen.**
+
 Een jaar geleden begon de trend al: de Chinese smartphonemaker Royole liet tijdens de vorige editie van de Consumer Electronics Show (CES) in Las Vegas een telefoon zien met een opvouwbaar beeldscherm. Diezelfde technologie gingen Samsung en Huawei later ook gebruiken. Wie het apparaat van Royole openvouwde had ineens een kleine tablet tot zijn beschikking.
 
 > [!NOTE]

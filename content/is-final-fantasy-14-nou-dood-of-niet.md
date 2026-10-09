@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /is-final-fantasy-14-nou-dood-of-niet
   - /artikelen/is-final-fantasy-14-nou-dood-of-niet
 author: Bastiaan Vroegop
 source: Gamer.nl

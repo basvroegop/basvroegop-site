@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /waar-zijn-de-mensen-gebleven-in-pokopia
   - /artikelen/waar-zijn-de-mensen-gebleven-in-pokopia
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/waar-zijn-de-mensen-gebleven-
 socialImage: ./media/unpause/waar-zijn-de-mensen-gebleven-in-pokopia/a0c43fceece9.webp
 publish: true
 ---
+
+**Slavernij of niet, ze worden gemist**
 
 > [!NOTE]
 >

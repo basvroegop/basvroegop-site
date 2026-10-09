@@ -1,14 +1,13 @@
 ---
 title: Wat Chrono Trigger vertelt over klimaatverandering en naoorlogs trauma
 description: Bijna drie decennia later wordt Chrono Trigger nog steeds gezien als één van de beste rollenspellen ooit gemaakt. De thematiek van deze rpg is sindsdien enkel
-published: 2026-02-22
+published: 2026-02-23
 modified: 2026-02-23
 tags:
   - Games
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /wat-chrono-trigger-vertelt-over-klimaatverandering-en-naoorlogs-trauma
   - /artikelen/wat-chrono-trigger-vertelt-over-klimaatverandering-en-naoorlogs-trauma
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/achtergrond/chrono-trigger-klimaatver
 socialImage: ./media/unpause/wat-chrono-trigger-vertelt-over-klimaatverandering-en-naoorlogs-trauma/f7bd0a670368.webp
 publish: true
 ---
+
+**An Inconvenient Lavos**
 
 > [!NOTE]
 >

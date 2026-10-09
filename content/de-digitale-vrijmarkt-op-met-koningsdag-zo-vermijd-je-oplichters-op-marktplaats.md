@@ -1,7 +1,7 @@
 ---
 title: De digitale vrijmarkt op met Koningsdag? Zo vermijd je oplichters op Marktplaats
 description: "Voor je tweedehands waren hoef je allang niet meer te wachten op de vrijmarkt met Koningsdag, want online kun je ook het nodige halen. Maar dat is niet zonder risico: het internet wemelt van de oplichters die je met nepaanbiedingen geld afhandig proberen te maken. We geven een paar tips om dat te voorkomen."
-published: 2022-04-27
+published: 2021-04-27
 modified: 2022-04-27
 tags:
   - Elders gepubliceerd

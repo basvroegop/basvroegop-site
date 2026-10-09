@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/sven-is-blind-maar-verslaat-je-met/51a87b3b15.jp
 publish: true
 ---
 
+**Daarnaast: een pijnlijke blik op hoe gamesmedia vroeger met Japan omgingen.**
+
 Afgelopen maand was ik in Den Haag om te praten met de blinde Sven van de Wege - die mij vervolgens volledig kapotmaakte in een potje _Street Fighter_. Hij leerde om met zijn handicap te gamen - en werd daar zelfs beter in dan het gros van de spelers.
 
 Verder kijken we deze week nog eens naar de discussie rond jrpg's, want in recent gedeelde video's is te zien hoe ongemakkelijk tv-programma's vroeger omgingen met spellen van Japanse makelij. Pijnlijk, maar tegelijkertijd schuilen er denk ik belangrijke lessen achter.

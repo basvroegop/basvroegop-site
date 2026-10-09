@@ -16,10 +16,12 @@ socialImage: ./media/nu/zo-gedraag-je-je-netjes-op-whatsapp/18e10a160ecf.webp
 publish: true
 ---
 
-**Is het beleefd om niet te reageren als je geen zin hebt om te chatten?**
+**Steeds meer Nederlanders gebruiken de chat-app WhatsApp om met elkaar te communiceren. Maar wat is nou netjes en onbeleefd in een appgesprek? NU.nl vroeg het aan drie etiquette-experts.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5386787/zo-gedraag-je-je-netjes-op-whatsapp.html).
+
+**Is het beleefd om niet te reageren als je geen zin hebt om te chatten?**
 
 Anne-Marie van Leggelo, Het Etiquette Bureau: ''Omdat je bij WhatsApp niet alleen kunt zien wanneer iemand online was maar ook of het bericht is gezien of aangekomen, worden er verwachtingen geschept bij de versturende partij en verplichtingen bij de ontvanger. Wat mij betreft is dat nergens voor nodig.''
 

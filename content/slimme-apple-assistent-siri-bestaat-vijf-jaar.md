@@ -16,10 +16,12 @@ socialImage: ./media/nu/slimme-apple-assistent-siri-bestaat-vijf-jaar/a917c588ff
 publish: true
 ---
 
-Siri luistert naar de stemcommando’s van gebruikers om zo simpele handelingen uit te voeren. Zo is het bijvoorbeeld mogelijk om iemand te bellen of een SMS-bericht te dicteren.
+**Apple bracht op 4 oktober 2011 de virtuele assistent Siri uit. Praten tegen een stukje software was toen nog een nieuwigheid, maar komt inmiddels steeds vaker voor.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/mobiel/4330702/slimme-apple-assistent-siri-bestaat-vijf-jaar.html).
+
+Siri luistert naar de stemcommando’s van gebruikers om zo simpele handelingen uit te voeren. Zo is het bijvoorbeeld mogelijk om iemand te bellen of een SMS-bericht te dicteren.
 
 De assistent werd ontwikkeld door de Amerikaanse startup Siri, die in 2010 door Apple werd overgenomen. Het bedrijfje had eerst nog een zelfstandige app die op simpele stemcommando’s antwoord kon geven.
 

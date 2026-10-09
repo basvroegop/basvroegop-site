@@ -16,10 +16,12 @@ socialImage: ./media/nu/waarom-meerdere-gamediensten-boos-zijn-op-apple/1c69f531
 publish: true
 ---
 
-Na jarenlang testen introduceert Microsoft in september zijn nieuwe gamestreamingdienst xCloud, die onderdeel wordt gemaakt van het Game Pass Ultimate-abonnement. Voor een maandelijks vast bedrag kunnen abonnees grafisch intensieve games in een Microsoft-datacenter afspelen, waarvan het scherm vervolgens naar hun apparaten wordt gestreamd.
+**Meerdere gameplatformen zijn kritisch op Apple, dat hun apps stelselmatig uit de App Store weert. Wat is er aan de hand?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/6069602/waarom-meerdere-gamediensten-boos-zijn-op-apple.html).
+
+Na jarenlang testen introduceert Microsoft in september zijn nieuwe gamestreamingdienst xCloud, die onderdeel wordt gemaakt van het Game Pass Ultimate-abonnement. Voor een maandelijks vast bedrag kunnen abonnees grafisch intensieve games in een Microsoft-datacenter afspelen, waarvan het scherm vervolgens naar hun apparaten wordt gestreamd.
 
 Hoewel de streaming-app tijdens een testfase te gebruiken was op iPhones en Android-toestellen, zal de definitieve versie alleen voor telefoons met Android verschijnen. Apple wil iedere toevoeging in zijn appwinkel vooraf verifiëren, waarbij de Game Pass-app werd afgekeurd.
 

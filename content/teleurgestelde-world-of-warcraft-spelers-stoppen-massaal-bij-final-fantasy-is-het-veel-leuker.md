@@ -33,8 +33,6 @@ De nieuwe WoW-asielzoekers raken sindsdien niet uitgepraat over hoeveel beter ze
 
 Het is een aderlating voor World of Warcraft, dat al jaren spelers kwijtraakt. Volgens recente cijfers worden alle games van Blizzard maandelijks door in totaal 26 miljoen mensen gespeeld. Final Fantasy XIV heeft volgens recente cijfers meer dan 24 miljoen spelers, al zijn die niet allemaal op dit moment actief.
 
-> Ik vind het niet leuk als spelers Final Fantasy gebruiken als een soort hamer om een andere titel mee kapot te slaan
-
 ## ‘World of Warcraft was juist onze inspiratie’
 
 Het geeft Final Fantasy XIV-producent Naoki Yoshida maar een gek gevoel, vertelt hij in een gesprek met deze site. ,,De eerste versie van Final Fantasy XIV was een mislukking. Toen ik de game opnieuw ging maken, keek ik juist naar Warcraft als inspiratiebron.”

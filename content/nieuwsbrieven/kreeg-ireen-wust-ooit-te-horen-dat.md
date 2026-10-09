@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/kreeg-ireen-wust-ooit-te-horen-dat/3038c2e771.we
 publish: true
 ---
 
+**Waarom we games anders behandelen dan sport**
+
 Een tiener lukte deze week iets dat anderen in dertig jaar niet voor elkaar kregen: hij speelde Tetris op de NES uit. Een prestatie van wereldformaat die niet door iedereen even serieus werd genomen.
 
 [Subscribe](#/portal/signup)

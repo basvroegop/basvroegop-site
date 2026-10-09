@@ -50,9 +50,3 @@ Wees daarom extra voorzichtig met binnenkomende gesprekken uit bijvoorbeeld Aust
 Weet je ondanks bovenstaande tips niet zeker of iemand een fraudeur is? Wees voorzichtig en geef geen privégegevens. Als die toch nodig zijn, kun je de beller vragen een verzoek per post of e-mail te sturen. Vervolgens kun je het verzendadres of mailadres verifiëren.
 
 Voel je ook niet verplicht om te blijven bellen. Vermoed je dat er sprake is van fraude, hang de telefoon op. Zolang je geen data hebt gedeeld, ben je dan veilig.
-
-## _Al eens een fraudeur aan de lijn gehad?_
-
-_Reageren kan onderaan dit artikel. Alleen reacties voorzien van een **volledige naam** worden geplaatst. We doen dat omdat we een debat willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken._
-
-_Bekijk onze meest bekeken nieuwsvideo’s in onderstaande playlist:_

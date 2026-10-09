@@ -51,8 +51,4 @@ Het is nog afwachten of Hive een grote groei in gebruikers aankan. Concurrent Ma
 
 Daarnaast mist de sociale dienst nog wat extraatjes die concurrenten net iets handiger maken: er is bijvoorbeeld geen webversie, waardoor je alleen in de smartphone-app berichten kunt plaatsen. Al had Instagram die beperking ook jarenlang en werd die app alsnog gigantisch groot.
 
-_Bekijk hieronder onze video’s op techgebied:_
-
 **Praat mee,**
-
-_**reageren** kan onderaan dit artikel. Alleen reacties voorzien van een volledige naam worden geplaatst. We doen dat omdat we een debat willen met mensen die staan voor wat ze zeggen, en daar dus ook hun naam bij zetten. Wie zijn naam nog moet invullen, kan dat doen door rechts bovenaan op onze site op ‘Login’ te klikken._

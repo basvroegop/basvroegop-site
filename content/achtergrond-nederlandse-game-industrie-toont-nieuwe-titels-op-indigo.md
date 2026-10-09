@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-nederlandse-game-industrie-toont-nieuwe-tite
 publish: true
 ---
 
-Het [spelfestival](http://www.dutchgamegarden.nl/indigo/main/) vond dit jaar plaats in de Lik, een oude gevangenis in Utrecht. De celdeuren op twee verdiepingen waren opengegooid zodat iedere studio een eigen kamer had om hun game te presenteren.
+**Op vrijdag vond in Utrecht de gamebeurs INDIGO plaats, waar onafhankelijke spelmakers hun nieuwste titels presenteren. Een riskant carrièrepad, gezien het lastig is om werk te vinden in de Nederlandse game-industrie.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/4808319/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo.html).
+
+Het [spelfestival](http://www.dutchgamegarden.nl/indigo/main/) vond dit jaar plaats in de Lik, een oude gevangenis in Utrecht. De celdeuren op twee verdiepingen waren opengegooid zodat iedere studio een eigen kamer had om hun game te presenteren.
 
 De oude gymzaal werd ingericht als presentatieruimte voor virtual reality, terwijl in de bibliotheek praatjes werden gehouden door internationale gamebedrijven.
 

@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/monster-hunter-rise-preview/b598ca6593.jpeg
 publish: true
 ---
 
+**Rijst de pan uit.**
+
 Hoewel Monster Hunter Rise niet zo'n grote revolutie voor de serie wordt als World, brengt de nieuwe game eerdere ideeën op sublieme wijze naar een Nintendo-spelcomputer. Eindelijk is er een portable Monster Hunter met de verfijning van het beste uit de serie.
 
 > [!NOTE]

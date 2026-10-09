@@ -16,10 +16,12 @@ socialImage: ./media/nu/apples-nieuwe-tablets-zijn-duidelijk-bedoeld-voor-makers
 publish: true
 ---
 
-De iPad Air heeft na twee jaar een nieuwe versie, met als meest kenmerkende verschil een tweede, grotere variant. Daarnaast is de iPad Pro voorzien van een mooier OLED-scherm en snellere M4-processor. De Pro is ook dunner geworden en weegt 443 gram - waardoor zelfs het grootste model tussen twee vingers vast te houden is.
+**Kort na de presentatie van twee nieuwe iPads konden we de nieuwe tablets alvast onder handen nemen. Daarbij werd vooral één ding duidelijk: Apple ziet de iPad vooral als een apparaat om dingen op te maken.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6311993/apples-nieuwe-tablets-zijn-duidelijk-bedoeld-voor-makers.html).
+
+De iPad Air heeft na twee jaar een nieuwe versie, met als meest kenmerkende verschil een tweede, grotere variant. Daarnaast is de iPad Pro voorzien van een mooier OLED-scherm en snellere M4-processor. De Pro is ook dunner geworden en weegt 443 gram - waardoor zelfs het grootste model tussen twee vingers vast te houden is.
 
 Het meest kenmerkende is een accessoire voor beide tablets: de Apple Pencil Pro. Deze herziene versie van Apples bekende pennetje heeft extra sensoren die zien wanneer je er in knijpt, waardoor je een extra menu met opties kunt openen. Een motortje bovenin zorgt dat je deze interactie ook kunt 'voelen'.
 

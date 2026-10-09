@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/het-beste-van-2023/568da67986.jpg
 publish: true
 ---
 
+**Games, films, series, boeken en iets voor op je bureau.**
+
 Nog de beste wensen! Net als velen hier sluit ik het jaar graag af met een overzicht van mijn favoriete dingen van de afgelopen periode. Ik probeer het breed op te pakken: hier vind je dus dingen die ik dit jaar heb ontdekt en ben gaan gebruiken, niet per se zaken die ook dit jaar zijn verschenen.
 
 ## De beste game: The Legend of Zelda: Tears of the Kingdom

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/een-geheime-kamer-vol-woedende-gameontwikkelaars
 publish: true
 ---
 
+**Daarnaast: waarom willen we zo graag dat The Last of Us een goede serie krijgt en vijfduizend woorden over de Dreamcast in Nederland**
+
 Nog de beste wensen, allemaal! Hopelijk hebben jullie tijdens de kerstvakantie allemaal een beetje de backlog weggewerkt. Zelf zit ik voor het eerst in jaren in een situatie dat ik niks hoef te reviewen, dus ben ik weer mijn comfortgame _Final Fantasy XIV_ ingedoken.
 
 Het is eigenlijk best gek: de grootste gameblockbuster deze maand is niet een game, maar een tv-serie. We lijken als gamers allemaal een soort bewijsdrift te voelen bij een serie als _The Last of Us_, alsof die aan onze niet-gamende vrienden en familieleden moet bewijzen dat 'ons' medium echt mooie verhalen kan vertellen. Dat terwijl bij zo'n serie juist het interactieve element van zo'n verhaal verloren gaat. Ik denk dat het einde van _The Last of Us_ juist krachtig is omdat we zelf Joel mochten besturen.

@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Power Unlimited
 aliases:
-  - /final-fantasy-14-dawntrail-gespeeld-mogelijk-de-belangrijkste-uitbreiding-ooit
   - /artikelen/final-fantasy-14-dawntrail-gespeeld-mogelijk-de-belangrijkste-uitbreiding-ooit
 author: Bastiaan Vroegop
 source: Power Unlimited

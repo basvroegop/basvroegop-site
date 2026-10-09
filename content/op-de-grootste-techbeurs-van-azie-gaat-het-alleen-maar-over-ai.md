@@ -45,8 +45,6 @@ De Windows-knop op het toetsenbord is vervangen met een toets om de AI mee aan t
 
 Daarmee wordt geïnvesteerd in een veelbelovende technologie, waar ook veel discussie over bestaat. Critici vrezen bijvoorbeeld dat AI in komende jaren banen zal afnemen van mensen. Volgens Ju is dat niks nieuws: “vroeger had ik een secretaresse die alles voor mij uitschreef op een typemachine, wiens werk later werd vervangen omdat ik een computer kreeg.”
 
-> De techindustrie staat er ook om bekend heilig te geloven in nieuwe technologie die jaren later een hype bleek te zijn
-
 De overdaad aan AI op Computex is ook een marketingtruc. Nvidia werkt al jaren aan de technologie maar gebruikte daarbij termen zoals DLSS, maar wisselde die afkorting tijdens een presentatie op de beurs ineens om voor AI. De functie is onveranderd, maar het bedrijf wil meevaren op de huidige AI-rage.
 
 ## Hype of blijvertje?

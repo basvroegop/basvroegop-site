@@ -6,7 +6,6 @@ tags:
   - Elders gepubliceerd
   - Kidsweek
 aliases:
-  - /deze-3-spellen-speel-je-straks-op-de-nintendo-switch-2
   - /artikelen/deze-3-spellen-speel-je-straks-op-de-nintendo-switch-2
 author: Bastiaan Vroegop
 source: Kidsweek

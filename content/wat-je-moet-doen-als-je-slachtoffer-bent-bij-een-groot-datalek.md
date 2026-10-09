@@ -16,10 +16,12 @@ socialImage: ./media/nu/wat-je-moet-doen-als-je-slachtoffer-bent-bij-een-groot-d
 publish: true
 ---
 
-Bij een datalek komen soms de gegevens van miljoenen mensen tegelijk op straat te liggen. Door een hack of onzorgvuldige beveiliging verschijnt dan een volledige database van een bedrijf op het internet. Daarin staan vaak de gegevens die iedereen moest invullen bij het maken van een account of bijvoorbeeld het plaatsen van een bestelling.
+**Het gebeurt inmiddels geregeld: de gegevens van een groot bedrijf liggen op straat, waartussen wellicht ook jouw informatie vermeld staat. Wat kun je dan het beste doen?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6121202/wat-je-moet-doen-als-je-slachtoffer-bent-bij-een-groot-datalek.html).
+
+Bij een datalek komen soms de gegevens van miljoenen mensen tegelijk op straat te liggen. Door een hack of onzorgvuldige beveiliging verschijnt dan een volledige database van een bedrijf op het internet. Daarin staan vaak de gegevens die iedereen moest invullen bij het maken van een account of bijvoorbeeld het plaatsen van een bestelling.
 
 Wat is gelekt, is afhankelijk van wat het bedrijf heeft gevraagd om te delen. Bij een webwinkel kan het gaan om adresgegevens, terwijl bij een sociaal netwerk je wachtwoord en persoonlijke interesses op straat kunnen komen.
 

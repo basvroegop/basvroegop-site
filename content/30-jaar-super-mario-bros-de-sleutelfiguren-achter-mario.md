@@ -16,10 +16,12 @@ socialImage: ./media/nu/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario/
 publish: true
 ---
 
-Mario is sinds de jaren '80 opgedoken in meer dan tweehonderd games. De virtuele loodgieter heeft in zijn loopbaan prinsessen gered, kartraces gewonnen, tenniswedstrijden gespeeld en heeft het zelfs af en toe opgenomen tegen personages uit andere gameseries.
+**Het is exact dertig jaar geleden dat de eerste Super Mario Bros-game verscheen voor het Nintendo Entertainment System (NES). De virtuele loodgieter zou in de jaren daarna één van de grootste iconen uit de gamesindustrie worden.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/4124451/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario.html).
+
+Mario is sinds de jaren '80 opgedoken in meer dan tweehonderd games. De virtuele loodgieter heeft in zijn loopbaan prinsessen gered, kartraces gewonnen, tenniswedstrijden gespeeld en heeft het zelfs af en toe opgenomen tegen personages uit andere gameseries.
 
 De oorsprong en voortgang van een spelfiguur verloopt echter net iets anders dan de meeste mensen gewend zijn. Een personage uit een boek komt uit de geest van één schrijver en een filmheld wordt vertolkt door een enkele acteur, maar achter Mario schuilen inmiddels meerdere mensen.
 

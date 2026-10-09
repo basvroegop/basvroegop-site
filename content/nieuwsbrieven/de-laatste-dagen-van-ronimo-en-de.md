@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-laatste-dagen-van-ronimo-en-de/d123d41e63.jpg
 publish: true
 ---
 
+**Verder: wat opviel tijdens GamesCom**
+
 Er hing een wat gekke sfeer toen ik op GamesCom langs de Nederlandse booth liep. Ondernemers waren druk bezig hun nieuwste games en ideeën te pitchen en zo hun bedrijfjes bovenwater te houden, terwijl net een dag daarvoor Ronimo Games failliet was verklaard. Een studio die met zijn 16 jaar voor gamesectorbegrippen een gevestigde naam was.
 
 Het is genoeg om als gamemaker nerveus van te worden, maar tegelijkertijd was er een paar weken eerder groot succes toen het Rotterdamse Codeglue werd gekocht door Behaviour, de grootste studio in Canada. Daarmee lijkt Codeglue juist een zekere toekomst tegemoet te gaan.

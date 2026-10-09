@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/overwatch-2-preview/8eb643c9b8.jpeg
 publish: true
 ---
 
+**Eindelijk een verhaal.**
+
 Het vervolg Overwatch biedt iets waar we al jaren naar verlangen: een manier om de game coöperatief te spelen. Daarmee richt de studio stiekem zijn pijlers op Destiny.
 
 > [!NOTE]

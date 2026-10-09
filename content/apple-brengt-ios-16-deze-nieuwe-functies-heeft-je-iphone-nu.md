@@ -104,5 +104,3 @@ De Woning-app is vernieuwd. © Bastiaan Vroegop
 Apple Watch-bezitters zijn allang bekend met de Conditie-app, waarin je dagelijkse activiteit in een overzichtje wordt gegoten. Die app is vanaf iOS 16 ook te gebruiken zonder de bijbehorende smartwatch, zodat meer mensen hun dagelijks verbrande calorieën kunnen meten.
 
 Voor die mensen wordt de ingebouwde bewegingssensor van de iPhone gebruikt om je stappen te tellen. Daarnaast kun je er ook externe apps aan koppelen om je workouts bij te houden. Het is allemaal vermoedelijk iets minder precies dan met een smartwatch, maar het geeft je wel een aardig idee van hoeveel je beweegt.
-
-_Bekijk hieronder onze video’s op techgebied:_

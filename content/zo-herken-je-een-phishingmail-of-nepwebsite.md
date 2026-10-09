@@ -1,7 +1,7 @@
 ---
 title: Zo herken je een phishingmail of nepwebsite
 description: "Het is inmiddels gemeengoed op internet: phishing. Criminelen doen zich voor als een bank of een andere organisatie, in de hoop je privégegevens of geld afhandig te maken. Hoe herken je zo’n virtuele zwendel? We zetten wat tips op een rij."
-published: 2022-03-31
+published: 2021-04-23
 modified: 2022-03-31
 tags:
   - Elders gepubliceerd

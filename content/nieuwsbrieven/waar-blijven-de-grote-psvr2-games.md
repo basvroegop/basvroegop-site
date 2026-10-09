@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/waar-blijven-de-grote-psvr2-games/49373aa791.jpg
 publish: true
 ---
 
+**Daarnaast: kritische Hogwarts Legacy-streamers onder vuur en het meest intieme kijkje bij een gamestudio ooit.**
+
 Excuus voor alle lunchlezers, de nieuwsbrief is een paar uur later vandaag! Ik zat diep in de montage van een nieuw project waar ik binnenkort meer over te vertellen heb. Deze week hebben we het over de introductie van Sony's nieuwe VR-bril, die wordt geteisterd door een tekort aan games, blikken we nog eens terug op de Hogwarts Legacy-ophef en krijgen we het meest intieme kijkje ooit bij een gamestudio.
 
 Deze editie van de nieuwsbrief is 1.231 woorden en neemt zes minuten van je tijd in beslag. We trappen af!

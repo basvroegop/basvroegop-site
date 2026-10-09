@@ -41,8 +41,6 @@ Ben je van plan je foto’s en video’s in de cloud te zetten? Ga dan naar het 
 
 Het verwijderen van je account doe je ook in het accountcentrum. Tik ditmaal op ‘persoonlijke gegevens’ en kies onderaan de volgende pagina ‘eigendom en beheer van account’. Daar vind je de knop ‘deactiveren of verwijdering’, waar je kunt kiezen welk account je wil verwijderen.
 
-> Wel bewaart het techbedrijf je gegevens 30 dagen, zodat je het besluit eventueel nog kunt terugdraaien
-
 Je kunt uit twee opties kiezen. Een daarvan is een account deactiveren, waardoor je nergens op het sociale netwerk meer te vinden bent. Je data blijft dan wel in het bezit van Meta en je kunt hun chatapp Messenger blijven gebruiken.
 
 Door ‘account verwijderen’ aan te klikken wordt alles helemaal verwijderd van de servers van Meta. Wel bewaart het techbedrijf je gegevens dertig dagen, zodat je het besluit eventueel nog kunt terugdraaien. Pas daarna worden je gegevens definitief van hun servers gewist. Al kan het in totaal negentig dagen duren totdat elk spoor van jou echt van de servers is weggehaald.
@@ -64,5 +62,3 @@ WhatsApp is razend populair in Nederland, maar is eigendom van Facebook en dat v
 Signal werkt op zowel iPhones als Android toestellen. Tijdens de installatie koppelt de app je telefoon en naam aan elkaar. Tijdens de installatie kun je een pincode instellen die alleen jij weet. Daarmee kan de dienst informatie, zoals contacten, instellingen en je profiel back-uppen op zijn servers, maar de ontwikkelaar weet niet welke gegevens je in bewaring geeft. De chats zelf blijven enkel op je telefoon.
 
 Signal werkt verder vergelijkbaar als de populaire berichtendienst, maar dan met meer privacy. De app kun je ook met je computer koppelen door de qr-code in de app te scannen.
-
-_Bekijk hieronder onze video’s op techgebied:_

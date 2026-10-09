@@ -48,5 +48,3 @@ Maar let op: niet iedere app werkt zelfstandig. De smartwatch-applicatie van e-b
 ## Apple Watch 7 is een kleine upgrade
 
 In een eerdere recensie bespraken we al uitgebreid de [wifi-versie van de Apple Watch Series 7](https://www.ad.nl/tech/dit-is-de-kleinste-upgrade-die-de-apple-watch-ooit-kreeg~aad0e0fb/). Het nieuwe Apple-horloge heeft een veel groter scherm dan voorgaande modellen, maar was verder een vrij kleine upgrade.
-
-_Bekijk hieronder onze video’s op techgebied:_

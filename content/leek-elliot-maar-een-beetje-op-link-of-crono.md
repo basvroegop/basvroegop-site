@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /leek-elliot-maar-een-beetje-op-link-of-crono
   - /artikelen/leek-elliot-maar-een-beetje-op-link-of-crono
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/leek-elliot-maar-een-beetje-o
 socialImage: ./media/unpause/leek-elliot-maar-een-beetje-op-link-of-crono/9a5eae3ccca2.webp
 publish: true
 ---
+
+**The Adventures of Elliott wil te veel vertellen**
 
 > [!NOTE]
 >

@@ -18,12 +18,14 @@ socialImage: ../media/nu/eerste-indruk-smartphones-met-4k-fysiek-toetsenbord-en-
 publish: true
 ---
 
-## Xperia XZ Premium
-
-De voornaamste nieuwe functionaliteit in de Xperia XZ Premium is de slow-motioncamera. Deze legt video's vast met maar liefst 960 beeldjes per seconde, waardoor alles extreem langzaam afgespeeld kan worden.
+**Nieuwe smartphones op Mobile World Congress bieden meer dan alleen snellere processoren en meer werkgeheugen. We zetten drie toestellen op een rij die iets interessants proberen te doen.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/mobile-world-congress/4502493/eerste-indruk-smartphones-met-4k-fysiek-toetsenbord-en-led-lampjes.html).
+
+## Xperia XZ Premium
+
+De voornaamste nieuwe functionaliteit in de Xperia XZ Premium is de slow-motioncamera. Deze legt video's vast met maar liefst 960 beeldjes per seconde, waardoor alles extreem langzaam afgespeeld kan worden.
 
 Op Mobile World Congress werd de slow-motion met meerdere opstellingen gedemonstreerd. Zo was te zien hoe een waterbak vol met ronddraaiende ballen er vertraagd uitziet, of hoe een waterdruppel langzaam op de grond uiteenspat.
 

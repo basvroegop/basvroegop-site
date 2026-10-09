@@ -16,6 +16,8 @@ socialImage: ./media/gamepraat/sven-32-is-blind-maar-speelt-toch-alle-pokemon-ga
 publish: true
 ---
 
+**Bereid je maar voor.**
+
 Al jarenlang bieden Pokémon-games een vertrouwd avontuur. Spelers reizen van stad naar stad, waar ze zich steeds weer moeten bewijzen in zogeheten Gym-gevechten. In de tussentijd breiden ze langzaamaan hun verzameling monsters uit, in een poging om ze “allemaal te vangen”.
 
 Vraag je gamers om de wereld van Pokémon te omschrijven, dan krijg je meestal dezelfde antwoorden. Ze zullen vertellen over de kleurrijke spelwereld, gevuld met gekke huisjes voorzien van bolle daken. Of over de vreemde monsters. Die zijn vaak schattig, maar soms ook geïnspireerd door bizarre zaken zoals vuilniszakken en zandkastelen. Met iedere Pokémon-game is er steeds meer een eigen stijl ontstaan.

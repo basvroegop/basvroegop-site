@@ -16,10 +16,12 @@ socialImage: ./media/nu/nucheckt-jongeren-worden-niet-gewelddadig-van-videogames
 publish: true
 ---
 
-**Oordeel: onwaar**
+**NU.nl checkt regelmatig berichten op betrouwbaarheid. Bewering: "Het spelen van videogames maakt jongeren gewelddadig, wat ook de oorzaak van de vele schietpartijen in de VS is."**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/5975177/nucheckt-jongeren-worden-niet-gewelddadig-van-videogames.html).
+
+**Oordeel: onwaar**
 
 Maakt het spelen van bijvoorbeeld _Grand Theft Auto_ je agressief en een mogelijke geweldpleger? Het is een vaak terugkerende vraag. In 2009 overwoog CDA-Kamerlid Joop Atsma zelfs een verbod op het populaire _Call of Duty: Modern Warfare 2,_ omdat een controversieel level "mogelijk zou aanzetten tot geweld".
 
@@ -34,6 +36,8 @@ Het is niet voor het eerst dat de Amerikaanse president videogames noemt als een
 **Heeft Trump gelijk?**
 
 Het is de vraag of videogames jongeren daadwerkelijk aanzetten tot geweld. In landen waar meer geld wordt verdiend aan videogames dan in de Verenigde Staten, is bijvoorbeeld haast geen sprake van dodelijke schietpartijen. Dat blijkt uit cijfers van analysebedrijf Newzoo die door onder anderen de voormalige Nintendo-topman Reggie Fils-Aime worden gedeeld op Twitter.
+
+[Bekijk ingesloten media](https://platform.twitter.com/embed/Tweet.html?id=1158587215309463554)
 
 Experts betwisten al langere tijd dat games aan geweld gelinkt kunnen worden. Twee onderzoekers van Harvard concludeerden in 2008 dat jongeren niet in "bloeddorstige moordenaars" veranderen door te gamen. "Er zijn gewoonweg geen data om dat te bewijzen", schreef het duo nadat ze twee jaar lang twaalfhonderd scholieren hadden onderzocht.
 

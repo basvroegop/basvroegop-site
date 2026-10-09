@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /gun-je-mega-man-team-hun-obscure-kartgame-capcom
   - /artikelen/gun-je-mega-man-team-hun-obscure-kartgame-capcom
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/achtergrond/gun-je-mega-man-team-hun-
 socialImage: ./media/unpause/gun-je-mega-man-team-hun-obscure-kartgame-capcom/fb6e3e31f274.webp
 publish: true
 ---
+
+**Wie kent 'm niet?**
 
 > [!NOTE]
 >

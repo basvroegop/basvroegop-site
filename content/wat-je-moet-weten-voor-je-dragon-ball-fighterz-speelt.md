@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/wat-je-moet-weten-voor-je-dragon-ball-fighterz-sp
 publish: true
 ---
 
+**Pareren, je personage leren, je team samenstellen en meer.**
+
 Op vrijdag 26 januari verschijnt Dragon Ball FighterZ. Goed nieuws voor vechtgameveteranen, maar vermoedelijk zullen ook nieuwkomers zich in het genre mengen. Hoe bereid je jezelf dan voor op deze game?
 
 > [!NOTE]

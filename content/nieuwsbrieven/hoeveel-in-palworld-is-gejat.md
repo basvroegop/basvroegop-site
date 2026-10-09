@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/hoeveel-in-palworld-is-gejat/93df97cf38.webp
 publish: true
 ---
 
+**Palworld ligt onder vuur om zijn gestolen monsters, maar hoeveel in de game is echt gestolen?**
+
 Op het moment van schrijven wordt Palworld door 1,7 miljoen mensen tegelijkertijd gespeeld op Steam. Het maakt de game populairder dan Counter-Strike 2, Dota 2, PUBG en Apex Legends bij elkaar opgeteld, vier games die een week geleden nog constant bovenaan de lijst stonden.
 
 Het maakt één ding duidelijk: hoewel critici zich uitspreken over het mogelijke plagiaat van de game, maakt het spelers niet veel uit.

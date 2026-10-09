@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-grote-activision-overname-is-er/f8698dd0bb.jp
 publish: true
 ---
 
+**Verder: nog even over die beer in Baldur's Gate 3**
+
 Microsoft mag in de Verenigde Station Activision-Blizzard-overnemen. Daarmee lijkt de deal rond, maar de soap blijft nog eventjes dooretteren terwijl de laatste beroepen en onderhandelingen worden beslecht.
 
 Verder duik ik deze week nog even in de afsluiter van mijn vorige nieuwsbrief. Wat bleek: de zin 'in Baldur's Gate 3 kun je seks hebben met een beer' leidde tot veel mails terug van jullie, dus misschien is het leuk om te duiden wat hier gebeurt en waarom het - hoe raar ook - een goede toevoeging is aan die game.

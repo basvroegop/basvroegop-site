@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/diablo-iv-preview/4f6025ccb1.jpeg
 publish: true
 ---
 
+**Grimmiger dan Diablo III.**
+
 Goed nieuws voor iedereen die een hekel had aan Diablo 3: in Diablo 4 moeten de meest gehoorde kritiekpunten worden verholpen.
 
 > [!NOTE]

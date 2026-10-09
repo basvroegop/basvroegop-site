@@ -16,10 +16,12 @@ socialImage: ./media/nu/appen-op-de-fiets-is-vanaf-1-juli-verboden-dit-zijn-de-n
 publish: true
 ---
 
-Afgelopen jaar werd bekendgemaakt dat het Reglement verkeersregels en verkeerstekens 1990 wordt aangepast, om ook telefoongebruik op de fiets te verbieden. Volgens het kabinet was er een "groot maatschappelijk draagvlak" voor de wijziging, die vooral veiligheid in het verkeer moet stimuleren.
+**Op maandag 1 juli gaat een nieuwe wetswijziging in, die het gebruik van je telefoon verbiedt tijdens het fietsen. We zetten op een rij wat er nog wel mag en wat je riskeert door de wet te overtreden.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5957288/appen-op-de-fiets-is-vanaf-1-juli-verboden-dit-zijn-de-nieuwe-regels.html).
+
+Afgelopen jaar werd bekendgemaakt dat het Reglement verkeersregels en verkeerstekens 1990 wordt aangepast, om ook telefoongebruik op de fiets te verbieden. Volgens het kabinet was er een "groot maatschappelijk draagvlak" voor de wijziging, die vooral veiligheid in het verkeer moet stimuleren.
 
 ## Wat verbiedt de wet precies?
 

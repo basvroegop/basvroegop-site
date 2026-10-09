@@ -16,10 +16,12 @@ socialImage: ./media/nu/werkt-jouw-navigatie-nog-wel-na-de-grote-gps-kalenderbug
 publish: true
 ---
 
-Makers van navigatieapparatuur noemen het de grote 'GPS Week Number Rollover' (WNRO). Oudere gps-apparatuur van over de hele wereld zal zijn interne klok automatisch herstarten, wat kan zorgen voor communicatieproblemen met satellieten.
+**Op zaterdag 6 april worden sommige navigatieapparaten getroffen door een soort van millenniumbug. Wat voor invloed heeft die softwarefout precies, en welke gps-systemen zijn erdoor getroffen?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/gadgets/5828544/werkt-jouw-navigatie-nog-wel-na-de-grote-gps-kalenderbug-dit-weekend.html).
+
+Makers van navigatieapparatuur noemen het de grote 'GPS Week Number Rollover' (WNRO). Oudere gps-apparatuur van over de hele wereld zal zijn interne klok automatisch herstarten, wat kan zorgen voor communicatieproblemen met satellieten.
 
 ## Wat gaat er precies gebeuren?
 

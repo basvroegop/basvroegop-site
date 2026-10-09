@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/hoe-unity-het-vertrouwen-van-gameontwikkelaars/a
 publish: true
 ---
 
+**Daarnaast: je iPhone is je volgende gameconsole en Wario spreekt nu Nederlands**
+
 Gameontwikkelaars zijn het niet vaak met elkaar eens, maar deze week was het anders: nagenoeg iedere studio, groot of klein, vond de plannen van softwaregigant Unity een buitengewoon dom idee. Alle neuzen stonden dezelfde kant op - waardoor Unity nu vreest een deel van de markt te verliezen.
 
 Deze week duiken we in de oorzaak van dat Unity-debacle, maar hebben we het ook over optimistische dingen. Zoals hoe de iPhone misschien wel de volgende grote gameconsole wordt en hoe Nintendo's Nederlandse lokalisaties steeds grootser worden en het respect van gamers lijken te winnen.

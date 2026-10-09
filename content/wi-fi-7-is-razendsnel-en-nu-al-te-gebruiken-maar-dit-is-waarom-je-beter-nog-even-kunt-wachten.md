@@ -33,8 +33,6 @@ Het klinkt bij elkaar als een gigantische upgrade: snellere wifi betekent immers
 
 Een router die snelheden van 1376 megabit per seconde haalt, kan niet al die megabits tegelijk downloaden als je een ADSL-abonnement van 50 megabit in huis binnenkrijgt. Je internetabonnement bepaalt de algehele snelheid waarmee je met sites en online diensten verbindt, terwijl de router de snelheid binnen je thuisnetwerk bepaalt.
 
-> Het snelste kabelabonnement haalt op dit moment snelheden van 1000 megabit. Dat is iets lager dan de 1376 die je met Wi-Fi 7 downloadt
-
 Een router met Wi-Fi 7 zal ervoor zorgen dat je het maximale draadloze signaal uit je internetabonnement kunt halen, maar voor hogere snelheden zul je wellicht je abonnement bij Ziggo, Delta of KPN moeten upgraden. En zelfs dan is het de vraag of je alles uit Wi-Fi 7 haalt. Het snelste kabelabonnement haalt op dit moment snelheden van 1000 megabit. Dat is iets lager dan de 1376 die je met Wi-Fi 7 downloadt. Glasvezel biedt hogere snelheden, maar is nog niet overal te gebruiken.
 
 Zelfs met een snellere internetverbinding zul je niet altijd die maximale wifisnelheid benutten: websites en diensten beperken hoe snel je bij ze kunt streamen en downloaden, om te voorkomen dat hun netwerken overbelast raken. De enige plek waar je netwerk zijn volle potentie zal bereiken, is binnenshuis, als bijvoorbeeld je telefoon met je laptop verbindt om een bestand te verplaatsen. Maar ook daar schuilen mitsen en maren achter.
@@ -42,8 +40,6 @@ Zelfs met een snellere internetverbinding zul je niet altijd die maximale wifisn
 ## Je telefoon, tv en laptop moeten ook Wi-Fi 7 ondersteunen
 
 Niet alleen je router moet met Wi-Fi 7 werken: ook je telefoons, laptops en andere apparaten moeten het draadloze protocol ondersteunen om van die maximale snelheid gebruik te maken. Het draadloze netwerk in je huis is een beetje als een snelweg. Je Wi-Fi 7-router is een zesbaansweg waar je 130 kilometer per uur kan rijden, maar daar heb je alleen iets aan als alle verbindingswegen net zo snel zijn. Gebruikt je telefoon nog Wi-Fi 6, dan is het alsof je na een afslag ineens weer 100 rijdt.
-
-> Pas later in 2024 worden veel Wi-Fi-7-apparaten verwacht
 
 Je hebt pas iets aan Wi-Fi 7 als je meestgebruikte apparaten in huis ook een upgrade hebben gehad. Op dit moment kan dat nog lang niet altijd: iPhones ondersteunen Wi-Fi 7 nog niet, terwijl aan de Samsung-kant alleen de duurste Galaxy S24 Ultra-telefoon de netwerkstandaard gebruikt. Heb je een laptop van afgelopen jaar of eerder, dan zal die waarschijnlijk ook niet met Wi-Fi 7 verbinden. Pas later in 2024 worden veel Wi-Fi-7-apparaten verwacht.
 

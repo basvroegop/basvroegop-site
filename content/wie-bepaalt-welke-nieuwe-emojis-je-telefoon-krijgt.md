@@ -16,10 +16,12 @@ socialImage: ./media/nu/wie-bepaalt-welke-nieuwe-emojis-je-telefoon-krijgt/c1d00
 publish: true
 ---
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.Apple-tab-span {white-space:pre}
+**Ieder jaar krijgen smartphones nieuwe emoji's. Maar wie bepaalt eigenlijk welke smileys er door de grote techbedrijven worden toegevoegd?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/mobiel/5126222/wie-bepaalt-welke-nieuwe-emojis-je-telefoon-krijgt.html).
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.Apple-tab-span {white-space:pre}
 
 De emoji-update is voor smartphonemakers inmiddels vaste prik. Er verschijnen gloednieuwe emoji's, terwijl ook nieuwe varianten met andere huidskleuren en haarkleuren worden geïntroduceerd.
 

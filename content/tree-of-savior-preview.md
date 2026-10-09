@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/tree-of-savior-preview/6b78d59d5b.jpeg
 publish: true
 ---
 
+**Voor de meest radicale MMO-spelers.**
+
 Een paar jaar voordat iemand überhaupt World of Warcraft had gespeeld, werd een klein stukje van het internet helemaal gek om een nieuwe MMORPG. Het Koreaanse Ragnarok Online pakte het cameraperspectief van Diablo en plakte hier een ontzettend uitgebreide online wereld aan vast. Het spel was door zijn hardcore insteek niet voor iedereen weggelegd, maar een harde kern aan spelers kon er geen genoeg van krijgen. Dik 13 jaar nadat de game verscheen, is de spirituele opvolger eindelijk nabij.
 
 Nou ja, spirituele opvolger. Het daadwerkelijke vervolg verscheen eigenlijk twee jaar geleden al, in de vorm van een gratis MMO die je ook via Steam kunt spelen. Puristen zullen echter ontkennen dat dit spel officieel tot de serie behoort, net zoals een Star Wars-fan het bestaan van Episode I zal betwisten. Ragnarok Online 2: Legend of the Second is een vrij standaard grindspel, waarin de systemen uit het origineel grotendeels ontbreken. Dat is voor een groot deel te wijten aan het rommelige ontwikkelproces. Developer Gravity werkte eerst aan een ander soort vervolg, met als ondertitel Gate of the World. De ontwikkeling hiervan werd echter gestaakt en een groot deel van het originele team was al vertrokken. Daarom werd besloten om snel een vrij algemeen spel te maken, van de overgebleven restanten van het mislukte ontwikkelproces.

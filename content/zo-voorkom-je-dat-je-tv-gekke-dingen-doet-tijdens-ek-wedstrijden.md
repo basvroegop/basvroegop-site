@@ -16,12 +16,14 @@ socialImage: ./media/nu/zo-voorkom-je-dat-je-tv-gekke-dingen-doet-tijdens-ek-wed
 publish: true
 ---
 
-## Zorg dat de software up-to-date is
-
-Steeds vaker zijn tv's verbonden met het internet. Fabrikanten versturen van tijd tot tijd ook updates om de software te verbeteren. Die updates kun je vaak een tijdje uitstellen, maar met verloop van tijd wordt het installatieproces soms automatisch gestart.
+**Het zal je maar gebeuren: je zit het EK te kijken, maar de bal schokt ineens gek over het scherm heen. En na een half uur besluit je tv zichzelf ineens opnieuw op te starten voor een update. Hoe voorkom je dat soort gekke dingen, zodat je zonder afleiding de wedstrijd kunt volgen?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6139857/zo-voorkom-je-dat-je-tv-gekke-dingen-doet-tijdens-ek-wedstrijden.html).
+
+## Zorg dat de software up-to-date is
+
+Steeds vaker zijn tv's verbonden met het internet. Fabrikanten versturen van tijd tot tijd ook updates om de software te verbeteren. Die updates kun je vaak een tijdje uitstellen, maar met verloop van tijd wordt het installatieproces soms automatisch gestart.
 
 Het is daarom slim om al voor een wedstrijd te kijken of een televisie up-to-date is. Dat kan in de meeste gevallen door op de instellingenknop van de afstandsbediening te drukken en bijvoorbeeld naar de systeeminstellingen te navigeren.
 

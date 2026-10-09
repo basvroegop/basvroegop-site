@@ -42,5 +42,3 @@ Nadeel is wel dat Teleparty een browserextensie is. Het werkt dus niet op je sma
 Apple heeft recent een samenkijkfunctie toegevoegd aan zijn nieuwste software-update iOS 15. Als je samen een groepsgesprek start via FaceTime, kun je op de SharePlay-knop drukken om het scherm van bepaalde apps te delen.
 
 Op het moment werkt SharePlay nog lang niet bij alle apps, maar je kunt op die manier wel naar Apple TV+ kijken. Disney+ krijgt binnenkort ook ondersteuning voor SharePlay. Heb je een Apple TV, dan kun je tijdens het shareplay’en het scherm meteen op je televisie laten zien, terwijl je de iPhone of iPad blijft gebruiken voor het videobellen.
-
-_Bekijk hieronder onze video’s op techgebied:_

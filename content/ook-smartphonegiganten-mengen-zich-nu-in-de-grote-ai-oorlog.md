@@ -41,8 +41,6 @@ Tijdens een persbijeenkomst benadrukt Samsung dat de Galaxy AI het belangrijkste
 
 AI is ook het nieuwe goud voor andere techgiganten. Google-baas Sundar Pichai noemde het recent ‘de meest diepgaande technologie waar de mensheid ooit aan heeft gesleuteld. Diepgaander dan vuur, elektriciteit en al het andere waar we ooit aan werkten.’ De zoekreus werkt al jaren aan de technologie, maar deed dat voorzichtig: alle ethische problemen werden uitgebreid afgewogen, om ervoor te zorgen dat hun software geen negatieve impact op de wereld zou hebben.
 
-_Lees verder onder de foto_
-
 ![Galaxy AI is de nieuwste software waarmee Samsung-telefoons worden uitgerust ](./media/ad/ook-smartphonegiganten-mengen-zich-nu-in-de-grote-ai-oorlog/1088e32e1a51.webp)
 
 Galaxy AI is de nieuwste software waarmee Samsung-telefoons worden uitgerust © Samsung

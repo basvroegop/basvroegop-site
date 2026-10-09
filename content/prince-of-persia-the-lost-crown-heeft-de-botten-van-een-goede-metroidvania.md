@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /prince-of-persia-the-lost-crown-heeft-de-botten-van-een-goede-metroidvania
   - /artikelen/prince-of-persia-the-lost-crown-heeft-de-botten-van-een-goede-metroidvania
 author: Bastiaan Vroegop
 source: Gamer.nl

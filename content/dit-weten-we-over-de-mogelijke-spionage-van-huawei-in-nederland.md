@@ -16,12 +16,14 @@ socialImage: ./media/nu/dit-weten-we-over-de-mogelijke-spionage-van-huawei-in-ne
 publish: true
 ---
 
-## Huawei levert zendmastapparatuur aan telecomproviders
-
-Huawei is een Chinese technologiefabrikant die meerdere soorten producten maakt. In Nederland is het bedrijf vooral bekend van de smartphones, die een steeds groter marktaandeel veroveren. Daarnaast maakt Huawei al jarenlang apparatuur die in zendmasten wordt gebruikt.
+**Het Chinese Huawei zou mogelijk meerdere Nederlanders hebben afgeluisterd. Wat is er aan de hand? We zetten de bekende feiten op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5897412/dit-weten-we-over-de-mogelijke-spionage-van-huawei-in-nederland.html).
+
+## Huawei levert zendmastapparatuur aan telecomproviders
+
+Huawei is een Chinese technologiefabrikant die meerdere soorten producten maakt. In Nederland is het bedrijf vooral bekend van de smartphones, die een steeds groter marktaandeel veroveren. Daarnaast maakt Huawei al jarenlang apparatuur die in zendmasten wordt gebruikt.
 
 Telecomproviders kopen hardware van Huawei in voor de bouw van hun telecommasten. In Nederland doen VodafoneZiggo, KPN en de fusie van T-Mobile en Tele2 dat alle drie. Omdat deze apparatuur in zendmasten zit, helpt die met het verwerken van data die verzonden en ontvangen wordt door Nederlandse smartphones.
 

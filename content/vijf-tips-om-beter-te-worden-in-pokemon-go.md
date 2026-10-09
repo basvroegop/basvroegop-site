@@ -16,12 +16,14 @@ socialImage: ./media/nu/vijf-tips-om-beter-te-worden-in-pokemon-go/90dc4bb718ba.
 publish: true
 ---
 
-## 1. Gebruik Lucky Eggs om snel te levellen
-
-Op level 9 krijgen spelers voor het eerst een Lucky Egg. Door dit voorwerp te gebruiken worden alle vergaarde ervaringspunten voor een half uur lang verdubbeld, waardoor groeien in level sneller verloopt.
+**Naarmate Pokémon Go langer beschikbaar is, ontdekken spelers slimme manieren om de locatiegame te spelen. We zetten vijf tips op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/4299645/vijf-tips-om-beter-te-worden-in-pokemon-go.html).
+
+## 1. Gebruik Lucky Eggs om snel te levellen
+
+Op level 9 krijgen spelers voor het eerst een Lucky Egg. Door dit voorwerp te gebruiken worden alle vergaarde ervaringspunten voor een half uur lang verdubbeld, waardoor groeien in level sneller verloopt.
 
 Door dit ei in combinatie met goedkope Pokémon-evoluties te gebruiken, is het mogelijk om binnen 30 minuten meerdere levels omhoog te schieten. Vang daarvoor zoveel mogelijk Pokémon die weinig snoep vereisen om te evolueren, zoals Pidgey, Rattata, Weedle en Caterpie.
 

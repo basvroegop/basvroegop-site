@@ -44,5 +44,3 @@ De nadruk bij de nieuwe telefoon ligt vooral op de software. Heb je meerdere gro
 Google belooft dat de telefoon bovendien zeven jaar lang nieuwe updates zal krijgen, wat zou betekenen dat je minder snel naar een nieuwe hoeft over te stappen.
 
 Daarnaast gaat Google dit jaar voor het eerst zijn smartwatch in Nederland verkopen. De Pixel Watch 2 werd samen met het overgenomen Fitbit gemaakt en moet nauwlettend je gezondheid in de gaten gaan houden. Met zijn ronde ontwerp ziet hij er ook significant anders uit dan zijn grootste concurrent van Apple. Of dat genoeg is om daar marktaandeel van af te snoepen? Dat weten we vermoedelijk pas over een paar jaar.
-
-_De mensen die jouw smartphone ontwikkelen, denken daar heel goed over na (video):_

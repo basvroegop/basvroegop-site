@@ -63,5 +63,3 @@ Het is bovendien de duurste in deze reeks, met een prijs van ruim 500 euro.
 
 **Verantwoording**
 In deze rubriek schrijven we over technologische apparaten die door Tweakers zijn beoordeeld. Bij Tweakers wordt ieder apparaat onderzocht door het testlab, waar onder andere accuduur, snelheid en andere belangrijke aspecten worden getoetst. De redactie van Tweakers is volledig onafhankelijk. Bedrijven betalen op geen enkele manier om in deze artikelen behandeld te worden.
-
-_Bekijk hieronder onze video’s op techgebied:_

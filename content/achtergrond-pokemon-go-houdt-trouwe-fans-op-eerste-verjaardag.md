@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verja
 publish: true
 ---
 
-Eigenlijk verscheen _Pokémon Go_ pas op 16 juli in Nederland, maar op 6 juli was het spel al onder andere Nieuw-Zeeland en Australië te downloaden. Veel Nederlanders wisten het spel al via een omweg te downloaden, waardoor de hype tien dagen voor de officiële verschijning al van start ging.
+**Het is op donderdag exact één jaar geleden dat Pokémon Go verscheen. Hoe staat het er inmiddels voor met de hype?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/4819977/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag.html).
+
+Eigenlijk verscheen _Pokémon Go_ pas op 16 juli in Nederland, maar op 6 juli was het spel al onder andere Nieuw-Zeeland en Australië te downloaden. Veel Nederlanders wisten het spel al via een omweg te downloaden, waardoor de hype tien dagen voor de officiële verschijning al van start ging.
 
 Omdat _Pokémon Go_ in de echte wereld wordt gespeeld, gingen spelers massaal naar plekken toe waar veel monsters gevangen konden worden. Groepen mensen verzamelden zich bij Gyms en Pokéstops, locaties waar kan worden gevochten of spelvoorwerpen beschikbaar zijn.
 

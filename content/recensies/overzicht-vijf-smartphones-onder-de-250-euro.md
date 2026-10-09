@@ -18,12 +18,14 @@ socialImage: ../media/nu/overzicht-vijf-smartphones-onder-de-250-euro/55056514cc
 publish: true
 ---
 
-## Alcatel A5 LED (200 euro)
-
-Op telecombeurs Mobile World Congress viel de Alcatel A5 LED op. Niet door zijn technische specificaties, maar door de achterkant met ingebouwde LED-verlichting. Hierdoor kan het toestel licht geven als iemand belt, of als er bijvoorbeeld een WhatsApp-bericht binnenkomt. Ook kan hij op maat van de muziek oplichten tijdens concerten.
+**Een smartphone op afbetaling bij een abonnement wordt sinds 1 mei geregistreerd bij de kredietstatus van Bureau Krediet Registratie (BKR), mits het toestel meer dan 250 euro kost. We zetten daarom vijf smartphones op een rij die niet tot een BKR-registratie leiden.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/reviews/4706244/overzicht-vijf-smartphones-onder-de-250-euro.html).
+
+## Alcatel A5 LED (200 euro)
+
+Op telecombeurs Mobile World Congress viel de Alcatel A5 LED op. Niet door zijn technische specificaties, maar door de achterkant met ingebouwde LED-verlichting. Hierdoor kan het toestel licht geven als iemand belt, of als er bijvoorbeeld een WhatsApp-bericht binnenkomt. Ook kan hij op maat van de muziek oplichten tijdens concerten.
 
 De A5 LED zal later dit jaar op de markt komen, maar wij testten alvast een vroege testversie van het toestel. Daarbij kregen we het idee dat de achterliggende software voor de LED-verlichting handiger ingericht kan worden. Zo is het bijvoorbeeld niet mogelijk om de kleur van specifieke notificaties aan te passen. Zonde, want we zouden graag notificaties van bijvoorbeeld WhatsApp en Facebook willen onderscheiden door ze groen en blauw te maken.
 

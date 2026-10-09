@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /nederlandse-massazaak-playstation-prijzen-is-nog-maar-het-begin
   - /artikelen/nederlandse-massazaak-playstation-prijzen-is-nog-maar-het-begin
 author: Bastiaan Vroegop
 source: Gamer.nl

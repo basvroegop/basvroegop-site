@@ -39,8 +39,6 @@ Wat kun je doen om oververhitting te voorkomen?
 
 Is het warm buiten, dan kun je een smartphone het beste in de schaduw bewaren. Leg hem op een tafeltje waar de zon niet bijkomt, of zorg dat hij in je broekzak blijft zitten.
 
-> Zorg voor een kwalitatief goede kabel en bijbehorende lader: goedkoop spul wordt vaak warmer dan nodig is
-
 De directe warmte van de zon is namelijk het grootste gevaar: je smartphone is een groot, zwart oppervlak, dat razendsnel heter wordt als de zon hem raakt. De buitenhitte kan hij meestal wel aan - een temperatuur van 30 graden is niks voor een computer. Maar onder direct zonlicht stijgt de temperatuur van het apparaat daar ver boven.
 
 ## 2\. Laad op in een koele omgeving

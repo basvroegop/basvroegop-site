@@ -16,10 +16,12 @@ socialImage: ./media/nu/vijf-apps-om-het-hete-weer-in-de-gaten-te-houden/d351e03
 publish: true
 ---
 
-In dit overzicht kijken we naar weerapps die net iets anders doen dan de standaardapplicatie op je smartphone. Het zijn apps die alarm slaan bij regen, je uit meerdere weerbronnen tegelijkertijd informatie tonen of je precies vertellen wat je bij het huidige weer kunt doen. Veel van deze apps zijn gratis te downloaden en bevatten reclame, die voor een jaarlijks bedrag verborgen kan worden.
+**Het wordt deze week uitzonderlijk warm. Op je smartphone staat al standaard een weerapp geïnstalleerd, maar voor wie tot in detail wil weten hoe lang het hoe heet wordt, zijn er nog veel uitgebreidere alternatieven beschikbaar. We zetten vijf handige alternatieven op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/5852247/vijf-apps-om-het-hete-weer-in-de-gaten-te-houden.html).
+
+In dit overzicht kijken we naar weerapps die net iets anders doen dan de standaardapplicatie op je smartphone. Het zijn apps die alarm slaan bij regen, je uit meerdere weerbronnen tegelijkertijd informatie tonen of je precies vertellen wat je bij het huidige weer kunt doen. Veel van deze apps zijn gratis te downloaden en bevatten reclame, die voor een jaarlijks bedrag verborgen kan worden.
 
 ## Buienradar
 

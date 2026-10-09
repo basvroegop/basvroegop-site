@@ -1,7 +1,7 @@
 ---
 title: Waarom Twitch-streamers ineens massaal uitzenden vanuit opblaasbadjes
 description: "Ze zijn mateloos populair op gamestreamingsite Twitch: livestreams waarin vrouwen soms urenlang vanuit een opblaasbaar zwembadje met hun kijkers praten. Waar komt die hype precies vandaan?"
-published: 2021-07-21
+published: 2021-05-26
 modified: 2021-07-21
 tags:
   - Elders gepubliceerd
@@ -32,8 +32,6 @@ Videomakers op Twitch zijn altijd op zoek naar nieuwe manieren om zich te onders
 ## Bikini’s kijken
 
 Zo’n zwembadstream trekt buitengewoon veel kijkers, vertelde streamer XoAeriel onlangs nog aan de gamesite [Kotaku](https://kotaku.com/twitchs-hot-tub-meta-has-sparked-off-yet-another-debate-1846600932). Toen was ze één van de eersten met een opblaasbadje. ,,Het aantal kijkers schoot al snel omhoog en mijn aantal volgers groeide ook rap.”
-
-> Mensen vinden het leuk om naar mooie vrouwen in bikini’s te kijken
 
 ,,Het wordt steeds lekkerder weer en mensen krijgen de lente in hun bol”, zei Spoopy Kitt tegen dezelfde gamesite. ,,Mensen vinden het leuk om naar mooie vrouwen in bikini’s te kijken, en zelf vind ik het leuk om te dollen in een bad. Het is een win-win-situatie.”
 

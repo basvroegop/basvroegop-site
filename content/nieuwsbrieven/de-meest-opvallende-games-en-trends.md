@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-meest-opvallende-games-en-trends/ff2cb0626d.j
 publish: true
 ---
 
+**Microsoft was de grote winnaar, maar...**
+
 Een paar maanden terug besloten gamebedrijven collectief niet meer naar E3 te gaan omdat ze de schijnwerpers niet met elkaar wilden delen - om vervolgens in dezelfde week allemaal tegelijkertijd online presentaties te organiseren. Een bizar gegeven, waardoor we in de afgelopen week ineens onwijs veel nieuwe games hebben gezien.
 
 Deze niet-E3-week is van ontzettend groot belang: de gamesector voelt nog steeds de gevolgen van de coronacrisis. Het ergste daarvan ligt al een tijd achter ons, maar omdat een grote game snel vijf jaar ontwikkeltijd vergt, zijn de spellen die komend jaar verschijnen nog steeds onder invloed van de pandemie geproduceerd.

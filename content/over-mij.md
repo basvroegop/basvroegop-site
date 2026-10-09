@@ -8,8 +8,6 @@ description: |-
   Werkgerelateerde vragen of verzoekjes? Je kunt dan het beste even mailen. En zeg geru
 published: 2022-07-01
 modified: 2026-01-15
-aliases:
-  - /over-mij
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/over-mij/

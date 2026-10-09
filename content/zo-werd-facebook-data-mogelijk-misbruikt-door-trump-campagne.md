@@ -16,10 +16,12 @@ socialImage: ./media/nu/zo-werd-facebook-data-mogelijk-misbruikt-door-trump-camp
 publish: true
 ---
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.s2 {letter-spacing: 1.3px; font-variant-ligatures: no-common-ligatures}
+**Een databedrijf heeft gebruikersgegevens van miljoenen Facebook-gebruikers verzameld en gebruikt voor politieke reclame, onder andere bij de verkiezingscampagne van Donald Trump in 2016. Wat weten we tot nu toe?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/5182130/zo-werd-facebook-data-mogelijk-misbruikt-door-trump-campagne.html).
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.s2 {letter-spacing: 1.3px; font-variant-ligatures: no-common-ligatures}
 
 ## Wat is er gelekt?
 

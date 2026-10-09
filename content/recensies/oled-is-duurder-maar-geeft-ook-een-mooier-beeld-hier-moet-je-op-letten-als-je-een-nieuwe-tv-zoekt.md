@@ -33,8 +33,6 @@ Vooral de tv-schermen kennen aanmerkelijke verschillen. De gebruikte technologie
 
 Veel moderne televisies bieden HDR (high dynamic range), waarbij een beeld met hoger kleurbereik en contrast wordt getoond. HDR-beeld is doorgaans mooier, maar films en series moeten het dan wel ondersteunen. Je hebt er niks aan als je heel de dag naar de NPO, SBS en RTL kijkt. Wil je er zeker van zijn dat je films en series zo kloppend mogelijk kunt bekijken, let er dan op of de televisie HDR-standaarden zoals Dolby Vision ondersteunt.
 
-> Moderne schermen zijn flinterdun, dus zit er aan de binnenkant amper een klankkast. Het resultaat: geluid klinkt doorgaans wat schel
-
 _Lees ook: [Welke televisie is de beste? De consumentenbond geeft antwoord](https://www.ad.nl/tech/getest-op-beeldkwaliteit-geluidskwaliteit-en-energieverbruik-dit-is-de-beste-televisie-van-48-50-inch~ab146c01/)._
 
 ## 3\. Aansluitpoorten

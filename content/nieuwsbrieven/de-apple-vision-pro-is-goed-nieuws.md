@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/de-apple-vision-pro-is-goed-nieuws/dd7445b96b.jp
 publish: true
 ---
 
+**Verder: help me bij het maken van een boek!**
+
 Het is onmogelijk om het deze week niet over Apple te hebben. De komst van Apples nieuwe VR-bril is goed nieuws voor de gehele VR-gamesector, ongeacht of Apples apparaat flopt of een hit wordt.
 
 Daarnaast een persoonlijk nieuwtje deze week, want ik ben gevraagd om een boek te maken! Daar kan ik jullie steun goed voor gebruiken, waarover hieronder meer.

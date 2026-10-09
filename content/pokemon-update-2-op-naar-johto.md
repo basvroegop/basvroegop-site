@@ -18,6 +18,8 @@ socialImage: ./media/gamepraat/pokemon-update-2-op-naar-johto/79bc30f7af.jpeg
 publish: true
 ---
 
+**Pauzeren is nooit oké.**
+
 Iedere maand probeer ik 120 pokémon te vangen, zodat ik hopelijk voor de komst van Pokémon Sun & Moon mijn collectie compleet heb. De eerste maand ging prima, maar in de tweede maakte ik meteen al een inschattingsfout.
 
 > [!NOTE]

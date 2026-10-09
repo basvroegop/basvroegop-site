@@ -15,6 +15,8 @@ socialImage: ./media/gamepraat/xenoblade-chronicles-3/d2f7e68485.webp
 publish: true
 ---
 
+**Xenoblade Chronicles 3 gaat over drie dingen: de dood, kindsoldaten en trauma.**
+
 Net als voorgaande Xenoblade-games speelt deel drie zich af op de rug van een gigantische titaan. Ditmaal woedt er een eindeloze oorlog op deze levende wereld, waar soldaten alleen maar bestaan om hun vijanden te vermoorden.
 
 [Op NU.nl lees je mijn algemene review van de game](https://www.nu.nl/reviews/6214371/review-xenoblade-chronicles-3-wordt-na-twintig-uur-spelen-geweldig.html?ref=gamepraat.nl). Het duurde buitengewoon lang tot de game klikte, maar na een uur of twintig werd het geweldig. Wat ik in de review minder bespreek is het verhaal, dat met zijn thema's heel andere onderwerpen aansnijdt dan het gemiddelde avonturenspel.

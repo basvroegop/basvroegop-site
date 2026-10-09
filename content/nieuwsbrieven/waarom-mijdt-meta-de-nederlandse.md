@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/waarom-mijdt-meta-de-nederlandse/eb39616bae.webp
 publish: true
 ---
 
+**Verder: de ontslagen bij Epic Games en de drukke gameherfst**
+
 Facebooks moederbedrijf staat op het punt het gevecht aan te gaan met Apples nieuwste product, maar het sociale netwerk vermijdt de Nederlandse pers die er over wil schrijven. Wat is er aan de hand?
 
 Verder deze week: gigantische ontslagrondes bij de maker van _Fortnite_ en de grootste nieuwe games die in de oktobermaand verschijnen. Deze editie van Gamepraat telt 945 woorden en neemt zeven minuten van je tijd in beslag.

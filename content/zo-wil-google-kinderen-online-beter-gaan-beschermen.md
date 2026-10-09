@@ -58,5 +58,3 @@ Ook kunnen adverteerders geen gebruikmaken van leeftijd, geslacht of interesses 
 ## Blokkades
 
 Op slimme apparaten zoals de Nest-speaker wordt de beschermingsfunctie voor kinderen uitgebreid. Ouders kunnen hierdoor toegang tot nieuws, podcasts en websites blokkeren voor kinderen, zodat ze minder snel op gekke, ongepaste plekken op het internet terechtkomen.
-
-_Bekijk hieronder onze video’s op techgebied:_

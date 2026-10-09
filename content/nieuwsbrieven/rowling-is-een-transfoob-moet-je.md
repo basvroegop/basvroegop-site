@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/rowling-is-een-transfoob-moet-je/76efbd1420.webp
 publish: true
 ---
 
+**Verder: de gevolgen van de Fortnite-hype, een Grammy voor een game en de Banjo Kazooie-verslaving van Nick Offerman.**
+
 Is het verantwoord om de game van een problematische auteur te recenseren, zodat die er mogelijk geld aan verdient? En zo ja, moet je in de recensie dan wel of niet de uitspraken van die auteur behandelen? Die vragen speelden internationaal een grote rol deze week bij het verschijnen van de Harry Potter-game _Hogwarts Legacy_.
 
 Verder werd voor het eerst een Grammy uitgereikt voor een gamesoundtrack, werden _Fortnite_\-achtige games doodverklaard en bleek de acteur van de beste aflevering van The Last of Us verslaafd te zijn aan _Banjo Kazooie_.

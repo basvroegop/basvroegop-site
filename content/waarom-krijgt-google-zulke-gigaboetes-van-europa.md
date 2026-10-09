@@ -16,10 +16,12 @@ socialImage: ./media/nu/waarom-krijgt-google-zulke-gigaboetes-van-europa/8c4c505
 publish: true
 ---
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.s2 {letter-spacing: 1.3px; font-variant-ligatures: no-common-ligatures}
+**Zoekgigant Google kreeg deze week een boete van maar liefst 4,34 miljard euro van de Europese Commissie. Het is de tweede keer dat het bedrijf om die reden zo'n fors bedrag moet betalen. Wat is er aan de hand?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/internet/5370851/waarom-krijgt-google-zulke-gigaboetes-van-europa.html).
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 21.0px Helvetica} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; min-height: 17.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica} span.s1 {font-variant-ligatures: no-common-ligatures} span.s2 {letter-spacing: 1.3px; font-variant-ligatures: no-common-ligatures}
 
 **Wat voor boetes heeft Google gekregen van de Europese Unie?**
 

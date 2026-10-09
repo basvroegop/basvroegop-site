@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Power Unlimited
 aliases:
-  - /verrassing-pokemon-crystal-is-nu-volledig-in-het-nederlands-te-spelen
   - /artikelen/verrassing-pokemon-crystal-is-nu-volledig-in-het-nederlands-te-spelen
 author: Bastiaan Vroegop
 source: Power Unlimited

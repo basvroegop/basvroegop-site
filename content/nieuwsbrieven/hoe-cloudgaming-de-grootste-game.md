@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/hoe-cloudgaming-de-grootste-game/7fc49be7df.jpeg
 publish: true
 ---
 
+**En waarom de eilanden van Tears of the Kingdom zo belangrijk zijn.**
+
 Ik had het mis. Afgelopen weken schreef ik al een paar keer te verwachten dat Microsofts overname van Activision Blizzard gewoon door kon gaan, maar op woensdag besloot de Britse marktwaakhond dwars te liggen. Over een totaal onverwacht punt.
 
 Daarnaast speelde ik afgelopen week de nieuwste Zelda-game naar huis. Misschien wel de belangrijkste game van dit jaar, die me ineens deed terugdenken aan _Chrono Trigger_ en _Skies of Arcadia_.

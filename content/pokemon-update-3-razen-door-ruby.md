@@ -18,6 +18,8 @@ socialImage: ./media/gamepraat/pokemon-update-3-razen-door-ruby/a587a110ea.jpg
 publish: true
 ---
 
+**We liggen een beetje voor en een beetje achter.**
+
 Vaste lezers weten het inmiddels vast al: iedere maand probeer ik 120 pokémon te vangen, om zo voor het verschijnen van Pokémon Sun & Moon de collectie tot dusver compleet te hebben. Dat ging al twee maanden best aardig - en nu blijk ik beter op weg te zijn dan verwacht.
 
 > [!NOTE]

@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /triple-a-games-kunnen-veel-leren-van-het-kleinere-eternal-strands
   - /artikelen/triple-a-games-kunnen-veel-leren-van-het-kleinere-eternal-strands
 author: Bastiaan Vroegop
 source: Gamer.nl

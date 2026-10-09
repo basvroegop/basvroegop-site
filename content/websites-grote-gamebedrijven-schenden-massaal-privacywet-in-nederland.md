@@ -16,10 +16,12 @@ socialImage: ./media/nu/websites-grote-gamebedrijven-schenden-massaal-privacywet
 publish: true
 ---
 
-De Nederlandse pagina's van Nintendo, Sony, EA en Ubisoft plaatsten in de afgelopen weken stuk voor stuk cookies op apparaten van bezoekers, voordat hier toestemming voor gegeven was. Dat is in strijd met de Nederlandse Telecommunicatiewet.
+**De websites van grote gamebedrijven schenden massaal de privacywet door zonder toestemming cookies op apparaten van bezoekers te plaatsen. Dat blijkt uit onderzoek van NU.nl.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/5698322/websites-grote-gamebedrijven-schenden-massaal-privacywet-in-nederland.html).
+
+De Nederlandse pagina's van Nintendo, Sony, EA en Ubisoft plaatsten in de afgelopen weken stuk voor stuk cookies op apparaten van bezoekers, voordat hier toestemming voor gegeven was. Dat is in strijd met de Nederlandse Telecommunicatiewet.
 
 "De Telecommunicatiewet is hier heel duidelijk over: voor het plaatsen van cookies is toestemming nodig", aldus privacyjurist Suzanne Hiemstra van De Roos Advocaten. "Bovendien moet de websitebezoeker over de cookies geïnformeerd worden."
 
@@ -30,6 +32,13 @@ Ubisoft beweert zijn cookiebeleid inmiddels te hebben aangepast."We doen ons bes
 Nintendo en Sony konden nog niet op de kwestie reageren.
 
 De Telecommunicatiewet bepaalt onder welke omstandigheden bedrijven cookies op apparaten van bezoekers mogen plaatsen. Nederlandse sites moeten toestemming vragen als ze cookies waarmee bezoekers online gevolgd worden willen plaatsen.
+
+> [!INFO] Wat is een cookie?
+>
+> -   Een cookie is een klein bestandje dat sites naar je webbrowser sturen.
+> -   Cookies kunnen bijhouden welke websites je hebt bezocht.
+> -   Zo kunnen adverteerders bijvoorbeeld je surfgedrag in de gaten houden.
+> -   Dat is privacygevoelige informatie, die je volgens de wet alleen met toestemming mag delen.
 
 ## Gamebedrijven schenden de wet
 

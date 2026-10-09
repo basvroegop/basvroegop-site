@@ -16,10 +16,12 @@ socialImage: ./media/nu/oeps-je-hebt-een-fraudebelletje-opgenomen-wat-moet-je-nu
 publish: true
 ---
 
-Er wordt steeds vaker gewaarschuwd tegen fraudebelletjes. Criminelen bellen je op in een poging je persoonlijke gegevens te achterhalen, die ze vervolgens misbruiken om bijvoorbeeld bij je bank binnen te komen.
+**Je wordt gebeld door een anoniem of buitenlands nummer en drukt argeloos op de groene knop. Al snel blijkt dat je een fraudeur aan de lijn hebt en je hangt meteen op. Wat moet je nu doen?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6174126/oeps-je-hebt-een-fraudebelletje-opgenomen-wat-moet-je-nu-doen.html).
+
+Er wordt steeds vaker gewaarschuwd tegen fraudebelletjes. Criminelen bellen je op in een poging je persoonlijke gegevens te achterhalen, die ze vervolgens misbruiken om bijvoorbeeld bij je bank binnen te komen.
 
 Soms is zo'n belletje van een 'echt' persoon, op andere momenten zijn die belletjes geautomatiseerd. Dan hoor je een bandje dat beweert dat je bijvoorbeeld voor de rechter wordt gedaagd en aan de lijn moet blijven om je informatie te delen.
 

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/nieuws-geen-paniek-de-dutch-game/1fad40d9c3.jpg
 publish: true
 ---
 
+**Verder: het rampzalige lek bij Spider-Man-studio Insomniac**
+
 Eerder vandaag kondigde de programmamanager van de Dutch Media Week aan dat hij vertrekt bij Beeld & Geluid: het museum 'wil niet langer een leidende rol in het project'. Daarmee lijken ook de Dutch Game Awards op losse schroeven te staan, maar geen nood: ik heb goed nieuws.
 
 Verder deze week een gigalek bij Sony-studio Insomniac, waardoor plannen voor de komende jaren op straat kwamen te liggen. Een interessant inkijkje voor gamers, maar het gaat ten koste van ontzettend veel - waaronder goede journalistiek.

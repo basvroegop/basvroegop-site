@@ -16,12 +16,14 @@ socialImage: ./media/nu/fifa-19-battlefield-v-dit-zijn-de-grootste-games-die-dit
 publish: true
 ---
 
-## Spider-Man
-
-De nieuwste game van stripheld Spider-Man bevat een volledig verkenbare versie van New York die al slingerend aan spinnenwebben doorkruist kan worden.
+**Op gamebeurs E3 in Los Angeles hebben gamebedrijven hun grote nieuwe titels onthuld. We zetten de games die dit najaar verschijnen op een rij.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/5314661/fifa-19-battlefield-v-dit-zijn-de-grootste-games-die-dit-najaar-verschijnen.html).
+
+## Spider-Man
+
+De nieuwste game van stripheld Spider-Man bevat een volledig verkenbare versie van New York die al slingerend aan spinnenwebben doorkruist kan worden.
 
 Recente Spider-Man-spellen vielen vaak tegen, maar het nieuwe spel, simpelweg getiteld _Spider-Man_, wordt ontwikkeld door de studio achter de veelgeprezen _Ratchet & Clank_\-games. Daarnaast werd een demo van het spel op E3 lovend ontvangen door de pers.
 

@@ -16,12 +16,14 @@ socialImage: ./media/nu/tech-in-2017-augmented-reality-randloze-smartphones-en-t
 publish: true
 ---
 
-## Augmented reality
-
-In 2016 verschenen de grote VR-brillen voor consumenten eindelijk op de markt. Inmiddels lijken meerdere techgiganten zich klaar te maken voor augmented reality (AR). Met AR worden digitale objecten bovenop de echte wereld getoond, via bijvoorbeeld een slimme bril (Google Glass) of een smartphonecamera.
+**In 2017 krijgen smartphones van grote bedrijven iets bijzonders: een scherm zonder randen. Techbedrijven gaan daarnaast augmented reality veel serieuzer maken en de politiek blijft zich bezighouden met wetgeving over online spionage en het hacken van verdachten.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/weekend/4371952/tech-in-2017-augmented-reality-randloze-smartphones-en-techwetgeving.html).
+
+## Augmented reality
+
+In 2016 verschenen de grote VR-brillen voor consumenten eindelijk op de markt. Inmiddels lijken meerdere techgiganten zich klaar te maken voor augmented reality (AR). Met AR worden digitale objecten bovenop de echte wereld getoond, via bijvoorbeeld een slimme bril (Google Glass) of een smartphonecamera.
 
 Zo introduceerde Google al in 2016 zijn AR-platform Tango, dat op dit moment alleen door de Lenovo Phab 2-smartphone wordt gebruikt. Apple-CEO Tim Cook heeft zich in de tussentijd meermaals positief uitgelaten over de technologie.
 
@@ -30,6 +32,8 @@ Zo introduceerde Google al in 2016 zijn AR-platform Tango, dat op dit moment all
 "Er zijn toch ook al flink wat partijen bezig met het inscannen van steden, gebouwen en interieurs", aldus de AR-producent. "Die worden naar 3D omgezet en dat geeft AR goede referentiepunten qua positionering van content."
 
 _Luister ook naar de voorspellingenpodcast van onze techredactie:_
+
+[Bekijk ingesloten media](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300181762&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false)
 
 Google heeft met zijn Tango-platform een eerste stap gezet, waardoor het nu afwachten is wat andere techgiganten gaan doen. De CEO van Apple is enthousiast en het bedrijf heeft veel patenten in huis gehaald met de overname van AR-bedrijf Metaio, maar tot nu toe heeft de gigant niks aangekondigd. De uitspraken van Cook doen echter vermoeden dat het bedrijf iets op de planning heeft staan.
 

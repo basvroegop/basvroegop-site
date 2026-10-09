@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/pokemon-spelers-boos-vanwege-halvering-monsters/3
 publish: true
 ---
 
+**Veel monsters uit voorgaande Pokémon-spellen, waar spelers gehecht aan zijn geraakt, worden niet geïmporteerd in de nieuwe edities Sword en Shield. Fanatieke spelers zijn teleurgesteld en roepen op tot een boycot.**
+
 Deze week verschijnen de nieuwe Pokémon-games __Sword__ en __Shield__. Die zijn gemaakt voor de „meest fanatieke groep fans”, aldus de Japanse maker Game Freak. Voor de fans die de game soms al spelen sinds hun eerste Game Boy en die iedere keer weer alle virtuele monsters proberen te vangen. Maar diezelfde groep is nu razend. Spelers kunnen ineens niet meer de monsters vangen en trainen die ze uit de oude games spelen. Het is alsof je in voetbalgame FIFA ineens niet meer voor je favoriete club kunt kiezen.
 
 De woede begon enkele maanden geleden, toen de bouwers zeiden dat niet alle monsters uit voorgaande games in de nieuwe versies te vangen zouden zijn. Sommige beestjes kunnen zelfs niet uit voorgaande spellen worden geïmporteerd, zoals wel kon in eerdere edities. De studio, die met Pokémon één van de meest winstgevende gameseries ter wereld in handen heeft, zou niet de mankracht hebben om het groeiende aantal wezens in toom te houden. In de afgelopen decennia heeft Game Freak circa negenhonderd monsters ontworpen.

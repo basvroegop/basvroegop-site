@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /waarom-iphone-emulators-niet-meer-weggaan
   - /artikelen/waarom-iphone-emulators-niet-meer-weggaan
 author: Bastiaan Vroegop
 source: Gamer.nl

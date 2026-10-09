@@ -16,10 +16,12 @@ socialImage: ./media/nu/profiel-colin-kroll-overleden-oprichter-van-vine-en-hq-t
 publish: true
 ---
 
-De in 1984 geboren Kroll startte in 2012 samen met zijn vrienden Rus Yusupov en Dom Hofmann de videodienst Vine. Hierop konden gebruikers korte video's van maximaal zes seconden plaatsen.
+**Hij stond aan de wieg van liefst twee spraakmakende apps voordat hij zondag op 34-jarige leeftijd overleed. Dit weten we over Vine- en HQ-oprichter Colin Kroll.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/apps/5634797/profiel-colin-kroll-overleden-oprichter-van-vine-en-hq-trivia.html).
+
+De in 1984 geboren Kroll startte in 2012 samen met zijn vrienden Rus Yusupov en Dom Hofmann de videodienst Vine. Hierop konden gebruikers korte video's van maximaal zes seconden plaatsen.
 
 Het bedrijf werd na enkele maanden al overgenomen door Twitter, nog voordat de app voor gebruikers openging. Er werd ongeveer 30 miljoen dollar (ruim 26,5 miljoen euro) voor het bedrijf betaald.
 

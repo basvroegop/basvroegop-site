@@ -18,6 +18,8 @@ socialImage: ./media/gamepraat/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna
 publish: true
 ---
 
+**Eilandhoppen, ballongevechten en op Safari.**
+
 Goed nieuws: een maand nadat ik begon met het vangen van alle 721 Pokémon, loopt mijn plan nog op schema. Als het meezit heb ik binnen enkele maanden een volledige verzameling pokémon. Of nou ja, hopelijk.
 
 > [!NOTE]

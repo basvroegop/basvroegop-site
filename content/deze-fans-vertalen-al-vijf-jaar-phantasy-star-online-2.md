@@ -16,6 +16,8 @@ socialImage: ./media/gamepraat/deze-fans-vertalen-al-vijf-jaar-phantasy-star-onl
 publish: true
 ---
 
+**Als SEGA de MMO niet naar het westen brengt, doen zij het wel.**
+
 De MMORPG Phantasy Star Online 2 is inmiddels al bijna vijf jaar speelbaar, maar officieel is het spel nooit in het westen verschenen. Toch kun je de game al jaren gewoon in het Engels spelen.
 
 __Phantasy Star__ begon ooit als sologamereeks op oude SEGA-spelcomputers, maar transformeerde op de Dreamcast in een online RPG. Ineens konden gamers samen met andere internetvrienden op pad om monsters te verslaan en schatten te verzamelen – toen nog uniek op een spelcomputer.

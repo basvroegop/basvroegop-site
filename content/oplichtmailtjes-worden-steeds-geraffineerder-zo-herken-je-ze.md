@@ -33,8 +33,6 @@ Oplichters zijn vaak op één ding uit: jouw persoonsgegevens. Ze doen alsof ze 
 
 Een legitieme bank, overheidsinstantie of een groot bedrijf zal je bijna nooit vragen om een gelinkte website te bezoeken of informatie terug te sturen in een e-mail. In plaats daarvan roepen ze je op zelf de website te bezoeken en daar in te loggen, om zo een belangrijk bericht veilig te lezen.
 
-> Slecht taalgebruik kan nog steeds een teken zijn dat je naar een oplichtmail kijkt, maar een goed geschreven mail is niet meteen betrouwbaar
-
 Heb je een mail met daarin een verdachte vraag of link? Verwijder hem en neem contact op met de instantie van wie het bericht lijkt te zijn. Zij kunnen bevestigen of het een e-mail van hun is of een bericht van een oplichter.
 
 ## Oplichters gebruiken zelden je naam

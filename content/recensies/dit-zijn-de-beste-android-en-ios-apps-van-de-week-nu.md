@@ -18,12 +18,14 @@ socialImage: ../media/nu/dit-zijn-de-beste-android-en-ios-apps-van-de-week-nu/dd
 publish: true
 ---
 
-## Beme
-
-In juli 2015 stond de sociale video-app Beme al eens in ons app-overzicht. Het sociale netwerk werd toen geïntroduceerd door geroemd vlogger Casey Neistat, die een bètaversie alleen voor de iPhone uitbracht. Beme laat gebruikers hun omgevingen filmen, maar dat kon alleen door de telefoon tegen de borst te drukken. Dit dwingt gebruikers om met hun eigen ogen rond te kijken terwijl ze een video maken.
+**Deze week een sociaal videonetwerk dat er eindelijk ook voor Android is, een snelle manier om WhatsApp-foto's op te ruimen, een app voor de huizenjacht en een manier om je muzieklijst persoonlijker te maken.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/apps/4258464/dit-zijn-de-beste-android-en-ios-apps-van-de-week.html).
+
+## Beme
+
+In juli 2015 stond de sociale video-app Beme al eens in ons app-overzicht. Het sociale netwerk werd toen geïntroduceerd door geroemd vlogger Casey Neistat, die een bètaversie alleen voor de iPhone uitbracht. Beme laat gebruikers hun omgevingen filmen, maar dat kon alleen door de telefoon tegen de borst te drukken. Dit dwingt gebruikers om met hun eigen ogen rond te kijken terwijl ze een video maken.
 
 Inmiddels zijn we bijna een jaar verder en verlaat Beme officieel de testfase. Daarbij wordt meteen ook een app voor Android geïntroduceerd, zodat meer mensen met Beme aan de slag kunnen gaan.
 

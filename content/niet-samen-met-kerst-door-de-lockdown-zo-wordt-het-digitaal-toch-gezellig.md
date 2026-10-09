@@ -16,10 +16,12 @@ socialImage: ./media/nu/niet-samen-met-kerst-door-de-lockdown-zo-wordt-het-digit
 publish: true
 ---
 
-Tijdens Kerst geldt het dringende advies om maximaal vier bezoekers te ontvangen. Voor kleine families is dat net voldoende om de feestdagen samen te vieren, maar bij anderen zal het gezin worden opgesplitst om bijvoorbeeld samen te dineren of een film te kijken.
+**Door de nieuwe lockdown kunnen veel families niet meer met z'n allen Kerst vieren. Met deze tips kun je digitaal toch nog samen wat leuks doen.**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/6174494/niet-samen-met-kerst-door-de-lockdown-zo-wordt-het-digitaal-toch-gezellig.html).
+
+Tijdens Kerst geldt het dringende advies om maximaal vier bezoekers te ontvangen. Voor kleine families is dat net voldoende om de feestdagen samen te vieren, maar bij anderen zal het gezin worden opgesplitst om bijvoorbeeld samen te dineren of een film te kijken.
 
 Gelukkig zijn er inmiddels veel manieren om het digitaal alsnog een beetje samen te vieren. Dat is deels te danken aan de lockdowns van een jaar geleden: techbedrijven hebben toen hevig geïnvesteerd in nieuwe manieren om online samen iets te doen, voor het geval dit nog eens zou gebeuren.
 

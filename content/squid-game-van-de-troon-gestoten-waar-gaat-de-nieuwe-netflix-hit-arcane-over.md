@@ -39,8 +39,6 @@ League of Legends is een van de populairste games ter wereld. Spelers nemen het 
 
 Het spel wordt gemaakt door de Amerikaanse ontwikkelstudio Riot Games, die inmiddels meerdere games heeft gemaakt die zich in dezelfde wereld afspelen. Zo verscheen eerder bijvoorbeeld het digitale kaartspel Legends of Runeterra. Al die games worden door bij elkaar 180 miljoen mensen gespeeld, verklapte de ontwikkelaar recent.
 
-_Bekijk hieronder onze video’s op techgebied:_
-
 ## Waarom is Arcane ineens zo’n hit?
 
 Arcane verscheen afgelopen weekend en is in korte tijd een grote hit geworden. Het is nog wat te vroeg om zeker te weten wat achter dit succes schuilt, maar vermoedelijk spelen de achterliggende games een grote rol. Al die 180 miljoen spelers zijn immers mogelijk in de serie geïnteresseerd, en zijn door het recente WK extra fanatiek.

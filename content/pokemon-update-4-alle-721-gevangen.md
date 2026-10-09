@@ -18,6 +18,8 @@ socialImage: ./media/gamepraat/pokemon-update-4-alle-721-gevangen/e59c0c295a.jpg
 publish: true
 ---
 
+**Eindelijk klaar.**
+
 Het is voor jullie inmiddels vaste prik: iedere maand probeer ik 120 pokémon te vangen, zodat ik op termijn de volledige Pokédex kan vullen. Het einde van deze uitdaging komt inmiddels verdraaid dicht in de buurt.
 
 > [!NOTE]

@@ -14,6 +14,8 @@ socialImage: ../media/gamepraat/dit-gaat-er-deze-week-bij-xbox-veranderen/381b30
 publish: true
 ---
 
+**Microsoft gaat de Xbox-divisie opschudden. Ik zet de gelekte plannen voor je op een rij.**
+
 Aankomende donderdag kondigt Microsoft verschuivingen binnen de Xbox-divisie aan. De hoofdpunten lijken al te zijn gelekt, ik zet ze in deze nieuwsbrief voor je op een rij.
 
 Verder moeten we het nog even hebben over de grote deal tussen Disney en Fortnite. Met een bedrag van 1,5 miljard dollar lijkt die onredelijk, maar eigenlijk is dit een ingenieuze manier om het veilig te spelen.

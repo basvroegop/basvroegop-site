@@ -54,5 +54,3 @@ Google heeft al jaren een virtuele assistent, maar die zat op simplistische wijz
 Gemini is een nieuw soort kunstmatige intelligentie, vergelijkbaar met het momenteel immens populaire ChatGPT. Deze slimme software heeft geleerd talen volledig te begrijpen en kan daardoor het internet afspeuren voor antwoorden op je vragen.
 
 Soms gaat dat overigens nog wel mis: AI-systemen in Googles zoekmachine adviseerden recent om lijm op je pizza te smeren zodat de kaas er niet vanaf glijdt. Dat had de kunstmatige intelligentie ergens gelezen, maar had niet door dat het een grapje was.
-
-_Bekijk hieronder onze video’s op techgebied:_

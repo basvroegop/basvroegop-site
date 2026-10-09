@@ -1,7 +1,7 @@
 ---
 title: Zet deze ene instelling aan op je tv tijdens sportwedstrijden (en schakel hem daarna meteen weer uit)
 description: Heel Nederland zit dit weekend voor de buis gekluisterd bij de Grand Prix in Zandvoort, maar een slim voorbereide kijker zorgt dat de televisie goed is afgesteld. En daarbij is vooral één instelling van groot belang.
-published: 2021-09-05
+published: 2021-05-29
 modified: 2021-09-05
 tags:
   - Elders gepubliceerd

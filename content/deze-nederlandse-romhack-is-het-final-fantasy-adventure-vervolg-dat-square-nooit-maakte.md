@@ -8,7 +8,6 @@ tags:
   - Elders gepubliceerd
   - Unpause
 aliases:
-  - /deze-nederlandse-romhack-is-het-final-fantasy-adventure-vervolg-dat-square-nooit-maakte
   - /artikelen/deze-nederlandse-romhack-is-het-final-fantasy-adventure-vervolg-dat-square-nooit-maakte
 author: Bastiaan Vroegop
 source: Unpause
@@ -16,6 +15,8 @@ sourceUrl: https://www.unpause.nl/verhalen/actueel/deze-nederlandse-romhack-is-h
 socialImage: ./media/unpause/deze-nederlandse-romhack-is-het-final-fantasy-adventure-vervolg-dat-square-nooit-maakte/d48ef4679fa3.webp
 publish: true
 ---
+
+**Internet van de jaren '90**
 
 > [!NOTE]
 >

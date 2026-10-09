@@ -16,10 +16,12 @@ socialImage: ./media/nu/8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen/
 publish: true
 ---
 
-"Waarschijnlijk ga ik vandaag dood", schrijft een anonieme bezoeker van het internetforum 8chan. Een vier pagina's tellend manifest is bijgevoegd. Daarin verwijt hij immigranten het veranderen van de Amerikaanse cultuur en het afpakken van banen.
+**Amerikaanse autoriteiten onderzoeken of een aankondigend bericht over de aanslag in El Paso afkomstig is van de schutter. Het gaat om een tekst op 8chan, een rechts-extremistisch forum dat onder meer gebruikt wordt om massaschietpartijen te bejubelen en zogenoemde manifesten te verspreiden. Wat weten we over deze website?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/tech/5974633/8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen.html).
+
+"Waarschijnlijk ga ik vandaag dood", schrijft een anonieme bezoeker van het internetforum 8chan. Een vier pagina's tellend manifest is bijgevoegd. Daarin verwijt hij immigranten het veranderen van de Amerikaanse cultuur en het afpakken van banen.
 
 Kort daarna werd melding gedaan van een schietpartij in de Texaanse stad El Paso, waarbij uiteindelijk twintig slachtoffers om het leven kwamen. De politie onderzoekt momenteel of het 8chan-bericht het manifest van de schutter is.
 

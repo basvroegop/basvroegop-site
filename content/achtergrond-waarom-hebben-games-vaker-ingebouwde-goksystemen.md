@@ -16,10 +16,12 @@ socialImage: ./media/nu/achtergrond-waarom-hebben-games-vaker-ingebouwde-goksyst
 publish: true
 ---
 
-Tijdens het spelen van een online schietspel wordt Kees continu doodgeschoten. Hij heeft geen schijn van kans, omdat zijn tegenstanders zijn uitgerust met de beste wapens en allerlei upgrades.
+**Waarom voegen ontwikkelaars steeds vaker goksystemen in hun games, waarmee ze nog meer geld vragen van klanten?**
 
 > [!NOTE]
 > Dit artikel verscheen eerder op [NU.nl](https://www.nu.nl/games/5022251/achtergrond-waarom-hebben-games-vaker-ingebouwde-goksystemen.html).
+
+Tijdens het spelen van een online schietspel wordt Kees continu doodgeschoten. Hij heeft geen schijn van kans, omdat zijn tegenstanders zijn uitgerust met de beste wapens en allerlei upgrades.
 
 Er is een manier waarop hij mogelijk weer kan winnen. Verborgen in een spelmenu zit de optie om echt geld in de game te investeren. In ruil daarvoor krijgt hij schatkisten, die zijn gevuld met wapens, upgrades en outfits voor zijn gamepersonages.
 

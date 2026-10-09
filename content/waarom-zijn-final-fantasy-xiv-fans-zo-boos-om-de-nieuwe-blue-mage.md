@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-
 publish: true
 ---
 
+**Een beperkte klasse voelt als geen klasse.**
+
 Tijdens een grote fanconferentie kondigde Square Enix afgelopen weekend twee dingen aan: een gloednieuwe uitbreiding voor Final Fantasy 14 en een nieuwe 'job'. Dat eerste nieuws werd met gejuich ontvangen, maar de nieuwe job heeft vooral veel mensen boos gemaakt. Hoe zit dat?
 
 > [!NOTE]

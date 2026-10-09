@@ -17,6 +17,8 @@ socialImage: ./media/gamepraat/preview-final-fantasy-xiv-stormblood/fe4f85def1.j
 publish: true
 ---
 
+**Comeback houdt aan.**
+
 Final Fantasy 14 is inmiddels een van de grootste comebackverhalen uit de mmo-wereld. De ooit geflopte game werd door een nieuwe productiebaas compleet opnieuw ontwikkeld, om vervolgens een van de weinige succesvolle mmorpg’s met een abonnement te worden. Sinds die reboot weet het spel alweer vier jaar spelers geboeid te houden. En nu zijn we toegekomen aan het tweede uitbreidingspakket.
 
 > [!NOTE]

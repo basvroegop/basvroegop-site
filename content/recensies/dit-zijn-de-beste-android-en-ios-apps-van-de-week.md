@@ -18,12 +18,14 @@ socialImage: ../media/nu/dit-zijn-de-beste-android-en-ios-apps-van-de-week/32e45
 publish: true
 ---
 
-## Grammar Snob
-
-iMessage heeft met iOS 10 een flinke update gekregen, waardoor het mogelijk is om ook stickers naar vrienden te sturen. De nieuwe iPhone-app Grammar Nazi weet hier slim gebruik van te maken.
+**Corrigeer verkeerd gespelde berichten van je vrienden, chat met schoolgenoten en lees mooie verhalen met de beste Android- en iOS-aps van deze week.**
 
 > [!NOTE]
 > Deze recensie verscheen eerder op [NU.nl](https://www.nu.nl/apps/4323327/dit-zijn-de-beste-android-en-ios-apps-van-de-week.html).
+
+## Grammar Snob
+
+iMessage heeft met iOS 10 een flinke update gekregen, waardoor het mogelijk is om ook stickers naar vrienden te sturen. De nieuwe iPhone-app Grammar Nazi weet hier slim gebruik van te maken.
 
 Grammar Nazi voegt een verzameling aan rode potloodstrepen toe aan de stickerlist. Houd een sticker ingedrukt en je kunt hem bovenop het bericht van een ander slepen. Op deze manier kun je verkeerd gespelde zinnen doorstrepen.
 

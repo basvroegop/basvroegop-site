@@ -7,7 +7,6 @@ tags:
   - Elders gepubliceerd
   - Gamer.nl
 aliases:
-  - /gespeeld-mario-and-luigi-brothership-is-vooral-grappig-in-het-nederlands
   - /artikelen/gespeeld-mario-and-luigi-brothership-is-vooral-grappig-in-het-nederlands
 author: Bastiaan Vroegop
 source: Gamer.nl
