@@ -15,6 +15,7 @@ author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6236650/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel.html
 publish: true
+socialImage: ../media/nu/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel/708d28ba911c.webp
 ---
 
 Jarenlang waren Pokémon-games in de kern hetzelfde: je kreeg een monstertje mee om de wereld te verkennen, trainde een team om anderen te verslaan en werd op het einde van het spel de lokale kampioen. Dat alles verliep via een gebaand pad, waarbij je systematisch acht zogeheten 'gymleiders' versloeg om de beste te worden.

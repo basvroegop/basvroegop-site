@@ -79,6 +79,14 @@ function knownIframeEmbed(url: URL): Embed | undefined {
       allow: "autoplay; fullscreen; picture-in-picture",
     }
   }
+  if (host === "content.jwplatform.com" && pathname.startsWith("/players/")) {
+    return {
+      src: url.href,
+      kind: "video",
+      title: "Video",
+      allow: "autoplay; fullscreen; picture-in-picture",
+    }
+  }
   if (host === "w.soundcloud.com" && pathname.startsWith("/player")) {
     return { src: url.href, kind: "audio", title: "SoundCloud", allow: "autoplay" }
   }

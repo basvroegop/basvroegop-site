@@ -13,6 +13,8 @@
     "docs": "npx quartz build --serve -d docs",
     "import:publications": "node scripts/import-publications.mjs",
     "import:ad": "node scripts/import-ad.mjs",
+    "discover:nu": "node scripts/discover-nu.mjs && node scripts/select-nu.mjs",
+    "import:nu": "node scripts/import-nu.mjs",
     "import:nrc": "node scripts/import-nrc.mjs",
     "import:bright": "node scripts/import-bright.mjs",
     "check": "tsc --noEmit && npx prettier . --check",
