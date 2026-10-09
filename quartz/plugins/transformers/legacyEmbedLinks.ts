@@ -60,8 +60,11 @@ function knownIframeEmbed(url: URL): Embed | undefined {
   const host = url.hostname.toLowerCase()
   const pathname = url.pathname.toLowerCase()
 
-  if (host === "datawrapper.dwcdn.net") {
+  if (host === "datawrapper.dwcdn.net" || host === "localfocus2.appspot.com") {
     return { src: url.href, kind: "datawrapper", title: "Interactieve grafiek" }
+  }
+  if (host === "art19.com" && pathname.endsWith("/embed")) {
+    return { src: url.href, kind: "audio", title: "Podcast" }
   }
   if (host === "open.spotify.com" && pathname.startsWith("/embed/")) {
     return {

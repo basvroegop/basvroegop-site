@@ -408,10 +408,31 @@ async function fetchGhostCollection(type) {
   return items
 }
 
+// Handmatig hernoemde artikelen blijven via hun alias herkenbaar als al geïmporteerd.
+async function renamedSlugs() {
+  const slugs = new Set()
+  async function scan(directory) {
+    for (const entry of await fs.readdir(directory, { withFileTypes: true })) {
+      const filename = path.join(directory, entry.name)
+      if (entry.isDirectory()) {
+        if (filename !== MEDIA_DIR) await scan(filename)
+      } else if (entry.name.endsWith(".md")) {
+        const frontmatter = (await fs.readFile(filename, "utf8")).split(/^---$/m)[1] || ""
+        for (const match of frontmatter.matchAll(/^\s+- \/([^/\s]+)\s*$/gm)) {
+          if (match[1] !== path.basename(filename, ".md")) slugs.add(match[1])
+        }
+      }
+    }
+  }
+  await scan(CONTENT_DIR)
+  return slugs
+}
+
 async function importGhost() {
-  const [posts, pages] = await Promise.all([
+  const [posts, pages, renamed] = await Promise.all([
     fetchGhostCollection("posts"),
     fetchGhostCollection("pages"),
+    renamedSlugs(),
   ])
   report.ghost.posts = posts.length
 
@@ -429,10 +450,18 @@ async function importGhost() {
       existing.sourceUrls.add(canonicalUrl($(element).attr("href")))
     })
 
-    const markdown = await htmlToMarkdown(migratedHtml, {
+    if (!FORCE && renamed.has(post.slug)) continue
+    let markdown = await htmlToMarkdown(migratedHtml, {
       slug: post.slug,
       relativePrefix: route.relativePrefix,
     })
+    // Gamepraat toont de samenvatting als lead onder de titel; neem die mee in de tekst.
+    const lead = String(post.custom_excerpt || "")
+      .replace(/\s+/g, " ")
+      .trim()
+    if (markdown && lead && !markdown.includes(lead.slice(0, 60))) {
+      markdown = `**${lead}**\n\n${markdown}`
+    }
     let socialImage
     if (post.feature_image) {
       const local = await downloadImage(post.feature_image, "gamepraat", post.slug)
@@ -491,7 +520,6 @@ async function importGhost() {
         description: page.custom_excerpt || page.excerpt,
         published: isoDate(page.published_at),
         modified: isoDate(page.updated_at),
-        aliases: [`/${page.slug}`],
         author: page.primary_author?.name || page.authors?.[0]?.name,
         source: "Gamepraat",
         sourceUrl: page.url,

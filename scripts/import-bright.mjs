@@ -423,7 +423,9 @@ async function updateExisting(record, article) {
   const tags = unique([...(record.data.tags || []), "Elders gepubliceerd", "Bright"])
   const aliases = unique([
     ...(record.data.aliases || []),
-    ...(record.relativePath.startsWith("recensies/")
+    // Alleen slugs krijgen een korte alias; op productnaam hernoemde bestanden hebben er al een.
+    ...(record.relativePath.startsWith("recensies/") &&
+    /^[a-z0-9-]+$/.test(path.basename(record.relativePath, ".md"))
       ? [`/${path.basename(record.relativePath, ".md")}`]
       : []),
   ])

@@ -39,12 +39,6 @@ const standaloneArticles = [
     tags: ["Technologie"],
   },
   {
-    url: "https://www.nrc.nl/nieuws/2020/11/09/spektakelstuk-met-dodelijk-saaie-helft-a4019257",
-    folder: "recensies",
-    noun: "recensie",
-    tags: ["Games"],
-  },
-  {
     url: "https://www.nrc.nl/nieuws/2023/08/25/keulen-is-dit-weekend-pelgrimsoord-voor-gamers-en-gamemakers-a4172776",
     tags: ["Games"],
   },
@@ -707,7 +701,13 @@ async function importMediatip(url, page) {
 async function fixLocalMetadata() {
   for (const [relativePath, sourceUrl] of localNrcSources) {
     const filename = path.join(CONTENT_DIR, relativePath)
-    let markdown = await fs.readFile(filename, "utf8")
+    let markdown
+    try {
+      markdown = await fs.readFile(filename, "utf8")
+    } catch {
+      // Hernoemde bestanden zijn al eerder van hun NRC-bronvermelding voorzien.
+      continue
+    }
     const linked = `[NRC Handelsblad](${sourceUrl})`
     if (/\[(?:__)?NRC Handelsblad(?:__)?\]\([^)]+\)/.test(markdown)) {
       markdown = markdown.replace(/\[(?:__)?NRC Handelsblad(?:__)?\]\([^)]+\)/, linked)
@@ -877,8 +877,16 @@ async function main() {
     await importWeeklyNrc()
     return
   }
-  for (const item of standaloneArticles) await importStandalone(item)
-  for (const url of mediatipUrls) await importMediatip(url)
+  // Bestanden kunnen hernoemd zijn; een al gekoppelde NRC-link telt dus als geïmporteerd.
+  const known = FORCE ? new Set() : await knownNrcUrls()
+  for (const item of standaloneArticles) {
+    if (known.has(item.url)) console.log(`overgeslagen  ${item.url}`)
+    else await importStandalone(item)
+  }
+  for (const url of mediatipUrls) {
+    if (known.has(url)) console.log(`overgeslagen  ${url}`)
+    else await importMediatip(url)
+  }
   await fixLocalMetadata()
   await pruneUnusedMedia()
 }

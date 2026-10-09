@@ -33,7 +33,7 @@ const OLDER_THAN_MONTHS = olderThanMonthsArgument
     : 0
 
 if (!Number.isInteger(OLDER_THAN_MONTHS) || OLDER_THAN_MONTHS < 0) {
-  throw new Error("--older-than-months moet een positief geheel getal zijn")
+  throw new Error("--older-than-months moet een niet-negatief geheel getal zijn")
 }
 
 const report = {
@@ -44,6 +44,7 @@ const report = {
   existing: 0,
   deferred: [],
   failures: [],
+  ratings: { found: 0, updated: 0, missing: [] },
   images: { downloaded: 0, reused: 0, skipped: [] },
   files: [],
 }
@@ -107,7 +108,9 @@ function normalizedTitle(value) {
 function isoDate(value) {
   if (!value) return undefined
   const date = new Date(value)
-  return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
+  if (Number.isNaN(date.valueOf())) return undefined
+  // Publicatiedata gelden in Nederlandse tijd; UTC schuift nachtelijke stukken een dag terug.
+  return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Amsterdam" }).format(date)
 }
 
 function subtractUtcMonths(value, months) {
@@ -333,7 +336,22 @@ function cleanConvertedMarkdown(value) {
     .replace(/\\([.!?])/g, "$1")
 }
 
-async function writeArticle({ item, parsed, sourceSlug, linkUrl }) {
+function normalizedRating(value) {
+  const rating = Number(value)
+  return Number.isInteger(rating) && rating >= 1 && rating <= 5 ? rating : undefined
+}
+
+function withRating(body, value) {
+  const rating = normalizedRating(value)
+  if (!rating) return body
+  const line = `> Beoordeling: ${"★".repeat(rating)}${"☆".repeat(5 - rating)}`
+  if (/^>\s*Beoordeling:\s*[★☆]+\s*$/m.test(body)) {
+    return body.replace(/^>\s*Beoordeling:\s*[★☆]+\s*$/m, line)
+  }
+  return `${body.trim()}\n\n${line}`
+}
+
+async function writeArticle({ item, parsed, sourceSlug, linkUrl, existingOnly = false }) {
   if (!parsed.title || !parsed.body) throw new Error("titel of artikeltekst ontbreekt")
   if (!/Bastiaan|BasVroegop/i.test(parsed.author || "")) {
     throw new Error(`onverwachte auteur: ${parsed.author || "onbekend"}`)
@@ -346,29 +364,37 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl }) {
       (record.title && record.title === normalizedTitle(parsed.title)),
   )
   if (match) {
+    const body = withRating(match.body, parsed.rating)
     const data = {
       ...match.data,
+      title: cleanText(match.data.title || parsed.productTitle),
       published: isoDate(parsed.date) || match.data.published,
       modified: isoDate(parsed.modified) || match.data.modified,
       author: "Bastiaan Vroegop",
       source: item.source,
       sourceUrl: item.sourceUrl,
+      rating: normalizedRating(parsed.rating) || match.data.rating,
       publish: true,
     }
-    const updated = `${yamlFrontmatter(data)}\n\n${match.body}\n`
+    const updated = `${yamlFrontmatter(data)}\n\n${body}\n`
     if (updated !== match.markdown && !DRY_RUN) await fs.writeFile(match.filename, updated)
+    if (body !== match.body) report.ratings.updated += 1
     report.existing += 1
-    return
+    return "existing"
   }
+
+  if (existingOnly) return "missing"
 
   const slug = slugify(parsed.title)
   const folder = item.folder || ""
   const media = await downloadImage(parsed.image, sourceSlug, slug, item.archived)
   const tags = unique(["Games", "Elders gepubliceerd", item.source])
-  const aliases = [`/${slug}`, `/artikelen/${slug}`]
-  if (folder) aliases.push(`/artikelen/${folder}/${slug}`)
+  // Zonder map is `/${slug}` de pagina zelf; die alias zou het artikel door een redirect vervangen.
+  const aliases = folder
+    ? [`/${slug}`, `/artikelen/${slug}`, `/artikelen/${folder}/${slug}`]
+    : [`/artikelen/${slug}`]
   const frontmatter = yamlFrontmatter({
-    title: cleanText(parsed.title),
+    title: cleanText(parsed.productTitle || parsed.title),
     description: excerpt(parsed.description || parsed.intro || parsed.body),
     published: isoDate(parsed.date),
     modified: isoDate(parsed.modified),
@@ -378,11 +404,12 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl }) {
     source: item.source,
     sourceUrl: item.sourceUrl,
     archiveUrl: item.archived ? linkUrl : undefined,
+    rating: normalizedRating(parsed.rating),
     socialImage: relativeMediaPath(media, folder),
     publish: true,
   })
   const intro = cleanText(parsed.intro)
-  const body = cleanConvertedMarkdown(parsed.body)
+  const body = withRating(cleanConvertedMarkdown(parsed.body), parsed.rating)
   const pieces = [frontmatter]
   if (intro && !cleanText(body).startsWith(intro.slice(0, 100))) pieces.push(`**${intro}**`)
   pieces.push(sourceNote(item.source, linkUrl, folder, parsed.title), body)
@@ -393,7 +420,7 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl }) {
     await fs.writeFile(destination, `${pieces.join("\n\n")}\n`)
   }
   report.files.push(path.relative(ROOT, destination))
-  return destination
+  return "created"
 }
 
 function articleFromJsonLd($, selector = 'script[type="application/ld+json"]') {
@@ -613,6 +640,27 @@ function parseKidsweek(html) {
     .get()
     .join("\n")
   const articleData = Array.isArray(data?.author) ? data.author[0] : data?.author
+  const review = $("article [data-testid='article-review']").first()
+  const rating = review.find("[data-testid='rating-stars'] [data-testid^='star-']").length
+  const rawProductTitle = cleanText(
+    review.find("[data-testid='review-chapter-header']").first().text(),
+  )
+  const productTitleFixes = new Map([
+    ["Animal Well (BIGMODE)", "Animal Well"],
+    ["Astro Bot, Team Asobi", "Astro Bot"],
+    ["Fantasy Life I - The Girl Who Steals Time,", "FANTASY LIFE i: The Girl Who Steals Time"],
+    ["Pokémon Legends Z-A, Game Freak", "Pokémon Legends: Z-A"],
+    ["Slime Heroes. Pancake Games", "Slime Heroes"],
+    ["Super Mario Party:", "Super Mario Party Jamboree"],
+    ["The legend of Zelda - Echoes of Wisdon", "The Legend of Zelda: Echoes of Wisdom"],
+    ["Puyo Puyo Puzzle Pop: Puzzelen met blokjes", "Puyo Puyo Puzzle Pop"],
+  ])
+  const productTitle =
+    productTitleFixes.get(rawProductTitle) ||
+    rawProductTitle ||
+    (/^gamerecensie\s+the plucky squire\b/i.test(originalTitle)
+      ? "The Plucky Squire"
+      : undefined)
   return {
     title: originalTitle.replace(/^gamerecensie\s*:?\s*/i, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),
@@ -626,6 +674,8 @@ function parseKidsweek(html) {
         : data?.image?.url || $("article figure img").first().attr("src"),
     isReview:
       /^gamerecensie\b/i.test(originalTitle) || $('p[data-testid="review-paragraph"]').length > 0,
+    productTitle,
+    rating: normalizedRating(rating),
     body: turndown.turndown(htmlBody),
   }
 }
@@ -635,15 +685,25 @@ async function importKidsweek() {
     try {
       const html = await (await fetchResponse(url)).text()
       const parsed = parseKidsweek(html)
-      if (!isOldEnough(parsed.date, "Kidsweek", url)) continue
+      if (parsed.rating) report.ratings.found += 1
+      else if (parsed.isReview) report.ratings.missing.push({ url, title: parsed.title })
       const review = parsed.isReview || /(?:game)?recensie/i.test(parsed.title)
       const item = {
         source: "Kidsweek",
         sourceUrl: canonicalUrl(url),
         folder: review ? "recensies" : "",
       }
+      const existing = await writeArticle({
+        item,
+        parsed,
+        sourceSlug: "kidsweek",
+        linkUrl: url,
+        existingOnly: true,
+      })
+      if (existing === "existing") continue
+      if (!isOldEnough(parsed.date, "Kidsweek", url)) continue
       const written = await writeArticle({ item, parsed, sourceSlug: "kidsweek", linkUrl: url })
-      if (written) report.imported.kidsweek += 1
+      if (written === "created") report.imported.kidsweek += 1
     } catch (error) {
       report.failures.push({ source: "Kidsweek", url, reason: error.message })
     }
@@ -657,9 +717,31 @@ function parseUnpause(html) {
     .first()
     .clone()
   const $body = load(`<body>${content.html() || ""}</body>`)
+  // Ingesloten berichten staan in een figure; bewaar ze als embedlink voordat figures verdwijnen.
+  $body("blockquote.twitter-tweet").each((_, element) => {
+    const id = $body(element)
+      .find("a[href*='/status/']")
+      .last()
+      .attr("href")
+      ?.match(/status\/(\d+)/)?.[1]
+    if (!id) return
+    const figure = $body(element).closest("figure")
+    ;(figure.length ? figure : $body(element)).replaceWith(
+      `<p><a href="https://platform.twitter.com/embed/Tweet.html?id=${id}">Bekijk ingesloten media</a></p>`,
+    )
+  })
   stripRemoteImages($body)
   const author = $('meta[name="twitter:data1"]').attr("content") || data?.author?.name
+  // De onderkop staat direct onder de titel en hoort als eerste regel bij het artikel.
+  const subtitle = cleanText(
+    $(".elementor-widget-theme-post-title")
+      .first()
+      .nextAll(".elementor-widget-jet-listing-dynamic-field")
+      .first()
+      .text(),
+  )
   return {
+    intro: subtitle || undefined,
     title: (data?.headline || $("h1").first().text()).replace(/\s+- Unpause$/, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),
     date: data?.datePublished,

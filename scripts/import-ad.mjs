@@ -127,7 +127,36 @@ function adId(value) {
 function isoDate(value) {
   if (!value) return undefined
   const date = new Date(value)
-  return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
+  if (Number.isNaN(date.valueOf())) return undefined
+  // Publicatiedata gelden in Nederlandse tijd; UTC schuift nachtelijke stukken een dag terug.
+  return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Amsterdam" }).format(date)
+}
+
+const dutchMonths = [
+  "januari",
+  "februari",
+  "maart",
+  "april",
+  "mei",
+  "juni",
+  "juli",
+  "augustus",
+  "september",
+  "oktober",
+  "november",
+  "december",
+]
+
+// Bij een herpublicatie zetten de metatags de nieuwe datum; de tijdregel op de pagina
+// begint wel met de eerste publicatie.
+function firstPublished($) {
+  const match = $("article [data-content-type=TIMESTAMP]")
+    .first()
+    .text()
+    .match(/(\d{1,2}) ([a-z]+) (\d{4}), \d{2}:\d{2}/i)
+  const month = match ? dutchMonths.indexOf(match[2].toLowerCase()) + 1 : 0
+  if (!month) return undefined
+  return `${match[3]}-${String(month).padStart(2, "0")}-${match[1].padStart(2, "0")}`
 }
 
 function yamlFrontmatter(data) {
@@ -328,9 +357,11 @@ function articleMeta(html, item) {
     title: meta("cXenseParse:dpn-content_title") || property("og:title") || item.title,
     description: cleanText(meta("description")),
     label: meta("cXenseParse:dpn-content_label") || item.label,
-    published: isoDate(
-      meta("cXenseParse:dpn-content_publication_date") || property("article:published_time"),
-    ),
+    published:
+      firstPublished($) ||
+      isoDate(
+        meta("cXenseParse:dpn-content_publication_date") || property("article:published_time"),
+      ),
     modified: isoDate(property("article:modified_time")),
   }
 }
@@ -439,7 +470,8 @@ async function articleMarkdown($, { slug, relativePrefix, folder, sourceUrl }) {
   const intro = $("article [data-content-type=INTRO] .text").first()
   if (intro.length) container("main").append(`<p>${intro.html()}</p>`)
 
-  const supported = new Set(["PARAGRAPH", "SUBHEADER", "IMAGE", "QUOTE", "QUESTION", "REVIEW"])
+  // Streamers (QUOTE) herhalen de lopende tekst en blijven bewust buiten het archief.
+  const supported = new Set(["PARAGRAPH", "SUBHEADER", "IMAGE", "QUESTION", "REVIEW"])
   $("article [data-content-type]").each((_index, element) => {
     if (!supported.has($(element).attr("data-content-type"))) return
     const html = componentHtml($, element)
@@ -481,8 +513,24 @@ async function articleMarkdown($, { slug, relativePrefix, folder, sourceUrl }) {
   if (markdown.split(/\s+/).length < 120) {
     throw new Error(`artikeltekst lijkt onvolledig (${markdown.split(/\s+/).length} woorden)`)
   }
-  markdown = insertSourceNote(markdown, sourceNote(folder, sourceUrl))
+  markdown = insertSourceNote(stripSiteFurniture(markdown), sourceNote(folder, sourceUrl))
   return markdown
+}
+
+const videoPointer =
+  /^_?\**\s*(?:Bekijk (?:hieronder|hier|onze)\b.*|Luister voor het laatste nieuws.*|Lees verder onder de foto\.?|.*\(video\)\s*:?)\s*\**_?$/i
+const commentInvite = /reageren\**\s+kan onderaan dit artikel/i
+
+function stripSiteFurniture(markdown) {
+  const blocks = markdown.split(/\n{2,}/)
+  return blocks
+    .filter((block, index) => {
+      const text = block.replace(/\s+/g, " ").trim()
+      if (commentInvite.test(text) || videoPointer.test(text)) return false
+      const next = (blocks[index + 1] || "").replace(/\s+/g, " ")
+      return !(/^#+ /.test(block) && commentInvite.test(next))
+    })
+    .join("\n\n")
 }
 
 function leadImageSource($) {
@@ -510,7 +558,7 @@ async function updateExisting(plan, meta) {
   ])
   const data = {
     ...record.data,
-    title: meta.title,
+    title: record.data.title || meta.title,
     description: meta.description || record.data.description,
     published: meta.published || record.data.published,
     modified: meta.modified || record.data.modified,
@@ -573,11 +621,15 @@ function reservePlans(items, records) {
   return items.map((item) => {
     const id = adId(item.url)
     const record = byId.get(id)
-    const folder = routeFolder(item, item.label)
     const preferredSlug = baseSlug(item, item.url)
+    if (record) {
+      // Een bestaand artikel blijft staan waar het staat, ook na handmatig hernoemen.
+      const folder = path.posix.dirname(record.relativePath).replace(/^\.$/, "")
+      return { item, record, folder, slug: preferredSlug, relativePath: record.relativePath }
+    }
+    const folder = routeFolder(item, item.label)
     let slug = preferredSlug
     let relativePath = path.posix.join(folder, `${slug}.md`)
-    if (record) occupied.delete(record.relativePath)
     if (occupied.has(relativePath)) {
       slug = `${preferredSlug}-ad`
       relativePath = path.posix.join(folder, `${slug}.md`)

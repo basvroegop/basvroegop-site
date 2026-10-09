@@ -93,7 +93,9 @@ function nuId(value) {
 function isoDate(value) {
   if (!value) return undefined
   const date = new Date(value)
-  return Number.isNaN(date.valueOf()) ? undefined : date.toISOString().slice(0, 10)
+  if (Number.isNaN(date.valueOf())) return undefined
+  // Publicatiedata gelden in Nederlandse tijd; UTC schuift nachtelijke stukken een dag terug.
+  return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Amsterdam" }).format(date)
 }
 
 function yamlFrontmatter(data) {
@@ -365,6 +367,25 @@ function articleEvents(meta) {
         events.push({ type: "html", html })
       } else if (block.textRole === "ARTICLE_SUBHEADER" && cleanText(html)) {
         events.push({ type: "heading", text: cleanText(html) })
+      } else if (block.textRole === "ARTICLE_QUOTE_BODY" && cleanText(html)) {
+        events.push({ type: "quote", text: cleanText(load(html, null, false).text()) })
+      } else if (block.textRole === "ARTICLE_QUOTE_AUTHOR" && cleanText(html)) {
+        const quote = events.at(-1)
+        if (quote?.type === "quote") quote.author = cleanText(load(html, null, false).text())
+      } else if (block.textRole === "ARTICLE_SUMMARY_TITLE") {
+        events.push({ type: "box", title: cleanText(load(html, null, false).text()), html: "" })
+      } else if (block.textRole === "ARTICLE_SUMMARY_ITEM" && cleanText(html)) {
+        const box = events.at(-1)
+        if (box?.type === "box" && !box.html) box.html = html
+        else events.push({ type: "box", title: "", html })
+      }
+      return
+    }
+    if (block.__typename === "EmbedBlock") {
+      const source =
+        load(block.blockFlavor?.embedCode || "", null, false)("iframe").attr("src") || ""
+      if (/localfocus2\.appspot\.com|w\.soundcloud\.com\/player|art19\.com/.test(source)) {
+        events.push({ type: "embed", url: source.startsWith("//") ? `https:${source}` : source })
       }
       return
     }
@@ -393,7 +414,22 @@ function articleEvents(meta) {
   }
 
   for (const block of root.blocks) walk(block)
+  const excerpt = findExcerpt(meta.state.content.blocksMain)
+  if (excerpt) events.unshift({ type: "intro", text: excerpt })
   return events
+}
+
+// De intro staat op NU.nl los boven de lopende tekst, maar is de eerste alinea van het artikel.
+function findExcerpt(value) {
+  if (!value || typeof value !== "object") return undefined
+  if (value.__typename === "TextBlock" && value.textRole === "ARTICLE_EXCERPT") {
+    const html = (value.styledTexts || []).map((part) => part.text || "").join("")
+    return cleanText(load(html, null, false).text()) || undefined
+  }
+  for (const child of Object.values(value)) {
+    const excerpt = findExcerpt(child)
+    if (excerpt) return excerpt
+  }
 }
 
 function sourceNote(folder, sourceUrl) {
@@ -427,6 +463,18 @@ async function articleMarkdown(meta, { slug, relativePrefix, folder }) {
     if (event.type === "html") {
       const markdown = turndown.turndown(event.html).trim()
       if (markdown) parts.push(markdown)
+    } else if (event.type === "intro") {
+      parts.push(`**${event.text}**`)
+    } else if (event.type === "quote") {
+      // Streamers die de lopende tekst letterlijk herhalen voegen niets toe.
+      if (cleanText(parts.join(" ")).includes(event.text)) continue
+      parts.push(`> ${event.text}${event.author ? `\n>\n> — ${event.author}` : ""}`)
+    } else if (event.type === "box") {
+      const items = turndown.turndown(event.html || "").trim()
+      const onlyShopLinks = /^(?:- +\[Koop [^\]]*\]\([^)]*\)\s*)+$/.test(items)
+      if (!items || /^nieuwsbrief$/i.test(event.title) || onlyShopLinks) continue
+      const lines = items.split("\n").map((line) => `> ${line}`.trimEnd())
+      parts.push(`> [!INFO] ${event.title || "Details"}\n>\n${lines.join("\n")}`)
     } else if (event.type === "heading") {
       parts.push(`## ${event.text}`)
     } else if (event.type === "embed") {
@@ -512,7 +560,7 @@ async function updateExisting(plan, meta) {
   ])
   const data = {
     ...record.data,
-    title: meta.title,
+    title: record.data.title || meta.title,
     description: meta.description || record.data.description,
     published: meta.published || record.data.published,
     modified: record.data.modified || meta.modified,
@@ -569,11 +617,15 @@ function reservePlans(items, records) {
 
   return items.map((item) => {
     const record = byId.get(item.id)
-    const folder = item.folder || ""
     const preferredSlug = baseSlug(item, item.url)
+    if (record) {
+      // Een bestaand artikel blijft staan waar het staat, ook na handmatig hernoemen.
+      const folder = path.posix.dirname(record.relativePath).replace(/^\.$/, "")
+      return { item, record, folder, slug: preferredSlug, relativePath: record.relativePath }
+    }
+    const folder = item.folder || ""
     let slug = preferredSlug
     let relativePath = path.posix.join(folder, `${slug}.md`)
-    if (record) occupied.delete(record.relativePath)
     if (occupied.has(relativePath)) {
       slug = `${preferredSlug}-nu`
       relativePath = path.posix.join(folder, `${slug}.md`)
