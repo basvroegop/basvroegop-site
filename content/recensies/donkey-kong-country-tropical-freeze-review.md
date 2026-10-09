@@ -5,13 +5,15 @@ published: 2018-05-01
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /donkey-kong-country-tropical-freeze-review
   - /artikelen/donkey-kong-country-tropical-freeze-review
   - /artikelen/recensies/donkey-kong-country-tropical-freeze-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/donkey-kong-country-tropical-freeze-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/donkey-kong-tropical-freeze-switch-review-ondergewaardeerde-platformer
 socialImage: ../media/gamepraat/donkey-kong-country-tropical-freeze-review/9f7c1748d2.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Ja, we weten dat Tropical Freeze eigenlijk geen nieuwe game is. De platformer ve
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/donkey-kong-tropical-freeze-switch-review-ondergewaardeerde-platformer/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/donkey-kong-tropical-freeze-switch-review-ondergewaardeerde-platformer/).
 
 ## Oertraditioneel
 

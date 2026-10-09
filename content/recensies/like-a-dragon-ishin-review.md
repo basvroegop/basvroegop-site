@@ -10,13 +10,15 @@ published: 2023-02-28
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /like-a-dragon-ishin-review
   - /artikelen/like-a-dragon-ishin-review
   - /artikelen/recensies/like-a-dragon-ishin-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/like-a-dragon-ishin-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/pc-games/like-a-dragon-ishin-is-yakuza-zonder-de-yakuza
 socialImage: ../media/gamepraat/like-a-dragon-ishin-review/0eeabb6ffa.webp
 publish: true
 ---
@@ -25,7 +27,7 @@ In de vroege dagen van Yakuza werd de gamereeks in het westen soms onterecht bes
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/pc-games/like-a-dragon-ishin-is-yakuza-zonder-de-yakuza/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/pc-games/like-a-dragon-ishin-is-yakuza-zonder-de-yakuza/).
 
 Wat dat betreft doet Like a Dragon: Ishin veel om de serie verder van de GTA-vergelijking weg te trekken. Deze spin-off verscheen oorspronkelijk in 2014 voor de PlayStation 3, maar kreeg nooit een westerse lokalisatie. Dat is anders bij deze remake voor moderne consoles en pc. In de game volg je de avonturen van de ronin Sakamoto Ryōma rond het einde van de Edoperiode in Japan, die op zoek is naar de moordenaar van zijn leermeester.
 

@@ -5,13 +5,15 @@ published: 2017-05-23
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /inustice-2-review
   - /artikelen/inustice-2-review
   - /artikelen/recensies/inustice-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/inustice-2-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/127820-injustice-2-review-alleen-vechten-was-nog-nooit-zo-leuk
 socialImage: ../media/gamepraat/inustice-2-review/860500cafe.jpg
 publish: true
 ---
@@ -22,7 +24,7 @@ NetherRealm Studios bracht daar verandering in met zijn reboot van Mortal Kombat
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127820-injustice-2-review-alleen-vechten-was-nog-nooit-zo-leuk/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127820-injustice-2-review-alleen-vechten-was-nog-nooit-zo-leuk/).
 
 Injustice 2 bevat dezelfde basis die we kennen van voorgaande NetherRealm-games. Ook hier kun je door een verhaal spelen, waarbij cutscenes zonder laadschermen overgaan in gevechten. Het verhaal sluit vrij nauw aan op het einde van de eerste Injustice, maar gelukkig legt de game tussen de regels door uit wat er eerder is gebeurd. Een vereiste, want de superheldenwereld van Injustice 2 kan wat verwarrend zijn. Superman en Batman staan sinds de eerste game recht tegenover elkaar, waardoor er een oorlog tussen superheldenteams is uitgebroken.
 

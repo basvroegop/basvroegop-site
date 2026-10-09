@@ -5,13 +5,15 @@ published: 2016-03-03
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /interview-martijn-van-der-meulen
   - /artikelen/interview-martijn-van-der-meulen
   - /artikelen/interviews/interview-martijn-van-der-meulen
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/interview-martijn-van-der-meulen/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/interview/de-gamecultuur-in-nederland-lijkt-best-op-die-in-het-buitenland
 socialImage: ../media/gamepraat/interview-martijn-van-der-meulen/22f214b502.jpeg
 publish: true
 ---
@@ -22,7 +24,7 @@ Van der Meulen heeft lange tijd in de Nederlandse game-industrie gewerkt, maar v
 
 > [!NOTE]
 >
-> Dit interview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/de-gamecultuur-in-nederland-lijkt-best-op-die-in-het-buitenland/?ref=gamepraat.nl).
+> Dit interview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/de-gamecultuur-in-nederland-lijkt-best-op-die-in-het-buitenland/).
 
 **Wanneer ben je naar het buitenland gegaan?**
 

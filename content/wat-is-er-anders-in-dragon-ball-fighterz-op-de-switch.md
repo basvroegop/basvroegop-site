@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/special/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch
 socialImage: ./media/gamepraat/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch/2ecdb924e7.png
 publish: true
 ---
@@ -19,7 +21,7 @@ Ruim een halfjaar nadat Dragon Ball FighterZ voor de PlayStation 4, Xbox One en 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/special/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/special/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch/).
 
 Dragon Ball FighterZ is misschien wel de beste fighter van dit jaar. Ontwikkelaar Arc System Works heeft met wat slimme trucs de Unreal Engine 4 zo weten aan te passen, dat een gevecht in de game er ook echt uitziet als een aflevering van de gelijknamige animatieserie. Dat wist de ontwikkelaar te combineren met een toegankelijk maar diepgaand 3 versus 3-systeem, waarover je meer kunt lezen in onze review.
 

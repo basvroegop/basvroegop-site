@@ -5,13 +5,15 @@ published: 2017-12-20
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /brawlout-review
   - /artikelen/brawlout-review
   - /artikelen/recensies/brawlout-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/brawlout-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/brawlout
 socialImage: ../media/gamepraat/brawlout-review/885dba8a3e.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is onmogelijk om over Brawlout te praten zonder het ook over Super Smash Bro
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/brawlout/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/brawlout/).
 
 Laten we bij de kern beginnen: Brawlout is een vechtgame waarin je met maximaal vier man tegelijk kunt vechten. Iedere klap laat het percentage bij een tegenstander stijgen, waardoor hij of zij verder wegvliegt bij een klap. Schiet een personage het level uit, dan verliest die een leven.
 

@@ -5,13 +5,15 @@ published: 2017-11-22
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /animal-crossing-pocket-camp
   - /artikelen/animal-crossing-pocket-camp
   - /artikelen/recensies/animal-crossing-pocket-camp
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/animal-crossing-pocket-camp/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/animal-crossing-pocket-camp
 socialImage: ../media/gamepraat/animal-crossing-pocket-camp/d4452328c4.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Animal Crossing zou de ultieme smartphonegame moeten zijn. Het eindeloze verzame
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/animal-crossing-pocket-camp/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/animal-crossing-pocket-camp/).
 
 De originele Animal Crossing-games zijn uniek. De dorpjes die je beheert zitten vol met rijke personages, die nagenoeg iedere dag wel wat nieuws te vertellen hebben. De koddige visuele stijl en de bijpassende soundtrack kunnen zelfs de meest gestresste persoon binnen een half uur laten relaxen. En de spellen weten ook op perfecte wijze doelstellingen voor te schotelen, zonder dat je ooit het gevoel hebt zo snel mogelijk de eindstreep te moeten halen.
 

@@ -10,13 +10,15 @@ published: 2023-09-04
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /sea-of-stars-review
   - /artikelen/sea-of-stars-review
   - /artikelen/recensies/sea-of-stars-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/sea-of-stars-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/playstation/sea-of-stars-is-een-geweldige-hommage
 socialImage: ../media/gamepraat/sea-of-stars-review/2649bdb3af.jpg
 publish: true
 ---
@@ -25,7 +27,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/playstation/sea-of-stars-is-een-geweldige-hommage/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/playstation/sea-of-stars-is-een-geweldige-hommage/).
 
 Het crowdfundingproject voor Sea of Stars had slechts 133.000 Canadese dollar (133.000 euro) nodig, maar wist uiteindelijk dik het tienvoudige daarvan in te zamelen. Geen wonder, want de eerste beelden leken haast handgemaakt om een specifieke groep mensen (waaronder ondergetekende) helemaal gek te maken. Het moest een jrpg worden geïnspireerd door oude klassiekers als Chrono Trigger, met fenomenale pixelart en muziek van Chrono Trigger-componist Yasunori Mitsuda.
 

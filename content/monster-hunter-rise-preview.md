@@ -6,11 +6,13 @@ modified: 2022-07-04
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/monster-hunter-rise-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/monster-hunter-rise-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/preview/monster-hunter-rise-is-beter-uitgebreider-en-op-een-passender-platform
 socialImage: ./media/gamepraat/monster-hunter-rise-preview/b598ca6593.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Hoewel Monster Hunter Rise niet zo'n grote revolutie voor de serie wordt als Wor
 
 > [!NOTE]
 >
-> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/monster-hunter-rise-is-beter-uitgebreider-en-op-een-passender-platform/?ref=gamepraat.nl).
+> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/monster-hunter-rise-is-beter-uitgebreider-en-op-een-passender-platform/).
 
 Monster Hunter is qua exclusiviteit altijd een vreemde serie geweest. De games verschenen in de eerste jaren alleen op Sony-spelcomputers, waarmee Capcom eigenhandig de PSP gigantisch maakte in thuisland Japan. Men sprak dan ook van schande toen in 2009 ineens de overstap werd gemaakt naar Nintendo, toen Tri op de Wii verscheen en later werd opgevolgd door meerdere 3DS-games.
 

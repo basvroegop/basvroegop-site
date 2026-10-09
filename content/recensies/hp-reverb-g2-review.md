@@ -5,13 +5,15 @@ published: 2021-01-18
 modified: 2022-07-04
 tags:
   - Tech
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /hp-reverb-g2-review
   - /artikelen/hp-reverb-g2-review
   - /artikelen/recensies/hp-reverb-g2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/hp-reverb-g2-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/de-hp-reverb-g2-is-de-beste-pcvr-bril-in-een-post-pcvr-wereld
 socialImage: ../media/gamepraat/hp-reverb-g2-review/21ab494553.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ De HP Reverb G2 is de beste virtualrealitybril die we voor een pc hebben getest.
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/de-hp-reverb-g2-is-de-beste-pcvr-bril-in-een-post-pcvr-wereld/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/de-hp-reverb-g2-is-de-beste-pcvr-bril-in-een-post-pcvr-wereld/).
 
 Qua specificaties zijn er weinig headsets die de Reverb G2 verslaan. Hij heeft net als zijn voorganger een resolutie van 2160 bij 2160 pixels per oog, wat neerkomt op een ruime 4K-resolutie. Het zorgt ervoor dat het beruchte hordeureffect, waarbij je ruimte tussen de pixels als een soort gaas over het scherm ziet, nagenoeg is verdwenen. De pixels zijn door de hoge dichtheid namelijk zo klein dat de ruimte amper nog waarneembaar is.
 

@@ -5,13 +5,15 @@ published: 2016-11-10
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /dragon-quest-builders-review
   - /artikelen/dragon-quest-builders-review
   - /artikelen/recensies/dragon-quest-builders-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragon-quest-builders-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/dragon-quest-builders-2
 socialImage: ../media/gamepraat/dragon-quest-builders-review/9ba28b6296.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Toen Dragon Quest Builders werd onthuld, vreesden we voor een simpele Minecraft-
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-quest-builders-2/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-quest-builders-2/).
 
 Waar Minecraft jou als speler vraagt om je creativiteit te gebruiken, voelt Builders veel meer aan als een gestructureerd spel. Dat zie je bijvoorbeeld terug in de kamers die je kunt bouwen. Hoewel je prima een willekeurige ruimte kunt inrichten zoals je wil, is het verstandiger om de regels van het spel te volgen. Zet bijvoorbeeld een werktafel en een kist in een ruimte, en dit verandert in een werkplaats.
 

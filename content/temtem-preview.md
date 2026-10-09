@@ -6,11 +6,13 @@ modified: 2022-07-04
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/temtem-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/temtem-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/handson/temtem-is-het-moeilijke-pokemon-van-vroeger
 socialImage: ./media/gamepraat/temtem-preview/04898103b5.jpeg
 publish: true
 ---
@@ -21,7 +23,7 @@ Na een succesvolle Kickstarter-campagne is er nu eindelijk een vroege versie van
 
 > [!NOTE]
 >
-> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/handson/temtem-is-het-moeilijke-pokemon-van-vroeger/?ref=gamepraat.nl).
+> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/handson/temtem-is-het-moeilijke-pokemon-van-vroeger/).
 
 De wereld van TemTem is onmiskenbaar door Pokémon geïnspireerd. Je bent een TemTem-temmer (pokémon-trainer) die de beste wil worden, wat je doet door de leiders van dojo's (Gyms) verspreid over verschillende eilanden te verslaan met een team van zes monsters. Gevechten volgen een complexe variant van steen-papier-schaar: vuur-aanvallen zijn bijvoorbeeld sterk tegen gras, maar zwak tegen water.
 

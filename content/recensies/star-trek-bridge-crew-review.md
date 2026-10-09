@@ -5,13 +5,15 @@ published: 2017-06-01
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /star-trek-bridge-crew-review
   - /artikelen/star-trek-bridge-crew-review
   - /artikelen/recensies/star-trek-bridge-crew-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/star-trek-bridge-crew-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/128036-star-trek-bridge-crew-review-de-holodeck-bestaat-echt
 socialImage: ../media/gamepraat/star-trek-bridge-crew-review/a7afdddac2.webp
 publish: true
 ---
@@ -20,7 +22,7 @@ Als één ding in Star Trek tot de verbeelding spreekt, dan is het wel de holode
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/128036-star-trek-bridge-crew-review-de-holodeck-bestaat-echt/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/128036-star-trek-bridge-crew-review-de-holodeck-bestaat-echt/).
 
 Het televisieprogramma leek daarmee de toekomst van videogames te voorspellen, want we zitten inmiddels akelig dichtbij zo’n holodeck. Zet een vr-bril op en je waant jezelf immers ook in een digitale wereld. Dat maakt het juist zo toepasselijk dat uitgerekend Star Trek: Bridge Crew misschien wel de meest innovatieve vr-game van deze tijd is. Dit is misschien wel de meest sociale virtualrealitytitel, die je ook nog eens urenlang kan spelen zonder al te snel misselijk te worden.
 

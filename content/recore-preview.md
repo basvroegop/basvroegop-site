@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/recore-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/recore-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/feature/recore-hands-on
 socialImage: ./media/gamepraat/recore-preview/771d62316b.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Het idee achter ReCore lijkt ons zo gaaf. Toen we vorig jaar een eerste trailer 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/feature/recore-hands-on/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/feature/recore-hands-on/).
 
 We waren daarom ook verrast toen er op E3 2016 een nieuwe trailer verscheen. Weg was de emotionele band tussen mens en robot - ReCore zag er ineens uit als een snelle platformer, waarin vooral actie belangrijk is. Een vreemde gewaarwording, die tegelijk ook wel logisch is: Mega Man-bedenker Keiji Inafune staat immers aan het roer van de game.
 

@@ -5,13 +5,15 @@ published: 2018-10-23
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /soulcalibur-vi-review
   - /artikelen/soulcalibur-vi-review
   - /artikelen/recensies/soulcalibur-vi-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/soulcalibur-vi-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/review-soulcalibur-vi
 socialImage: ../media/gamepraat/soulcalibur-vi-review/db32b545b3.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Er is een reden waarom het zo lang stil was rond Soulcalibur. Het vijfde deel, d
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/review-soulcalibur-vi/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/review-soulcalibur-vi/).
 
 Bandai Namco heeft van deze fout geleerd en probeert met Soulcalibur VI meer op eenzame, nostalgische gamers in te spelen. Het vechtersrooster is vooralsnog niet gigantisch (je hebt ditmaal slechts 21 vechters in plaats van de eerdere 28), maar het zijn wel voornamelijk de populairste personages uit de vroegere games op de PlayStation 2, Xbox en GameCube. Daarmee lijkt de eerdere kern hersteld, hoewel Namco Bandai verder geen spannende stappen durft te maken.
 

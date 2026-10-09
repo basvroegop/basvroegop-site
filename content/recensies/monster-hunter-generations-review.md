@@ -5,13 +5,15 @@ published: 2016-07-12
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /monster-hunter-generations-review
   - /artikelen/monster-hunter-generations-review
   - /artikelen/recensies/monster-hunter-generations-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/monster-hunter-generations-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/monster-hunter-generations
 socialImage: ../media/gamepraat/monster-hunter-generations-review/73cd3be6c8.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Monster Hunter is al jaren een van de lastiger te verklaren gamereeksen. Het is 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-generations/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-generations/).
 
 Je wordt beter door je eigen reflexen te trainen en patronen te leren, niet per se door nieuwe bepantsering te verzamelen. Het zorgt ervoor dat ervaring opgedaan in de ene Monster Hunter-game overgaat in de ander. Wist je in Monster Hunter Freedom 2 hoe je een Khezu het beste kunt bevechten, dan weet je dat ook in Monster Hunter Generations.
 

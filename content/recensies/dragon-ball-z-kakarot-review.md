@@ -5,13 +5,15 @@ published: 2020-01-21
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /dragon-ball-z-kakarot-review
   - /artikelen/dragon-ball-z-kakarot-review
   - /artikelen/recensies/dragon-ball-z-kakarot-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragon-ball-z-kakarot-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/dragon-ball-z-kakarot-is-niet-waar-we-op-hoopten
 socialImage: ../media/gamepraat/dragon-ball-z-kakarot-review/9a5ba369f0.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Na jaren aan multiplayergames, is er eindelijk weer een Dragon Ball Z-titel die 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-ball-z-kakarot-is-niet-waar-we-op-hoopten/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-ball-z-kakarot-is-niet-waar-we-op-hoopten/).
 
 Het is inmiddels ruim vijftien jaar geleden sinds Buu's Fury voor de Game Boy Advance verscheen. Het was het laatste 'echte' rollenspel gebaseerd op de Japanse animatiereeks, dat ondanks gematigde kritieken nog steeds een warm plekje heeft in de harten van Dragon Ball-fans.
 

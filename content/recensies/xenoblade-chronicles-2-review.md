@@ -5,13 +5,15 @@ published: 2017-11-30
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /xenoblade-chronicles-2-review
   - /artikelen/xenoblade-chronicles-2-review
   - /artikelen/recensies/xenoblade-chronicles-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/xenoblade-chronicles-2-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/130416-xenoblade-chronicles-2-review-blades-en-porno
 socialImage: ../media/gamepraat/xenoblade-chronicles-2-review/306fb303bd.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Onze eerdere reviews over de twee vorig Xenoblade-games openden ongeveer hetzelf
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/130416-xenoblade-chronicles-2-review-blades-en-porno/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/130416-xenoblade-chronicles-2-review-blades-en-porno/).
 
 Na bij Xenoblade Chronicles X een zijstapje te hebben gemaakt naar pure sciencefiction en meer nadruk op mmo-achtige systemen, keert Xenoblade Chronicles 2 terug naar een verhaalgedreven spelprincipe in een steampunk-achtige fantasiewereld. De wereld bestaat wederom uit een leegte gevuld met gigantische titanen waarop mensen en dieren leven.
 

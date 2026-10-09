@@ -5,13 +5,15 @@ published: 2017-08-04
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /echo-arena-review
   - /artikelen/echo-arena-review
   - /artikelen/recensies/echo-arena-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/echo-arena-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/129042-review-echo-arena-wil-de-rocket-league-van-vr-zijn
 socialImage: ../media/gamepraat/echo-arena-review/d510f92df9.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het nieuwe Echo Arena en Rocket League hebben het nodige met elkaar gemeen. Beid
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129042-review-echo-arena-wil-de-rocket-league-van-vr-zijn/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129042-review-echo-arena-wil-de-rocket-league-van-vr-zijn/).
 
 Echo Arena is de multiplayeroptie van Lone Echo, een nieuwe game voor virtual reality. De modus wordt ook als zelfstandig spel tijdelijk gratis aangeboden.
 

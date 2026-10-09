@@ -5,13 +5,15 @@ published: 2016-01-14
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /dragons-dogma-dark-arisen-review
   - /artikelen/dragons-dogma-dark-arisen-review
   - /artikelen/recensies/dragons-dogma-dark-arisen-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragons-dogma-dark-arisen-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/dragons-dogma-dark-arisen
 socialImage: ../media/gamepraat/dragons-dogma-dark-arisen-review/42807674f8.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Vier jaar nadat het origineel op de Playstation 3 en Xbox 360 verscheen, is Drag
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragons-dogma-dark-arisen/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragons-dogma-dark-arisen/).
 
 Dragon's Dogma beloofde in 2012 nogal wat. Dit rollenspel moest alles combineren wat Capcom in de afgelopen jaren had geleerd, in een game waar je werkelijk honderden uren in kwijt kon.
 

@@ -5,13 +5,15 @@ published: 2016-11-15
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /pokemon-sun-en-moon-review
   - /artikelen/pokemon-sun-en-moon-review
   - /artikelen/recensies/pokemon-sun-en-moon-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-sun-en-moon-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/pokemon-sun-en-moon
 socialImage: ../media/gamepraat/pokemon-sun-en-moon-review/0e00cbd5a1.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is bij games zoals Pokémon lastig om een vervolg uit te brengen. Aan de ene
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-sun-en-moon/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-sun-en-moon/).
 
 Juist daarom is het bijzonder wat Pokémon Sun en Moon weten te presteren. De games zijn de grootste stappen vooruit voor de franchise sinds Gold en Silver voor de Game Boy. Nog nooit voelde een Pokémon-game zo anders als deze nieuwe generatie. En dat allemaal zonder de metagame al teveel te veranderen.
 

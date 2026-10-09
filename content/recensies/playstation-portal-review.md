@@ -6,13 +6,15 @@ modified: 2024-01-17
 tags:
   - Games
   - Tech
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /playstation-portal-review
   - /artikelen/playstation-portal-review
   - /artikelen/recensies/playstation-portal-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/playstation-portal-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/hardware/consoles/de-playstation-portal-had-veel-meer-kunnen-zijn
 socialImage: ../media/gamepraat/playstation-portal-review/cf633afcaa.jpg
 publish: true
 ---
@@ -21,7 +23,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/hardware/consoles/de-playstation-portal-had-veel-meer-kunnen-zijn/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/hardware/consoles/de-playstation-portal-had-veel-meer-kunnen-zijn/).
 
 Met de Portal brengt PlayStation voor het eerst in ruim elf jaar een nieuwe handheld op de markt. Verwacht echter geen opvolger van de Vita: de Portal lijkt eerder op de gamepad die Nintendo ooit voor de Wii U maakte. Het apparaat is puur ontworpen om games vanaf de PlayStation 5 naartoe te streamen via wifi, zodat je bijvoorbeeld Spider-Man 2 kunt spelen terwijl je partner of kinderen de televisie benutten.
 

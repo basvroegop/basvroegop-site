@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/collection-of-mana-review-2
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/collection-of-mana-review-2/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/secret-of-mana-collection-laat-ons-een-van-de-beste-jrpgs-ooit-spelen
 socialImage: ./media/gamepraat/collection-of-mana-review-2/8f9f55f49c.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ De Secret of Mana Collection lijkt een verzameling van oude games die we in de j
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/secret-of-mana-collection-laat-ons-een-van-de-beste-jrpgs-ooit-spelen?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/secret-of-mana-collection-laat-ons-een-van-de-beste-jrpgs-ooit-spelen).
 
 Op de collectie staan drie games: Final Fantasy Adventure, Secret of Mana en Trials of Mana. Dat klinkt bij elkaar een samengeraapt hoopje, maar in thuisland Japan zijn alle drie de games deel van dezelfde serie: Seiken Densetsu. De drie spellen op de Secret of Mana Collection zijn rechtstreekse ports en spelen identiek aan de originele versies die voor oudere spelcomputers uitkwamen.
 

@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/beat-saber-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/beat-saber-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/preview/beat-saber
 socialImage: ./media/gamepraat/beat-saber-preview/6e70d82e01.png
 publish: true
 ---
@@ -19,7 +21,7 @@ Beat Saber bewijst dat virtual reality het ideale platform voor muziekgames is. 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/beat-saber/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/beat-saber/).
 
 Het is makkelijk om je in een muziekgame onnozel te voelen. Professionele dansers kunnen met Just Dance wellicht een prachtig gechoreografeerde routine uitvoeren, maar de gemiddelde gamer ziet er bij dergelijke spellen alsnog uit als een tros bungelende bananen tijdens een tropische storm.
 
@@ -47,6 +49,6 @@ Virtual reality zorgt er bovendien voor dat je volledig in een nummer wordt gezo
 
 Op het moment bevat de game tien nummers, die op vier moeilijkheidsgraden gespeeld kunnen worden. De volledige soundtrack is op het moment via Spotify te beluisteren (Beat Saber (Original Game Soundtrack) by Jaroslav Beck on Spotify). Hoewel de hoeveelheid nummers wat karig is, zijn ze wel buitengewoon goed in de game uitgevoerd. De soms willekeurig lijkende noten vormen vaak een zwaardendans die ontzettend gaaf is om uit te voeren, met bewegingen die op termijn natuurlijk aanvoelen. Daarnaast groeit het assortiment wellicht nog - op het moment bevindt Beat Saber zich in early access.
 
-De makers gaan de mogelijkheid toevoegen om zelfgemaakte nummers aan de game toe te voegen - maar fanatieke spelers zijn er al in geslaagd om dit met behulp van mods te doen. Op het moment staan er op de site [**Beat Saver**](https://beatsaver.com/index.php?ref=gamepraat.nl) honderden nummers, die met een simpele handeling door iedereen gespeeld kunnen worden.
+De makers gaan de mogelijkheid toevoegen om zelfgemaakte nummers aan de game toe te voegen - maar fanatieke spelers zijn er al in geslaagd om dit met behulp van mods te doen. Op het moment staan er op de site [**Beat Saver**](https://beatsaver.com/index.php) honderden nummers, die met een simpele handeling door iedereen gespeeld kunnen worden.
 
 We zijn tot nu toe nog geen enkel modnummer tegengekomen dat zo leuk is om te spelen als de originele tien, maar het is hoopgevend dat er nu al zo'n actieve community rond de game bestaat. Dit is een game die in de komende jaren alleen maar groter zal worden - en daarom steeds leuker wordt om te spelen.

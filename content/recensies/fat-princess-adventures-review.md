@@ -5,13 +5,15 @@ published: 2015-12-23
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /fat-princess-adventures-review
   - /artikelen/fat-princess-adventures-review
   - /artikelen/recensies/fat-princess-adventures-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/fat-princess-adventures-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/fat-princess-adventures
 socialImage: ../media/gamepraat/fat-princess-adventures-review/44528abaf8.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is alweer meer dan zes jaar geleden dat Fat Princess verscheen voor de PlayS
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/fat-princess-adventures/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/fat-princess-adventures/).
 
 Wie een doorsnee vervolg verwacht, komt echter bedrogen uit. Fat Princess Adventures laat het competitieve stijltje van het origineel varen om plaats te maken voor een actie-rpg. Je bekijkt de gameswereld nog steeds van bovenaf, maar hakt niet langer in op andere spelers. In plaats daarvan krijg je missies om monsters uit te roeien en de wereld helemaal te verkennen. De oorlog tussen het rode en blauwe koninkrijk is opzij gezet om het monsterterreur te bedwingen en Great Bitten te beschermen.
 

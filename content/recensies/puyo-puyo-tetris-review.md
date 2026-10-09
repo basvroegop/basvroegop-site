@@ -5,13 +5,15 @@ published: 2017-03-05
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /puyo-puyo-tetris-review
   - /artikelen/puyo-puyo-tetris-review
   - /artikelen/recensies/puyo-puyo-tetris-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/puyo-puyo-tetris-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/127550-puyo-puyo-tetris-review-als-een-blok-voor-gevallen
 socialImage: ../media/gamepraat/puyo-puyo-tetris-review/a3c3b76565.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Hoeveel is een puzzelgame in 2017 waard? Toen ik een collega laatst vertelde bes
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127550-puyo-puyo-tetris-review-als-een-blok-voor-gevallen/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127550-puyo-puyo-tetris-review-als-een-blok-voor-gevallen/).
 
 Heb je alleen Tetris gespeeld, dan is Puyo Puyo Tetris eventjes wennen. Tuurlijk, je kunt binnen deze game het traditionele blokkenspel spelen. Dat gebeurt meestal in een versusmodus, waarbij je door rijen weg te spelen extra blokken in het scherm van je tegenstander gooit. Dit is echter niet het enige dat je zal doen.
 

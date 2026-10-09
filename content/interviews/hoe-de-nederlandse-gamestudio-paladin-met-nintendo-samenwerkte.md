@@ -5,13 +5,15 @@ published: 2020-10-13
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
   - /artikelen/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
   - /artikelen/interviews/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/interview/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
 socialImage: ../media/gamepraat/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte/2b774346bb.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De gameontwerpers van Nintendo zitten inmiddels niet alleen in Japan, maar ook i
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte/).
 
 Paladin Studios draait inmiddels al een tijdje mee: het bedrijf werd in 2005 opgericht en maakte in de afgelopen jaren vooral spellen voor smartphones en tablets. Een paar jaar geleden werd het bedrijfje gespot door de Japanse titaan Bandai Namco, voor wie ze een mobiele versie van de klassieke Tamagotchi maakten.
 

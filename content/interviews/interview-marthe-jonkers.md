@@ -5,13 +5,15 @@ published: 2016-04-28
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /interview-marthe-jonkers
   - /artikelen/interview-marthe-jonkers
   - /artikelen/interviews/interview-marthe-jonkers
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/interview-marthe-jonkers/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/interview/als-nederlandse-concept-artist-in-japan
 socialImage: ../media/gamepraat/interview-marthe-jonkers/03fb276e42.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De afgelopen maanden hebben we het al een paar keer gehad over werken in de game
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/als-nederlandse-concept-artist-in-japan/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/als-nederlandse-concept-artist-in-japan/).
 
 **Vertel eens kort: wat heb je gestudeerd voordat je aan de slag ging?**
 

@@ -5,11 +5,13 @@ published: 2018-08-01
 modified: 2022-07-01
 tags:
   - Games
+  - Elders gepubliceerd
+  - Laadscherm
 aliases:
   - /artikelen/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games/
+source: Laadscherm
+sourceUrl: https://laadscherm.nl/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games
 socialImage: ./media/gamepraat/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games/0f1a23dae1.jpg
 publish: true
 ---
@@ -20,9 +22,9 @@ Vraag je gamers om de wereld van Pokémon te omschrijven, dan krijg je meestal d
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder [op Laadscherm](https://laadscherm.nl/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder [op Laadscherm](https://laadscherm.nl/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games/).
 
-Sven van de Wege (32), online bekend als [BlindWarriorSven](https://twitter.com/svenvandewege?ref=gamepraat.nl), merkt daar bij het spelen van de games niks van. Hij is al sinds zijn zesde blind door de gevolgen van kanker. Toch speelt hij fanatiek games, zonder dat hij kan zien wat er op het scherm gebeurt. “Ik heb nog nooit een Pokémon gezien”, vertelt hij in een mailwisseling. “Ik heb ook geen idee hoe bijvoorbeeld Pikachu of Bulbasaur eruitzien.” Hij heeft zichzelf echter geleerd om de spellen op een andere manier te spelen.
+Sven van de Wege (32), online bekend als [BlindWarriorSven](https://twitter.com/svenvandewege), merkt daar bij het spelen van de games niks van. Hij is al sinds zijn zesde blind door de gevolgen van kanker. Toch speelt hij fanatiek games, zonder dat hij kan zien wat er op het scherm gebeurt. “Ik heb nog nooit een Pokémon gezien”, vertelt hij in een mailwisseling. “Ik heb ook geen idee hoe bijvoorbeeld Pikachu of Bulbasaur eruitzien.” Hij heeft zichzelf echter geleerd om de spellen op een andere manier te spelen.
 
 “Ik ben zelf een enorme Pokémon-fan. Inmiddels ben ik in staat om de oudere spellen, zoals Pokémon Yellow, Blue, Red, Silver, Gold, Leaf Green en Fire Red, te spelen met behulp van geluid.” In de spelwereld zelf is dat een kwestie van blijven rondlopen. Botst hij ergens tegenaan? Dan hoort hij een luide ‘oomph’ die duidelijk maakt dat de hoofdpersoon niet verder kan en dat hij een bocht moet maken. “Ieder veldje heeft ook zijn eigen muziek. Door te luisteren naar wanneer de muziek verandert, weet je of je bijvoorbeeld een stad binnenloopt of weer naar buiten gaat.”
 

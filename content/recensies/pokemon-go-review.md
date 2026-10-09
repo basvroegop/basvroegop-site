@@ -5,13 +5,15 @@ published: 2016-07-11
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /pokemon-go-review
   - /artikelen/pokemon-go-review
   - /artikelen/recensies/pokemon-go-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-go-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/pokemon-go
 socialImage: ../media/gamepraat/pokemon-go-review/abf25ce8ac.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Een snelle opfriscursus voor wie de hype rondom Pokémon Go heeft gemist. Pokém
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-go/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-go/).
 
 Het daadwerkelijke vangen van die pokémon gaat vrij simpel. Je tapt op zo'n wezentje waarna je naar een speciale 3D-arena wordt gebracht, waarin je met veegbewegingen over het scherm 'Pokéballs' naar de monsters gooit. Misgooien is daarbij prima mogelijk, dus je moet de juiste kant op en met de juiste intensiteit swipen. In het begin is dat enigszins frustrerend. Wij hadden onze smartphone meestal in één hand en veegden met een duim, maar dit was vaak een beweging die iets te veel naar rechts ging. Na een tijdje spelen hadden we de truc hierbij in de vingers en bleef een beestje zo'n 80 procent van de tijd in zijn bal zitten.
 

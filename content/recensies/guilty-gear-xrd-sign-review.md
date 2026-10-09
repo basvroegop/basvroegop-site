@@ -5,13 +5,15 @@ published: 2016-01-06
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /guilty-gear-xrd-sign-review
   - /artikelen/guilty-gear-xrd-sign-review
   - /artikelen/recensies/guilty-gear-xrd-sign-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/guilty-gear-xrd-sign-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/guilty-gear-xrd-sign-
 socialImage: ../media/gamepraat/guilty-gear-xrd-sign-review/03110ca12c.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het leek er even op dat Guilty Gear was afgezworen door ontwikkelaar Arc System 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/guilty-gear-xrd-sign-/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/guilty-gear-xrd-sign-/).
 
 Guilty Gear Xrd -Sign- heeft de wat vage naam die je kunt verwachten van een zoveelste deel in een vechtgamereeks, maar laat je daardoor niet overdonderen. Dit nieuwste deel voelt haast als een reboot, met iets minder personages dan in voorgaande titels. Dat geeft Arc System Works de gelegenheid om de basis van het spel compleet nieuw op te zetten – iets dat je vooral terugziet in de nieuwe engine, waarin 2D-personages zijn omgeruild voor gedetailleerde 3D-modellen.
 

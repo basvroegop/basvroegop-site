@@ -5,13 +5,15 @@ published: 2016-08-02
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /jojos-bizarre-adventure-eyes-of-heaven-review
   - /artikelen/jojos-bizarre-adventure-eyes-of-heaven-review
   - /artikelen/recensies/jojos-bizarre-adventure-eyes-of-heaven-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/jojos-bizarre-adventure-eyes-of-heaven-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/jojos-bizarre-adventure-eyes-of-heaven
 socialImage: ../media/gamepraat/jojos-bizarre-adventure-eyes-of-heaven-review/022000b7f5.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Japan is geobsedeerd met een nieuw soort vechtgames. De tweedimensionale arena's
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/jojos-bizarre-adventure-eyes-of-heaven/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/jojos-bizarre-adventure-eyes-of-heaven/).
 
 De kans bestaat dat je JoJo's Bizarre Adventure niet kent. Deze Japanse animatieserie is een van de lastigst doorprikbare franchises uit het oosten, vol met ruw getekende vechtersbazen, spin-offs en tijdsprongen in het verhaal. JoJo volgt het leven van de Joestar-familie, waarbij iedere serie een ander familielid in de schijnwerpers zet.
 

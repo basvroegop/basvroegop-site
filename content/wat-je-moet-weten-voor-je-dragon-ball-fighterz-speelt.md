@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/special/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt
 socialImage: ./media/gamepraat/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt/d3f69ef7dc.jpeg
 publish: true
 ---
@@ -19,13 +21,13 @@ Op vrijdag 26 januari verschijnt Dragon Ball FighterZ. Goed nieuws voor vechtgam
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/special/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/special/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt/).
 
 ## **1\. Weet hoe je personage werkt**
 
 Ieder personage in Dragon Ball FighterZ speelt net iets anders. De één heeft een superaanval die projectielen de lucht in schiet, terwijl de ander na een specifieke aanvalscombinatie de tegenstander naar de andere kant van het level slaat. Het is wellicht voor de hand liggend, maar leer je personage kennen en je hebt een voordeel ten opzichte van ongeïnformeerde spelers.
 
-We kunnen pretenderen dat wij ieder personage tot in detail kunnen beschrijven, maar er zijn online al vrij uitgebreide gidsen verschenen die een ontzettend goede uitleg verschaffen. Vechtgamesite Eventhub ([**Dragon Ball FighterZ moves, characters, combos and frame data**](https://www.eventhubs.com/moves/dragon-ball-fighterz/?ref=gamepraat.nl)) heeft een overzicht van alle knoppencombinaties voor speciale aanvallen per personages. Wil je iets meer de diepte in, dan heeft YouTuber Maximilian Dood van de meeste personages video's gemaakt waarin hij combo's en strategieën bespreekt.
+We kunnen pretenderen dat wij ieder personage tot in detail kunnen beschrijven, maar er zijn online al vrij uitgebreide gidsen verschenen die een ontzettend goede uitleg verschaffen. Vechtgamesite Eventhub ([**Dragon Ball FighterZ moves, characters, combos and frame data**](https://www.eventhubs.com/moves/dragon-ball-fighterz/)) heeft een overzicht van alle knoppencombinaties voor speciale aanvallen per personages. Wil je iets meer de diepte in, dan heeft YouTuber Maximilian Dood van de meeste personages video's gemaakt waarin hij combo's en strategieën bespreekt.
 
 [Bekijk ingesloten media](https://www.youtube.com/embed/gB75vxbM2YA?autoplay=0&controls=1&rel=0&showinfo=0&iv_load_policy=3&cc_load_policy=1&cc_lang_pref=en&wmode=transparent&modestbranding=1&disablekb=1&enablejsapi=1&widgetid=1)
 

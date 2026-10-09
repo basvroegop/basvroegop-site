@@ -6,11 +6,13 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/achtergrond/achtergrond/achtergrond/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen
 socialImage: ./media/gamepraat/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen/9cde8a55be.webp
 publish: true
 ---
@@ -19,9 +21,9 @@ Toen ik deze week bij de Dutch Media Week voor een diner aan tafel zat, ging het
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/achtergrond/achtergrond/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/achtergrond/achtergrond/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen/).
 
-Een dag later werden in diezelfde kamer de Dutch Game Awards uitgereikt - de belangrijkste gameprijzen in ons land. Age of Wonders 4 werd uitgeroepen tot game van het jaar, de pc-port van Spider-Man door Nixxes werd uitgeroepen tot de beste technologische prestatie. De prijsuitreiking dook op bij meerdere technologie- en gamesites – [waaronder hier](https://gamer.nl/nieuws/playstation/ps5/age-of-wonders-4-winnaar-dutch-game-awards/?ref=gamepraat.nl) – maar bereikte bij de algemene media alleen de Volkskrant en BNR Nieuwsradio (waar Gamer-collega Joe van Burik het onderwerp behandelde).
+Een dag later werden in diezelfde kamer de Dutch Game Awards uitgereikt - de belangrijkste gameprijzen in ons land. Age of Wonders 4 werd uitgeroepen tot game van het jaar, de pc-port van Spider-Man door Nixxes werd uitgeroepen tot de beste technologische prestatie. De prijsuitreiking dook op bij meerdere technologie- en gamesites – [waaronder hier](https://gamer.nl/nieuws/playstation/ps5/age-of-wonders-4-winnaar-dutch-game-awards/) – maar bereikte bij de algemene media alleen de Volkskrant en BNR Nieuwsradio (waar Gamer-collega Joe van Burik het onderwerp behandelde).
 
 Zo gaat het al een paar jaar. De Dutch Game Awards worden doorgaans door een handjevol grote Nederlandse media behandeld, maar het gros besteedt er geen aandacht aan. Als je zoekt, vind je op de website van de NOS zelfs geen enkel verhaal erover.
 
@@ -39,7 +41,7 @@ De culturele sector draait niet alleen om geld, maar het laat wel een trend zien
 
 Over de reden kunnen we alleen speculeren. Vroeger werd er weinig over games geschreven omdat journalisten zelf weinig met het medium hadden. Ze waren er niet mee opgegroeid en hadden hooguit kinderen die wel eens een spelletje opstartten - waardoor er wel veel verhalen verschenen over mogelijke verslaving en geweld in games. Dat was immers waar die journalisten zich dagelijks mee bezighielden.
 
-Dat geldt in 2023 gelukkig allang niet meer. Nieuwsredacties zitten inmiddels vol dertigers die met games zijn opgegroeid. Daarnaast vind je bij ieder groot merk wel één of twee mensen die nog steeds vaak gamen en daar goede verhalen over kunnen maken. Het komt nog maar zeldzaam voor dat gamecoverage bij mainstreammedia tenenkrommend slecht is, [zoals eerder dit jaar bij talkshow Nadia](https://gamer.nl/achtergrond/opinie/columns/waarom-de-vpro-talkshow-over-gameverslaving-zo-ontzettend-slecht-was/?ref=gamepraat.nl).
+Dat geldt in 2023 gelukkig allang niet meer. Nieuwsredacties zitten inmiddels vol dertigers die met games zijn opgegroeid. Daarnaast vind je bij ieder groot merk wel één of twee mensen die nog steeds vaak gamen en daar goede verhalen over kunnen maken. Het komt nog maar zeldzaam voor dat gamecoverage bij mainstreammedia tenenkrommend slecht is, [zoals eerder dit jaar bij talkshow Nadia](https://gamer.nl/achtergrond/opinie/columns/waarom-de-vpro-talkshow-over-gameverslaving-zo-ontzettend-slecht-was/).
 
 De Dutch Game Awards zitten vermoedelijk nog net wat teveel in een verdomhoekje. Toegegeven, ik denk dat het niet een onderwerp is waar online massaal op geklikt zal worden, maar dat geldt ook voor andersoortige awards. Het is dan alsnog belangrijk er over te schrijven. Zo'n nieuwtje kan prima kort online worden behandeld, puur zodat je lezers laat zien dat je een vinger aan de pols houdt bij een belangrijke, groeiende industrie.
 

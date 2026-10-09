@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-3-razen-door-ruby
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-update-3-razen-door-ruby/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/pokemon-update-3-razen-door-ruby
 socialImage: ./media/gamepraat/pokemon-update-3-razen-door-ruby/a587a110ea.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Vaste lezers weten het inmiddels vast al: iedere maand probeer ik 120 pokémon t
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-3-razen-door-ruby/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-3-razen-door-ruby/).
 
 Ik heb altijd een vast patroon bij het vangen van mijn pokémon. Iedere maand probeer ik een box te vullen, waar er in totaal 30 in passen. Daarbij ga ik de lijst af op basis van Pokédexnummer, waardoor ik in de eerste week bijvoorbeeld de eerste 30 pokémon uit Red, Blue en Yellow ving. In mijn derde maand was ik dus toe aan pokémon nummer 241 tot en met 360.
 
@@ -28,7 +30,7 @@ Het vangen van pokémon is echter niet zo zwart-wit. Soms ben ik op zoek naar ee
 
 ## **Een beetje voor**
 
-Hoe goed ik er ècht voor stond wist ik dus niet - dus dat heb ik deze maand eens uitgezocht. Op de website [Pokédex Tracker](https://pokedextracker.com/u/bas?ref=gamepraat.nl) heb ik alles in m'n boxen aangevinkt, waarna de website precies aangaf hoe ver m'n avontuur nou was. Wat blijkt: ik ben zo te zien al een stukkie verder dan ik in eerste instantie had gedacht. Met bovenstaande link kun je overigens live mijn voortgang volgen, zodat je weet hoe deze artikelreeks er op een specifiek moment van de maand ervoor staat.
+Hoe goed ik er ècht voor stond wist ik dus niet - dus dat heb ik deze maand eens uitgezocht. Op de website [Pokédex Tracker](https://pokedextracker.com/u/bas) heb ik alles in m'n boxen aangevinkt, waarna de website precies aangaf hoe ver m'n avontuur nou was. Wat blijkt: ik ben zo te zien al een stukkie verder dan ik in eerste instantie had gedacht. Met bovenstaande link kun je overigens live mijn voortgang volgen, zodat je weet hoe deze artikelreeks er op een specifiek moment van de maand ervoor staat.
 
 Volgens Pokédex Tracker heb ik op het moment van schrijven 67,5 procent van alle bestaande pokémon in mijn bezit. Ik zit dus al ruim op tweederde. Dat ik al zo ruim op weg ben is een verrassing - deze maand was het doel om tot en met Pokédexnummer 360 te vangen, waardoor ik dacht op de helft te komen van de pakweg 720 pokémon die in de games zitten.
 

@@ -5,13 +5,15 @@ published: 2019-09-13
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /world-of-warcraft-classic-review
   - /artikelen/world-of-warcraft-classic-review
   - /artikelen/recensies/world-of-warcraft-classic-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/world-of-warcraft-classic-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/world-of-warcraft-classic-review-wederom-de-beste-mmorpg-van-het-moment
 socialImage: ../media/gamepraat/world-of-warcraft-classic-review/1da3e68f5c.webp
 publish: true
 ---
@@ -20,7 +22,7 @@ Wie ooit World of Warcraft in 2004 speelde, weet precies wat je kan verwachten v
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/world-of-warcraft-classic-review-wederom-de-beste-mmorpg-van-het-moment/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/world-of-warcraft-classic-review-wederom-de-beste-mmorpg-van-het-moment/).
 
 Het bereiken van level 60 is je voornamelijkste doel, waarna je uiteindelijk kunt raiden in de endgame. Het bereiken van deze endgame is op dit punt van de game echter een veel grotere uitdaging dan inmiddels het geval is. We deden er zeker een uur of twintig over om level 20 te bereiken, waarna het levellen een stuk langzamer verliep.
 

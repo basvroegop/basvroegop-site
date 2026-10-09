@@ -11,11 +11,13 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/nog-nooit-was-china-zo-groot-op-gamescom
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/nog-nooit-was-china-zo-groot-op-gamescom/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/achtergrond/opinie/columns/nog-nooit-was-china-zo-groot-op-gamescom
 socialImage: ./media/gamepraat/nog-nooit-was-china-zo-groot-op-gamescom/6693917a85.webp
 publish: true
 ---
@@ -24,7 +26,7 @@ publish: true
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/opinie/columns/nog-nooit-was-china-zo-groot-op-gamescom/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/opinie/columns/nog-nooit-was-china-zo-groot-op-gamescom/).
 
 Het valt al op bij binnenkomst. Wie via de noordingang arriveert, stuit op een gigantisch groot standbeeld van een draak uit Genshin Impact. Loop je naar binnen, dan bereik je al snel een fikse stand van Genshin-maker Mihoyo, die daar ook zijn games Honkai Star Rail en het nieuwe Zenless Zone Zero laat zien. De zaal is gevuld met (veelal betaalde) cosplayers als personages van de game en Mihoyo adverteert op grote banners tussen de zalen in. En als je naar de bezoekers kijkt, spot je ook binnen de kortste keren Mihoyo-tassen die worden weggegeven.
 

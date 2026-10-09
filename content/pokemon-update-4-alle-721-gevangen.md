@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-4-alle-721-gevangen
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-update-4-alle-721-gevangen/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/pokemon-update-4-alle-721-gevangen
 socialImage: ./media/gamepraat/pokemon-update-4-alle-721-gevangen/e59c0c295a.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is voor jullie inmiddels vaste prik: iedere maand probeer ik 120 pokémon te
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-4-alle-721-gevangen/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-4-alle-721-gevangen/).
 
 Allereerst: mijn excuses. Het idee was om jullie maandelijks op de hoogte te houden van het vangen van alle pokémon, maar de laatste update stamt alweer uit augustus. Een nieuwe vaste baan, een verhuizing en de feestdagen maakten het de laatste maanden verdraaid lastig om tussendoor een stukje te tikken.
 

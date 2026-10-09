@@ -5,13 +5,15 @@ published: 2016-12-06
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /final-fantasy-xv-review
   - /artikelen/final-fantasy-xv-review
   - /artikelen/recensies/final-fantasy-xv-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-xv-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/125844-final-fantasy-xv-review-de-geweldige-koortsdroom-van-een-12-jarige
 socialImage: ../media/gamepraat/final-fantasy-xv-review/d08a19f8b0.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Negen jaar was er voor nodig om Final Fantasy XV op de markt te krijgen. In die 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/125844-final-fantasy-xv-review-de-geweldige-koortsdroom-van-een-12-jarige/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/125844-final-fantasy-xv-review-de-geweldige-koortsdroom-van-een-12-jarige/).
 
 Het verhaal in het kort: je bent prins Noctis en gaat samen met drie lijfwachten/vrienden op pad om met je liefje te trouwen. Dat doe je in een dure bolide, waarmee je door een open spelwereld reist. Het duurt echter niet lang totdat de shit in jouw land flink aan is en je als voortvluchtige moet proberen je land alsnog te redden.
 

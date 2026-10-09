@@ -5,13 +5,15 @@ published: 2019-10-25
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /the-outer-worlds-review
   - /artikelen/the-outer-worlds-review
   - /artikelen/recensies/the-outer-worlds-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/the-outer-worlds-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/the-outer-worlds-is-het-beste-van-fallout-2
 socialImage: ../media/gamepraat/the-outer-worlds-review/19c6f888e1.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Zelfs na de grote teleurstelling die Fallout 76 heet, lijkt Bethesda nog niet be
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-outer-worlds-is-het-beste-van-fallout-2/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-outer-worlds-is-het-beste-van-fallout-2/).
 
 The Outer Worlds heet misschien geen Fallout, maar vergis je niet: dit rollenspel voelt op ieder front aan als een spirituele opvolger van Bethesda's gamereeks. Ook deze game weet shooters en rpg's met elkaar te versmelten. En ook hier heb je de keuze om situaties op meerdere manieren aan te pakken, zodat je de game schietend, hackend of bluffend door kunt komen.
 

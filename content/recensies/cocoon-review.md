@@ -5,13 +5,15 @@ published: 2023-10-11
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /cocoon-review
   - /artikelen/cocoon-review
   - /artikelen/recensies/cocoon-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/cocoon-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/playstation/cocoon-is-een-meesterwerk
 socialImage: ../media/gamepraat/cocoon-review/20389e3379.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/playstation/cocoon-is-een-meesterwerk/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/playstation/cocoon-is-een-meesterwerk/).
 
 Aan de oppervlakte is Cocoon een vrij simpel spel dat je op slechts twee manieren bestuurt: je beweegt je insectachtige robotje met de linkerpook, terwijl je met de A-knop schakelaars omzet of objecten oppakt. Je wordt in een mysterieuze wereld gedropt zonder tekst en uitleg, waar je na voorzichtig verkennen iets geks vindt: een soort grote knikker met in het midden een andere wereld, waar je met behulp van een speciale machine in kunt duiken.
 

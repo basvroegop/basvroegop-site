@@ -11,11 +11,13 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/mega-man-battle-network-esport
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/mega-man-battle-network-esport/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/achtergrond/opinie/columns/mega-man-battle-network-heeft-alles-in-zich-om-een-serieuze-e-sport-te-worden
 socialImage: ./media/gamepraat/mega-man-battle-network-esport/5ac2ef0e76.jpg
 publish: true
 ---
@@ -24,7 +26,7 @@ De Mega Man Battle Network Legacy Collection bundelt Capcoms oude GBA-games en v
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/opinie/columns/mega-man-battle-network-heeft-alles-in-zich-om-een-serieuze-e-sport-te-worden/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/opinie/columns/mega-man-battle-network-heeft-alles-in-zich-om-een-serieuze-e-sport-te-worden/).
 
 Een kwart eeuw later heb ik nog steeds fijne herinneringen aan de eerste Pokémon-hype. De tijd waarin je met een Game Boy op zak naar je schoolvriendjes ging, om daar samen te knokken of zeldzame pokémon met elkaar te ruilen. En als we op school waren, waar gamen niet zomaar mocht, ging het alleen maar over Pokémon. Het was de ultieme collectieve hobby.
 

@@ -5,13 +5,15 @@ published: 2015-11-17
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /five-card-quest-review
   - /artikelen/five-card-quest-review
   - /artikelen/recensies/five-card-quest-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/five-card-quest-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/five-card-quest
 socialImage: ../media/gamepraat/five-card-quest-review/04fee9d1f7.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Ontwikkelaar Rocketcat Games is voor de gemiddelde gamer niet een heel erg geren
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/five-card-quest/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/five-card-quest/).
 
 De meeste games van Rocketcat zien er hetzelfde uit: een dikke, nostalgische pixellaag, die altijd wordt vergezeld door sfeervolle net-niet-chiptune muziek. Het is een stijl waar de studio met Five Card Quest voor het eerst van wegstapt. Dit is geen game met een retro uiterlijk die alles vraagt van je reflexen. In plaats daarvan is Five Card Quest een combinatie van een kaartspel en roguelike, die je heel langzaam moet spelen.
 

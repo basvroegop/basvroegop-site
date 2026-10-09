@@ -5,13 +5,15 @@ published: 2015-11-05
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /tales-of-zestiria-review
   - /artikelen/tales-of-zestiria-review
   - /artikelen/recensies/tales-of-zestiria-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/tales-of-zestiria-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/tales-of-zestiria
 socialImage: ../media/gamepraat/tales-of-zestiria-review/9a85a9eaef.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Tales of Zestiria gaat de clichés niet uit de weg. Al in de eerste minuten krij
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/tales-of-zestiria/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/tales-of-zestiria/).
 
 Dat alles gaat volgens de beproefde Tales-formule: aan het begin van de game wordt er een wereld met eigen natuurwetten neergezet, die naarmate het spel vordert steeds verder worden uitgeplozen. In Zestiria draait het om de Seraphim, een ras aan natuurgeesten die al generaties lang naast mensen leven. Hoewel de Seraphim mensen kunnen zien en ze behoeden tegen gevaar, hebben de meeste mensen geen idee van hun bestaan. De grote uitzondering is Sorey, die in een dorp met deze geesten is opgegroeid.
 

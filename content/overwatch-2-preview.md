@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/overwatch-2-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/overwatch-2-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/preview/overwatch-2
 socialImage: ./media/gamepraat/overwatch-2-preview/8eb643c9b8.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Het vervolg Overwatch biedt iets waar we al jaren naar verlangen: een manier om 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op Gamer.nl.
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/overwatch-2).
 
 Het Overwatch-universum is geweldig. Blizzard heeft de ene trailer na de ander een uitgebreide superheldenwereld geschetst, die aanvoelt als een combinatie van Marvel en Pixar. Video's van slechts een paar minuten lang krijgen ons op het puntje van de stoel, waarna we niets liever willen doen dan de game spelen.
 

@@ -5,13 +5,15 @@ published: 2017-11-15
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /pokemon-ultra-sun-en-ultra-moon-review
   - /artikelen/pokemon-ultra-sun-en-ultra-moon-review
   - /artikelen/recensies/pokemon-ultra-sun-en-ultra-moon-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-ultra-sun-en-ultra-moon-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/pokemon-ultra-sun-en-ultra-moon
 socialImage: ../media/gamepraat/pokemon-ultra-sun-en-ultra-moon-review/d0c34fdad0.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is vaste prik bij Pokémon-games. Een jaar of wat nadat ontwikkelaar Game Fr
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-ultra-sun-en-ultra-moon/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokemon-ultra-sun-en-ultra-moon/).
 
 Verwacht daarom in Ultra Sun en Ultra Moon geen grote vernieuwingen. Dit zijn in grote lijnen dezelfde games, die op slechts een paar fronten zijn vernieuwd. Volgens Game Freak laten de spellen een parallel universum zien - wat in feite een smoes is om hetzelfde verhaal met een paar wijzigingen opnieuw te vertellen. Ook de Alola-eilanden waar de game afspeelt zijn nagenoeg gelijk gebleven.
 

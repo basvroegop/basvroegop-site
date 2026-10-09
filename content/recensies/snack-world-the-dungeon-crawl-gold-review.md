@@ -7,13 +7,15 @@ published: 2020-02-14
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /snack-world-the-dungeon-crawl-gold-review
   - /artikelen/snack-world-the-dungeon-crawl-gold-review
   - /artikelen/recensies/snack-world-the-dungeon-crawl-gold-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/snack-world-the-dungeon-crawl-gold-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/snack-world-the-dungeon-crawl-gold-is-frustrerend-en-verwarrend
 socialImage: ../media/gamepraat/snack-world-the-dungeon-crawl-gold-review/8f7df1ad03.webp
 publish: true
 ---
@@ -22,7 +24,7 @@ Jaren nadat hij op de Nintendo 3DS verscheen, kunnen we in het westen nu de Swit
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/snack-world-the-dungeon-crawl-gold-is-frustrerend-en-verwarrend/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/snack-world-the-dungeon-crawl-gold-is-frustrerend-en-verwarrend/).
 
 Snack World heeft de ingrediënten om iets bijzonders te zijn. De actie-rpg is ontwikkeld door Level-5, dat met titels zoals Dark Cloud, Ni No Kuni en Yo-Kai Watch een grote naam op de jrpg-markt is. Daarnaast is de Nintendo Switch het ideale apparaat voor een game waar je urenlang in weg kan grinden, wat precies het idee achter Snack World is.
 

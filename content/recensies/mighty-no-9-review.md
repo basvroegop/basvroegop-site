@@ -5,13 +5,15 @@ published: 2016-06-13
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /mighty-no-9-review
   - /artikelen/mighty-no-9-review
   - /artikelen/recensies/mighty-no-9-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/mighty-no-9-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/games/mighty-no-9
 socialImage: ../media/gamepraat/mighty-no-9-review/9b703e0571.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Nadat Capcom zijn oude mascotte Mega Man jarenlang geen nieuwe game gunde, beslo
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/games/mighty-no-9/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/games/mighty-no-9/).
 
 Inti Creates, de studio verantwoordelijk voor de laatste grote Mega Man-games, werkte ook mee aan Mighty No. 9. Een paar jaar geleden wisten we het zeker: dit moest wel een waardig vervolg op de Mega Man-reeks worden. Eén van de grote game-iconen zou eindelijk uit de dood kunnen opstaan, om ons de spellen te bieden waar we vroeger zo van genoten. Achteraf gezien had Mega Man beter dood kunnen blijven en voelt het spelen van Mighty No. 9 als een vreemd soort rouwproces.
 

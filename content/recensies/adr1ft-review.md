@@ -5,13 +5,15 @@ published: 2016-04-05
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /adr1ft-review
   - /artikelen/adr1ft-review
   - /artikelen/recensies/adr1ft-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/adr1ft-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/adr1ft
 socialImage: ../media/gamepraat/adr1ft-review/877a4c11e8.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De term 'walking simulator' is een geuzennaam geworden. Hij werd in eerste insta
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/adr1ft/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/adr1ft/).
 
 Adr1ft is ook zo'n walking simulator, al is de term bij deze game niet helemaal op zijn plaats. Je zult tijdens de ongeveer drie uur die de game duurt namelijk geen enkele stap zetten. Na een ongeluk word je wakker tussen de wrakstukken van een ruimtestation, zonder dat direct duidelijk is wat er is gebeurd. Omdat er geen zwaartekracht is, moet je met de stuwmotoren van je astronautenpak door de ruimte vliegen.
 

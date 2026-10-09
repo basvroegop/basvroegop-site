@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/de-jacht-op-alle-721-pokemon-is-geopend
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/de-jacht-op-alle-721-pokemon-is-geopend/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/de-jacht-op-alle-721-pokemon-is-geopend
 socialImage: ./media/gamepraat/de-jacht-op-alle-721-pokemon-is-geopend/50f120284f.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Ik heb alle hoofdgames uit de Pokémon-serie gespeeld, maar in al die jaren heb 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/de-jacht-op-alle-721-pokemon-is-geopend/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/de-jacht-op-alle-721-pokemon-is-geopend/).
 
 Dat leek mij veel te veel werk, totdat ik recentelijk wat sentimenteel de Pokémon-livestreams op Twitch zat te volgen. Pokémon vierde zijn 20e verjaardag, wat voor de streamers een goede reden was om een paar van de games uit de reeks voor een miljoenenpubliek online te spelen en daarna oude films en afleveringen te tonen. Voor ik het wist stond de port van Pokémon Yellow geïnstalleerd op mijn Nintendo 3DS en beloofde ik mijn vriendin iets: ik zal voordat Pokémon Sun en Moon verschijnen de meest recente Pokédex compleet maken.
 

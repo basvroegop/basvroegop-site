@@ -6,10 +6,13 @@ modified: 2022-07-01
 aliases:
   - /artikelen/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/
+source: Laadscherm
+sourceUrl: https://laadscherm.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde
 socialImage: ./media/gamepraat/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/bd04d59f3e.jpg
 publish: true
+tags:
+  - Elders gepubliceerd
+  - Laadscherm
 ---
 
 Pokémon Diamond verscheen officieel in 2006, maar ik speelde de game al zeker vijf jaar daarvoor. Niet op de Nintendo DS, waar het spel voor is uitgebracht, maar gewoon op mijn oude Game Boy Color.
@@ -18,7 +21,7 @@ Een klasgenootje had tijdens een vakantie naar Polen voor een schijntje het pas 
 
 > [!NOTE]
 >
-> Dit verhaal verscheen eerder [op Laadscherm](https://laadscherm.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/?ref=gamepraat.nl).
+> Dit verhaal verscheen eerder [op Laadscherm](https://laadscherm.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/).
 
 Diamond bleek ook anders in elkaar te steken dan eerdere games in de reeks. In de game heb je bijvoorbeeld niet zes monsters bij je om mee te vechten, maar kun je een veel grotere verzameling beesten op ieder moment bellen met je mobieltje.
 
@@ -44,7 +47,7 @@ Pokémon Diamond en Jade zijn inmiddels beruchte voorbeelden van bootleggames �
 
 De meeste bootleggames waren snelle ports van nieuwe games voor oudere spelcomputers, die zo verwarde ouders konden foppen. Midden jaren ‘90 verscheen bijvoorbeeld Mega Man X voor de Super Nintendo (SNES), maar al snel was [Rockman X](https://www.youtube.com/watch?v=9twLEiglJm0&ref=gamepraat.nl) ook te koop voor de Game Boy, Famicom en Nintendo Entertainment System (NES). De makers van Rockman X combineerden onderdelen uit eerdere NES-games van de reeks met eigen ideeën, om zo snel een nieuwe game te maken voor fans die nog geen SNES in huis hadden staan.
 
-Kinderen die opgroeiden met deze bootlegs, ontdekten jaren later vaak pas wat ze nu eigenlijk hadden gespeeld, waardoor deze games een wat unieke reputatie hebben gekregen. Tijdens de speedrunmarathon [Games Done Quick](https://gamesdonequick.com/?ref=gamepraat.nl) werd dit jaar bijvoorbeeld de bootlegtitel Donkey Kong 5: The Journey of Over Time and Space gespeeld. Een spel met zijn eigen, vreemde charme, dat in de praktijk vooral bestaat uit opnieuw gemaakte levels uit Super Mario Bros. met zeer slecht vertaalde teksten in het Engels.
+Kinderen die opgroeiden met deze bootlegs, ontdekten jaren later vaak pas wat ze nu eigenlijk hadden gespeeld, waardoor deze games een wat unieke reputatie hebben gekregen. Tijdens de speedrunmarathon [Games Done Quick](https://gamesdonequick.com/) werd dit jaar bijvoorbeeld de bootlegtitel Donkey Kong 5: The Journey of Over Time and Space gespeeld. Een spel met zijn eigen, vreemde charme, dat in de praktijk vooral bestaat uit opnieuw gemaakte levels uit Super Mario Bros. met zeer slecht vertaalde teksten in het Engels.
 
 ![](./media/gamepraat/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/9b49ddd457.jpg)
 

@@ -5,13 +5,15 @@ published: 2020-02-25
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /mega-man-zero-zx-collection-review
   - /artikelen/mega-man-zero-zx-collection-review
   - /artikelen/recensies/mega-man-zero-zx-collection-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/mega-man-zero-zx-collection-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/mega-man-zerozx-collection-maakt-de-beste-mega-man-games-weer-actueel
 socialImage: ../media/gamepraat/mega-man-zero-zx-collection-review/e5e0af9666.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Na het heruitbrengen van de klassieke Mega Man-delen en de Mega Man X-games, kun
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/mega-man-zerozx-collection-maakt-de-beste-mega-man-games-weer-actueel/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/mega-man-zerozx-collection-maakt-de-beste-mega-man-games-weer-actueel/).
 
 Mega Man heeft in de loop der jaren een wat verwarrende tijdlijn gekregen. Eens in de zoveel consolegeneraties maakt Capcom een sprong in de tijd of wordt er een alternatief universum gecreëerd, om nieuwe games van de oude mascotte een frisse wind te geven. Dat gebeurde bijvoorbeeld bij de introductie van de Game Boy Advance: het nieuwe Mega Man Zero speelde honderd jaar na de laatste Mega Man X-games af, in een tijd dat oud-held X aan het hoofd staat van een dictatoriaal bewind.
 

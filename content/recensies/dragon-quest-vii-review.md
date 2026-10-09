@@ -5,13 +5,14 @@ published: 2016-09-13
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /dragon-quest-vii-review
   - /artikelen/dragon-quest-vii-review
   - /artikelen/recensies/dragon-quest-vii-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragon-quest-vii-review/
+source: InsideGamer
 socialImage: ../media/gamepraat/dragon-quest-vii-review/79e32bb917.jpeg
 publish: true
 ---

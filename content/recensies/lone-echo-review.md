@@ -5,13 +5,15 @@ published: 2017-08-04
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /lone-echo-review
   - /artikelen/lone-echo-review
   - /artikelen/recensies/lone-echo-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/lone-echo-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/129044-lone-echo-review-nieuwe-standaard-voor-vr
 socialImage: ../media/gamepraat/lone-echo-review/b46cacd6b1.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De nieuwe ruimtegame Lone Echo is een mijlpaal. Dit is misschien wel de beste vi
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129044-lone-echo-review-nieuwe-standaard-voor-vr/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129044-lone-echo-review-nieuwe-standaard-voor-vr/).
 
 Wellicht klinkt het je bekend in de oren. In Lone Echo zweef je door een veraf gelegen ruimtestation, dat ineens door mysterieuze problemen wordt getroffen. Waarom zijn grote delen van de basis ineens onbruikbaar? En wat is toch die rare anomalie die vlakbij Saturnus hangt?
 

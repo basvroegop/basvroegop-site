@@ -5,13 +5,15 @@ published: 2015-12-26
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /knights-of-pen-paper-2-review
   - /artikelen/knights-of-pen-paper-2-review
   - /artikelen/recensies/knights-of-pen-paper-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/knights-of-pen-paper-2-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/knights-of-pen-paper
 socialImage: ../media/gamepraat/knights-of-pen-paper-2-review/c60f14493d.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het is nagenoeg onmogelijk om een potje Dungeons & Dragons (D&D) te vertalen naa
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/knights-of-pen-paper/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/knights-of-pen-paper/).
 
 Knights of Pen & Paper is een van de weinige spellen die juist de charme van een groep vrienden aan tafel wist vast te leggen. De spelregels zijn extreem versimpeld en op sommige vlakken is het haast geen RPG te noemen, maar de essentie is er wel: je speelt als een groep vrienden in een huiskamer, die samen een avontuur bij elkaar fantaseert. Het tweede deel bouwt daar op voort.
 

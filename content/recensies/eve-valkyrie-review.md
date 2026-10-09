@@ -5,13 +5,15 @@ published: 2016-07-13
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /eve-valkyrie-review
   - /artikelen/eve-valkyrie-review
   - /artikelen/recensies/eve-valkyrie-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/eve-valkyrie-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/eve-valkyrie
 socialImage: ../media/gamepraat/eve-valkyrie-review/ab0cd88b49.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Er is een reden waarom Oculus steeds EVE Valkyrie gebruikte om de Rift te demons
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/eve-valkyrie/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/eve-valkyrie/).
 
 De belofte die EVE Valkyrie in het begin maakt is geweldig. Je zit in een stoel van een mysterieuze kamer, waarin een kunstmatige intelligentie je helpt om te herinneren wat er is gebeurd. Wat volgt zijn een aantal korte tutorialmissies waarin je ziet hoe jij als piloot bent overleden. Je bewustzijn is in een chip geüpload en wordt in klonen geplaatst om in ruimtegevechten te strijden.
 

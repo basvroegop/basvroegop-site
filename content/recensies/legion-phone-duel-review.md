@@ -6,13 +6,15 @@ modified: 2022-07-04
 tags:
   - Tech
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /legion-phone-duel-review
   - /artikelen/legion-phone-duel-review
   - /artikelen/recensies/legion-phone-duel-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/legion-phone-duel-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/legion-phone-duel-is-een-gamingsmartphone-met-triggers
 socialImage: ../media/gamepraat/legion-phone-duel-review/71718ca0d6.jpg
 publish: true
 ---
@@ -21,7 +23,7 @@ Lenovo verkoopt naast zijn game-pc's en gamelaptops inmiddels ook gametelefoons.
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/legion-phone-duel-is-een-gamingsmartphone-met-triggers/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/legion-phone-duel-is-een-gamingsmartphone-met-triggers/).
 
 De belofte om een gamingsmartphone te maken is een vreemde. Bij een gaming-pc of laptop kan een fabrikant beloven de nieuwste, krachtigste hardware te implementeren, zodat spellen op veel hogere instellingen gedraaid kunnen worden dan op een alledaagse werkbak. Maar smartphonemakers gebruiken al de allerbeste hardware in hun mainstream apparaten. Met andere woorden: een gamingtelefoon kan niet mooiere games tonen dan standaardtoestellen in hetzelfde prijssegment en moet het van andere ideeën hebben.
 

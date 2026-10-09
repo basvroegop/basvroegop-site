@@ -5,13 +5,15 @@ published: 2019-10-13
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /final-fantasy-8-remastered-review
   - /artikelen/final-fantasy-8-remastered-review
   - /artikelen/recensies/final-fantasy-8-remastered-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-8-remastered-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/final-fantasy-8-remastered-is-de-beste-versie-van-een-polariserende-game
 socialImage: ../media/gamepraat/final-fantasy-8-remastered-review/ae57211d4a.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Square Enix heeft in het verleden flinke problemen gehad met het remasteren of p
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-8-remastered-is-de-beste-versie-van-een-polariserende-game/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-8-remastered-is-de-beste-versie-van-een-polariserende-game/).
 
 Wie herinnert zich de remaster van Final Fantasy 6 nog? Toen Square Enix één van de meest geprezen delen in de gamereeks opnieuw uitbracht, ging dat gepaard met een aantal opmerkelijke keuzes. Zo werd besloten om de pixelstijl van het origineel om te ruilen voor een compleet nieuw ontwerp, waarin al het complexe schaduw- en kleurwerk werd verruild voor een soort Playmobil-design.
 

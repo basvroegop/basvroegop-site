@@ -6,11 +6,12 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /artikelen/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven/
+source: InsideGamer
 socialImage: ./media/gamepraat/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven/be08b5507d.jpeg
 publish: true
 ---

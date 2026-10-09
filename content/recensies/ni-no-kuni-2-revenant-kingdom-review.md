@@ -5,13 +5,15 @@ published: 2018-03-29
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /ni-no-kuni-2-revenant-kingdom-review
   - /artikelen/ni-no-kuni-2-revenant-kingdom-review
   - /artikelen/recensies/ni-no-kuni-2-revenant-kingdom-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/ni-no-kuni-2-revenant-kingdom-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/ni-no-kuni-2-revenant-kingdom
 socialImage: ../media/gamepraat/ni-no-kuni-2-revenant-kingdom-review/f459a5df28.png
 publish: true
 ---
@@ -20,7 +22,7 @@ In Ni No Kuni 2 speel je Evan Pettiwhisker Tildrum - een jonge, katachtige konin
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/ni-no-kuni-2-revenant-kingdom/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/ni-no-kuni-2-revenant-kingdom/).
 
 Bovenstaand verhaal voelt wat ééndimensionaal aan, een gevoel dat alleen maar wordt versterkt door de jonge Evan die iedere kans aangrijpt om voor wereldvrede te pleiten. Dit is duidelijk geen complex politiek fantasiedrama zoals Game of Thrones, maar een koddig sprookje dat het vooral moet hebben van zijn charme. Naarmate de game vordert, sticht Evan een eigen koninkrijk dat de hele wereld op termijn moet overheersen - in een poging om wereldvrede te stichten. In andere jrpg's zou die redenering van Evan de uiteindelijke schurk maken, maar in de wereld van Ni No Kuni weet de koning zijn nieuwe volgelingen vooral te charmeren met zijn pure intenties en groot hart.
 

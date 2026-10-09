@@ -5,13 +5,15 @@ published: 2017-08-23
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /matterfall-review
   - /artikelen/matterfall-review
   - /artikelen/recensies/matterfall-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/matterfall-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/matterfall
 socialImage: ../media/gamepraat/matterfall-review/f2f9a0cbfd.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Ontwikkelaar Housemarque heeft naam gemaakt met shoot 'em ups zoals Resogun en S
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/matterfall/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/matterfall/).
 
 Het verhaal van Matterfall is zo simpel, dat je deze alleen maar in het openingsfilmpje te zien krijgt. Grote bedrijven op aarde gebruikten een mysterieus metaal uit de ruimte, dat op een dag ineens tot leven komt. Hierdoor heeft alle technologie op de planeet zich tegen de mensheid gekeerd. Het is aan jou om achtergelegen overlevenden te redden.
 

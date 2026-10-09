@@ -10,13 +10,15 @@ published: 2023-08-14
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /baldurs-gate-3-review
   - /artikelen/baldurs-gate-3-review
   - /artikelen/recensies/baldurs-gate-3-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/baldurs-gate-3-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/pc-games/baldur-s-gate-3-is-de-beste-rpg-in-jaren
 socialImage: ../media/gamepraat/baldurs-gate-3-review/6e55442a2d.jpg
 publish: true
 ---
@@ -25,7 +27,7 @@ Baldur's Gate 3 is één van de beste games die dit jaar is verschenen - misschi
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/pc-games/baldur-s-gate-3-is-de-beste-rpg-in-jaren/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/pc-games/baldur-s-gate-3-is-de-beste-rpg-in-jaren/).
 
 Rpg's schotelen ons al jaren keuzevrijheid voor. Een tof idee dat in de praktijk vaak neerkomt op keuze uit een paar smaken. Shepard kan in Mass Effect zich nobel opstellen of als cowboy iedere boef neerschieten, maar uiteindelijk bereikt hij altijd hetzelfde doel: de missie wordt gehaald. Soms is een ver afgelegen buitenaards ras door je besluit uitgestorven, maar dat is hooguit verhaalontwikkeling op de achtergrond. De gamewereld waar je zelf in rondloopt blijft ruwweg hetzelfde en je primaire pad blijft onveranderd.
 

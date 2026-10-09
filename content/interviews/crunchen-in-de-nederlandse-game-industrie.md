@@ -5,13 +5,15 @@ published: 2016-04-07
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /crunchen-in-de-nederlandse-game-industrie
   - /artikelen/crunchen-in-de-nederlandse-game-industrie
   - /artikelen/interviews/crunchen-in-de-nederlandse-game-industrie
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/crunchen-in-de-nederlandse-game-industrie/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/hoe-is-het-om-te-crunchen-in-de-nederlandse-game-industrie
 socialImage: ../media/gamepraat/crunchen-in-de-nederlandse-game-industrie/4fb64d93d6.jpg
 publish: true
 ---
@@ -20,13 +22,13 @@ Als er iets is waar je mensen uit de game-industrie soms huiverig over hoort pra
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/hoe-is-het-om-te-crunchen-in-de-nederlandse-game-industrie/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/hoe-is-het-om-te-crunchen-in-de-nederlandse-game-industrie/).
 
-Om die vraag te beantwoorden spraken we onder andere met **Joost van Dongen**, hoofdprogrammeur en medeoprichter van de Nederlandse studio [Ronimo Games](http://www.ronimo-games.com/?ref=gamepraat.nl). Zijn bedrijf heeft inmiddels meerdere spellen op de markt gebracht, waaronder Swords & Soldiers en de tweedimensionale Moba Awesomenauts.
+Om die vraag te beantwoorden spraken we onder andere met **Joost van Dongen**, hoofdprogrammeur en medeoprichter van de Nederlandse studio [Ronimo Games](http://www.ronimo-games.com/). Zijn bedrijf heeft inmiddels meerdere spellen op de markt gebracht, waaronder Swords & Soldiers en de tweedimensionale Moba Awesomenauts.
 
-**Rami Ismail** is één van de twee helften van [Vlambeer](http://www.vlambeer.com/?ref=gamepraat.nl), een succesvolle Nederlandse indiestudio die met games als Radical Fishing, Super Crate Box en Nuclear Throne wereldwijd succes heeft geboekt.
+**Rami Ismail** is één van de twee helften van [Vlambeer](http://www.vlambeer.com/), een succesvolle Nederlandse indiestudio die met games als Radical Fishing, Super Crate Box en Nuclear Throne wereldwijd succes heeft geboekt.
 
-**Sebastiaan Moeys** is medeoprichter van [Poki](http://poki.com/company/?ref=gamepraat.nl), een uitgever van webgames gevestigd in Amsterdam. Deze start-up probeert zich te onderscheiden door spellen op meerdere (mobiele) platformen uit te brengen.
+**Sebastiaan Moeys** is medeoprichter van [Poki](http://poki.com/company/), een uitgever van webgames gevestigd in Amsterdam. Deze start-up probeert zich te onderscheiden door spellen op meerdere (mobiele) platformen uit te brengen.
 
 Tot slot hebben we gesproken met een **ontwerper** bij een groot, Nederlands bedrijf binnen de game-industrie die liever anoniem wil blijven.
 

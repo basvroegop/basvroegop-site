@@ -5,13 +5,15 @@ published: 2016-07-23
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /star-ocean-integrity-and-faithlessness-review
   - /artikelen/star-ocean-integrity-and-faithlessness-review
   - /artikelen/recensies/star-ocean-integrity-and-faithlessness-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/star-ocean-integrity-and-faithlessness-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/star-ocean-integrity-faithlessness
 socialImage: ../media/gamepraat/star-ocean-integrity-and-faithlessness-review/9a1533bc87.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ We lijken middenin een jrpg-renaissance te zitten. Final Fantasy XV, Persona 5 e
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/star-ocean-integrity-faithlessness/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/star-ocean-integrity-faithlessness/).
 
 Het zal jrpg-spelers bekend in de oren klinken: in Star Ocean speel je Fidel, een jonge zwaardvechter wiens dorp wordt aangevallen. Door alles dat daarna volgt wordt hij onbedoeld een groot, intergalactisch conflict in gesleurd, dat alleen hij met zijn moed en feilloze morele kompas kan oplossen.
 

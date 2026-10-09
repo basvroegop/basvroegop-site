@@ -5,13 +5,15 @@ published: 2016-01-26
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /punch-club-review
   - /artikelen/punch-club-review
   - /artikelen/recensies/punch-club-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/punch-club-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/punch-club
 socialImage: ../media/gamepraat/punch-club-review/8b029ff101.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Net als Rocky in de ring staan; dat deden we al geregeld in boksgames. Maar er z
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/punch-club/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/punch-club/).
 
 Punch Club gaat misschien over boksen, maar je zult zelf geen enkele klap maken. De bokswedstrijden van Punch Club verlopen automatisch, waardoor jij je alleen maar hoeft te richten op de training en het werkleven. Bovenin het scherm staan energiebalken die bijvoorbeeld slaap, energie en gezondheid aangeven. Deze balkjes moeten gevuld blijven terwijl je de statistieken van je vechter omhoog pompt.
 

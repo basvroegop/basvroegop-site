@@ -5,13 +5,15 @@ published: 2018-01-30
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /dragon-ball-fighterz-review
   - /artikelen/dragon-ball-fighterz-review
   - /artikelen/recensies/dragon-ball-fighterz-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/dragon-ball-fighterz-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/dragon-ball-fighterz
 socialImage: ../media/gamepraat/dragon-ball-fighterz-review/61663782b3.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ In de afgelopen jaren zijn een hoop matige Dragon Ball-games de revue gepasseerd
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-ball-fighterz/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/dragon-ball-fighterz/).
 
 Dragon Ball FighterZ is namelijk ontwikkeld door Arc System Works, de studio die we ook wel kennen van de Guilty Gear- en BlazBlue-reeksen. Het bedrijf is daardoor niet alleen gespecialiseerd in het ontwikkelen van fighters, maar weet ook als geen ander daar een flink anime-sausje overheen te gieten. Een stijl waar Dragon Ball FighterZ ontzettend goed op weet aan te sluiten.
 

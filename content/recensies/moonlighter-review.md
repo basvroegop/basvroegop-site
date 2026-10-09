@@ -5,13 +5,15 @@ published: 2018-05-31
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /moonlighter-review
   - /artikelen/moonlighter-review
   - /artikelen/recensies/moonlighter-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/moonlighter-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/moonlighter
 socialImage: ../media/gamepraat/moonlighter-review/0c4d4aa1b5.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Je zou denken dat de winkeliers in rpg’s saaie levens leiden, maar de nieuwe i
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/moonlighter/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/moonlighter/).
 
 In Moonlighter heb je een winkeltje in een klein dorp vlak naast vijf mysterieuze kerkers. In eerste instantie kun je slechts één van deze grotten in, maar naarmate de game vordert, ontgrendel je meer plekken om te verkennen.
 

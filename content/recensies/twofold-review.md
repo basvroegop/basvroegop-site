@@ -5,13 +5,15 @@ published: 2016-02-17
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /twofold-review
   - /artikelen/twofold-review
   - /artikelen/recensies/twofold-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/twofold-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/twofold
 socialImage: ../media/gamepraat/twofold-review/43b4d7ade3.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Van alle genres is het misschien wel het moeilijkst om puzzelgames te innoveren.
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op Gamer.nl.
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/twofold).
 
 Het komt daarom niet vaak voor dat een spel net zo vernieuwend aanvoelt als Tetris in de jaren '80. Maar als het gebeurt, dan is het meestal op smartphones. Dat bewees Threes ons twee jaar terug nog.
 

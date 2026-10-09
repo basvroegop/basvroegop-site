@@ -5,13 +5,15 @@ published: 2017-04-03
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /persona-5-review
   - /artikelen/persona-5-review
   - /artikelen/recensies/persona-5-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/persona-5-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/127254-persona-5-review-daten-voor-betere-stats
 socialImage: ../media/gamepraat/persona-5-review/ad9865eee9.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Persona 5 is inmiddels zo vaak uitgesteld, dat de game zelfs een consolegenerati
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127254-persona-5-review-daten-voor-betere-stats/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/127254-persona-5-review-daten-voor-betere-stats/).
 
 Persona 5 combineert net als voorgaande delen een levenssimulator met een Japans rollenspel. In de ochtend moet je naar school om te studeren, waarna je ’s middags de kerkers in kunt trekken. Dat doe je in de zogeheten Metaverse – een wereld die bestaat uit de vormgegeven emoties van verdorven personen. Door in zo’n kerker de schat op het einde te stelen, kun je dit slechte stukje van een persoon vernietigen. Het resultaat: mogelijk betert die persoon in de echte wereld zijn of haar leven.
 

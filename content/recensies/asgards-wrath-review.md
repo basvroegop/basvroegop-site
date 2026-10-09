@@ -5,13 +5,15 @@ published: 2019-10-24
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /asgards-wrath-review
   - /artikelen/asgards-wrath-review
   - /artikelen/recensies/asgards-wrath-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/asgards-wrath-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/asgards-wrath-is-de-eerste-echte-triple-a-voor-vr
 socialImage: ../media/gamepraat/asgards-wrath-review/d1190b2be9.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Asgard's Wrath is misschien wel de eerste echte triple-A-game voor virtual reali
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/asgards-wrath-is-de-eerste-echte-triple-a-voor-vr/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/asgards-wrath-is-de-eerste-echte-triple-a-voor-vr/).
 
 Virtual reality is inmiddels niet meer weg te denken uit het gamelandschap, maar het aantal écht unieke games voor de headsets is nog beperkt. Vraag een fanatiek vr-gamer naar zijn favorieten, en ze zullen bijvoorbeeld de vr-versie van Superhot noemen, of de port van Skyrim. Een enkeling zal verwijzen naar games die één ding heel goed doen, zoals Beat Saber of Echo Arena. Maar een voor vr ontwikkelde gigaproductie zoals een God of War of Call of Duty, die tientallen complexe systemen samenbrengt in iets unieks, is amper te vinden.
 

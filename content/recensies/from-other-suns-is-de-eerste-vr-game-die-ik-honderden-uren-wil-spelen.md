@@ -5,13 +5,15 @@ published: 2018-01-03
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen
   - /artikelen/from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen
   - /artikelen/recensies/from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/favorieten-van-de-redactie/bastiaan-vroegop-from-other-suns
 socialImage: ../media/gamepraat/from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen/2d3cea237d.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Ik ben al jarenlang enthousiast over de mogelijkheden van virtual reality. Maar 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/favorieten-van-de-redactie/bastiaan-vroegop-from-other-suns/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/favorieten-van-de-redactie/bastiaan-vroegop-from-other-suns/).
 
 Dat terwijl From Other Suns als spel niet eens zo origineel is. Als je FTL hebt gespeeld, dan ken je deze vr-game ook wel. Je bent een crewlid op een ruimteschip, dat de aarde moet bereiken voordat een alienras aanvalt. Je doet dit door van stelsel naar stelsel te warpen, brandstof te verzamelen, je schip op te vijzelen en vijanden te verslaan. Ditmaal niet van bovenaf zoals in FTL, maar vanuit een eerstepersoonsperspectief.
 

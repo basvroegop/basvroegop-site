@@ -5,13 +5,15 @@ published: 2016-03-16
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /pokken-tournament-review
   - /artikelen/pokken-tournament-review
   - /artikelen/recensies/pokken-tournament-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokken-tournament-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/pokken-tournament
 socialImage: ../media/gamepraat/pokken-tournament-review/4ef81d9592.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Lang na de release in de arcadehallen is Pokkén Tournament nu ook voor de Wii U
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokken-tournament/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/pokken-tournament/).
 
 Je kunt kiezen uit een kleine verzameling pokémon, die een op een de strijd aangaan. Dat begint in eerste instantie in een 3D-arena, waarin je kunt springen en slaan, maar ook projectielen kunt gooien zoals in de recente Naruto-vechtspellen en Power Stone. Door je aanvallen te combineren met goed getimede bewegingen van de stick of d-pad voer je speciale combo's uit.
 

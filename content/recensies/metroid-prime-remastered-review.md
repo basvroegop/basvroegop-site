@@ -10,13 +10,15 @@ published: 2023-02-14
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /metroid-prime-remastered-review
   - /artikelen/metroid-prime-remastered-review
   - /artikelen/recensies/metroid-prime-remastered-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/metroid-prime-remastered-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/nintendo-switch/metroid-prime-remastered-is-bijna-remake-waardig
 socialImage: ../media/gamepraat/metroid-prime-remastered-review/d0563292a1.webp
 publish: true
 ---
@@ -25,7 +27,7 @@ publish: true
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/metroid-prime-remastered-is-bijna-remake-waardig/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/metroid-prime-remastered-is-bijna-remake-waardig/).
 
 Het is ruim twintig jaar geleden sinds Metroid Prime voor de GameCube verscheen. Dat benadrukken we even, want bij het spelen van de remaster is het soms lastig voor mogelijk te houden dat dit zo'n oude game is. Prime kan zich meten met veel moderne titels, al helemaal nu moderne besturingsopties met bijvoorbeeld twee analoge sticks zijn toegevoegd.
 

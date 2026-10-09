@@ -1,0 +1,230 @@
+{
+  "generatedAt": "2026-10-09",
+  "source": "Dagblad van het Noorden / Leeuwarder Courant",
+  "status": "blocked-awaiting-source-text",
+  "reason": "De auteurspagina's en artikelpagina's blokkeren geautomatiseerde toegang. Zoekmachines tonen wel metadata, maar niet voor ieder stuk de volledige en controleerbare tekst.",
+  "filters": {
+    "include": ["eigen recensies", "achtergronden", "reportages", "onderzoeken", "interviews"],
+    "exclude": ["routinenieuws", "maandoverzichten"],
+    "separateContributionRequired": true
+  },
+  "candidates": [
+    {
+      "published": "2025-03-11",
+      "title": "Wat hebben we aan de gewilde ‘AI-fabriek’ in Groningen? En waar komt die te staan?",
+      "url": "https://www.dvhn.nl/economie/wat-hebben-we-aan-de-gewilde-ai-fabriek-in-groningen-en-waar-komt-die-te-staan/155023684.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-03-24",
+      "title": "Zo goedkoop mogelijk scoren in webwinkels? Met deze vier tips lukt je dat direct",
+      "url": "https://www.dvhn.nl/lifestyle/geld/zo-goedkoop-mogelijk-scoren-in-webwinkels-met-deze-vier-tips-lukt-je-dat-direct/155027920.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-04-14",
+      "title": "Robin (27) zorgt ervoor dat het internet blijft werken. Ze werkt in dit mysterieuze datacenter van Google in de Eemshaven",
+      "url": "https://dvhn.nl/groningen/Google-toont-mysterieus-datacenter-aan-schoolklas.-Medewerkster-Robin-zorgt-%E2%80%98dat-het-internet-blijft-werken%E2%80%99-46104386.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-05-17",
+      "title": "Sam (6) uit Bakkeveen mocht als eerste Nederlandse kleuter op nieuwe Nintendo Switch 2 spelen",
+      "url": "https://www.dvhn.nl/lifestyle/tech/sam-6-uit-bakkeveen-mocht-als-eerste-nederlandse-kleuter-op-nieuwe-nintendo-switch-2-spelen/155045859.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-07-06",
+      "title": "Hoe het 50 jaar oude rollenspel Dungeons & Dragons kinderen voorbereidt op het echte leven",
+      "url": "https://www.lc.nl/regio/friesland/hoe-het-50-jaar-oude-rollenspel-dungeons-dragons-kinderen-voorbereidt-op-het-echte-leven/156391731.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-07-07",
+      "title": "Wandelsimulator Death Stranding 2 is de gekste game die je dit jaar gaat spelen: de ‘Tarantino van videogames’",
+      "url": "https://www.lc.nl/lifestyle/tech/wandelsimulator-death-stranding-2-is-de-gekste-game-die-je-dit-jaar-gaat-spelen-de-tarantino-van-videogames/157656397.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-07-17",
+      "title": "Pokémon-kaarten zijn tonnen waard. Pascal uit Assen: ‘Ik had een kwart van mijn hypotheek kunnen afbetalen’",
+      "url": "https://www.dvhn.nl/regio/groningen/pokemon-kaarten-zijn-tonnen-waard.-pascal-uit-assen-ik-had-een-kwart-van-mijn-hypotheek-kunnen-afbetalen/155068328.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-09-05",
+      "title": "Slimme bril van Facebook straks ook in Groningen en Drenthe te koop. Maar wat kan je er allemaal mee?",
+      "url": "https://www.dvhn.nl/lifestyle/tech/slimme-bril-van-facebook-straks-ook-in-groningen-en-drenthe-te-koop.-maar-wat-kan-je-er-allemaal-mee/155085690.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-09-06",
+      "title": "Laat je niet meer afleiden: Nederlandse Fairphone 6 heeft slimme truc tegen schermtijd",
+      "url": "https://www.dvhn.nl/lifestyle/tech/laat-je-niet-meer-afleiden-nederlandse-fairphone-6-heeft-slimme-truc-tegen-schermtijd/155087028.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-09-21",
+      "title": "Een beeldscherm met ‘echte’ inkt is voor meer dan alleen je e-reader goed",
+      "url": "https://www.dvhn.nl/lifestyle/tech/een-beeldscherm-met-echte-inkt-is-voor-meer-dan-alleen-je-e-reader-goed/155090856.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-10-06",
+      "title": "AI-app van ChatGPT laat gebruikers in minuten nepnieuws van Nederlandse media maken",
+      "url": "https://dvhn.nl/meer/tech/ai-app-van-chatgpt-laat-gebruikers-in-minuten-nepnieuws-van-nederlandse-media-maken-47461115.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-11-05",
+      "title": "Schiermonnikoog blundert met identiteitsgegevens inwoners: ‘Het is gewoon supervervelend’",
+      "url": "https://www.dvhn.nl/regio/groningen/wadden/schiermonnikoog-blundert-met-identiteitsgegevens-inwoners-het-is-gewoon-supervervelend/155103894.html",
+      "decision": "include"
+    },
+    {
+      "published": "2025-11-06",
+      "title": "Twee weken lang werd Omrin gegijzeld door Russische hackers. Er werd geen cent betaald",
+      "url": "https://www.dvhn.nl/regio/groningen/het-hogeland/twee-weken-lang-werd-omrin-gegijzeld-door-russische-hackers.-er-werd-geen-cent-betaald/155104139.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-01-08",
+      "title": "In de Roblox-versies van Emmen en Leeuwarden spelen pubers politie-agentje en worden naaktfoto’s en complotten verspreid",
+      "url": "https://www.dvhn.nl/regio/drenthe/emmen/in-de-roblox-versies-van-emmen-en-leeuwarden-spelen-pubers-politie-agentje-en-worden-naaktfotos-en-complotten-verspreid/155117380.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-01-17",
+      "title": "Je laptop door een iPad vervangen? Het kan beter dan ooit – maar net zo productief zul je niet zijn",
+      "url": "https://www.lc.nl/lifestyle/tech/je-laptop-door-een-ipad-vervangen-het-kan-beter-dan-ooit-maar-net-zo-productief-zul-je-niet-zijn/156437372.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-02-02",
+      "title": "In drie dagen tijd moesten deze Groningers een volledige game bouwen",
+      "url": "https://www.dvhn.nl/lifestyle/tech/in-drie-dagen-tijd-moesten-deze-groningers-een-volledige-game-bouwen/155120718.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-02-12",
+      "title": "Steffen (36) uit Groningen scheidst overal ter wereld Pokémontoernooien",
+      "url": "https://www.dvhn.nl/lifestyle/tech/steffen-36-uit-groningen-scheidst-overal-ter-wereld-pokemontoernooien/155122086.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-02-26",
+      "title": "Ondernemer Mark (45) wil het Groningse alternatief voor Amerikaanse AI-servers bouwen",
+      "url": "https://www.dvhn.nl/lifestyle/tech/ondernemer-mark-45-wil-het-groningse-alternatief-voor-amerikaanse-ai-servers-bouwen/155124215.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-03-04",
+      "title": "Deze Google-telefoon is nieuwer, maar helemaal niet sneller",
+      "url": "https://www.dvhn.nl/lifestyle/tech/deze-google-telefoon-is-nieuwer-maar-helemaal-niet-sneller/155125120.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-03-06",
+      "title": "Weg van Big Tech: met deze mega-gids stap je digitaal over naar Europese alternatieven",
+      "url": "https://www.dvhn.nl/lifestyle/tech/weg-van-big-tech-met-deze-mega-gids-stap-je-digitaal-over-naar-europese-alternatieven/155125393.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-03-12",
+      "title": "Telefoons met robots, magneten en een telefoon voor je hond: op de grootste telecombeurs ter wereld zie je het allemaal",
+      "url": "https://www.dvhn.nl/lifestyle/tech/telefoons-met-robots-magneten-en-een-telefoon-voor-je-hond-op-de-grootste-telecombeurs-ter-wereld-zie-je-het-allemaal/155125723.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-04-06",
+      "title": "Voor het eerst is Apples laptop een prijsvechter. Techgigant mengt zich met MacBook Neo in de strijd om het middensegment",
+      "url": "https://www.dvhn.nl/lifestyle/tech/voor-het-eerst-is-apples-laptop-een-prijsvechter.-techgigant-mengt-zich-met-macbook-neo-in-de-strijd-om-het-middensegment/155128201.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-04-17",
+      "title": "Niet alleen feiten stampen: studenten in UMCG krijgen overhoring van AI-bot in plaats van oefentoets",
+      "url": "https://www.dvhn.nl/lifestyle/tech/niet-alleen-feiten-stampen-studenten-in-umcg-krijgen-overhoring-van-ai-bot-in-plaats-van-oefentoets/156961510.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-04-30",
+      "title": "Gokmaffia kaapt populaire Nederlandse sites met maar één doel: jou laten gokken",
+      "url": "https://www.dvhn.nl/lifestyle/tech/gokmaffia-kaapt-populaire-nederlandse-sites-met-maar-een-doel-jou-laten-gokken/156963382.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-05-14",
+      "title": "Hitgame Outbound uit Groningen nu overal te koop: ‘Bij de lokale winkels al uitverkocht’",
+      "url": "https://www.dvhn.nl/economie/hitgame-outbound-uit-groningen-nu-overal-te-koop-bij-de-lokale-winkels-al-uitverkocht/156966337.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-05-23",
+      "title": "Enzo (33) uit Leeuwarden wil 151 Pokémon tatoeëren. ‘Klanten identificeren zich met hun Pokémon’",
+      "url": "https://dvhn.nl/meer/looks/enzo-33-uit-leeuwarden-wil-151-pokemon-tatoeeren.-klanten-identificeren-zich-met-hun-pokemon-49157289.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-06-08",
+      "title": "Lekker lezen op vakantie? DVHN test vier e-readers. Dit zijn de belangrijkste verschillen",
+      "url": "https://www.dvhn.nl/lifestyle/tech/lekker-lezen-op-vakantie-dvhn-test-vier-e-readers.-dit-zijn-de-belangrijkste-verschillen/157596390.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-07-13",
+      "title": "Google kruipt met nieuwe slimme speaker meer richting Apple. Met één groot verschil",
+      "url": "https://www.lc.nl/lifestyle/tech/google-kruipt-met-nieuwe-slimme-speaker-meer-richting-apple.-met-een-groot-verschil/158240052.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-10-09",
+      "title": "De slimme bril komt er aan: deze Chinese gadget geeft een voorproefje van hoe dat gaat zijn",
+      "url": "https://www.dvhn.nl/lifestyle/tech/de-slimme-bril-komt-er-aan-deze-chinese-gadget-geeft-een-voorproefje-van-hoe-dat-gaat-zijn/159390193.html",
+      "decision": "include"
+    },
+    {
+      "published": "2026-10-09",
+      "title": "Tien jaar later is ‘Pokémon Go’ een totaal ander soort spel",
+      "url": "https://www.dvhn.nl/lifestyle/tech/tien-jaar-later-is-pokemon-go-een-totaal-ander-soort-spel/160024009.html",
+      "decision": "include"
+    }
+  ],
+  "excludedOrNeedsSeparation": [
+    {
+      "title": "De belangrijkste tech- en gametrends voor 2026",
+      "url": "https://www.dvhn.nl/lifestyle/tech/de-belangrijkste-tech-en-gametrends-voor-2026/155120310.html",
+      "decision": "needs-own-contribution",
+      "reason": "meerdere auteurs"
+    },
+    {
+      "title": "RTV Noord gehackt. Geen nieuws op site, uitzendingen radio en tv met kunst en vliegwerk",
+      "url": "https://www.dvhn.nl/regio/groningen/rtv-noord-gehackt.-geen-nieuws-op-site-uitzendingen-radio-en-tv-met-kunst-en-vliegwerk.-weer-plaatjes-draaien-op-de-pick-up/155104113.html",
+      "decision": "needs-own-contribution",
+      "reason": "meerdere auteurs"
+    },
+    {
+      "title": "Journalisten RTV Noord kunnen door cyberaanval hun werk nog steeds niet goed doen",
+      "url": "https://www.dvhn.nl/regio/groningen/stad/journalisten-rtv-noord-kunnen-door-cyberaanval-hun-werk-nog-steeds-niet-goed-doen/155105661.html",
+      "decision": "needs-own-contribution",
+      "reason": "meerdere auteurs"
+    },
+    {
+      "title": "Netflixen op vakantie? Niks ervan, dit zijn de beste bordspellen voor op de camping",
+      "url": "https://www.dvhn.nl/lifestyle/netflixen-op-vakantie-niks-ervan-dit-zijn-de-beste-bordspellen-voor-op-de-camping/157766540.html",
+      "decision": "needs-own-contribution",
+      "reason": "meerdere auteurs"
+    },
+    {
+      "title": "Prijspeiler DVHN: Jumbo goedkoopste, maar PLUS en AH kruipen naderbij",
+      "url": "https://www.dvhn.nl/regio/groningen/stad/prijspeiler-dvhn-jumbo-goedkoopste-maar-plus-en-ah-kruipen-naderbij.-wie-wasmiddel-niet-in-de-aanbieding-koopt-maakt-een-foutje/160231894.html",
+      "decision": "needs-own-contribution",
+      "reason": "meerdere auteurs"
+    },
+    {
+      "title": "Maandelijkse overzichten met games en gadgets",
+      "decision": "exclude",
+      "reason": "maandoverzichten op verzoek overgeslagen"
+    }
+  ]
+}

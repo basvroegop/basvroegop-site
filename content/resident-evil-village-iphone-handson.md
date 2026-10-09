@@ -6,11 +6,13 @@ modified: 2024-01-17
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/resident-evil-village-iphone-handson
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/resident-evil-village-iphone-handson/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/achtergrond/achtergrond/preview/resident-evil-village-op-iphone-15-pro-imponeert-maar-nu-is-apple-aan-zet
 socialImage: ./media/gamepraat/resident-evil-village-iphone-handson/437aab223d.jpeg
 publish: true
 ---
@@ -19,9 +21,9 @@ Resident Evil Village op de iPhone 15 Pro bewijst dat recentelijk uitgekomen con
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/achtergrond/preview/resident-evil-village-op-iphone-15-pro-imponeert-maar-nu-is-apple-aan-zet/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/achtergrond/achtergrond/preview/resident-evil-village-op-iphone-15-pro-imponeert-maar-nu-is-apple-aan-zet/).
 
-Misschien wel het meest onverwachte nieuws tijdens [de iPhone-aankondigingen afgelopen week](https://gamer.nl/nieuws/overig/archief/iphone-15-modellen-en-diverse-games-aangekondigd?ref=gamepraat.nl) was Apples ambitie om de gamemarkt serieuzer te nemen. Resident Evil 4 Remake, Resident Evil Village, Assassin's Creed Mirage en Death Stranding zijn allemaal speelbaar op de iPhone 15 Pro, de eerste Apple-smartphone die ook ray tracing ondersteunt.
+Misschien wel het meest onverwachte nieuws tijdens [de iPhone-aankondigingen afgelopen week](https://gamer.nl/nieuws/overig/archief/iphone-15-modellen-en-diverse-games-aangekondigd) was Apples ambitie om de gamemarkt serieuzer te nemen. Resident Evil 4 Remake, Resident Evil Village, Assassin's Creed Mirage en Death Stranding zijn allemaal speelbaar op de iPhone 15 Pro, de eerste Apple-smartphone die ook ray tracing ondersteunt.
 
 Na een bezoek aan Apples hoofdkantoor konden we alvast aan de slag met Resident Evil Village op die nieuwe iPhone. Het laat zien hoe ray tracing op een iPhone presteert, wat in eerste instantie indrukwekkend is: op het blote oog lijkt de game weinig af te wijken van het origineel op pc en consoles. Een methode om framerate te meten was er bij de iPhone-game niet, maar gevoelsmatig hangt alles soepel tussen de 30 en 60 frames per seconde. Schaduweffecten zijn gedetailleerd, terwijl het oledscherm van de iPhone helpt om de donkere gebieden van de game met mooi contrast uit te beelden.
 

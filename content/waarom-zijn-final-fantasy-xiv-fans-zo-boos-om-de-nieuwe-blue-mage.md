@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/waarom-zijn-final-fantasy-14-fans-zo-boos-om-de-nieuwe-blue-mage
 socialImage: ./media/gamepraat/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage/93d029bfe4.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Tijdens een grote fanconferentie kondigde Square Enix afgelopen weekend twee din
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/waarom-zijn-final-fantasy-14-fans-zo-boos-om-de-nieuwe-blue-mage/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/waarom-zijn-final-fantasy-14-fans-zo-boos-om-de-nieuwe-blue-mage/).
 
 Afgelopen weekend vond Fan Fest plaats in Las Vegas. Tijdens dit feestje komen Final Fantasy 14-fans samen, met aan het begin een presentatie met het laatste nieuws. Dit jaar ging het om twee dingen: de naam en setting van de nieuwe uitbreiding - en een nieuwe job die al begin 2019 voor iedereen speelbaar zal zijn.
 

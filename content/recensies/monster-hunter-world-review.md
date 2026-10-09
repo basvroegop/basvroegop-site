@@ -5,13 +5,15 @@ published: 2018-01-25
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /monster-hunter-world-review
   - /artikelen/monster-hunter-world-review
   - /artikelen/recensies/monster-hunter-world-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/monster-hunter-world-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/monster-hunter-world
 socialImage: ../media/gamepraat/monster-hunter-world-review/828ab0c826.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Waarom zou je levels vullen met simpele vijanden als je ook een game kunt vullen
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-world/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-world/).
 
 Die poging om het Westen te veroveren is niet halfslachtig. Monster Hunter World is misschien wel de meest controversiële game die in de afgelopen decennia in de reeks is verschenen. De kern is nog hetzelfde: je bereidt je voor op een jacht, krijgt vijftig minuten om een monster te vellen en maakt nieuwe pantsers en wapens van zijn lichaamsdelen. Daarbij is echter een gigantisch deel van het onnodige vet weggesneden.
 

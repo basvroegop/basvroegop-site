@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-10-09T11:37:37.981Z",
+  "normalized": {
+    "gamer": 0,
+    "insideGamer": 0,
+    "powerUnlimited": 0,
+    "laadscherm": 0
+  },
+  "imported": {
+    "gamerPu": 0,
+    "kidsweek": 0,
+    "unpause": 0
+  },
+  "existing": 0,
+  "failures": [],
+  "images": {
+    "downloaded": 0,
+    "reused": 0,
+    "skipped": []
+  },
+  "files": [],
+  "coverage": {
+    "sourceCounts": {
+      "Gamer.nl": 113,
+      "InsideGamer": 21,
+      "Power Unlimited": 5,
+      "Laadscherm": 6,
+      "Kidsweek": 45,
+      "Unpause": 12
+    },
+    "gamerPuSelection": {
+      "selected": 26,
+      "covered": 25,
+      "missing": [
+        {
+          "source": "Gamer.nl",
+          "url": "https://gamer.nl/achtergrond/achtergrond/achtergrond/romancing-saga-had-misschien-wel-zo-groot-als-final-fantasy-kunnen-worden/"
+        }
+      ]
+    },
+    "validation": {
+      "missingPublished": [],
+      "missingSourceUrl": [
+        "content/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven.md",
+        "content/recensies/dragon-quest-vii-review.md"
+      ],
+      "shortBody": []
+    }
+  }
+}

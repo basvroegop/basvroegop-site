@@ -5,13 +5,15 @@ published: 2019-09-17
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /monster-hunter-world-iceborne-review
   - /artikelen/monster-hunter-world-iceborne-review
   - /artikelen/recensies/monster-hunter-world-iceborne-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/monster-hunter-world-iceborne-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/monster-hunter-world-iceborne-maakt-een-geweldige-game-nog-uitgebreider
 socialImage: ../media/gamepraat/monster-hunter-world-iceborne-review/a261bb4066.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Met het verschijnen van Monster Hunter World: Iceborne probeert Capcom zijn oude
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-world-iceborne-maakt-een-geweldige-game-nog-uitgebreider/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/monster-hunter-world-iceborne-maakt-een-geweldige-game-nog-uitgebreider/).
 
 Capcom maakte anderhalf jaar geleden een gedurfde stap. Het bedrijf gooide met Monster Hunter World een hoop traditionele gameplaysystemen het raam uit, om een toegankelijkere game voor een groter publiek te maken. Bijna alle oude monsters werden in de ijskast gezet, om een verzameling vijanden speciaal voor World te ontwerpen.
 

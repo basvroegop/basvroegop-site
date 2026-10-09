@@ -10,13 +10,15 @@ published: 2023-07-21
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /pikmin-4-review
   - /artikelen/pikmin-4-review
   - /artikelen/recensies/pikmin-4-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pikmin-4-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/nintendo-switch/pikmin-4-is-het-beste-van-pikmin-in-een-game
 socialImage: ../media/gamepraat/pikmin-4-review/6330071ea9.jpg
 publish: true
 ---
@@ -25,7 +27,7 @@ In Pikmin 4 is het eindelijk tijd om Captain Olimar naar huis te brengen. Na zij
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/pikmin-4-is-het-beste-van-pikmin-in-een-game/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/pikmin-4-is-het-beste-van-pikmin-in-een-game/).
 
 Jij speelt één van deze neergestorte redders. Ditmaal is dat niet een vooraf bedacht personage, maar eentje die je zelf mag maken. Je hebt als missie om Olimar te redden, maar daarnaast ook alle neergestorte collega's weer terug te vinden.
 

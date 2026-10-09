@@ -5,11 +5,13 @@ published: 2017-10-19
 modified: 2022-07-01
 tags:
   - Games
+  - Elders gepubliceerd
+  - Laadscherm
 aliases:
   - /artikelen/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef/
+source: Laadscherm
+sourceUrl: https://laadscherm.nl/las-boek-alleen-potjes-dungeon-keeper-beschreef
 socialImage: ./media/gamepraat/ik-las-een-boek-dat-alleen-maar-potjes-dungeon-keeper-beschreef/42e3579305.jpg
 publish: true
 ---

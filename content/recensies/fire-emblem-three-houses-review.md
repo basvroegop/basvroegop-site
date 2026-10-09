@@ -5,13 +5,15 @@ published: 2019-07-25
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /fire-emblem-three-houses-review
   - /artikelen/fire-emblem-three-houses-review
   - /artikelen/recensies/fire-emblem-three-houses-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/fire-emblem-three-houses-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/fire-emblem-three-houses-review-blijft-honderden-uren-leuk
 socialImage: ../media/gamepraat/fire-emblem-three-houses-review/9ccf21eaf0.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ In Fire Emblem: Three Houses speel je de zoon van een beroemde huurling die als 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/fire-emblem-three-houses-review-blijft-honderden-uren-leuk/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/fire-emblem-three-houses-review-blijft-honderden-uren-leuk/).
 
 Aan het begin van het spel kies je van welke klas je een mentor wil worden: de Black Eagles, de Blue Lions of de Golden Deer. In ieder van de klassen zitten leerlingen van de respectievelijke naties – met als klassenoudste de troonopvolger. In feite kies je welke van de drie verhalen je in de game wil doorspelen, want iedere klas maakt net wat andere dingen mee.
 

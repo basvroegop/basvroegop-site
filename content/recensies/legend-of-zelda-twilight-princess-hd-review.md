@@ -5,13 +5,15 @@ published: 2016-03-01
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /legend-of-zelda-twilight-princess-hd-review
   - /artikelen/legend-of-zelda-twilight-princess-hd-review
   - /artikelen/recensies/legend-of-zelda-twilight-princess-hd-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/legend-of-zelda-twilight-princess-hd-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/the-legend-of-zelda-twilight-princess-hd
 socialImage: ../media/gamepraat/legend-of-zelda-twilight-princess-hd-review/f78eab2c8a.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Moeten we Twilight Princess wel of niet een port noemen? Het voelt als een wat o
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-legend-of-zelda-twilight-princess-hd/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-legend-of-zelda-twilight-princess-hd/).
 
 De visuele verbeteringen zijn haast verraderlijk. Heb je het origineel al een jaar of tien niet aangeraakt, dan zou je zweren dat Twilight Princess er vroeger ook al zo uitzag. Het tegendeel blijkt echter waar als je het origineel uit de kast trekt om de twee te vergelijken. Personages zijn scherper, omgevingen gedetailleerder en je kunt beter om je heen kijken. Trek de open wereld in en je ziet zelfs de kleinste details aan de horizon, waardoor de spelwereld groot en indrukwekkend aanvoelt.
 

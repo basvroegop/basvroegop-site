@@ -5,11 +5,13 @@ published: 2017-12-06
 modified: 2022-07-01
 tags:
   - Games
+  - Elders gepubliceerd
+  - Laadscherm
 aliases:
   - /artikelen/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is/
+source: Laadscherm
+sourceUrl: https://laadscherm.nl/miljardair-speelt-final-fantasy-xiv-alsof-wall-street-is
 socialImage: ./media/gamepraat/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is/bc40bd3315.jpeg
 publish: true
 ---
@@ -22,7 +24,7 @@ Net als in andere MMORPG’s, schuilt achter deze game een gedeelde economie. Ga
 
 > [!NOTE]
 >
-> Dit verhaal verscheen eerder [op Laadscherm](https://laadscherm.nl/miljardair-speelt-final-fantasy-xiv-alsof-wall-street-is/?ref=gamepraat.nl).
+> Dit verhaal verscheen eerder [op Laadscherm](https://laadscherm.nl/miljardair-speelt-final-fantasy-xiv-alsof-wall-street-is/).
 
 Verspreid door de wereld van Final Fantasy XIV staan grote prikborden die spelers kunnen gebruiken om spullen te verhandelen. Bij één van deze prikborden is Shalice vaak te vinden. Door te smeden, verzamelen, kopen en te verkopen heeft zij haar eigen handelsimperium in de game uitgebouwd. De bankrekening staat bomvol: haar personage heeft het maximale bedrag van 1 miljard gil bereikt, terwijl niet-speelbare personages in dienst van haar allemaal een vergelijkbaar bedrag in hun bezit hebben. De teller staat op deze manier al op 9 miljard gil. Meer kan Shalice niet bezitten zonder een totaal nieuw personage te starten.
 

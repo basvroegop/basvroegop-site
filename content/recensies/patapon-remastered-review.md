@@ -5,13 +5,15 @@ published: 2017-08-12
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /patapon-remastered-review
   - /artikelen/patapon-remastered-review
   - /artikelen/recensies/patapon-remastered-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/patapon-remastered-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/patapon-remastered
 socialImage: ../media/gamepraat/patapon-remastered-review/43840ae979.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Als je thuis nog een oude PlayStation Portable hebt, is de kans groot dat daar e
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/patapon-remastered/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/patapon-remastered/).
 
 In deze remaster is de kern van Patapon gelijkgebleven. Je leidt een groep simpelgevormde wezentjes terwijl ze op pad gaan om monsters te verslaan. Je krijgt daarbij niet directe besturing, maar beïnvloedt ze door te ‘drummen’. Druk op de maat van de muziek op de vier actieknoppen aan de rechterzijde van je gamepad en ze vallen aan, verdedigen of lopen voorwaarts. Aan ieder commando hangt een ritme met vier knopdrukken, waardoor je in feite simpele melodieën uit je hoofd moet leren.
 

@@ -5,13 +5,15 @@ published: 2017-08-17
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /mega-man-legacy-collection-2-review
   - /artikelen/mega-man-legacy-collection-2-review
   - /artikelen/recensies/mega-man-legacy-collection-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/mega-man-legacy-collection-2-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/mega-man-legacy-collection-2
 socialImage: ../media/gamepraat/mega-man-legacy-collection-2-review/76212fe3ac.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Capcom is hard bezig om zijn oude klassiekers in de schijnwerpers te zetten. Na 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/mega-man-legacy-collection-2/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/mega-man-legacy-collection-2/).
 
 Mega Man 7, 8, 9 en 10 hebben niet de klassieke reputatie van de eerste drie delen, maar toch blijven de games anno 2017 aardig overeind staan. Dat is te danken aan het open ontwerp van de games. Je kunt ook in deze Mega Man-games kiezen welk level je als eerste speelt. Dat lijkt in het eerste opzicht een simpele designkeuze, maar wel eentje met verstrekkende gevolgen. Levels en baasgevechten hoeven geen langzaam stijgende leercurve te volgen, maar bevinden zich allemaal ongeveer op hetzelfde moeilijkheidsniveau. Het is de reden waarom Mega Man vandaag de dag misschien wel met Dark Souls vergeleken kan worden. De game is lastig, totdat je leert om op een bepaalde manier te denken en spelen.
 

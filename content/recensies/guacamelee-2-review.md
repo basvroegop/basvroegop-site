@@ -5,13 +5,15 @@ published: 2018-08-23
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /guacamelee-2-review
   - /artikelen/guacamelee-2-review
   - /artikelen/recensies/guacamelee-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/guacamelee-2-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/guacamelee-2-review-is-bijna-geen-metroidvania-meer
 socialImage: ../media/gamepraat/guacamelee-2-review/5c0b6acf04.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Er zijn tientallen games gebaseerd op ouderwetse westerse tradities en culturen,
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/guacamelee-2-review-is-bijna-geen-metroidvania-meer/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/guacamelee-2-review-is-bijna-geen-metroidvania-meer/).
 
 Daarbij staat de Spaanse Dag van de Doden centraal. Hoofdrolspeler Juan springt immers tussen de levende en dode wereld, wat voor unieke platformgedeeltes zorgt. Zo springt Juan van het ene gebied naar het ander, duikt hij naar het land van de doden om naar een daar beschikbaar stukje grond te dartelen om een verborgen segment te bereiken.
 

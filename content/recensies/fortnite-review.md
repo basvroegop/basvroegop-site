@@ -5,13 +5,15 @@ published: 2017-08-17
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /fortnite-review
   - /artikelen/fortnite-review
   - /artikelen/recensies/fortnite-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/fortnite-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/129193fortnite-review-bouwen-schieten-gearen
 socialImage: ../media/gamepraat/fortnite-review/131efd2c00.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De kern van Fortnite bestaat uit twee onderdelen: bouwen en schieten. Aan het be
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129193fortnite-review-bouwen-schieten-gearen/?ref=gamepraat.nl). Let op: toen was Fortnite nog een heel andere game dan de hit die het later zou worden.
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/129193fortnite-review-bouwen-schieten-gearen/). Let op: toen was Fortnite nog een heel andere game dan de hit die het later zou worden.
 
 Dat proces van bouwen en verdedigen is op zichzelf ontzettend leuk. Er zitten nogal wat nuances in Fortnite verborgen, zoals de manieren waarop je met muren zombies naar de juiste plekken kunt lokken. De game is coöperatief, waardoor je jouw basis zelfs kunt inrichten zodat jij en je teamgenoten ieder plekken hebben om in de gaten te houden. Daarmee is Fortnite meteen ook een stuk dieper dan Orcs Must Die, een game waarin je ook met valstrikken aanvallende vijanden tegenhoudt. Omdat je in Fortnite namelijk ook het gebouw maakt, heb je veel meer invloed op hoe vuurgevechten verlopen.
 

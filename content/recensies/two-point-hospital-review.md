@@ -5,13 +5,15 @@ published: 2020-03-30
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /two-point-hospital-review
   - /artikelen/two-point-hospital-review
   - /artikelen/recensies/two-point-hospital-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/two-point-hospital-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/two-point-hospital-speelt-ook-uitstekend-op-consoles
 socialImage: ../media/gamepraat/two-point-hospital-review/cb6a6b9d14.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ De spirituele opvolger van Theme Hospital is er nu ook voor spelcomputers. En da
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/two-point-hospital-speelt-ook-uitstekend-op-consoles/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/two-point-hospital-speelt-ook-uitstekend-op-consoles/).
 
 Toen Rollercoaster Tycoon eind jaren ’90 zijn hoogtijdagen in Nederland had, was het nieuwe Theme Hospital een verrassend leuke afwisseling. Weg waren de tot waanzin drijvende pretparkmuziekjes: ditmaal mocht je een eigen ziekenhuis managen, waarbij je ook een beter idee had van wat iedere individu in het gebouw aan het doen was.
 

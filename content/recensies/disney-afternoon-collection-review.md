@@ -5,13 +5,15 @@ published: 2017-04-26
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /disney-afternoon-collection-review
   - /artikelen/disney-afternoon-collection-review
   - /artikelen/recensies/disney-afternoon-collection-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/disney-afternoon-collection-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/the-disney-afternoon-collection
 socialImage: ../media/gamepraat/disney-afternoon-collection-review/b5d63d4fd4.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Tussen alle Mario’s, Mega Mans en Zelda’s van de NES, zat een reeks opmerkel
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-disney-afternoon-collection/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/the-disney-afternoon-collection/).
 
 In dit pakket vind je zes games die in een periode van vier jaar voor de NES uitkwamen: DuckTales, DuckTales 2, TaleSpin, Darkwing Duck, Chip ’n Dale Rescue Rangers het vervolg op die laatste. Dit zijn met uitzondering van TailSpin allemaal platformers, die op een aantal manieren inspiratie hebben opgedaan bij Capcoms Mega Man. Zo kies je bij DuckTales welk level je wilt spelen, waardoor je in een zelfgekozen volgorde door de game heen kunt.
 

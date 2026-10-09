@@ -5,13 +5,15 @@ published: 2020-12-18
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /haven-review
   - /artikelen/haven-review
   - /artikelen/recensies/haven-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/haven-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/haven-is-niet-de-liefdevolle-game-die-het-moest-zijn
 socialImage: ../media/gamepraat/haven-review/b56965a872.png
 publish: true
 ---
@@ -20,7 +22,7 @@ In het Franse Haven vluchten twee geliefden naar een afgelegen planeet zodat ze 
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/haven-is-niet-de-liefdevolle-game-die-het-moest-zijn/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/haven-is-niet-de-liefdevolle-game-die-het-moest-zijn/).
 
 Het is mooi om te zien hoe gamestudio The Game Bakers langzaam van de grond komt. Een groep voormalige Ubisoft-medewerkers begon het bedrijf in 2011, toen ze in smartphonegame Squids elementen van een strategische rpg op creatieve wijze werkend kregen op een aanraakscherm. Er volgde een paar andere mobiele titels, waarna in 2016 de stap naar spelcomputers werd gezet met Furi - een uitstekende actietitel die enkel bestaat uit baasgevechten.
 

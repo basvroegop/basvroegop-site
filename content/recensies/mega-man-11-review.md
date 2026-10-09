@@ -5,13 +5,15 @@ published: 2018-10-06
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /mega-man-11-review
   - /artikelen/mega-man-11-review
   - /artikelen/recensies/mega-man-11-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/mega-man-11-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/mega-man-11-review-bewijst-dat-capcoms-mascotte-bestaansrecht-heeft
 socialImage: ../media/gamepraat/mega-man-11-review/547c7a485c.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Het waren acht barre jaren bij Capcom. Nadat het bedrijf Mega Man 10 uitbracht v
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/mega-man-11-review-bewijst-dat-capcoms-mascotte-bestaansrecht-heeft/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/mega-man-11-review-bewijst-dat-capcoms-mascotte-bestaansrecht-heeft/).
 
 Inafune verliet Capcom en ontwikkelde met een eigen bedrijf de spirituele opvolger Mighty No. 9, wat één van de meest teleurstellende games uit zijn carrière werd. Daarmee leek het einde oefening voor Mega Man: de man achter de gamereeks was weg bij Capcom en zijn onofficiële sequelreeks was na een flater meteen al overleden.
 

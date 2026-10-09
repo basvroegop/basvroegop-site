@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game
 socialImage: ./media/gamepraat/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game/35621039f9.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Vergeet eventjes alles wat je dacht te weten over Star Wars: The Old Republic. D
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op Gamer.nl.
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/verrassing-the-old-republic-is-nu-een-leuke-star-wars-game).
 
 Het leek erop dat Star Wars: The Old Republic zijn kans had verkeken. naar de Star Wars-MMO van BioWare, bleek het eindresultaat vooral te zijn geïnspireerd door World of Warcraft. Je had wel het meeslepende Star Wars-verhaal zoals in voorgangers Knights of the Old Republic 1 en 2, maar je moest daarnaast ook nog eens honderden suffe missies afronden om op level te blijven.
 

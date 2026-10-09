@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /artikelen/preview-final-fantasy-xiv-stormblood
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/preview-final-fantasy-xiv-stormblood/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/128020-final-fantasy-14-stormblood-preview-gooit-de-game-weer-overhoop
 socialImage: ./media/gamepraat/preview-final-fantasy-xiv-stormblood/fe4f85def1.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Final Fantasy 14 is inmiddels een van de grootste comebackverhalen uit de mmo-we
 
 > [!NOTE]
 >
-> Deze preview verscheen eerder op [Insidegamer](https://inside.gamer.nl/128020-final-fantasy-14-stormblood-preview-gooit-de-game-weer-overhoop/?ref=gamepraat.nl).
+> Deze preview verscheen eerder op [Insidegamer](https://inside.gamer.nl/128020-final-fantasy-14-stormblood-preview-gooit-de-game-weer-overhoop/).
 
 In Stormblood trekken spelers oostwaarts, naar de stadsstaten Doma en Ala Mhigo. Beide zijn al jarenlang bezet door een imperialistisch keizerrijk en het is aan ons om daar een einde aan te maken. Trouwe spelers zal dat bekend in de oren klinken, want het verhaal van de game hint al sinds het begin naar beide locaties.
 

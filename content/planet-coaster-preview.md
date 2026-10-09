@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/planet-coaster-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/planet-coaster-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/preview/planet-coaster
 socialImage: ./media/gamepraat/planet-coaster-preview/c4f7a28b69.jpeg
 publish: true
 ---
@@ -19,13 +21,13 @@ We zitten al een tijdje op Planet Coaster te wachten. In maart speelden we immer
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/planet-coaster/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/planet-coaster/).
 
 De gelijkenissen tussen Planet Coaster en het befaamde Rollercoaster Tycoon zijn geen toeval. De game wordt immers ontwikkeld door Frontier, de mensen die ook aan Rollercoaster Tycoon 3 sleutelden. De ontwikkelaar heeft zich in de afgelopen jaren vooral beziggehouden met ruimtesimulator Elite: Dangerous, maar keert met Planet Coaster terug naar een bekend genre.
 
 Frontier's terugkeer naar de pretparksim doet aan nog een game denken, namelijk Cities: Skylines. Je kunt net als in die game namelijk inzoomen totdat je bovenop de bezoekers zit, waarvan je iedere stap in de game kunt volgen. De stijl van het spel maakt dit ook verdomd leuk om te doen. Iedere bezoeker ziet er uit als een Pixar-personage, die met een overdreven animatiestijl ook duidelijk zijn stemming laat zien. Zo zie je zelfs op een grote afstand of iemand blij of tevreden is.
 
-Planet Coaster is echter geen kijkdoos, het is een simulatiegame. In onze [eerdere preview](http://gamer.nl/artikelen/preview/planet-coaster-hands-on/?ref=gamepraat.nl) hadden we het al uitgebreid over de basiselementen van het spel. De modulaire bouwstukken van de eerste alfa zijn nog steeds intact - je kunt een gebouw met een beetje geduld volledig aanpassen, waardoor je in theorie alle tentjes van je favoriete pretpark kunt namaken. Je kunt de diepte van de kaart naar eigen smaak aanpassen - wat je in staat stelt om bijvoorbeeld een pretpark in een grottenstelsel te maken. Een ingebouwde deeloptie zorgt ervoor dat je creaties makkelijk beschikbaar stelt voor andere Steam-gebruikers.
+Planet Coaster is echter geen kijkdoos, het is een simulatiegame. In onze [eerdere preview](http://gamer.nl/artikelen/preview/planet-coaster-hands-on/) hadden we het al uitgebreid over de basiselementen van het spel. De modulaire bouwstukken van de eerste alfa zijn nog steeds intact - je kunt een gebouw met een beetje geduld volledig aanpassen, waardoor je in theorie alle tentjes van je favoriete pretpark kunt namaken. Je kunt de diepte van de kaart naar eigen smaak aanpassen - wat je in staat stelt om bijvoorbeeld een pretpark in een grottenstelsel te maken. Een ingebouwde deeloptie zorgt ervoor dat je creaties makkelijk beschikbaar stelt voor andere Steam-gebruikers.
 
 ## **Snel een achtbaan neerzetten**
 

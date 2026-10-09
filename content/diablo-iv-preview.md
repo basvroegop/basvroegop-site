@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/diablo-iv-preview
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/diablo-iv-preview/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/preview/diablo-iv
 socialImage: ./media/gamepraat/diablo-iv-preview/4f6025ccb1.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Goed nieuws voor iedereen die een hekel had aan Diablo 3: in Diablo 4 moeten de 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op Gamer.nl.
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/preview/diablo-iv).
 
 Wie herinnert zich de controverse rondom Diablo 3 nog? De game lag zowel voor als na verschijning flink onder vuur. Gamers waren in eerste instantie boos om de grafische stijl - die zou veel te kleurrijk zijn vergeleken met Diablo 2. En toen bleek dat de game alleen maar met een internetverbinding te spelen was. Pijnlijk, vooral omdat de servers er de eerste dagen uit lagen.
 

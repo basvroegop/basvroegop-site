@@ -5,11 +5,13 @@ published: 2017-05-15
 modified: 2022-07-01
 tags:
   - Games
+  - Elders gepubliceerd
+  - Laadscherm
 aliases:
   - /artikelen/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/
+source: Laadscherm
+sourceUrl: https://laadscherm.nl/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/
 socialImage: ./media/gamepraat/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/068b51bc96.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ __Phantasy Star__ begon ooit als sologamereeks op oude SEGA-spelcomputers, maar 
 
 > [!NOTE]
 >
-> Dit verhaal verscheen eerder op Laadscherm.
+> Dit verhaal verscheen eerder op [Laadscherm](https://laadscherm.nl/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/).
 
 De serie kreeg een vaste schare fans in het Westen, die __Phantasy Star Online__ bleven spelen terwijl SEGA nieuwe uitbreidingen en spin-offs uitbracht. __Phantasy Star Online 2__ moest de volgende halte voor deze online gamers worden.
 
@@ -50,7 +52,7 @@ Het online karakter van __Phantasy Star Online 2__ maakt het project nog complex
 
 Een Engelse vertaalpatch moet dus ook netwerkverkeer onderscheppen om vervolgens zelf Engelse teksten naar de game te versturen – allemaal zonder de cheatsoftware van slag te laten raken.
 
-Bovenstaande zorgt voor veel technische complicaties bij de ontwikkeling van een vertaalpatch, wat het des te indrukwekkender maakt hoe makkelijk deze geïnstalleerd kan worden. De vertalers hebben een [eigen launcher](http://arks-layer.com/?ref=gamepraat.nl) voor __Phantasy Star Online 2__ gemaakt die zowel de gamedata als de vertaalpatches checkt. Heeft de MMO een nieuwe update en is hier een vertaalpatch voor? Met een enkele knopdruk worden deze geïnstalleerd.
+Bovenstaande zorgt voor veel technische complicaties bij de ontwikkeling van een vertaalpatch, wat het des te indrukwekkender maakt hoe makkelijk deze geïnstalleerd kan worden. De vertalers hebben een [eigen launcher](http://arks-layer.com/) voor __Phantasy Star Online 2__ gemaakt die zowel de gamedata als de vertaalpatches checkt. Heeft de MMO een nieuwe update en is hier een vertaalpatch voor? Met een enkele knopdruk worden deze geïnstalleerd.
 
 ![Arks Layer](./media/gamepraat/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2/490e1aaba6.png)
 
@@ -58,7 +60,7 @@ Bovenstaande zorgt voor veel technische complicaties bij de ontwikkeling van een
 
 Bovenstaande zorgt bij elkaar voor ontzettend veel ontwikkelwerk. De vertaalpatch wordt gemaakt onder leiding van een speler met de bijnaam Aida Enna, die zegt dat ze met al haar activiteiten een volle werkweek kan vullen. “Het kan lastig zijn om dit te combineren met mijn leven, maar door onder andere medische problemen heb ik veel vrije tijd om hieraan te besteden.”
 
-Maar denk niet dat Aida in haar eentje dit project draaiende houdt. Naast haar, werken vijf programmeurs en drie vertalers op het moment mee om de MMO in het Engels speelbaar te maken. Andere spelers bieden af en toe aan om te helpen met onderdelen van de fanpatch, waarna ze op een [creditspagina](http://arks-layer.com/credits.php?ref=gamepraat.nl) worden vermeld. Dat zijn soms vertalers, maar ook vaak technici. “Er gaat altijd wel iets stuk”, zegt Aida.
+Maar denk niet dat Aida in haar eentje dit project draaiende houdt. Naast haar, werken vijf programmeurs en drie vertalers op het moment mee om de MMO in het Engels speelbaar te maken. Andere spelers bieden af en toe aan om te helpen met onderdelen van de fanpatch, waarna ze op een [creditspagina](http://arks-layer.com/credits.php) worden vermeld. Dat zijn soms vertalers, maar ook vaak technici. “Er gaat altijd wel iets stuk”, zegt Aida.
 
 En dat zijn alleen nog maar de mensen die aan __Phantasy Star Online 2__ in het Engels werken. Naast het kernteam schrijven er ook mensen mee aan vertalingen naar het Frans, Duits, Russisch en Spaans. De spin-offs voor smartphones en de PlayStation Vita worden ook naar het Engels vertaald, waarvoor het installatieproces op vergelijkbare wijze zo simpel mogelijk gemaakt is.
 

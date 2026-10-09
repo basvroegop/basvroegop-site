@@ -5,13 +5,15 @@ published: 2023-10-19
 modified: 2024-01-17
 tags:
   - Tech
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /meta-quest-3-review
   - /artikelen/meta-quest-3-review
   - /artikelen/recensies/meta-quest-3-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/meta-quest-3-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/hardware/overige-pc/review-meta-quest-3-maakt-vr-comfortabeler-mooier-en-veel-toegankelijker
 socialImage: ../media/gamepraat/meta-quest-3-review/075b3c4575.webp
 publish: true
 ---
@@ -20,7 +22,7 @@ In 2020 kopten we bij de Meta Quest 2-review dat de headset "in bijna alles bete
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/hardware/overige-pc/review-meta-quest-3-maakt-vr-comfortabeler-mooier-en-veel-toegankelijker/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/hardware/overige-pc/review-meta-quest-3-maakt-vr-comfortabeler-mooier-en-veel-toegankelijker/).
 
 Het door Meta overgenomen Oculus trapte de huidige vr-generatie ooit af met de Rift, maar boekte pas echt succes met de Quest-brillen. Dankzij een ingebakken chip draaien ze apps en games zelfstandig, zonder dat je een game-pc of console nodig hebt.
 

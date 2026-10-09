@@ -5,13 +5,15 @@ published: 2016-08-05
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /digimon-story-cyber-sleuth-review
   - /artikelen/digimon-story-cyber-sleuth-review
   - /artikelen/recensies/digimon-story-cyber-sleuth-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/digimon-story-cyber-sleuth-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/gemist-digimon-story-cyber-sleuth
 socialImage: ../media/gamepraat/digimon-story-cyber-sleuth-review/9796c607a7.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Wie had dat gedacht: in 2016, het jaar dan Pokémon 20 jaar werd, weet ook het m
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/gemist-digimon-story-cyber-sleuth/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/gemist-digimon-story-cyber-sleuth/).
 
 Aan de oppervlakte lijken Pokémon en Digimon op elkaar, maar in Cyber Sleuth zijn vrijwel meteen verschillen duidelijk. Je vecht in de game beurtelings zoals in andere jrpg’s, maar hebt daarbij steeds drie monsters op het veld staan. Digimon voelt daarom meer aan als een traditionele jrpg dan Pokémon. Gevechten zijn snel en grinden wordt makkelijk gemaakt door een speciale 'auto-modus', waarmee monsters automatisch aanvallen gebruiken.
 

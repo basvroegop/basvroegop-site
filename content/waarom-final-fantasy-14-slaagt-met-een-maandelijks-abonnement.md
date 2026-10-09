@@ -6,11 +6,13 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement
 socialImage: ./media/gamepraat/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement/e4cafe8812.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ De wederopstanding van Final Fantasy 14 is inmiddels een bekend verhaal onder ga
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/waarom-final-fantasy-14-slaagt-met-een-maandelijks-abonnement/).
 
 De cijfers liegen er niet om: volgens producer en director Naoki Yoshida hebben maarliefst vijf miljoen spelers eens voor een abonnement op Final Fantasy 14 betaald. Op een bepaald moment waren er naar schatting tussen de 800.000 en 1,2 miljoen gamers die tegelijkertijd op de mmo waren geabonneerd.
 

@@ -5,13 +5,15 @@ published: 2017-09-22
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /azure-striker-gunvolt-striker-pack-review
   - /artikelen/azure-striker-gunvolt-striker-pack-review
   - /artikelen/recensies/azure-striker-gunvolt-striker-pack-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/azure-striker-gunvolt-striker-pack-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/azure-striker-gunvolt-striker-pack
 socialImage: ../media/gamepraat/azure-striker-gunvolt-striker-pack-review/12e26c6ae5.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Inmiddels is het meer dan zeven jaar geleden dat Capcom een nieuwe Mega Man-game
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/azure-striker-gunvolt-striker-pack/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/azure-striker-gunvolt-striker-pack/).
 
 In de Azure Striker Gunvolt Striker Pack vind je Gunvolt 1 en 2, twee games die eerst los voor de Nintendo 3DS zijn uitgebracht. Beide ports hebben een hogere resolutie en worden afgespeeld in 60 frames per seconde. Daarnaast zijn alle bonussen uit een eerdere pc-port meegenomen naar de Switch-versie, zoals de Japanse stemacteurs die het dialoog aan elkaar praten.
 

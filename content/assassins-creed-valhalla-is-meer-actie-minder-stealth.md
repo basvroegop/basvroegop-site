@@ -6,11 +6,13 @@ modified: 2022-07-04
 tags:
   - Preview
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/assassins-creed-valhalla-is-meer-actie-minder-stealth
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/assassins-creed-valhalla-is-meer-actie-minder-stealth/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/handson/assassins-creed-valhalla-is-meer-actie-minder-stealth
 socialImage: ./media/gamepraat/assassins-creed-valhalla-is-meer-actie-minder-stealth/6382e2daaa.jpeg
 publish: true
 ---
@@ -19,7 +21,7 @@ Hoe lang zal Assassin's Creed nog gaan over sluipmoordenaars? Bij een drie uur d
 
 > [!NOTE]
 >
-> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/handson/assassins-creed-valhalla-is-meer-actie-minder-stealth/?ref=gamepraat.nl).
+> Deze preview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/handson/assassins-creed-valhalla-is-meer-actie-minder-stealth/).
 
 Assassin's Creed Valhalla is alweer het derde deel volgens de nieuwe formule. De ontwikkeltijd is verdubbeld naar twee jaar, waarbij ook meer nadruk is komen te liggen op rpg-systemen. Bij Origins en Odyssey ging dat goed af: beide games werden bovengemiddeld goed ontvangen en bleken tientallen uren aan speeltijd te bevatten.
 

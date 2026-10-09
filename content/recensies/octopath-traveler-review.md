@@ -5,13 +5,15 @@ published: 2018-07-12
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /octopath-traveler-review
   - /artikelen/octopath-traveler-review
   - /artikelen/recensies/octopath-traveler-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/octopath-traveler-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/octopath-review-nostalgie-op-zn-best
 socialImage: ../media/gamepraat/octopath-traveler-review/8d4143d151.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Dat is deels te danken aan de opmerkelijke visuele stijl. Octopath gebruikt klas
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/octopath-review-nostalgie-op-zn-best/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/octopath-review-nostalgie-op-zn-best/).
 
 Het resultaat is een soort kijkdoos, die ondanks zijn vernieuwingen verdraaid bekend aanvoelt. Octopath laat eigenlijk zien hoe oude 16-bit-rollenspellen er in onze herinneringen uitzien, vermomd door de waas van een oude televisie en een roze nostalgische bril. Dat is een bijzondere prestatie. We zouden maar wat graag willen dat Square Enix deze trukendoos in huis houdt na deze game, en er misschien ooit remakes voor oude Final Fantasy’s mee oppoetst.
 

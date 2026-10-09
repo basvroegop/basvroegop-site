@@ -5,13 +5,15 @@ published: 2018-03-05
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /secret-of-mana-review
   - /artikelen/secret-of-mana-review
   - /artikelen/recensies/secret-of-mana-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/secret-of-mana-review/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/131507secret-of-mana-review-een-achteruitgang-op-alle-fronten
 socialImage: ../media/gamepraat/secret-of-mana-review/06278160f0.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ We hadden de Secret of Mana-remake zo graag het voordeel van de twijfel gegeven,
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/131507secret-of-mana-review-een-achteruitgang-op-alle-fronten/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Insidegamer](https://inside.gamer.nl/131507secret-of-mana-review-een-achteruitgang-op-alle-fronten/).
 
 Secret of Mana is misschien wel één van de hoogst gewaardeerde Japanse rpg’s die op de Super Nintendo is verschenen. Na een poging op de Game Boy om een actiegame met een rollenspel te combineren, wist Squaresoft met Secret of Mana precies de juiste snaar te raken. In een tocht om de wereld te redden bezoek je tempels, vecht je tegen monsters en los je simpele puzzels op met de verschillende wapens in je arsenaal. Secret of Mana is daarmee een perfecte mix van een Final Fantasy en een Zelda – die uitkwam in de hoogtijdagen van die twee gamereeksen.
 

@@ -5,13 +5,15 @@ published: 2016-04-20
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
   - /artikelen/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
   - /artikelen/interviews/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/interview/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
 socialImage: ../media/gamepraat/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft/25b2c60851.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Dik een half jaar geleden verscheen Heavensward, de eerste uitbreiding voor het 
 
 > [!NOTE]
 >
-> Dit interview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft/?ref=gamepraat.nl).
+> Dit interview verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/interview/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft/).
 
 Waarschuwing: we hadden het met Yoshida over hardcore onderwerpen die toegewijde spelers van de game aangaan. Zo spraken we uitgebreid over de geplande API voor de game, waarmee ontwikkelaars hun eigen toevoegingen kunnen maken. Zo’n systeem wordt in andere mmorpg’s al vaak gebruikt, zodat spelers bijvoorbeeld hun __damage per second__ (DPS) kunnen meten. In Final Fantasy 14 is dit echter nog afwezig, waardoor spelers zijn aangewezen op officieuze, niet ondersteunde alternatieven.
 

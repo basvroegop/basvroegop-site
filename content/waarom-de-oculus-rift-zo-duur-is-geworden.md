@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Tech
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/waarom-de-oculus-rift-zo-duur-is-geworden
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/waarom-de-oculus-rift-zo-duur-is-geworden/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/nieuwsanalyse-waarom-de-oculus-rift-zo-duur-is-geworden
 socialImage: ./media/gamepraat/waarom-de-oculus-rift-zo-duur-is-geworden/16633e07c3.jpeg
 publish: true
 ---
@@ -20,17 +22,17 @@ De virtualrealitybril Oculus Rift blijkt veel duurder dan verwacht. Wat is er ge
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/nieuwsanalyse-waarom-de-oculus-rift-zo-duur-is-geworden/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/nieuwsanalyse-waarom-de-oculus-rift-zo-duur-is-geworden/).
 
-De Rift moest tussen de 200 en 400 euro kosten. Dat vertelde Oculus-ceo Palmer Luckey in 2014 in een [interview](http://www.eurogamer.net/articles/2014-09-01-oculus-answers-the-big-rift-questions?ref=gamepraat.nl) met Eurogamer. Daarmee zou de consumentenversie ongeveer even duur worden als de ontwikkelaarskit die Oculus verkocht.
+De Rift moest tussen de 200 en 400 euro kosten. Dat vertelde Oculus-ceo Palmer Luckey in 2014 in een [interview](http://www.eurogamer.net/articles/2014-09-01-oculus-answers-the-big-rift-questions) met Eurogamer. Daarmee zou de consumentenversie ongeveer even duur worden als de ontwikkelaarskit die Oculus verkocht.
 
-Veel duurder mocht het van Luckey niet worden, dat zou klanten alleen maar afschrikken. "Als iets 600 dollar kost, maakt het niet uit hoe goed de ervaring is. Als men het niet kan betalen, dan hoeft het eigenlijk niet te bestaan", vertelde hij in 2013 aan [AllThingsD](http://allthingsd.com/20130606/oculus-co-founders-luckey-and-mitchell-on-the-rifts-progress-price-and-limitations-qa-part-one/?ref=gamepraat.nl).
+Veel duurder mocht het van Luckey niet worden, dat zou klanten alleen maar afschrikken. "Als iets 600 dollar kost, maakt het niet uit hoe goed de ervaring is. Als men het niet kan betalen, dan hoeft het eigenlijk niet te bestaan", vertelde hij in 2013 aan [AllThingsD](http://allthingsd.com/20130606/oculus-co-founders-luckey-and-mitchell-on-the-rifts-progress-price-and-limitations-qa-part-one/).
 
 Een pijnlijke uitspraak, want tweeënhalf jaar later blijkt dat de Rift wel degelijk dat prijskaartje krijgt. Amerikanen betalen 599 dollar voor de vr-bril en hier in Nederland liggen de kosten nog hoger: 699 euro, of 741 euro met verzendkosten. Luckey komt daarmee terug op alles dat hij in 2013 en 2014 heeft gezegd, al claimt hij daar een reden voor te hebben.
 
 ## **De beste willen zijn**
 
-Oculus wilde eerst een aangepaste versie van de Developer Kit 2 verkopen aan consumenten, aldus Luckey tegenover [Polygon](http://www.polygon.com/2016/1/6/10724644/oculus-rift-price-palmer-luckey?ref=gamepraat.nl). Die bril zou de eerder genoemde prijs krijgen, maar was technisch nog niet waar Luckey op hoopte. Zo lag de framerate lager dan nu het geval is, was de resolutie niet optimaal en zorgde de verversingssnelheid bij sommige mensen voor een flikkerend scherm.
+Oculus wilde eerst een aangepaste versie van de Developer Kit 2 verkopen aan consumenten, aldus Luckey tegenover [Polygon](http://www.polygon.com/2016/1/6/10724644/oculus-rift-price-palmer-luckey). Die bril zou de eerder genoemde prijs krijgen, maar was technisch nog niet waar Luckey op hoopte. Zo lag de framerate lager dan nu het geval is, was de resolutie niet optimaal en zorgde de verversingssnelheid bij sommige mensen voor een flikkerend scherm.
 
 Toen Oculus door Facebook werd overgenomen, besloot het bedrijf onderzoek te doen naar een betere bril, met zelfontworpen schermpanelen. Eerdere Rifts gebruikten hardware die ook in smartphones zit, maar Luckey wilde samen met Facebook speciaal voor vr gemaakte onderdelen maken.
 
@@ -40,7 +42,7 @@ Dat de zelfgemaakte onderdelen van Oculus duurder zijn, is te begrijpen. De eerd
 
 Oculus zegt niets te verdienen aan de verkoop van de Rift. De bril wordt verkocht voor de kostprijs, met daarbij ook twee games en een Xbox One-controller. Op die manier wil Oculus (en daarmee Facebook) virtual reality een gemeengoed maken - al staat de prijs dat volgens critici wel in de weg. Vr blijft echter niet zo duur: Luckey heeft meermaals op Twitter aangegeven dat hij in de komende jaren vr betaalbaar wil maken voor iedereen. "Vr zal eerst iets zijn wat iedereen wil, voordat iedereen het kan betalen", aldus Luckey.
 
-Hoe ambitieus Luckey ook is: de prijs van de Rift staat in schril contrast met zijn eigen uitspraak in 2013. Heeft hij er echt goed aan gedaan door een premiumversie te maken en niet de eerder geplande goedkope bril te verkopen? Dat moeten de verkoopcijfers gaan bewijzen. Luckey zegt op [Twitter](https://twitter.com/PalmerLuckey/status/684778563862544385?ref=gamepraat.nl) in elk geval blij te zijn met de verkoopcijfers.
+Hoe ambitieus Luckey ook is: de prijs van de Rift staat in schril contrast met zijn eigen uitspraak in 2013. Heeft hij er echt goed aan gedaan door een premiumversie te maken en niet de eerder geplande goedkope bril te verkopen? Dat moeten de verkoopcijfers gaan bewijzen. Luckey zegt op [Twitter](https://twitter.com/PalmerLuckey/status/684778563862544385) in elk geval blij te zijn met de verkoopcijfers.
 
 Of Facebook ook dicht op de verkoopcijfers zit, is een tweede vraag. Het sociale netwerk lijkt niet de ambitie te hebben om snel geld te verdienen aan hardware, maar wil in plaats daarvan virtual reality groot maken.
 

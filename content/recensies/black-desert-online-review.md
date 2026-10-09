@@ -5,13 +5,15 @@ published: 2016-04-06
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /black-desert-online-review
   - /artikelen/black-desert-online-review
   - /artikelen/recensies/black-desert-online-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/black-desert-online-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/black-desert-online
 socialImage: ../media/gamepraat/black-desert-online-review/97a46982dc.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Black Desert Online is een bijzondere game. Het is een online rollenspel dat ter
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/black-desert-online/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/black-desert-online/).
 
 Je kunt Black Desert spelen als een avonturier die de wereld wil redden, zoals in vele genregenoten de bedoeling is. Er is een basaal verhaal dat je van gebied naar gebied leidt, terwijl je in level stijgt en moeilijkere vijanden tegenkomt. Het is echter net zo makkelijk om je tijd in de game als een fulltime visser te besteden. Of als een boer. Of een paardenfokker.
 

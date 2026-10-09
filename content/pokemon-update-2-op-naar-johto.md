@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-2-op-naar-johto
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-update-2-op-naar-johto/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/pokemon-update-2-op-naar-johto
 socialImage: ./media/gamepraat/pokemon-update-2-op-naar-johto/79bc30f7af.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Iedere maand probeer ik 120 pokémon te vangen, zodat ik hopelijk voor de komst 
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-2-op-naar-johto/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-2-op-naar-johto/).
 
 Aan het einde van mijn vorige update was ik optimistisch. Ik lag dertig pokémon voor op schema, waardoor ik dacht dat ik het afgelopen maand makkelijk zou krijgen. In de praktijk bleek dat anders in elkaar te steken: omdat ik een weekje voor lag, nam ik meteen maar een weekje pauze. En omdat ik zo makkelijk voor kwam te liggen dacht ik: "joh, ik speel over een paar weken wel wat meer om m'n doel te halen".
 

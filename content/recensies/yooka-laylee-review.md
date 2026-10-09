@@ -5,13 +5,15 @@ published: 2017-04-04
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /yooka-laylee-review
   - /artikelen/yooka-laylee-review
   - /artikelen/recensies/yooka-laylee-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/yooka-laylee-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/yooka-laylee-3
 socialImage: ../media/gamepraat/yooka-laylee-review/89f573a745.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Kickstarter is misschien wel de perfecte plek voor nieuwe games gebaseerd op oud
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/yooka-laylee-3/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/yooka-laylee-3/).
 
 De ontwikkelaar van Yooka-Laylee heeft alles op alles gezet om het gevoel van de originele games te repliceren. Zo zijn de jolige dialogen met andere dieren weer terug, inclusief gekke keelgeluiden terwijl er letters in beeld verschijnen. Zelfs de letters hiervan zijn gigantisch, alsof ze bedoeld zijn voor een televisie met een lagere resolutie.
 

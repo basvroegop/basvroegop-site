@@ -5,13 +5,15 @@ published: 2016-07-29
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /luckys-tale-review
   - /artikelen/luckys-tale-review
   - /artikelen/recensies/luckys-tale-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/luckys-tale-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/luckys-tale
 socialImage: ../media/gamepraat/luckys-tale-review/622fe53167.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Iedereen die een Oculus Rift koopt, krijgt er een vrij opmerkelijke game bij. Lu
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/luckys-tale/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/luckys-tale/).
 
 Iedereen die is opgegroeid met platformers voor de Nintendo 64 en eerste PlayStation zal zich in Lucky's Tale meteen thuis voelen. Je speelt een klein vosje wiens vriendje wordt ontvoerd – een verhaal dat slechts als excuus dient om alle kleurrijke levels te doorkruisen. Dat doe je met de gebruikelijke vaardigheden: een dubbele sprong, een sla-knop en een flinke stomp vanuit de lucht, zodat je vijanden extra hard kunt pletten. Ieder level heeft een duidelijk begin en een eind, met daartussen geheime paden waar je bijvoorbeeld extra munten vindt.
 

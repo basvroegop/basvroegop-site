@@ -5,13 +5,15 @@ published: 2016-02-12
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /blade-n-soul-review
   - /artikelen/blade-n-soul-review
   - /artikelen/recensies/blade-n-soul-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/blade-n-soul-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/blade-amp-soul
 socialImage: ../media/gamepraat/blade-n-soul-review/37c2d7cba0.jpg
 publish: true
 ---
@@ -20,7 +22,7 @@ Hoe snel raakt een mmorpg verouderd? Hoewel Blade & Seoul voor ons recent uitkwa
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/blade-amp-soul/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/blade-amp-soul/).
 
 In de 3,5 jaar sinds de originele release is er een hoop veranderd in mmorpg-land. Guild Wars 2 liet zien dat een mmo zich niet tot simpele missies hoeft te beperken. Final Fantasy XIV bracht traditionele online rollenspellen tot een nieuw niveau. Deze ontwikkelingen hebben games die daarna verschenen op een indirecte manier beïnvloed, waar in Blade & Soul dus niks van te vinden is.
 

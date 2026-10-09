@@ -5,13 +5,15 @@ published: 2017-10-02
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /steamworld-dig-2-review
   - /artikelen/steamworld-dig-2-review
   - /artikelen/recensies/steamworld-dig-2-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/steamworld-dig-2-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/steamworld-dig-2
 socialImage: ../media/gamepraat/steamworld-dig-2-review/e5700cd398.png
 publish: true
 ---
@@ -20,7 +22,7 @@ Wie een paar screenshots van Steamworld Dig 2 ziet, zal al snel aan Minecraft de
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/steamworld-dig-2/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/steamworld-dig-2/).
 
 Je gaat in Steamworld Dig 2 opzoek naar de hoofdrolspeler van het vorige deel. Die is op mysterieuze wijze ergens in een oude mijnschacht verdwenen, waardoor er maar één manier is om hem terug te vinden: door te graven. Met een pikhouweel kun je aan alle kanten stenen wegtikken, om je een weg te banen naar oude grottenstelsels.
 

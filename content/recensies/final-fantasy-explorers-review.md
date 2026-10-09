@@ -5,13 +5,15 @@ published: 2016-01-29
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /final-fantasy-explorers-review
   - /artikelen/final-fantasy-explorers-review
   - /artikelen/recensies/final-fantasy-explorers-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-explorers-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/final-fantasy-explorers
 socialImage: ../media/gamepraat/final-fantasy-explorers-review/9806790f63.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Dit is niet de Final Fantasy waar je mee bent opgegroeid. Final Fantasy Explorer
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-explorers/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-explorers/).
 
 Final Fantasy Explorers lijkt in eerste instantie op een Monster Hunter-game. Je hebt een dorp waarin je missies aanneemt, die je samen met maximaal vier man speelt. Er is geen traditioneel level-systeem, waardoor de kracht van een personage afhankelijk is van uitrusting. Zelfs de interface lijkt rechtstreeks van Monster Hunter overgenomen. Dat is niet raar: in interviews gaven de ontwikkelaars toe dat ze flink naar jaaggames zoals Monster Hunter hebben gekeken.
 

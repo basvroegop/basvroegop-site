@@ -5,13 +5,15 @@ published: 2017-07-22
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /final-fantasy-12-the-zodiac-age-review
   - /artikelen/final-fantasy-12-the-zodiac-age-review
   - /artikelen/recensies/final-fantasy-12-the-zodiac-age-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-12-the-zodiac-age-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/final-fantasy-12-the-zodiac-age
 socialImage: ../media/gamepraat/final-fantasy-12-the-zodiac-age-review/321f4b5d34.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Van zo’n beetje alle oude Final Fantasy’s was alleen twaalf nog niet voorzie
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-12-the-zodiac-age/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-12-the-zodiac-age/).
 
 Final Fantasy-games wijken vaak best van elkaar af, maar deel twaalf doet nog een paar stappen de andere richting op. Zo doet het verhaal eerder denken aan Game of Thrones dan aan een eerdere Final Fantasy en lijkt het gevechtssysteem vooral geïnspireerd door een mmorpg. Deze kern van het spel is in The Zodiac Age nog steeds grotendeels intact. Dit is op veel manieren nog steeds de game die je kent van de PlayStation 2, maar dan een stuk fraaier door het nodige oppoetswerk.
 

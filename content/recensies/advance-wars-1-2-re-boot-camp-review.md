@@ -10,13 +10,15 @@ published: 2023-04-19
 modified: 2024-01-17
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /advance-wars-1-2-re-boot-camp-review
   - /artikelen/advance-wars-1-2-re-boot-camp-review
   - /artikelen/recensies/advance-wars-1-2-re-boot-camp-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/advance-wars-1-2-re-boot-camp-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/reviews/games/nintendo-switch/advance-wars-12-re-boot-camp-is-meer-bordspel-dan-oorlogsgame
 socialImage: ../media/gamepraat/advance-wars-1-2-re-boot-camp-review/8bbc8f9198.jpg
 publish: true
 ---
@@ -25,7 +27,7 @@ Advance Wars 1+2: Re-Boot Camp moest eigenlijk vorig jaar al in de winkels ligge
 
 > [!NOTE]
 >
-> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/advance-wars-12-re-boot-camp-is-meer-bordspel-dan-oorlogsgame/?ref=gamepraat.nl).
+> Deze recensie verscheen eerder op [Gamer.nl](https://gamer.nl/reviews/games/nintendo-switch/advance-wars-12-re-boot-camp-is-meer-bordspel-dan-oorlogsgame/).
 
 Inmiddels zijn we een jaar verder en is de game alsnog verschenen. Niet omdat de situatie in Oekraïne wezenlijk anders is, maar vermoedelijk omdat de gevoeligheid voor Nintendo wat is verdwenen. Niet langer zijn alle ogen gericht op het oorlogsdrama. Bovendien zijn er sindsdien genoeg spellen over vergelijkbare onderwerpen verschenen zonder dat dit leidde tot controverse, dus lijkt de markt veilig voor Nintendo.
 

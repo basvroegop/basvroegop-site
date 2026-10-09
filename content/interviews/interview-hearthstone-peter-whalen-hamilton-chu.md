@@ -5,13 +5,15 @@ published: 2016-08-20
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - InsideGamer
 aliases:
   - /interview-hearthstone-peter-whalen-hamilton-chu
   - /artikelen/interview-hearthstone-peter-whalen-hamilton-chu
   - /artikelen/interviews/interview-hearthstone-peter-whalen-hamilton-chu
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/interview-hearthstone-peter-whalen-hamilton-chu/
+source: InsideGamer
+sourceUrl: https://inside.gamer.nl/124325-hearthstone-zelfs-lollige-lore-moet-je-serieus-nemen
 socialImage: ../media/gamepraat/interview-hearthstone-peter-whalen-hamilton-chu/59d2708da6.jpeg
 publish: true
 ---
@@ -20,9 +22,9 @@ Toen Hearthstone jaren geleden werd aangekondigd, bleek de game flink wat anders
 
 > [!NOTE]
 >
-> Dit interview verscheen eerder op [Insidegamer](https://inside.gamer.nl/124325-hearthstone-zelfs-lollige-lore-moet-je-serieus-nemen/?ref=gamepraat.nl).
+> Dit interview verscheen eerder op [Insidegamer](https://inside.gamer.nl/124325-hearthstone-zelfs-lollige-lore-moet-je-serieus-nemen/).
 
-Hoe is het om daarvoor te ontwikkelen? We spraken er op GamesCom over met gamedesigner [Peter Whalen](http://hearthstone.gamepedia.com/Peter_Whalen?ref=gamepraat.nl) en executive producer [Hamilton Chu](http://hearthstone.gamepedia.com/Hamilton_Chu?ref=gamepraat.nl).
+Hoe is het om daarvoor te ontwikkelen? We spraken er op GamesCom over met gamedesigner [Peter Whalen](http://hearthstone.gamepedia.com/Peter_Whalen) en executive producer [Hamilton Chu](http://hearthstone.gamepedia.com/Hamilton_Chu).
 
 Met League of Explorers hebben jullie een volledig eigen verhaal bedacht in het Warcraft-universum. Waarom keren jullie nu weer terug naar een bestaande Raid met Karazan?
 
@@ -118,7 +120,7 @@ Hearthstone lijkt al een tijdje een soort ‘gateway drug’ voor Blizzard-games
 
 **Chu:** “We hebben vandaag geen aankondigingen om aan te kondigen, hahaha!”
 
-**Whalen:** “[Blizzard Soon](http://wowwiki.wikia.com/wiki/Soon?ref=gamepraat.nl), hé. Uiteindelijk.”
+**Whalen:** “[Blizzard Soon](http://wowwiki.wikia.com/wiki/Soon), hé. Uiteindelijk.”
 
 **Om het nog even over Priest te hebben: een tijd terug werd er gesproken over een Unicorn Priest-deck. Een geweldig deck wat de class een stuk beter zou maken…**
 

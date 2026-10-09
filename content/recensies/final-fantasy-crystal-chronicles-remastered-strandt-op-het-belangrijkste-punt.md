@@ -5,13 +5,15 @@ published: 2020-09-07
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt
   - /artikelen/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt
   - /artikelen/recensies/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt
 socialImage: ../media/gamepraat/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt/a6194cded3.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Met Crystal Chronicles keerde Final Fantasy in 2003 na jarenlange afwezigheid te
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt/).
 
 Er zijn weinig games waar zo'n mystiek omheen bestond als Crystal Chronicles. De Final Fantasy-spinoff was gemaakt om samen met vrienden te spelen, maar dat kon alleen als iedereen een eigen Game Boy Advance met een bijbehorende linkkabel aansloot op de GameCube. Die setup bracht veel gaafs mee: iedere speler heeft unieke informatie op het GBA-scherm, waardoor je tijdens gevechten goed moet communiceren. Om dat mogelijk te maken had je echter prijzige hardware of toevallig nabije vrienden met Game Boys nodig, waardoor velen het spel voornamelijk in de solostand hebben uitgespeeld.
 

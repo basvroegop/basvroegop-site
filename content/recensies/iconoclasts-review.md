@@ -5,13 +5,15 @@ published: 2018-02-04
 modified: 2022-07-11
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /iconoclasts-review
   - /artikelen/iconoclasts-review
   - /artikelen/recensies/iconoclasts-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/iconoclasts-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/iconoclasts
 socialImage: ../media/gamepraat/iconoclasts-review/2fac73aee4.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Wie een ouderwetse Metroidvania wil spelen, kan eigenlijk nog maar amper terecht
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/iconoclasts/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/iconoclasts/).
 
 Na games als Ori, Guacamelee en Axiom Verge grijpt ook Iconoclasts terug naar de ouderwetse Metroidvania. In dit kleurrijke avontuur speel je als Robin, een ingenieur met een gigantische moersleutel in een wereld waar het repareren van dingen strikt verboden is. Alleen de religieuze orde uit de hoofdstad is gecertificeerd om zelfs de simpelste reparaties uit te voeren. De gemiddelde burger leeft hierdoor onder een autoritair bewind, vrezend dat een verboden reparatie ze de toegang tot de hemel ontzegt.
 

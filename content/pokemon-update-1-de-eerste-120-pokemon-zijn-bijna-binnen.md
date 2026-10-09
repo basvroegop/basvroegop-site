@@ -7,11 +7,13 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/achtergrond/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen
 socialImage: ./media/gamepraat/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen/b9e575e7de.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Goed nieuws: een maand nadat ik begon met het vangen van alle 721 Pokémon, loop
 
 > [!NOTE]
 >
-> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen/?ref=gamepraat.nl).
+> Dit artikel verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/achtergrond/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen/).
 
 Voor iedereen die mijn eerste aankondiging heeft gemist, even een snelle samenvatting. Ik probeer iedere maand 120 pokémon te vangen – een box met dertig per week. Daarbij ga ik de lijst op de volgorde van de Pokédex langs, wat betekent dat ik alle generaties chronologisch langsloop. In de afgelopen maand moest ik daarom de eerste 120 pokémon uit Red, Blue en Yellow vangen. Voor iemand die met deze games was opgegroeid een vrij nostalgische trip.
 

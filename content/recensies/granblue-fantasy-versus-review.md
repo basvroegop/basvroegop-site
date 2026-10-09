@@ -5,13 +5,15 @@ published: 2020-04-09
 modified: 2022-07-04
 tags:
   - Games
+  - Elders gepubliceerd
+  - Gamer.nl
 aliases:
   - /granblue-fantasy-versus-review
   - /artikelen/granblue-fantasy-versus-review
   - /artikelen/recensies/granblue-fantasy-versus-review
 author: Bastiaan Vroegop
-source: Gamepraat
-sourceUrl: https://gamepraat.nl/granblue-fantasy-versus-review/
+source: Gamer.nl
+sourceUrl: https://gamer.nl/artikelen/review/granblue-fantasy-versus-is-niet-de-dragon-ball-fighterz-opvolger-die-we-wilden
 socialImage: ../media/gamepraat/granblue-fantasy-versus-review/2b544538f4.jpeg
 publish: true
 ---
@@ -20,7 +22,7 @@ Granblue Fantasy: Versus is misschien wel de mooiste fighter die we ooit speelde
 
 > [!NOTE]
 >
-> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/granblue-fantasy-versus-is-niet-de-dragon-ball-fighterz-opvolger-die-we-wilden/?ref=gamepraat.nl).
+> Deze review verscheen eerder op [Gamer.nl](https://gamer.nl/artikelen/review/granblue-fantasy-versus-is-niet-de-dragon-ball-fighterz-opvolger-die-we-wilden/).
 
 Arc System Works leek even de onbetwiste koning van het vechtspelgenre. Met Dragon Ball FighterZ wist het Japanse bedrijf niet alleen een gevarieerde, toegankelijke game neer te zetten: ze maakten ook één van de mooiste games die deze generatie verscheen. Een potje FighterZ ziet eruit als een prachtig geanimeerd gevecht uit de originele tv-serie.
 
