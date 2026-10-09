@@ -35,6 +35,7 @@ const report = {
   excludedAsNews: 0,
   excludedMonthlyOverview: 0,
   excludedOtherAuthor: 0,
+  excludedFeatureSection: 0,
   imported: 0,
   existing: 0,
   moved: 0,
@@ -514,7 +515,7 @@ async function updateExisting(plan, meta) {
     title: meta.title,
     description: meta.description || record.data.description,
     published: meta.published || record.data.published,
-    modified: meta.modified || record.data.modified,
+    modified: record.data.modified || meta.modified,
     tags,
     aliases: unique([...(record.data.aliases || []), ...aliasesFor(folder, slug)]),
     author: "Bastiaan Vroegop",
@@ -600,7 +601,11 @@ async function main() {
   report.excludedOtherAuthor = inventory.filter(
     (item) => !item.include && item.selection === "andere-auteur",
   ).length
-  let selected = inventory.filter((item) => item.include)
+  const isExcludedFeature = (item) =>
+    item.sections?.includes("slimmer-leven") ||
+    /^https:\/\/(?:www\.)?nu\.nl\/slimmer-leven\//i.test(item.url || "")
+  report.excludedFeatureSection = inventory.filter(isExcludedFeature).length
+  let selected = inventory.filter((item) => item.include && !isExcludedFeature(item))
   if (Number.isFinite(LIMIT)) selected = selected.slice(0, LIMIT)
   report.selected = selected.length
 

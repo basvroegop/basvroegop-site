@@ -85,7 +85,6 @@ const seedTerms = [
 // URLs were found through its historical sitemaps and keep that audit
 // reproducible without downloading hundreds of monthly sitemap files on every run.
 const supplementalArticleUrls = [
-  "https://www.nu.nl/slimmer-leven/6327304/waarom-je-niet-altijd-naar-je-virusscanner-moet-luisteren.html",
   "https://www.nu.nl/reviews/6231901/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad.html",
   "https://www.nu.nl/reviews/6226623/review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter.html",
   "https://www.nu.nl/reviews/6225323/review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert.html",

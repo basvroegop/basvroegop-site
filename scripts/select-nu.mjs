@@ -64,7 +64,8 @@ const substantiveIds = new Set([
   "4330702",
 ])
 
-const completeFeatureSections = new Set(["slimmer-leven", "weekend", "tech-achtergrond"])
+const excludedSections = new Set(["slimmer-leven"])
+const completeFeatureSections = new Set(["weekend", "tech-achtergrond"])
 
 function isReview(record) {
   return (
@@ -81,6 +82,9 @@ function selection(record) {
   }
   if (/^games van de maand:/i.test(record.title)) {
     return { include: false, selection: "maandoverzicht" }
+  }
+  if (record.sections.some((section) => excludedSections.has(section))) {
+    return { include: false, selection: "uitgesloten-rubriek" }
   }
   if (interviewIds.has(record.id)) {
     return { include: true, folder: "interviews", selection: "interview" }
