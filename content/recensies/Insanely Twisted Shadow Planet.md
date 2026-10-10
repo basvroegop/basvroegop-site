@@ -4,7 +4,6 @@ description: Deze game leent zijn grafische stijl van Limbo en maakt er een horr
 published: 2011-08-03
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /insanely-twisted-shadow-planet-review

@@ -4,7 +4,6 @@ description: Naast nieuwe tv’s, smartphones en andere gadgets worden op techbe
 published: 2022-01-05
 modified: 2022-01-07
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

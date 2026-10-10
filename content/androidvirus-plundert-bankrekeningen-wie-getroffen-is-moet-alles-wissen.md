@@ -4,7 +4,6 @@ description: Een Androidvirus heeft zich op de telefoons van inmiddels tienduize
 published: 2021-05-26
 modified: 2021-07-20
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

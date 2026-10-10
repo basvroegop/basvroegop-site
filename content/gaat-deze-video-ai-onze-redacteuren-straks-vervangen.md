@@ -3,7 +3,6 @@ title: Gaat deze video-AI onze redacteuren straks vervangen?
 description: Onze collega Eric vroeg zich af of een AI hem eigenlijk kon vervangen en nam de proef op de som. In deze aflevering van de podcast vertelt hij hoe goed het hem lukte zichzelf te repliceren.
 published: 2024-03-27
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/gaat-deze-video-ai-onze-redacteuren-straks-vervangen

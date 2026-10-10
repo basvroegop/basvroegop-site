@@ -4,7 +4,6 @@ description: Na twaalf jaar wachten is Diablo III dan eindelijk uit.
 published: 2012-05-25
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /diablo-iii-review

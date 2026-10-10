@@ -4,7 +4,6 @@ description: De vierde roleplaying game met Mario en Luigi is nogal, eh, dromeri
 published: 2013-07-23
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dream-team-bros-review

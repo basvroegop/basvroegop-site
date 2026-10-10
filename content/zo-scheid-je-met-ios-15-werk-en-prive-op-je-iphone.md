@@ -4,7 +4,6 @@ description: Met het eerder deze week uitgebrachte iOS 15 introduceert Apple een
 published: 2021-09-24
 modified: 2021-09-24
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

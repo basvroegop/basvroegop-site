@@ -5,7 +5,6 @@ published: 2017-12-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-appje-nog

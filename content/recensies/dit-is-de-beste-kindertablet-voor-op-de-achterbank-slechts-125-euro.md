@@ -4,7 +4,6 @@ description: Tijdens de lange vakantieritten door Europa is een goede tablet een
 published: 2024-07-14
 modified: 2024-07-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -3,7 +3,6 @@ title: The Plucky Squire
 description: In The Plucky Squire verken je een wereld die je niet vaak in games ziet. Je loopt namelijk rond in een prentenboek.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-the-plucky-squire-reis-door-een-prentenboek

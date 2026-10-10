@@ -5,7 +5,6 @@ published: 2013-01-28
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /path-of-exile-review

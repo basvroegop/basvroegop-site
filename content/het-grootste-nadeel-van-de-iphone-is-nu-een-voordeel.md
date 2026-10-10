@@ -4,7 +4,6 @@ description: "De iPhone 14 is de eerste in Apple-telefoon in vijf jaar die echt 
 published: 2022-09-08
 modified: 2022-09-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

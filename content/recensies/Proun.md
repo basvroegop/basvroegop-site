@@ -4,7 +4,6 @@ description: Deze abstracte racegame werd geïnspireerd door de schilderijen van
 published: 2011-07-05
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /proun-review

@@ -5,7 +5,6 @@ published: 2013-04-13
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /toki-tori-2-review

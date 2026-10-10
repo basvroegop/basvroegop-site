@@ -4,7 +4,6 @@ description: Mario met een camera op zak. En dan iets ingenieuzer.
 published: 2013-01-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /snapshot-review

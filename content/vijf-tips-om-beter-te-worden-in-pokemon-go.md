@@ -5,7 +5,6 @@ published: 2016-07-31
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/vijf-tips-om-beter-te-worden-in-pokemon-go

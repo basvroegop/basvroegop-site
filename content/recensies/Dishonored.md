@@ -5,7 +5,6 @@ published: 2012-10-21
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dishonored-review

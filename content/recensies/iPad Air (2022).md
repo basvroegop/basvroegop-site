@@ -4,7 +4,6 @@ description: Apple heeft een nieuwe iPad geïntroduceerd, maar de verschillen me
 published: 2022-03-16
 modified: 2022-03-16
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

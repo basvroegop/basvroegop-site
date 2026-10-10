@@ -5,7 +5,6 @@ published: 2020-08-08
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/waarom-meerdere-gamediensten-boos-zijn-op-apple

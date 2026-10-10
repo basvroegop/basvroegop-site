@@ -5,7 +5,6 @@ published: 2018-07-12
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /octopath-traveler-review

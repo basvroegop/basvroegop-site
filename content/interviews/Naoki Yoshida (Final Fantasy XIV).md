@@ -5,7 +5,6 @@ published: 2016-04-20
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft

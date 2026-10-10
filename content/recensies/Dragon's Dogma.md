@@ -5,7 +5,6 @@ published: 2012-06-14
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dragon-s-dogma-review

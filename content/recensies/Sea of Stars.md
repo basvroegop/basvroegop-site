@@ -10,7 +10,6 @@ published: 2023-09-04
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /sea-of-stars-review

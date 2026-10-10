@@ -4,7 +4,6 @@ description: "Het ultieme sportmaatje om je pols: een smartwatch. Maar welke is 
 published: 2024-07-24
 modified: 2024-07-24
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -3,7 +3,6 @@ title: Puyo Puyo Puzzle Pop
 description: In het puzzelspel Puyo Puyo Puzzle Pop moet je blokjes van verschillende kleuren naast elkaar zetten. Staan er vier van dezelfde kleur op een rij, dan verdwijnen ze en krijg je punten.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /puyo-puyo-puzzle-pop-puzzelen-met-blokjes

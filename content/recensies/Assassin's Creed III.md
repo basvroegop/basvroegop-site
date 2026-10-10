@@ -4,7 +4,6 @@ description: Voor Amerikanen de belangrijkste Assassin's Creed tot nu toe.
 published: 2012-11-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /assassin-s-creed-iii-review

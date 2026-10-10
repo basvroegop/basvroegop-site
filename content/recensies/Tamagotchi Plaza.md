@@ -3,7 +3,6 @@ title: Tamagotchi Plaza
 description: "Járen geleden waren Tamagotchi een enorme speelgoedrage. Nu zijn de digitale huisdieren terug met een eigen game: Tamagotchi Plaza."
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-tamagotchi-plaza-leuke-minispelletjes-maar-veel-herhaling

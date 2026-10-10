@@ -4,7 +4,6 @@ description: In de nieuwe game van Rockstar g een onnodig geweld en indrukwekken
 published: 2011-05-24
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /la-noire-review

@@ -5,7 +5,6 @@ published: 2018-12-21
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /de-beste-slimme-speakers-in-nederland

@@ -5,7 +5,6 @@ published: 2018-12-06
 modified: 2025-06-10
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-super-smash-bros-ultimate-uitstekend-eerbetoon-aan-nintendo

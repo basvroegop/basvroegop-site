@@ -5,7 +5,6 @@ published: 2018-06-15
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-pokemon-lets-go-games-versimpelen-de-klassiekers

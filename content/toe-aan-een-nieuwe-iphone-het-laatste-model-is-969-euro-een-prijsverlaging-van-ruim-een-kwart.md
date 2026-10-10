@@ -4,7 +4,6 @@ description: "Het ging afgelopen week veel over de nieuwe aansluitpoort op de iP
 published: 2023-09-19
 modified: 2023-09-19
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Zeven jaar na World of Warcraft eindelijk weer een echt originele M
 published: 2012-08-31
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /guild-wars-2-review

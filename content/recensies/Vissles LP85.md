@@ -4,7 +4,6 @@ description: Dit nieuwe toetsenbord lijkt verdraaid veel op dat van Apple, maar 
 published: 2022-03-16
 modified: 2022-03-16
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Het vierde deel wil geen blockbuster zijn maar een televisieserie, 
 published: 2012-11-19
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /halo-4-review

@@ -5,7 +5,6 @@ published: 2019-08-06
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/nucheckt-jongeren-worden-niet-gewelddadig-van-videogames

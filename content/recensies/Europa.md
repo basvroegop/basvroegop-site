@@ -3,7 +3,6 @@ title: Europa
 description: In de game Europa word je wakker op één van de manen van Jupiter. Die ziet er anders dan je denkt. Mensen hebben de maan veranderd in een paradijs, met mooie grasvlaktes, stromende beekjes en dartelende dieren.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-europa-zweven-op-jupiter

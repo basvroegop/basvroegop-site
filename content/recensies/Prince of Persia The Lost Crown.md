@@ -5,7 +5,6 @@ published: 2024-01-19
 modified: 2026-03-05
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /review-prince-of-persia-the-lost-crown-is-sterk-en-wat-ongebalanceerd

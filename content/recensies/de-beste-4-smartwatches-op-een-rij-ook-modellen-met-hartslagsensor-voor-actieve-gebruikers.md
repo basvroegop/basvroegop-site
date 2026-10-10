@@ -4,7 +4,6 @@ description: Welke smartwatch past bij jouw levensstijl? Met zoveel opties en te
 published: 2024-11-14
 modified: 2024-11-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

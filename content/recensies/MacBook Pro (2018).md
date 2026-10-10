@@ -5,7 +5,6 @@ published: 2018-08-18
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-macbook-pro-2018-is-krachtpatser-met-weinig-grote-veranderingen

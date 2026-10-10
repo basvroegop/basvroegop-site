@@ -4,7 +4,6 @@ description: Naast slimme lampen, thermostaten en speakers heb je ook vaker slim
 published: 2021-12-26
 modified: 2021-12-26
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

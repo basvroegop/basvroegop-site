@@ -5,7 +5,6 @@ published: 2020-02-25
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /mega-man-zero-zx-collection-review

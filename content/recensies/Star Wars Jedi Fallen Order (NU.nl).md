@@ -5,7 +5,6 @@ published: 2019-11-15
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-star-wars-fallen-order-vermaakt-wel-maar-verbaast-nooit

@@ -4,7 +4,6 @@ description: "Google pakt het ambitieus aan: de techreus belooft dat een nieuwe 
 published: 2021-05-18
 modified: 2021-05-18
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

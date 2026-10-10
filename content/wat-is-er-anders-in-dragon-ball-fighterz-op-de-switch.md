@@ -6,7 +6,6 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/wat-is-er-anders-in-dragon-ball-fighterz-op-de-switch

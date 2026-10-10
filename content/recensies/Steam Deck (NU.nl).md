@@ -5,7 +5,6 @@ published: 2022-02-25
 modified: 2026-10-09
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-steam-deck-kan-geweldig-worden-maar-is-nog-niet-af

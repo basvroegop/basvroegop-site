@@ -5,7 +5,6 @@ published: 2013-06-25
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-last-of-us-review

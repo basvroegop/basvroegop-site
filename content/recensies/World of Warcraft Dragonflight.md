@@ -5,7 +5,6 @@ published: 2022-12-18
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-world-of-warcraft-dragonflight-maakt-de-game-vrijer-en-complexer

@@ -4,7 +4,6 @@ description: ‘Nog geen bloemetje’ kreeg het personeel van de Apple Store in 
 published: 2024-02-23
 modified: 2024-02-23
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

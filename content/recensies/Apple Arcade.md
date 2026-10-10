@@ -3,7 +3,6 @@ title: Apple Arcade
 description: Wat een games
 published: 2019-09-17
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-apple-arcade-kan-de-app-store-voor-altijd-veranderen

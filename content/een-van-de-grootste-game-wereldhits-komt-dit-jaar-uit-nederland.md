@@ -4,7 +4,6 @@ description: De game-industrie is inmiddels groter dan de filmwereld, en een van
 published: 2022-02-18
 modified: 2022-02-18
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

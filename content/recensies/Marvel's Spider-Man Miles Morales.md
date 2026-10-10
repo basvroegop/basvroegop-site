@@ -5,7 +5,6 @@ published: 2020-11-17
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-spider-man-miles-morales-is-korter-intiemer-en-vooral-mooier

@@ -4,7 +4,6 @@ description: Apple verkoopt eindelijk in Nederland een versie van de Apple Watch
 published: 2021-11-17
 modified: 2021-11-17
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Final Fantasy 14 bevindt zich op een cruciaal moment. Endwalker, he
 published: 2024-07-05
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /review-final-fantasy-14-blijft-met-dawntrail-de-beste-mmorpg

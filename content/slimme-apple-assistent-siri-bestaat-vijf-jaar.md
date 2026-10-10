@@ -5,7 +5,6 @@ published: 2016-10-04
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/slimme-apple-assistent-siri-bestaat-vijf-jaar

@@ -4,7 +4,6 @@ description: Donald Trump is op de belangrijkste techbeurs van de wereld, de CES
 published: 2025-01-09
 modified: 2025-01-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

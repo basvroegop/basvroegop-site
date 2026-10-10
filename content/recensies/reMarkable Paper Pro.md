@@ -3,7 +3,6 @@ title: reMarkable Paper Pro
 description: De Remarkable Paper Pro is een tablet met e-inkscherm waar je eigenlijk erg weinig mee kan, ditmaal met een groter kleurendisplay. Die beperkte functionaliteit is juist de bedoeling - maar wie heeft de discipline om daar goed gebruik van te maken?
 published: 2024-10-13
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /review-remarkable-paper-pro-is-een-perfect-apparaat-zonder-de-perfecte-flow

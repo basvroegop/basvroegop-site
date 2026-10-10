@@ -5,7 +5,6 @@ published: 2011-11-03
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /battlefield-3-review

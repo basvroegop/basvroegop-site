@@ -4,7 +4,6 @@ description: Het woordspelletje Woordle is online een steeds grotere hit, maar h
 published: 2022-01-19
 modified: 2022-12-01
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

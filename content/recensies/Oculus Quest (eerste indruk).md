@@ -5,7 +5,6 @@ published: 2019-04-10
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-oculus-quest-kan-echte-vr-naar-de-massa-brengen

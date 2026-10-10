@@ -5,7 +5,6 @@ published: 2019-02-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/vijf-tips-om-de-slaagkans-op-tinder-te-vergroten

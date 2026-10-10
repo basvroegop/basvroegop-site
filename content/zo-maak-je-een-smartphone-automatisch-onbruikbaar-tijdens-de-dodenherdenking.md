@@ -4,7 +4,6 @@ description: Niet iedereen vindt het even makkelijk om tijdens de dodenherdenkin
 published: 2022-05-04
 modified: 2022-05-04
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2022-02-23
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-elden-ring-is-net-dark-souls-maar-dan-grootser-en-mooier

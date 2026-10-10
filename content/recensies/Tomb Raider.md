@@ -4,7 +4,6 @@ description: Lara is menselijker dan ooit. Maar niet altijd even geloofwaardig.
 published: 2013-03-07
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /tomb-raider-review

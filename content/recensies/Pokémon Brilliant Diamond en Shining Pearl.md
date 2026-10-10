@@ -5,7 +5,6 @@ published: 2021-11-17
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pokemon-brilliant-diamond-en-shining-pearl-zijn-vooral-heel-ouderwets

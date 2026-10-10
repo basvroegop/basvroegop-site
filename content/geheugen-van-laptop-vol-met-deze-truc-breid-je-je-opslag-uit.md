@@ -4,7 +4,6 @@ description: "Documenten, foto’s en programma’s: je laptop kan er uiteindeli
 published: 2025-01-02
 modified: 2025-01-02
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

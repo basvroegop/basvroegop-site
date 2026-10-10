@@ -5,7 +5,6 @@ published: 2012-08-24
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /darksiders-ii-review

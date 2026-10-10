@@ -6,7 +6,6 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/wat-je-moet-weten-voor-je-dragon-ball-fighterz-speelt

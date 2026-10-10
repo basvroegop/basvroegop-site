@@ -5,7 +5,6 @@ published: 2020-07-13
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-watch-dogs-legion-voelt-als-tamme-versie-van-black-mirror

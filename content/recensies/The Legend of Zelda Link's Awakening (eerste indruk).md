@@ -5,7 +5,6 @@ published: 2019-06-12
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-the-legend-of-zelda-links-awakening-is-oertraditioneel

@@ -5,7 +5,6 @@ published: 2017-10-24
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-wat-we-weten-over-de-russische-inmenging-op-sociale-media

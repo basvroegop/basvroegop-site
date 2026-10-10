@@ -4,7 +4,6 @@ description: Techreus Google verkoopt zijn smartphones inmiddels één jaar in N
 published: 2023-10-06
 modified: 2023-10-06
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

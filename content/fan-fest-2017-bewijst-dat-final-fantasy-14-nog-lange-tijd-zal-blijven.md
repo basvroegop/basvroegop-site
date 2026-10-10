@@ -6,7 +6,6 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /artikelen/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven

@@ -4,7 +4,6 @@ description: Na maar liefst 25 jaar komt er een einde aan het avontuur van Ash K
 published: 2022-12-18
 modified: 2022-12-18
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

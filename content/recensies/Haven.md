@@ -5,7 +5,6 @@ published: 2020-12-18
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /haven-review

@@ -3,7 +3,6 @@ title: "SpongeBob SquarePants: Titans of the Tide"
 description: In Titans of the Tide wordt Bikinibroek binnengevallen door een stel spoken. Aan SpongeBob en zijn vriend Patrick om die te verjagen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-spongebob-squarepants-titans-of-the-tide

@@ -5,7 +5,6 @@ published: 2016-01-26
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /punch-club-review

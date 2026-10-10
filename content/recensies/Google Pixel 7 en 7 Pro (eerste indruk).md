@@ -4,7 +4,6 @@ description: "We hebben lang op Googles smartphones moeten wachten: zes jaar na 
 published: 2022-10-07
 modified: 2022-10-07
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

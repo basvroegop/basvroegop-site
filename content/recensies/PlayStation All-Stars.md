@@ -5,7 +5,6 @@ published: 2012-11-28
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /playstation-all-stars-review

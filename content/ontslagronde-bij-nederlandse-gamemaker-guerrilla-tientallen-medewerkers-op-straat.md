@@ -4,7 +4,6 @@ description: Guerrilla, de grootste gamestudio van Nederland, heeft 10 procent v
 published: 2024-02-27
 modified: 2024-02-27
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

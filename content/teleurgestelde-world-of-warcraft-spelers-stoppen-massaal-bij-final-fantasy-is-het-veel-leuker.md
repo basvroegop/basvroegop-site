@@ -4,7 +4,6 @@ description: "De hoogtijdagen van World of Warcraft lijken voorbij: spelers stap
 published: 2021-10-14
 modified: 2021-10-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

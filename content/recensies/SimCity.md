@@ -5,7 +5,6 @@ published: 2013-03-14
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /simcity-review

@@ -5,7 +5,6 @@ published: 2026-04-13
 modified: 2026-04-13
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/pragmata-is-wel-een-mega-man-game

@@ -5,7 +5,6 @@ published: 2021-04-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /apps-van-de-week-league-of-legends-en-een-razendsnelle-treinapp

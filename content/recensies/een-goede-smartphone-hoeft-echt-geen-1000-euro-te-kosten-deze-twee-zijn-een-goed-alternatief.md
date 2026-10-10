@@ -4,7 +4,6 @@ description: De nieuwe iPhones en Galaxy-telefoons kosten je al snel tegen de du
 published: 2024-11-21
 modified: 2024-11-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

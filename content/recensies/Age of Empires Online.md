@@ -5,7 +5,6 @@ published: 2011-08-17
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /age-of-empires-online-review

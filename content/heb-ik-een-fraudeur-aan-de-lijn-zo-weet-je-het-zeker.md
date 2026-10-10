@@ -4,7 +4,6 @@ description: "Het gebeurt talloze keren per dag: iemand neemt argeloos de telefo
 published: 2022-04-15
 modified: 2022-04-15
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

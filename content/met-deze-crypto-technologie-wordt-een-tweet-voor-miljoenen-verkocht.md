@@ -4,7 +4,6 @@ description: De blockchaintechnologie NFT wordt steeds vaker ingezet om digitale
 published: 2021-03-08
 modified: 2021-03-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

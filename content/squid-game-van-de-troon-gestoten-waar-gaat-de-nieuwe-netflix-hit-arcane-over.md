@@ -4,7 +4,6 @@ description: In tientallen landen is Netflix-serie Squid Game niet langer de mee
 published: 2021-11-09
 modified: 2021-11-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

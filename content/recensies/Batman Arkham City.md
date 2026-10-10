@@ -3,7 +3,6 @@ title: "Batman: Arkham City"
 description: "Batman: Arkham Asylum was een van de grootste verrassingen van 2009. De sequel heeft alles wat zijn voorganger goed deed, maar beter."
 published: 2011-10-26
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /game-vd-week-batman-arkham-city

@@ -5,7 +5,6 @@ published: 2022-03-17
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-mac-studio-is-een-goedkope-versie-van-de-krachtigste-macbook

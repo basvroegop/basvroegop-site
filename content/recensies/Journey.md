@@ -4,7 +4,6 @@ description: Reizen is vooral fijn als je niks over de tocht weet.
 published: 2012-03-31
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /journey-review

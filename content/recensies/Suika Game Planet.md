@@ -3,7 +3,6 @@ title: Suika Game Planet
 description: Suika Game Planet was twee jaar geleden een onverwachte hit op de Nintendo Switch. Nu is er een tweede deel van dit fruitige spelletje.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-suika-game-planet-passen-en-meten-op-fruitplaneet

@@ -4,7 +4,6 @@ description: Beruchte criminelen onder wie Ridouan Taghi gebruiken extra goed be
 published: 2021-03-22
 modified: 2021-05-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

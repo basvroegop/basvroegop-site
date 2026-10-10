@@ -5,7 +5,6 @@ published: 2020-08-15
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/dit-moet-je-weten-over-de-strijd-tussen-epic-apple-en-google

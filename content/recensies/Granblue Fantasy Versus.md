@@ -5,7 +5,6 @@ published: 2020-04-09
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /granblue-fantasy-versus-review

@@ -4,7 +4,6 @@ description: "Het is een tijdje stil geweest rond virtual reality , maar niet la
 published: 2023-11-30
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/assassin-s-creed-nexus-laat-zien-dat-vr-nog-lang-niet-is-uitgespeeld

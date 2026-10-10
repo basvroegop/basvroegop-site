@@ -5,7 +5,6 @@ published: 2022-11-03
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-god-of-war-ragnarok-is-een-game-over-de-puberteit

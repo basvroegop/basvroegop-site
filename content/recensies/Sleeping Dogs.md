@@ -5,7 +5,6 @@ published: 2012-08-17
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /sleeping-dogs-review

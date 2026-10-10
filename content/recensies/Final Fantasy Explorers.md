@@ -5,7 +5,6 @@ published: 2016-01-29
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /final-fantasy-explorers-review

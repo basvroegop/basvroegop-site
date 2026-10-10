@@ -7,7 +7,6 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-4-alle-721-gevangen

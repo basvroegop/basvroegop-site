@@ -3,7 +3,6 @@ title: AirPods Pro
 description: Oordopjes
 published: 2019-11-02
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-airpods-pro-doen-precies-wat-je-wil

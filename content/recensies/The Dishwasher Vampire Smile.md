@@ -4,7 +4,6 @@ description: In deze cartoonstyle game draait het om bloedvergieten.
 published: 2011-04-13
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-dishwasher-vampire-smile-review

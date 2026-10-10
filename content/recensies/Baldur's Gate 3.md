@@ -10,7 +10,6 @@ published: 2023-08-14
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /baldurs-gate-3-review

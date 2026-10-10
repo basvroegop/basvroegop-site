@@ -4,7 +4,6 @@ description: Sony’s meest filmische game heeft nu ook een eigen tv-serie, die 
 published: 2023-01-10
 modified: 2023-01-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

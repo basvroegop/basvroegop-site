@@ -4,7 +4,6 @@ description: "Een lab van Apple in Parijs werkt al jaren aan het verbeteren van 
 published: 2023-11-09
 modified: 2023-11-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

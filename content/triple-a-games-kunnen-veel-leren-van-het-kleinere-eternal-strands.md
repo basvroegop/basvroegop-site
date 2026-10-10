@@ -5,7 +5,6 @@ published: 2025-02-10
 modified: 2025-02-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/triple-a-games-kunnen-veel-leren-van-het-kleinere-eternal-strands

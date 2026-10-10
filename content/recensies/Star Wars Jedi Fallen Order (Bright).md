@@ -3,7 +3,6 @@ title: "Star Wars Jedi: Fallen Order (Bright)"
 description: "Star Wars Jedi: Fallen Order"
 published: 2019-11-05
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /star-wars-jedi-fallen-order-game-review-ea-kopen

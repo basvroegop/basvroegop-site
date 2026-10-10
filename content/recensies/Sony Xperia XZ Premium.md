@@ -5,7 +5,6 @@ published: 2017-04-27
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-xperia-xz-premium-filmt-in-superslowmotion

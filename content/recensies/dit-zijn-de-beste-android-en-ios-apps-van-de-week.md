@@ -5,7 +5,6 @@ published: 2016-09-18
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /dit-zijn-de-beste-android-en-ios-apps-van-de-week

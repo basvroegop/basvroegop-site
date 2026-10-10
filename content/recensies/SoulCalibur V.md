@@ -4,7 +4,6 @@ description: Het vijfde deel in de SoulCalibur-reeks is nog meer op multiplayer 
 published: 2012-02-06
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /soulcalibur-v-review

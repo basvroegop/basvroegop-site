@@ -3,7 +3,6 @@ title: "Uitlegparty: iCloud"
 description: Apple's nieuwe dienst iCloud is een manier om al je data met verschillende apparaten te delen.
 published: 2011-06-06
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/uitlegparty-icloud

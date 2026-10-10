@@ -5,7 +5,6 @@ published: 2018-04-29
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen

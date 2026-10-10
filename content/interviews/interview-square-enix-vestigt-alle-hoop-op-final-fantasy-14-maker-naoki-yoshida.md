@@ -4,7 +4,6 @@ description: Met zowel Final Fantasy 14 als 16 op zijn cv is Naoki Yoshida één
 published: 2024-06-06
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida

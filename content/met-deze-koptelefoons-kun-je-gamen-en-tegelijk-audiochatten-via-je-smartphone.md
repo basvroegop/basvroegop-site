@@ -4,7 +4,6 @@ description: Hoewel spelcomputers vaak audiochatfuncties hebben, gebruiken velen
 published: 2022-08-07
 modified: 2022-08-07
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

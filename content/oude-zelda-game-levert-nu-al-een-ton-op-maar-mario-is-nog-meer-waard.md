@@ -4,7 +4,6 @@ description: Een feilloos exemplaar van de allereerste The Legend of Zelda-game 
 published: 2021-07-07
 modified: 2021-07-07
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

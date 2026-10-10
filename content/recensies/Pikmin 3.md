@@ -5,7 +5,6 @@ published: 2013-08-06
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /pikmin-3-review

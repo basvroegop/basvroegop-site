@@ -4,7 +4,6 @@ description: Zeg maar dag tegen de pinpas. Van alle betalingen die we in winkels
 published: 2024-04-08
 modified: 2024-04-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

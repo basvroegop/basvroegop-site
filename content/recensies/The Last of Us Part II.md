@@ -5,7 +5,6 @@ published: 2020-06-12
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-the-last-of-us-part-ii-is-grimmig-deprimerend-en-fantastisch

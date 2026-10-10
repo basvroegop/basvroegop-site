@@ -3,7 +3,6 @@ title: Pokémon Pokopia (Kidsweek)
 description: Pokopia is een beetje Pokémon, een beetje Minecraft en een beetje Animal Crossing. Samen maakt dat een erg leuke game.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-pokopia-bouwpret-op-een-eiland

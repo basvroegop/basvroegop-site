@@ -5,7 +5,6 @@ published: 2026-03-18
 modified: 2026-03-18
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/het-world-of-warcraft-van-nu-vertelt-intieme-en-menselijke-verhalen

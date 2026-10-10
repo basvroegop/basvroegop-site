@@ -5,7 +5,6 @@ published: 2018-04-26
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/wanneer-nemen-robots-de-wereld-over

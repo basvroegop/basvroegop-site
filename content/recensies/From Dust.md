@@ -5,7 +5,6 @@ published: 2011-07-27
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /from-dust-review

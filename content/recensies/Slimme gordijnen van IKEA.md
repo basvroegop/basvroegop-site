@@ -5,7 +5,6 @@ published: 2019-09-16
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-slimme-gordijnen-van-ikea-zijn-betaalbaar-maar-nog-wel-beperkt

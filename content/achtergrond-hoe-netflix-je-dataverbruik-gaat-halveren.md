@@ -5,7 +5,6 @@ published: 2017-03-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren

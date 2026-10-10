@@ -4,7 +4,6 @@ description: Hey, Diablo III was toch al uit?
 published: 2012-09-25
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /torchlight-ii-review

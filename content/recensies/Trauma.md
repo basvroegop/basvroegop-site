@@ -4,7 +4,6 @@ description: Trauma zet gamers in een machteloze positie. Je neemt de rol aan va
 published: 2011-08-10
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /trauma-review

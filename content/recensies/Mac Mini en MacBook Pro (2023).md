@@ -4,7 +4,6 @@ description: "De nieuwste Mac Mini en MacBook Pro zijn eigenlijk maar saai: qua 
 published: 2023-01-25
 modified: 2023-01-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

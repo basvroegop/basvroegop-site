@@ -4,7 +4,6 @@ description: Bij de aanschaf van een nieuwe televisie schieten de prijzen al sne
 published: 2024-11-03
 modified: 2024-11-03
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

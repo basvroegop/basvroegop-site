@@ -5,7 +5,6 @@ published: 2017-01-15
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-boksgame-arms-toont-nieuwe-richting-voor-nintendo

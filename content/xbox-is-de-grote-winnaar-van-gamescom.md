@@ -4,7 +4,6 @@ description: Microsoft is dit jaar zonder twijfel de grote winnaar van Gamescom.
 published: 2024-08-25
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/xbox-is-de-grote-winnaar-van-gamescom

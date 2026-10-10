@@ -5,7 +5,6 @@ published: 2017-08-17
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /fortnite-review

@@ -5,7 +5,6 @@ published: 2012-12-09
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /zombiu-review

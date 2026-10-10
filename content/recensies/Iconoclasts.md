@@ -5,7 +5,6 @@ published: 2018-02-04
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /iconoclasts-review

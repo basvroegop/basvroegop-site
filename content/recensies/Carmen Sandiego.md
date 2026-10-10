@@ -3,7 +3,6 @@ title: Carmen Sandiego
 description: Carmen Sandiego ken je misschien van de gelijknamige Netflix-serie. Nu kruip je zelf in de huid van deze meesterdievegge.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-carmen-sandiego-op-dievenjacht

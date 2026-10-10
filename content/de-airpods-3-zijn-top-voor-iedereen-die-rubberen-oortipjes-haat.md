@@ -4,7 +4,6 @@ description: Apple heeft eindelijk zijn AirPods-dopjes van een flinke upgrade vo
 published: 2021-11-06
 modified: 2021-11-06
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

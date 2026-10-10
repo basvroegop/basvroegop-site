@@ -3,7 +3,6 @@ title: Schim
 description: Heb jij wel eens een schaduwspelletje gespeeld? Dat je van schaduw naar schaduw springt zonder de zonnige delen van de straat aan te raken. De makers van Schim hebben een hele game gebouwd waarin je dat als een klein spookje doet.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-schim-een-slim-schaduwspel

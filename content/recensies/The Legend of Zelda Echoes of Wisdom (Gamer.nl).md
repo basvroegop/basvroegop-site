@@ -4,7 +4,6 @@ description: Waar het Peach maar niet lukt om glansrijk voor Mario in te vallen,
 published: 2024-09-26
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /review-zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten

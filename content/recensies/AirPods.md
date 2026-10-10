@@ -5,7 +5,6 @@ published: 2016-12-25
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-airpods-zijn-het-beste-apple-product-van-dit-jaar

@@ -3,7 +3,6 @@ title: "Rabbids: Legends of the Multiverse"
 description: De Rabbids zijn het multiversum ingezogen. Daar nemen ze het op tegen versies van zichzelf. Ze vechten tegen cowboys, ridders, piraten en allemaal andere gekke konijnenschurken.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-vechten-met-konijnenschurken-in-rabbids

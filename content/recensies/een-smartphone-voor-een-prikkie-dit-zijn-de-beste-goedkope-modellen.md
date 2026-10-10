@@ -4,7 +4,6 @@ description: Techreuzen kondigen ieder jaar luxe nieuwe smartphones aan, waar oo
 published: 2024-08-22
 modified: 2024-08-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

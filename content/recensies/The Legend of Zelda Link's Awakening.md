@@ -5,7 +5,6 @@ published: 2019-09-19
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-links-awakening-is-nog-steeds-de-moeite-waard

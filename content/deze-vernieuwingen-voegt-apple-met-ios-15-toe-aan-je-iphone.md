@@ -5,7 +5,6 @@ published: 2021-06-09
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/deze-vernieuwingen-voegt-apple-met-ios-15-toe-aan-je-iphone

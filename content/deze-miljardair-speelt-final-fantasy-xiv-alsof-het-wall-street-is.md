@@ -5,7 +5,6 @@ published: 2017-12-06
 modified: 2022-07-01
 tags:
   - Games
-  - Elders gepubliceerd
   - Laadscherm
 aliases:
   - /artikelen/deze-miljardair-speelt-final-fantasy-xiv-alsof-het-wall-street-is

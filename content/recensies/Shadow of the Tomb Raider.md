@@ -5,7 +5,6 @@ published: 2018-06-16
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-shadow-of-the-tomb-raider-voelt-als-een-avonturenfilm

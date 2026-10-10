@@ -4,7 +4,6 @@ description: "Ze zijn mateloos populair op gamestreamingsite Twitch: livestreams
 published: 2021-05-26
 modified: 2021-07-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

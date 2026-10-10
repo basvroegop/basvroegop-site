@@ -4,7 +4,6 @@ description: Eindelijk een vervolg. Maar wel een waar je op de 3DS spierpijn van
 published: 2012-04-06
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /kid-icarus-uprising-review

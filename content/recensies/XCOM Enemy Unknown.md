@@ -5,7 +5,6 @@ published: 2012-11-01
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /xcom-enemy-unknown-review

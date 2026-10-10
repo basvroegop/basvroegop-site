@@ -3,7 +3,6 @@ title: Slime Heroes
 description: In games zijn slijmmonsters meestal je vijand, maar in Slime Heroes ben je er zelf een. Nadat boze monsters inbreken in het huis van jou en je drakenvriend, ga je op pad om je maatje te redden.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-slime-heroes-slijmmonster-als-held

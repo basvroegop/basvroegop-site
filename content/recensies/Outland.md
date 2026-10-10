@@ -5,7 +5,6 @@ published: 2011-05-11
 modified: 2022-09-16
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /outland-review

@@ -5,7 +5,6 @@ published: 2017-07-22
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /final-fantasy-12-the-zodiac-age-review

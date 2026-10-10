@@ -5,7 +5,6 @@ published: 2020-10-24
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-ipad-air-2020-maakt-apples-beste-tablet-iets-betaalbaarder

@@ -4,7 +4,6 @@ description: "Nog nooit duurde het zo lang voordat Apple nieuwe iPads presenteer
 published: 2024-05-13
 modified: 2024-05-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

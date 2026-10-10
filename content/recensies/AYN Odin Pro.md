@@ -4,7 +4,6 @@ description: De Nintendo Switch heeft er een concurrent uit China bij. De nieuwe
 published: 2022-04-03
 modified: 2022-04-03
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

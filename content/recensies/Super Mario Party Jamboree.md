@@ -3,7 +3,6 @@ title: Super Mario Party Jamboree
 description: De Super Mario Party-games zijn net een bordspel, maar dan digitaal. In het nieuwe Jamboree mag je met twee figuren tegelijk aan de slag als je de spelletjes goed speelt.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-super-mario-party-jamboree-gieren-op-de-bank

@@ -6,7 +6,6 @@ modified: 2022-07-11
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/waarom-zijn-final-fantasy-xiv-fans-zo-boos-om-de-nieuwe-blue-mage

@@ -5,7 +5,6 @@ published: 2017-04-26
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /disney-afternoon-collection-review

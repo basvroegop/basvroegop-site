@@ -5,7 +5,6 @@ published: 2021-10-06
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-metroid-dread-is-een-van-de-beste-2d-actiegames-in-jaren

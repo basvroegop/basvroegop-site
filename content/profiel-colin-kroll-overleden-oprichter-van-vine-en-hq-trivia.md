@@ -5,7 +5,6 @@ published: 2018-12-17
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/profiel-colin-kroll-overleden-oprichter-van-vine-en-hq-trivia

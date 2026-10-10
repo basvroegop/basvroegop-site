@@ -5,7 +5,6 @@ published: 2024-08-29
 modified: 2024-08-30
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdienen

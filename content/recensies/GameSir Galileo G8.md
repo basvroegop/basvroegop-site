@@ -3,7 +3,6 @@ title: GameSir Galileo G8
 description: De Galileo G8 heeft geen noemenswaardige grote minpunten en doet niet onder voor console-controllers.
 published: 2024-01-25
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /de-gamesir-galileo-g8-is-de-beste-gamecontroller-voor-je-smartphone

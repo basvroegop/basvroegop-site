@@ -3,7 +3,6 @@ title: HTC Incredible S
 description: De HTC Incredible S is qua design apart, maar lijkt qua prestaties veel op de HTC Desire HD.
 published: 2011-03-17
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-htc-incredible-s

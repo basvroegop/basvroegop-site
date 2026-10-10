@@ -3,7 +3,6 @@ title: Zo speel je nu al Minecraft Earth op je smartphone
 description: Early Access
 published: 2019-11-13
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/zo-speel-je-nu-al-minecraft-earth-op-je-smartphone

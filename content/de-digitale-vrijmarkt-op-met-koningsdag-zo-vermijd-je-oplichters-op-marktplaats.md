@@ -4,7 +4,6 @@ description: "Voor je tweedehands waren hoef je allang niet meer te wachten op d
 published: 2021-04-27
 modified: 2022-04-27
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

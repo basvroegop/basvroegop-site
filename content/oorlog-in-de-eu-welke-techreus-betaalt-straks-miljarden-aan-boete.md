@@ -3,7 +3,6 @@ title: Welke techreus betaalt straks miljarden aan boete?
 description: "Het wordt hard gespeeld in de Europese Unie: techreuzen moeten aan de nieuwe strenge wetgeving voldoen, maar niet iedereen lijkt dat te doen. Dat kan leiden tot tientallen miljarden euro's aan boete. Welk bedrijf wordt de eerste die zo'n megaboete moet betalen?"
 published: 2024-04-03
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/oorlog-in-de-eu-welke-techreus-betaalt-straks-miljarden-aan-boete

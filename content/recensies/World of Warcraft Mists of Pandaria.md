@@ -3,7 +3,6 @@ title: "World of Warcraft: Mists of Pandaria"
 description: World of Warcraft is nu echt voor iedereen.
 published: 2012-10-14
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /world-warcraft-mists-pandaria

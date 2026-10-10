@@ -3,7 +3,6 @@ title: Backbone One
 description: Bright Review
 published: 2021-01-20
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /deze-gadget-maakt-van-je-iphone-een-switch-concurrent

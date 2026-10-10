@@ -3,7 +3,6 @@ title: Kirby Air Riders
 description: Kirby’s nieuwe racegame lijkt simpel, maar heeft stiekem heel veel manieren om te spelen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-kirby-air-riders-creatief-racen

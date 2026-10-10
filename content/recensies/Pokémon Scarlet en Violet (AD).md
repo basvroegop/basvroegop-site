@@ -4,7 +4,6 @@ description: Hoewel Pokémon de afgelopen twee decennia een gigantische mediafra
 published: 2022-10-21
 modified: 2022-10-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

@@ -4,7 +4,6 @@ description: Apples nieuwe Mac Studio is een ouderwetse computer die je op een m
 published: 2022-03-17
 modified: 2022-03-17
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Grote smarthomefabrikanten concurreren inmiddels al jarenlang met e
 published: 2022-12-12
 modified: 2022-12-12
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

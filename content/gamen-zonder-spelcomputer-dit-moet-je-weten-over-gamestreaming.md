@@ -3,7 +3,6 @@ title: "Gamen zonder console: dit moet je weten over gamestreaming"
 description: Stadia, PS Now, xCloud
 published: 2019-11-19
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/gamen-zonder-spelcomputer-dit-moet-je-weten-over-gamestreaming

@@ -3,7 +3,6 @@ title: Amazon bewijst dat Stadia en Game Pass ook op iOS kunnen werken
 description: Bright Analyse
 published: 2020-09-25
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/amazon-bewijst-dat-stadia-en-game-pass-allang-op-ios-kunnen-werken

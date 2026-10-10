@@ -5,7 +5,6 @@ published: 2013-06-01
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /reus-review

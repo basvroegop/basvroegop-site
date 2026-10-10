@@ -10,7 +10,6 @@ published: 2023-07-21
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /pikmin-4-review

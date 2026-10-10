@@ -4,7 +4,6 @@ description: In een al bomvol gamejaar zet Sony dit najaar alles in op Spider-Ma
 published: 2023-10-08
 modified: 2023-10-11
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

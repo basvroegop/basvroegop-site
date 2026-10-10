@@ -3,7 +3,6 @@ title: De strijd om de betaalbare elektrische fiets is weer losgebarsten
 description: Het voorjaar staat weer in het teken van een groeiend arsenaal aan nieuwe e-bikes. Van betaalbare modellen tot een Cowboy waarmee je ook het bos in kunt. Wat zijn de grootste aanraders? We bespreken het in onze podcast .
 published: 2024-03-20
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/de-strijd-om-de-betaalbare-e-bike-is-weer-losgebarsten

@@ -5,7 +5,6 @@ published: 2019-04-19
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/vijf-apps-om-het-hete-weer-in-de-gaten-te-houden

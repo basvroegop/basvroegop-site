@@ -5,7 +5,6 @@ published: 2018-03-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/wanneer-kun-je-in-nederland-5g-gaan-gebruiken

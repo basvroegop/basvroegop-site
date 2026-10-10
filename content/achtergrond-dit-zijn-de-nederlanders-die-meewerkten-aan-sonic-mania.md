@@ -5,7 +5,6 @@ published: 2017-08-20
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania

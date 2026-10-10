@@ -4,7 +4,6 @@ description: Waar oude Final Fantasy-games nostalgische gevoelens opwekken bij N
 published: 2024-11-15
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger

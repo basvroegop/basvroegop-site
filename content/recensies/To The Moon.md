@@ -4,7 +4,6 @@ description: To The Moon laat je niet jagen op schurken en aliens, maar stuurt j
 published: 2011-12-09
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /to-the-moon-review

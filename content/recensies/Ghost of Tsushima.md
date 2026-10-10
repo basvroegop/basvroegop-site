@@ -5,7 +5,6 @@ published: 2020-07-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-ghost-of-tsushima-is-prachtig-maar-valt-in-herhaling

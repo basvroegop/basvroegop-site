@@ -5,7 +5,6 @@ published: 2018-05-16
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-oneplus-6-is-een-uitstekende-prijsvechter

@@ -5,7 +5,6 @@ published: 2011-04-19
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /mortal-kombat-review

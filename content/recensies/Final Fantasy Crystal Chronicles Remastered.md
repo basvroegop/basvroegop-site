@@ -5,7 +5,6 @@ published: 2020-09-07
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /final-fantasy-crystal-chronicles-remastered-strandt-op-het-belangrijkste-punt

@@ -5,7 +5,6 @@ published: 2011-03-29
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /sword-and-sworcery-review

@@ -5,7 +5,6 @@ published: 2021-08-12
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/zo-voorkom-je-ruzie-tijdens-de-vakantiereis

@@ -4,7 +4,6 @@ description: Telecomprovider VodafoneZiggo moet binnenkort klanten de vrijheid g
 published: 2021-05-25
 modified: 2021-06-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2016-12-06
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /final-fantasy-xv-review

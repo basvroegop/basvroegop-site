@@ -10,7 +10,6 @@ published: 2023-04-19
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /advance-wars-1-2-re-boot-camp-review

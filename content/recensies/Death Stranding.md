@@ -5,7 +5,6 @@ published: 2019-11-01
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-een-game-als-death-stranding-bestond-nog-niet

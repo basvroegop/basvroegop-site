@@ -3,7 +3,6 @@ title: "Splatoon 3: De Toren Der Orde"
 description: Twee jaar na het uitkomen van Splatoon 3 is er nu het uitbreidingspakket De Toren der Orde. Dat voegt een helemaal nieuwe manier van spelen toe.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-splatoon-3-breidt-uit-met-de-toren-der-orde

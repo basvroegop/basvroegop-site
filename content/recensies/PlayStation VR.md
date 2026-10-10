@@ -5,7 +5,6 @@ published: 2016-10-12
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-playstation-vr-is-de-minste-van-de-drie-grote-vr-brillen

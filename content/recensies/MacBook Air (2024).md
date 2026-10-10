@@ -4,7 +4,6 @@ description: "Hij kost een paar centen, maar dan heb je ook wat: de nieuwe MacBo
 published: 2024-03-07
 modified: 2024-03-07
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

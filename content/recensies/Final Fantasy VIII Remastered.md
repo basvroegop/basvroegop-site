@@ -5,7 +5,6 @@ published: 2019-10-13
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /final-fantasy-8-remastered-review

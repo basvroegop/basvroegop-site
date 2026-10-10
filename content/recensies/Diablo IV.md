@@ -5,7 +5,6 @@ published: 2019-11-02
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-diablo-iv-is-duisterder-enger-en-intiemer

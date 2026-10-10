@@ -5,7 +5,6 @@ published: 2011-09-20
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /gears-of-war-3-review

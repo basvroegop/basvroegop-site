@@ -5,7 +5,6 @@ published: 2018-10-31
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-wat-heb-je-nou-echt-aan-een-google-home-speaker

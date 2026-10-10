@@ -5,7 +5,6 @@ published: 2019-07-21
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /apps-van-de-week-sky-children-of-light-en-ceri-launcher

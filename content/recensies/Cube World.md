@@ -5,7 +5,6 @@ published: 2013-07-13
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /cube-world-review

@@ -5,7 +5,6 @@ published: 2018-03-29
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /ni-no-kuni-2-revenant-kingdom-review

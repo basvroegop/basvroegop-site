@@ -5,7 +5,6 @@ published: 2026-03-02
 modified: 2026-03-18
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/waar-zijn-de-mensen-gebleven-in-pokopia

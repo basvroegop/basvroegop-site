@@ -5,7 +5,6 @@ published: 2019-03-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/dit-zijn-de-beste-slimme-thermostaten-voor-in-huis

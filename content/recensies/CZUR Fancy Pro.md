@@ -4,7 +4,6 @@ description: Vroeger hadden we losse scanners naast de computer staan, maar met 
 published: 2022-11-14
 modified: 2022-11-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

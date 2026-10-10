@@ -5,7 +5,6 @@ published: 2026-09-10
 modified: 2026-09-10
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/gun-je-mega-man-team-hun-obscure-kartgame-capcom

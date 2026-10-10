@@ -3,7 +3,6 @@ title: Hasselblad True Zoom
 description: Het klassieke cameramerk Hasselblad maakt een cameramodule die op Lenovo's Moto Z-smartphone is te klikken. We probeerden hem op de IFA in Berlijn.
 published: 2016-08-31
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-hasselblad-cameramodule-voor-moto-z-smartphone

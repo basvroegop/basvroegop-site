@@ -5,7 +5,6 @@ published: 2015-12-23
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /fat-princess-adventures-review

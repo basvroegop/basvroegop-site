@@ -5,7 +5,6 @@ published: 2022-10-17
 modified: 2026-10-09
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-mario-rabbids-sparks-of-hope-is-een-erg-europese-mario-game

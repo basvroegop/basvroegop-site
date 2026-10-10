@@ -6,7 +6,6 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/de-nederlandse-media-moeten-de-dutch-game-awards-serieuzer-nemen

@@ -5,7 +5,6 @@ published: 2023-10-11
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /cocoon-review

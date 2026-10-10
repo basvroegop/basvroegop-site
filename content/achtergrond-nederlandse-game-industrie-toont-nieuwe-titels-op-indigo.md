@@ -5,7 +5,6 @@ published: 2017-07-01
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo

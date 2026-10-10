@@ -4,7 +4,6 @@ description: Apple brengt deze week een compleet opnieuw ontworpen MacBook Air o
 published: 2022-07-14
 modified: 2022-07-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

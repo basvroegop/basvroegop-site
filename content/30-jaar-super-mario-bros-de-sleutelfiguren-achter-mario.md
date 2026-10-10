@@ -5,7 +5,6 @@ published: 2015-09-13
 modified: 2025-07-17
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario

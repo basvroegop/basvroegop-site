@@ -5,7 +5,6 @@ published: 2019-06-29
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-final-fantasy-vii-remake-voelt-heel-anders-dan-origineel

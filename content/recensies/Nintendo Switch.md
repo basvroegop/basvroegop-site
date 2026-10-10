@@ -5,7 +5,6 @@ published: 2017-03-01
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-nintendo-switch-is-indrukwekkend-maar-gehaast

@@ -5,7 +5,6 @@ published: 2021-06-17
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/zo-voorkom-je-dat-je-tv-gekke-dingen-doet-tijdens-ek-wedstrijden

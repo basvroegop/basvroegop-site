@@ -7,7 +7,6 @@ tags:
   - Achtergrond
   - Games
   - Tech
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/waarom-de-oculus-rift-zo-duur-is-geworden

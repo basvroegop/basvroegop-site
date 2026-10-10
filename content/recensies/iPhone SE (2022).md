@@ -4,7 +4,6 @@ description: Met een prijs van ruim 500 euro is de nieuwe iPhone SE niet goedkoo
 published: 2022-03-23
 modified: 2022-03-23
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

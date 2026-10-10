@@ -5,7 +5,6 @@ published: 2016-08-20
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /interview-hearthstone-peter-whalen-hamilton-chu

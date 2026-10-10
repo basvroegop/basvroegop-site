@@ -5,7 +5,6 @@ published: 2017-08-17
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /mega-man-legacy-collection-2-review

@@ -5,7 +5,6 @@ published: 2017-11-25
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-waarom-hebben-games-vaker-ingebouwde-goksystemen

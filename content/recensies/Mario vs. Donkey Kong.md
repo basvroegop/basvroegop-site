@@ -3,7 +3,6 @@ title: Mario vs. Donkey Kong
 description: Mario vs. Donkey Kong lijkt heel erg op eerdere Mario-games. Het spel is net zo leuk, maar je moet het wel op een heel andere manier spelen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /recensie-mario-vs-donkey-kong

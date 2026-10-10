@@ -6,7 +6,6 @@ modified: 2024-01-17
 tags:
   - Games
   - Tech
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /playstation-portal-review

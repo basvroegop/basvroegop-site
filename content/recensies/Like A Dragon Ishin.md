@@ -10,7 +10,6 @@ published: 2023-02-28
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /like-a-dragon-ishin-review

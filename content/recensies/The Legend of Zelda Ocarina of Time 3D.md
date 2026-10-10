@@ -5,7 +5,6 @@ published: 2011-06-21
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-legend-of-zelda-ocarina-of-time-3d-review

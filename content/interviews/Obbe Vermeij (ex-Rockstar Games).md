@@ -4,7 +4,6 @@ description: "Obbe Vermeij had jarenlang een sleutelrol bij het razend populaire
 published: 2023-12-08
 modified: 2023-12-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

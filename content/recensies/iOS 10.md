@@ -5,7 +5,6 @@ published: 2016-09-13
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-ios-10-haalt-ontgrendelscherm-van-iphone-overhoop

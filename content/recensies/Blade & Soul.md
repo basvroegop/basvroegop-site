@@ -5,7 +5,6 @@ published: 2016-02-12
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /blade-n-soul-review

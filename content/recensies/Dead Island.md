@@ -4,7 +4,6 @@ description: Dankzij een emotionele trailer zijn alle ogen gericht op Dead Islan
 published: 2011-09-14
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dead-island-review

@@ -5,7 +5,6 @@ published: 2011-04-26
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /portal-2-review

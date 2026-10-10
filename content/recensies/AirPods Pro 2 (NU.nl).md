@@ -5,7 +5,6 @@ published: 2022-09-22
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert

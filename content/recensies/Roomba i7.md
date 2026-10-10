@@ -5,7 +5,6 @@ published: 2019-04-07
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-hoe-slim-is-een-roomba-stofzuiger-die-je-huis-in-kaart-brengt

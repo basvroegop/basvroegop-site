@@ -4,7 +4,6 @@ description: Miljarden mensen surfen op het internet via Chrome. Heb je het idee
 published: 2022-09-22
 modified: 2022-09-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

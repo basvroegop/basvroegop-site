@@ -5,7 +5,6 @@ published: 2012-03-09
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /mass-effect-3-review

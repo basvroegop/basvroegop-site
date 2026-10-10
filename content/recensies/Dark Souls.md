@@ -4,7 +4,6 @@ description: Het vervolg op de moeilijkste game aller tijden is er. Dark Souls w
 published: 2011-10-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dark-souls-review

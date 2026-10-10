@@ -4,7 +4,6 @@ description: In de game Catherine ben jij vreemd gegaan en word je sindsdien get
 published: 2012-02-21
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /catherine-review

@@ -4,7 +4,6 @@ description: "Het gebeurt iedereen wel eens: je stuurt een e-mail, maar ontdekt 
 published: 2021-07-06
 modified: 2021-07-06
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

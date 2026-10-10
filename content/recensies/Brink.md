@@ -5,7 +5,6 @@ published: 2011-05-17
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /brink-review

@@ -5,7 +5,6 @@ published: 2020-12-07
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-cyberpunk-2077-is-prachtig-maar-nog-niet-af

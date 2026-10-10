@@ -5,7 +5,6 @@ published: 2011-06-07
 modified: 2022-09-16
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /frozen-synapse-review

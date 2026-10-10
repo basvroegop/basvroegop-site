@@ -5,7 +5,6 @@ published: 2019-11-03
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-world-of-warcraft-shadowlands-is-ideaal-voor-nieuwkomers

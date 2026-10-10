@@ -5,7 +5,6 @@ published: 2019-08-05
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen

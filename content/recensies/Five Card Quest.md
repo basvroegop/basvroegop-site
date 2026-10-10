@@ -5,7 +5,6 @@ published: 2015-11-17
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /five-card-quest-review

@@ -5,7 +5,6 @@ published: 2016-12-30
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/tech-in-2017-augmented-reality-randloze-smartphones-en-techwetgeving

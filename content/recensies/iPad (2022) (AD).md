@@ -4,7 +4,6 @@ description: Met de komst van weer een nieuwe iPad, kun je bij Apple kiezen uit 
 published: 2022-10-24
 modified: 2022-10-24
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

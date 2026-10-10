@@ -4,7 +4,6 @@ description: Apple heeft dit jaar twee nieuwe iPhones, waarvan één echt signif
 published: 2022-09-14
 modified: 2022-09-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

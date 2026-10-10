@@ -4,7 +4,6 @@ description: In Cart Life ben je geen ruimtemarinier, maar een immigrant die een
 published: 2013-01-13
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /cart-life-review

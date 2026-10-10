@@ -5,7 +5,6 @@ published: 2017-05-20
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /overzicht-vijf-smartphones-onder-de-250-euro

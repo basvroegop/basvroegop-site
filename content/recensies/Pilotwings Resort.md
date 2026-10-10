@@ -5,7 +5,6 @@ published: 2011-03-23
 modified: 2022-09-16
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /pilotwings-resort-review

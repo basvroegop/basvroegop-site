@@ -6,7 +6,6 @@ modified: 2022-07-04
 tags:
   - Preview
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/assassins-creed-valhalla-is-meer-actie-minder-stealth

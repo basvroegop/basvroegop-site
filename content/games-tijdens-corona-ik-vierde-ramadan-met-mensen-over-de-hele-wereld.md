@@ -5,7 +5,6 @@ published: 2020-06-24
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/games-tijdens-corona-ik-vierde-ramadan-met-mensen-over-de-hele-wereld

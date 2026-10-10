@@ -3,7 +3,6 @@ title: Donkey Kong Country Returns HD
 description: De bananen van Donkey Kong zijn gestolen door de Tiki Tak-stam. In Donkey Kong Country Returns moet jij die weer verzamelen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-donkey-kong-country-returns-een-oud-spel-in-een-nieuw-jasje

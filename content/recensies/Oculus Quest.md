@@ -5,7 +5,6 @@ published: 2019-04-30
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-oculus-quest-is-de-eerste-virtualrealitybril-voor-niet-nerds

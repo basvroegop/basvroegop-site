@@ -5,7 +5,6 @@ published: 2022-12-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/illustratoren-bezorgd-over-robots-die-kunst-namaken-dit-is-diefstal

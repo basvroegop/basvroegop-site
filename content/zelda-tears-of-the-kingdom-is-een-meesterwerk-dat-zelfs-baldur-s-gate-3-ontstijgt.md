@@ -5,7 +5,6 @@ published: 2023-12-11
 modified: 2023-12-18
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/zelda-tears-of-the-kingdom-is-een-meesterwerk-dat-zelfs-baldur-s-gate-3-ontstijgt

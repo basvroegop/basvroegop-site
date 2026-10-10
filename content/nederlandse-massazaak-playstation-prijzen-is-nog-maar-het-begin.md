@@ -5,7 +5,6 @@ published: 2025-02-20
 modified: 2025-02-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/nederlandse-massazaak-playstation-prijzen-is-nog-maar-het-begin

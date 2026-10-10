@@ -4,7 +4,6 @@ description: Er is een grote transfer gaande in gameland. Veel spelers van het p
 published: 2021-07-18
 modified: 2021-07-20
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

@@ -4,7 +4,6 @@ description: Met de stijgende prijzen kijken we steeds meer naar ons dagelijkse 
 published: 2022-04-13
 modified: 2022-05-02
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

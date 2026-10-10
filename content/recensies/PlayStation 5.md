@@ -5,7 +5,6 @@ published: 2020-11-12
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-playstation-5-is-een-bakbeest-met-briljante-controller

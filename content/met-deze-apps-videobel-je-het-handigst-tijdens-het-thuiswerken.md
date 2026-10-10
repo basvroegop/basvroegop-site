@@ -3,7 +3,6 @@ title: De beste apps voor videobellen met collega's
 description: Zelfs tijdens het thuiswerken moet je af en toe nog vergaderen. Gelukkig zijn er meerdere apps waarmee je dat makkelijk kunt doen. De beste videobelapps op een rij.
 published: 2020-03-18
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/met-deze-apps-videobel-je-het-handigst-tijdens-het-thuiswerken

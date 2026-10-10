@@ -4,7 +4,6 @@ description: Een MMORPG van Bioware in het Star Wars-universum. Wereldwijd zulle
 published: 2011-12-23
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /star-wars-the-old-republic-review

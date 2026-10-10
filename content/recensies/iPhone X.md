@@ -5,7 +5,6 @@ published: 2017-11-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-iphone-x-is-een-duur-voorproefje-van-de-toekomst

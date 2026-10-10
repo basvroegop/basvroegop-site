@@ -5,7 +5,6 @@ published: 2017-05-23
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /inustice-2-review

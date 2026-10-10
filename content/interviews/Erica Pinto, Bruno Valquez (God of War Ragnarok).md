@@ -4,7 +4,6 @@ description: "De nieuwe PlayStation-titel God of War: Ragnarok is een actiegame,
 published: 2022-11-09
 modified: 2022-11-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

@@ -3,7 +3,6 @@ title: Tomodachi Life
 description: In het spel Tomodachi Life ben je de baas van een eiland. Je maakt poppetjes die daar samen leven. En daarna is het afwachten wat er gebeurt...
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-tomodachi-life-afwachten-wat-er-gebeurt

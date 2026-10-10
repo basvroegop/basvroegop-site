@@ -5,7 +5,6 @@ published: 2018-04-19
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/verbod-op-voetbalgame-fifa-18-dreigt-in-nederland-wat-nu

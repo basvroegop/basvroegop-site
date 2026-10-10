@@ -4,7 +4,6 @@ description: De populaire voetbalgame FIFA is toch geen gokmachine en overtreedt
 published: 2022-03-09
 modified: 2022-03-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

@@ -5,7 +5,6 @@ published: 2024-01-22
 modified: 2024-01-22
 tags:
   - Games
-  - Elders gepubliceerd
   - Power Unlimited
 aliases:
   - /artikelen/palworld-pc-gespeeld-vol-jatwerk-geweldig-idee

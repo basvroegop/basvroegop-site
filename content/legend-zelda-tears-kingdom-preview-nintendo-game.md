@@ -4,7 +4,6 @@ description: Bright Preview
 published: 2023-04-26
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/legend-zelda-tears-kingdom-preview-nintendo-game

@@ -5,7 +5,6 @@ published: 2021-04-04
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/deze-paaseitjes-kun-je-op-het-wereldwijde-web-zoeken

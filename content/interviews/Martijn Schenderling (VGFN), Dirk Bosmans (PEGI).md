@@ -5,7 +5,6 @@ published: 2025-03-03
 modified: 2025-03-03
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /pegi-het-lootboxdebat-is-emotioneel

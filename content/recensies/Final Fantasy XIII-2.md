@@ -4,7 +4,6 @@ description: Square Enix is met Final Fantasy XIII-2 conservatiever dan ooit.
 published: 2012-02-13
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /final-fantasy-xiii-2-review

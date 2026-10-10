@@ -5,7 +5,6 @@ published: 2017-09-22
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /azure-striker-gunvolt-striker-pack-review

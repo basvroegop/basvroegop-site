@@ -5,7 +5,6 @@ published: 2018-11-10
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pixel-3-is-fijnste-android-smartphone-die-je-niet-zomaar-kan-kopen

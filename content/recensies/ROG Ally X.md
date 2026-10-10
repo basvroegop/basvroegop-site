@@ -3,7 +3,6 @@ title: ROG Ally X
 description: "De ROG Ally moest de eerste ' Steam Deck-killer' worden, maar flaterde op één essentieel punt: de batterij vloog leeg. Dat probleem belooft ASUS nu op te lossen in de ROG Ally X. Daar slaagt het bedrijf in, maar er zijn toch nog wat pijnpuntjes waar je rekening mee moet houden voor je één in huis…"
 published: 2024-07-22
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /review-rog-ally-x-steam-deck-killer-heeft-grotere-accu-maar-alsnog-problemen

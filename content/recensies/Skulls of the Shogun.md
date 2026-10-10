@@ -4,7 +4,6 @@ description: Strategisch spelletje op alles met een Microsoft-logo.
 published: 2013-02-07
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /skulls-of-the-shogun-review

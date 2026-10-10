@@ -3,7 +3,6 @@ title: Visions of Mana
 description: In deze game ben jij Val, de beste zwaardvechter uit het dorp en beschermer van een groep reizigers. Samen moeten jullie een gigantisch grote, magische boom bereiken om de wereld van de ondergang te redden. Het is een soort digitaal sprookje...
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-visions-of-mana-een-onschuldig-sprookje

@@ -5,7 +5,6 @@ published: 2019-11-25
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pokemon-sword-en-pokemon-shield-zijn-vooral-ouderwets

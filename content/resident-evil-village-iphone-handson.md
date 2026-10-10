@@ -6,7 +6,6 @@ modified: 2024-01-17
 tags:
   - Preview
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/resident-evil-village-iphone-handson

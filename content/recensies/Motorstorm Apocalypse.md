@@ -5,7 +5,6 @@ published: 2011-03-20
 modified: 2023-01-22
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /motorstorm-apocalypse-review

@@ -5,7 +5,6 @@ published: 2018-05-31
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /moonlighter-review

@@ -4,7 +4,6 @@ description: Apples nieuwe AirPods Pro lijken grotendeels op hun voorgangers, ma
 published: 2022-09-23
 modified: 2022-09-23
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

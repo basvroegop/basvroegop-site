@@ -4,7 +4,6 @@ description: De kleinste iPad krijgt voor het eerst een écht nieuw ontwerp. Wij
 published: 2021-09-22
 modified: 2021-09-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

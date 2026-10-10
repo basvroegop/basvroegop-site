@@ -5,7 +5,6 @@ published: 2017-08-25
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/is-de-smartphone-op-school-onmisbaar-geworden

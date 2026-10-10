@@ -5,7 +5,6 @@ published: 2011-11-24
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-legend-of-zelda-skyward-sword-review

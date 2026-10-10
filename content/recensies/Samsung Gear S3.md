@@ -5,7 +5,6 @@ published: 2016-12-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-gear-s3-biedt-kleine-verbeteringen-voor-al-prima-smartwatch

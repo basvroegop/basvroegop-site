@@ -4,7 +4,6 @@ description: Op gadgetbeurs CES zijn de meest bizarre gadgets gepresenteerd, waa
 published: 2025-01-09
 modified: 2025-01-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

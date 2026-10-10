@@ -4,7 +4,6 @@ description: "Ja, de nieuwe AirPods Pro laten geluid beter klinken dan die uit 2
 published: 2022-09-08
 modified: 2022-09-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

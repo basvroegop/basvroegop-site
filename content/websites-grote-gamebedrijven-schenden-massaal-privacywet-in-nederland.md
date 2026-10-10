@@ -5,7 +5,6 @@ published: 2019-01-23
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/websites-grote-gamebedrijven-schenden-massaal-privacywet-in-nederland

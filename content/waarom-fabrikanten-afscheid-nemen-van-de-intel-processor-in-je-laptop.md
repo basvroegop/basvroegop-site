@@ -4,7 +4,6 @@ description: "Waar Intel ooit regeerde, zien we nu op techbeurs Computex in Taiw
 published: 2024-06-06
 modified: 2024-06-06
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

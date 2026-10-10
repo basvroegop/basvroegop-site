@@ -5,7 +5,6 @@ published: 2018-03-31
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-samsung-galaxy-s9-voelt-als-een-herhaaloefening

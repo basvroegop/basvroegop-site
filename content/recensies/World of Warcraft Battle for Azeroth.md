@@ -5,7 +5,6 @@ published: 2018-08-28
 modified: 2025-06-10
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-battle-for-azeroth-blaast-world-of-warcraft-met-oude-strijd-nieuw-leven-in

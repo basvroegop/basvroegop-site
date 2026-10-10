@@ -5,7 +5,6 @@ published: 2016-04-05
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /adr1ft-review

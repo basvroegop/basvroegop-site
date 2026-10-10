@@ -4,7 +4,6 @@ description: Het stikt van de kanalen over games, maar er zijn weinig die het zo
 published: 2020-04-23
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /noclip-mediatip

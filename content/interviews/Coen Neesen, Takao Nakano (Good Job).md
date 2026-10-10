@@ -5,7 +5,6 @@ published: 2020-10-13
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte

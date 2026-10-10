@@ -5,7 +5,6 @@ published: 2022-02-14
 modified: 2026-10-09
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-horizon-forbidden-west-is-de-ambitieuste-nederlandse-game-ooit

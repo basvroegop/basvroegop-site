@@ -3,7 +3,6 @@ title: Astro Bot (Kidsweek)
 description: In Astro Bot vlieg je met je honderden robotvrienden door de ruimte, tot een alien je schip kapotslaat en je vrienden naar andere planeten vliegen. Aan jou de taak om ze weer terug te vinden.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur

@@ -5,7 +5,6 @@ published: 2022-10-24
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad

@@ -5,7 +5,6 @@ published: 2017-08-23
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-galaxy-note-8-is-een-s8-met-stylus-en-extra-camera

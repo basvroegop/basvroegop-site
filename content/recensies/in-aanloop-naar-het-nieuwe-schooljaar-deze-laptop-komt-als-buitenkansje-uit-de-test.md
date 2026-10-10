@@ -4,7 +4,6 @@ description: De tijd dat je al het schoolwerk deed met een oud notitieblok is vo
 published: 2024-08-09
 modified: 2024-08-09
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

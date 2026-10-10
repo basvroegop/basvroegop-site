@@ -5,7 +5,6 @@ published: 2018-02-25
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-samsung-galaxy-s9-verfijnt-een-al-goede-telefoon

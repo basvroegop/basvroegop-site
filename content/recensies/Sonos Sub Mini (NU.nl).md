@@ -5,7 +5,6 @@ published: 2022-10-01
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter

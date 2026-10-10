@@ -3,7 +3,6 @@ title: Rhythm Paradise Groove
 description: Rhythm Paradise Groove bestaat uit meer dan honderd spelletjes. En die testen allemaal jouw ritmegevoel.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-rhythm-paradise-groove-gamen-op-de-maat

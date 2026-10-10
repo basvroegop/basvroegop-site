@@ -3,7 +3,6 @@ title: PlayStation Vita
 description: De Playstation Vita is de Porsche onder de handheld game-apparaten. Met wat slimme sociale functies.
 published: 2012-03-16
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-playstation-vita

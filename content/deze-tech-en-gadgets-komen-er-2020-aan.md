@@ -3,7 +3,6 @@ title: De gadgets en tech-trends om naar uit te kijken in 2020
 description: Vooruitblik
 published: 2019-12-24
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/deze-tech-en-gadgets-komen-er-2020-aan

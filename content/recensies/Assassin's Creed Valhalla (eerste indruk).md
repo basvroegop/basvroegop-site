@@ -5,7 +5,6 @@ published: 2020-07-12
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-assassins-creed-valhalla-is-harder-maar-weinig-vernieuwend

@@ -4,7 +4,6 @@ description: Vanaf deze week is de ‘Nintendo Switch-killer’ van gamegigant V
 published: 2022-02-25
 modified: 2022-02-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

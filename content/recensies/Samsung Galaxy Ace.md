@@ -3,7 +3,6 @@ title: Samsung Galaxy Ace
 description: "Samsung begint 2011 met drie nieuwe mid-range smartphones: de Galaxy Mini, Gio en Ace. Bright testte de Galaxy Ace."
 published: 2011-02-28
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-samsung-galaxy-ace

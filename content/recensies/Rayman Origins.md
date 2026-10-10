@@ -4,7 +4,6 @@ description: Na jaren in 3d keert Ubisoft’s oudste mascotte weer terug in twee
 published: 2011-12-02
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /rayman-origins-review

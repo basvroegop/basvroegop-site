@@ -4,7 +4,6 @@ description: "Palworld is in korte tijd de grootste game op Steam geworden, maar
 published: 2024-01-22
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/palworlds-jatwerk-van-pokemon-is-niet-oke

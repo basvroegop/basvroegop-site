@@ -5,7 +5,6 @@ published: 2015-12-26
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /knights-of-pen-paper-2-review

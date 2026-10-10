@@ -4,7 +4,6 @@ description: Een nieuwe functie bij WhatsApp maakt het mogelijk om de chatapp op
 published: 2021-11-10
 modified: 2021-11-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

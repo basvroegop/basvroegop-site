@@ -4,7 +4,6 @@ description: Afgelopen jaar was er buitengewoon veel vraag naar televisies tijde
 published: 2023-11-18
 modified: 2023-11-18
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

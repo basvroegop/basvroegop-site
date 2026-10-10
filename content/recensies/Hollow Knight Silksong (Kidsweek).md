@@ -3,7 +3,6 @@ title: "Hollow Knight: Silksong (Kidsweek)"
 description: "De nieuwe game Hollow Knight: Silksong is zó populair, dat alle online winkels overbelast raakten toen hij voor het eerst te koop was."
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game

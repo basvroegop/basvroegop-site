@@ -4,7 +4,6 @@ description: "De ene na de andere techreus brengt nieuwe slimme oordopjes op de 
 published: 2022-11-05
 modified: 2022-11-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

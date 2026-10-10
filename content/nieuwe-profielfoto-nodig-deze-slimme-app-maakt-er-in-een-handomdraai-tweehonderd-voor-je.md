@@ -4,7 +4,6 @@ description: Je hebt op sociale media al een tijdje dezelfde profielplaat en wil
 published: 2022-11-29
 modified: 2022-11-29
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

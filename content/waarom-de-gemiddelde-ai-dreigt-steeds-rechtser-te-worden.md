@@ -3,7 +3,6 @@ title: Waarom de gemiddelde AI dreigt steeds rechtser te worden
 description: Je AI-bot wordt in de toekomst waarschijnlijk steeds rechtser. Omdat vooral linkse nieuwssites AI -bedrijven weren, dreigen diensten als ChatGPT zich vooral te gaan baseren op informatie van rechtse nieuwsbronnen. Dat kan verstrekkende gevolgen hebben.
 published: 2024-01-25
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/waarom-de-gemiddelde-ai-dreigt-steeds-rechtser-te-worden

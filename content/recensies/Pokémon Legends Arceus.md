@@ -5,7 +5,6 @@ published: 2022-01-26
 modified: 2026-10-09
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pokemon-legends-arceus-is-leukste-en-lelijkste-pokemon-game-in-jaren

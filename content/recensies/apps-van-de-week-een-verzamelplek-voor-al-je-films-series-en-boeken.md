@@ -5,7 +5,6 @@ published: 2021-08-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /apps-van-de-week-een-verzamelplek-voor-al-je-films-series-en-boeken

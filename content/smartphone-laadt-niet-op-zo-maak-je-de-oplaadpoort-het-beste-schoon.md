@@ -4,7 +4,6 @@ description: "Het kan zomaar eens gebeuren: je steekt de oplaadkabel in je telef
 published: 2021-04-05
 modified: 2021-04-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

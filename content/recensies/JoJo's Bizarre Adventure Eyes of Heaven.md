@@ -5,7 +5,6 @@ published: 2016-08-02
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /jojos-bizarre-adventure-eyes-of-heaven-review

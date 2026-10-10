@@ -5,7 +5,6 @@ published: 2011-09-07
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /el-shaddai-ascension-of-the-metatron-review

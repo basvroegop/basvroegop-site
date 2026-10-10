@@ -5,7 +5,6 @@ published: 2020-11-05
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-xbox-series-x-moet-het-nu-vooral-van-oude-games-hebben

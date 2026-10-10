@@ -4,7 +4,6 @@ description: Apple heeft zijn nieuwe, grote software-update iOS 16 voor de iPhon
 published: 2022-09-12
 modified: 2022-09-12
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Techreus Facebook wordt steeds groter. En naarmate er meer ophef ov
 published: 2021-07-30
 modified: 2021-07-30
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

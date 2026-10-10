@@ -5,7 +5,6 @@ published: 2019-09-23
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-borderlands-3-is-meer-van-hetzelfde

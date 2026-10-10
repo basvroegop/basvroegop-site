@@ -3,7 +3,6 @@ title: Mario & Luigi Brothership
 description: In Mario & Luigi Brothership zijn de twee bekende broers naar een mysterieuze wereld gestuurd. Daar varen ze op een zeilend eiland (het Zeiland genaamd) de zee af op zoek naar avontuur.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-mario-en-luigi-brothership-een-heerlijk-luchtig-avontuur-voor-tussendoor

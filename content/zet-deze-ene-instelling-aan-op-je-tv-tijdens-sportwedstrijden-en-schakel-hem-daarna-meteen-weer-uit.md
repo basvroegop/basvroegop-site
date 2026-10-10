@@ -4,7 +4,6 @@ description: Heel Nederland zit dit weekend voor de buis gekluisterd bij de Gran
 published: 2021-05-29
 modified: 2021-09-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

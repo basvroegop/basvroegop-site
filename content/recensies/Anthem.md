@@ -5,7 +5,6 @@ published: 2018-06-12
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-anthem-lijkt-verdacht-veel-op-zijn-grootste-concurrent

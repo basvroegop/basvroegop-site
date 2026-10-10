@@ -5,7 +5,6 @@ published: 2019-06-28
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/appen-op-de-fiets-is-vanaf-1-juli-verboden-dit-zijn-de-nieuwe-regels

@@ -4,7 +4,6 @@ description: "Twitter-gebruikers hebben na Mastodon een nieuw toevluchtsoord gev
 published: 2022-11-21
 modified: 2022-11-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

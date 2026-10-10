@@ -5,7 +5,6 @@ published: 2018-01-03
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /from-other-suns-is-de-eerste-vr-game-die-ik-honderden-uren-wil-spelen

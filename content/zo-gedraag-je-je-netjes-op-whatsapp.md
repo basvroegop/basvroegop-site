@@ -5,7 +5,6 @@ published: 2018-07-27
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/zo-gedraag-je-je-netjes-op-whatsapp

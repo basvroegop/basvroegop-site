@@ -3,7 +3,6 @@ title: "FANTASY LIFE i: The Girl Who Steals Time"
 description: In Fantasy Life I bouw je niet één leven op in een fantasiewereld, maar wel veertien!
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-fantasy-life-i-bouwen-aan-nieuwe-levens

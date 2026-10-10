@@ -4,7 +4,6 @@ description: Apples nieuwste smartwatch heeft het grootste scherm tot nu toe, ma
 published: 2021-10-13
 modified: 2021-10-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

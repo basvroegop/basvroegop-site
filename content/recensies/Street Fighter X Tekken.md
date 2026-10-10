@@ -5,7 +5,6 @@ published: 2012-03-23
 modified: 2023-01-22
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /street-fighter-x-tekken-review

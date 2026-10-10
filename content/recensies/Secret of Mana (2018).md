@@ -5,7 +5,6 @@ published: 2018-03-05
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /secret-of-mana-review

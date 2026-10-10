@@ -3,7 +3,6 @@ title: Palia
 description: In Palia bouw je aan je eigen plekje in een fantasiewereld waar ook je vrienden op een eigen stukje land een huis kunnen bouwen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-palia-een-ontspannen-en-zomerse-game-om-in-op-pad-te-gaan

@@ -5,7 +5,6 @@ published: 2021-09-22
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-nieuwe-ipad-mini-is-eigenlijk-een-kleinere-ipad-air

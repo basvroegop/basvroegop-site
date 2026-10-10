@@ -3,7 +3,6 @@ title: "Vijf tips als je Animal Crossing: New Horizons gaat spelen"
 description: Klingels cashen
 published: 2020-03-18
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/vijf-tips-als-je-animal-crossing-new-horizons-gaat-spelen

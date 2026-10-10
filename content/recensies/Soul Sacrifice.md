@@ -4,7 +4,6 @@ description: Spelen betekent offers maken in Soul Sacrifice, een belangrijke gam
 published: 2013-05-06
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /soul-sacrifice-review

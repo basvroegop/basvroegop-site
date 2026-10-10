@@ -5,7 +5,6 @@ published: 2019-07-25
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-symfonisk-meubelspeakers-van-ikea-zijn-betaalbaar-en-veelzijdig

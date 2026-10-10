@@ -4,7 +4,6 @@ description: Een antiek rollenspel-genre, alleen populair bij hardcore gamers, i
 published: 2011-07-19
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dungeons-of-dredmor-review

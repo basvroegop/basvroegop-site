@@ -5,7 +5,6 @@ published: 2012-01-28
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-cat-that-got-the-milk-review

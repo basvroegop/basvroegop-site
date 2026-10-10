@@ -3,7 +3,6 @@ title: Lego Horizon Adventures
 description: Horizon is de grootste game ooit in Nederland gemaakt. Maar met zijn serieuze onderwerpen en gewelddadige momenten was het spel niet voor kinderen bedoeld. Daarom is er nu een speciale LEGO-versie.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-lego-horizon-adventures-een-game-die-je-ontspannen-kunt-spelen

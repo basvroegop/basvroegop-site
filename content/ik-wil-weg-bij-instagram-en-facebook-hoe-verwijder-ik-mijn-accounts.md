@@ -4,7 +4,6 @@ description: Meta, het moederbedrijf van Facebook en Instagram, ligt onder vuur 
 published: 2025-01-12
 modified: 2025-01-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

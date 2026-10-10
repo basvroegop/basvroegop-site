@@ -4,7 +4,6 @@ description: Je iPhone heeft sinds iOS 16 een heel nieuw beginscherm, dat je tot
 published: 2022-09-14
 modified: 2022-09-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2012-08-08
 modified: 2022-09-16
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /thomas-was-alone-review

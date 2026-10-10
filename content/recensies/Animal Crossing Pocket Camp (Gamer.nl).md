@@ -5,7 +5,6 @@ published: 2017-11-22
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /animal-crossing-pocket-camp

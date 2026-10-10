@@ -4,7 +4,6 @@ description: "De nieuwe iPhone 16 moet vooral revolutionair worden op AI gebied.
 published: 2024-09-10
 modified: 2024-09-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

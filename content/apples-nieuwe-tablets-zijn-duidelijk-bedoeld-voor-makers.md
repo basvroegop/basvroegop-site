@@ -5,7 +5,6 @@ published: 2024-05-07
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/apples-nieuwe-tablets-zijn-duidelijk-bedoeld-voor-makers

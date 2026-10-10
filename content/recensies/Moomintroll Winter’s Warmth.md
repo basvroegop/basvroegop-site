@@ -3,7 +3,6 @@ title: "Moomintroll: Winter’s Warmth"
 description: "De zomer is dan misschien in aantocht, in Moomintroll: Winter’s Warmth ga je op zoek naar vrienden om je warm te houden in koude dagen."
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-moomintroll-winter-s-warmth

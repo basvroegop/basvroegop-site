@@ -5,7 +5,6 @@ published: 2022-02-18
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /nieuwe-horizon-game-had-eerder-kunnen-uitkomen-we-wilden-niet-overwerken

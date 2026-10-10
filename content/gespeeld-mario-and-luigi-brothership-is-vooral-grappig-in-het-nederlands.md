@@ -4,7 +4,6 @@ description: Mario and Luigi Brothership is het eerste compleet nieuwe deel in N
 published: 2024-10-10
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/gespeeld-mario-and-luigi-brothership-is-vooral-grappig-in-het-nederlands

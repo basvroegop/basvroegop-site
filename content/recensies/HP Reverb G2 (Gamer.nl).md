@@ -5,7 +5,6 @@ published: 2021-01-18
 modified: 2022-07-04
 tags:
   - Tech
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /hp-reverb-g2-review

@@ -4,7 +4,6 @@ description: Wie een PlayStation 5 in huis heeft kan daar vanaf deze week ook ee
 published: 2023-02-22
 modified: 2023-02-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

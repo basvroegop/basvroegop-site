@@ -5,7 +5,6 @@ published: 2024-12-20
 modified: 2024-12-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/batman-metro-en-vendetta-forever-de-beste-vr-games-van-dit-najaar

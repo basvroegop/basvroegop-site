@@ -5,7 +5,6 @@ published: 2018-09-18
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-iphone-xs-verfijnt-een-goede-dure-telefoon

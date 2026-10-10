@@ -5,7 +5,6 @@ published: 2021-11-23
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-macbook-pro-is-eindelijk-weer-interessant-voor-pros

@@ -3,7 +3,6 @@ title: Google Stadia
 description: Net een echte console
 published: 2019-11-18
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /review-google-stadia-werkt-magisch-heeft-nog-weinig

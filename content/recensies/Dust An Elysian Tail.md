@@ -5,7 +5,6 @@ published: 2012-09-07
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /dust-an-elysian-tail-review

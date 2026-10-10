@@ -5,7 +5,6 @@ published: 2026-08-10
 modified: 2026-08-10
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/mijn-zoon-speelde-mario-maker-2-en-nu-moet-ik-gamedeveloper-worden

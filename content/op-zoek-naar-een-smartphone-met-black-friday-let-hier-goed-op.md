@@ -4,7 +4,6 @@ description: Waarom een losse camera kopen, als je smartphone al een goede heeft
 published: 2023-11-22
 modified: 2023-11-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

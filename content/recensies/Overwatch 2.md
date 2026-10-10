@@ -5,7 +5,6 @@ published: 2019-11-04
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-overwatch-2-wordt-ook-leuk-voor-niet-competitieve-spelers

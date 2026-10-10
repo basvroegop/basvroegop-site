@@ -5,7 +5,6 @@ published: 2026-02-23
 modified: 2026-02-23
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/wat-chrono-trigger-vertelt-over-klimaatverandering-en-naoorlogs-trauma

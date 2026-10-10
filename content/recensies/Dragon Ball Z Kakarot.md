@@ -5,7 +5,6 @@ published: 2020-01-21
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /dragon-ball-z-kakarot-review

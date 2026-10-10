@@ -3,7 +3,6 @@ title: "Dog Man: Mission Impawsible"
 description: Dog Man ken je vast van de grappige stripboeken. In zijn eerste game Mission Impawsible moet hij een superschurk tegenhouden die alle boeven uit de gevangenis heeft vrijgelaten.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-dog-man-mission-impawsible-platformspel-voor-beginners

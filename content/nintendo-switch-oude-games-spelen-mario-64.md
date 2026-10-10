@@ -3,7 +3,6 @@ title: Nintendo maakt zijn klassiekers bewust moeilijk verkrijgbaar
 description: Commentaar
 published: 2020-09-04
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/nintendo-switch-oude-games-spelen-mario-64

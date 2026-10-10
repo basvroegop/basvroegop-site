@@ -4,7 +4,6 @@ description: "Heel even leek het einde van alle kabelwirwar in zicht: een wetsvo
 published: 2021-10-01
 modified: 2021-10-01
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

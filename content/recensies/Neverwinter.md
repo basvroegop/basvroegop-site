@@ -5,7 +5,6 @@ published: 2013-05-15
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /neverwinter-review

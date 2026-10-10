@@ -3,7 +3,6 @@ title: "Hot Wheels: Infinite Rush"
 description: In de nieuwste Hot Wheels-game Infinite Rush draait het niet om racen alleen. Je gaat op zoek naar de perfecte auto’s om missies mee te voltooien.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-hot-wheels-infinite-rush-op-missie-met-de-perfecte-auto

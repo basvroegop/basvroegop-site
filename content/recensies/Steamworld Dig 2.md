@@ -5,7 +5,6 @@ published: 2017-10-02
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /steamworld-dig-2-review

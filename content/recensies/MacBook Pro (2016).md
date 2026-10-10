@@ -5,7 +5,6 @@ published: 2016-11-26
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-nieuwe-macbook-pro-met-touch-bar-is-nog-wat-rommelig

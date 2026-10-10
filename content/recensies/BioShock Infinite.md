@@ -5,7 +5,6 @@ published: 2013-03-31
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /bioshock-infinite-review

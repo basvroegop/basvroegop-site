@@ -5,7 +5,6 @@ published: 2021-08-24
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-samsung-galaxy-z-flip-3-maakt-opvouwtelefoons-iets-betaalbaarder

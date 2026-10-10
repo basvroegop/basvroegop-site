@@ -5,7 +5,6 @@ published: 2013-09-05
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /final-fantasy-xiv-review

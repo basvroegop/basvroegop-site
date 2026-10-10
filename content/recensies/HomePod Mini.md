@@ -5,7 +5,6 @@ published: 2022-03-26
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-homepod-mini-klinkt-uitstekend-maar-werkt-matig-met-spotify

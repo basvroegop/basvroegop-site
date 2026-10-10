@@ -6,7 +6,6 @@ modified: 2022-07-04
 tags:
   - Tech
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /legion-phone-duel-review

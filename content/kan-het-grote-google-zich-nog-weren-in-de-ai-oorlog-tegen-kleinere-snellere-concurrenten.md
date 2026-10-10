@@ -4,7 +4,6 @@ description: In 1998 was Google een brutale nieuwkomer tussen de grote, logge te
 published: 2024-05-21
 modified: 2024-05-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

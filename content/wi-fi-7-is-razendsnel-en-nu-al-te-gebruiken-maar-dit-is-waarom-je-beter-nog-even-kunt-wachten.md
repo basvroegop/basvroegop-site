@@ -4,7 +4,6 @@ description: Wie een Wi-Fi 6-router koopt en verwacht het nieuwste van het nieuw
 published: 2024-04-11
 modified: 2024-04-11
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: Nederlandse gamemakers waarschuwen dat talent naar het buitenland v
 published: 2023-10-16
 modified: 2023-10-16
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

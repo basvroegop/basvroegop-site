@@ -3,7 +3,6 @@ title: Google-gadgets slaan Nederland steeds vaker over
 description: Bright Analyse
 published: 2020-10-01
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/google-pixel-nederland-kopen-nieuwe-chromecast-speaker

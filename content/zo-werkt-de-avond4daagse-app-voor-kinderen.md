@@ -4,7 +4,6 @@ description: "Omdat het tijdens de lockdown niet mogelijk is de Avond4daagse tra
 published: 2021-03-30
 modified: 2021-03-30
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

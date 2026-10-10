@@ -3,7 +3,6 @@ title: HTC Vive Cosmos
 description: Hands-on met VR
 published: 2019-10-02
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-htc-vive-cosmos-een-tamme-upgrade

@@ -5,7 +5,6 @@ published: 2017-12-20
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /brawlout-review

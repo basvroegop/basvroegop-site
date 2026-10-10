@@ -4,7 +4,6 @@ description: Leuk, die draadloze oordopjes, maar je staat toch te vloeken als ze
 published: 2022-02-25
 modified: 2022-02-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

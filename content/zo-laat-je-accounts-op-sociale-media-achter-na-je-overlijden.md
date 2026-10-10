@@ -5,7 +5,6 @@ published: 2019-04-21
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/zo-laat-je-accounts-op-sociale-media-achter-na-je-overlijden

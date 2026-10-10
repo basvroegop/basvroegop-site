@@ -4,7 +4,6 @@ description: Op een populair online forum kijken bezoekers hoe corona-ontkenners
 published: 2022-01-29
 modified: 2022-01-29
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

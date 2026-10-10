@@ -3,7 +3,6 @@ title: "The Legend of Zelda: Echoes of Wisdom (Kidsweek)"
 description: In The Legend of Zelda - Echoes of Wisdom is niet Link de held, maar Zelda. Nadat de groen gemutste held haar heeft gered, raakt hij zelf in de problemen. Nu is het aan de prinses om hem uit de brand te helpen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-the-legend-of-zelda-echoes-of-wisdom-zelda-is-de-held

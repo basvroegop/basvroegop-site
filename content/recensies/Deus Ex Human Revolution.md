@@ -5,7 +5,6 @@ published: 2011-08-31
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /deus-ex-human-revolution-review

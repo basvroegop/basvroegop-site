@@ -4,7 +4,6 @@ description: Na tien jaar zijn de eerste officiële beelden van de nieuwe Grand 
 published: 2023-12-05
 modified: 2023-12-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

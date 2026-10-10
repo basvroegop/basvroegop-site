@@ -4,7 +4,6 @@ description: "De Apple Watch Ultra is een smartwatch die alleen bedoeld is voor 
 published: 2022-11-25
 modified: 2022-11-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

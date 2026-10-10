@@ -5,7 +5,6 @@ published: 2017-10-16
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-huawei-mate-10-pro-zet-vol-in-op-kunstmatige-intelligentie

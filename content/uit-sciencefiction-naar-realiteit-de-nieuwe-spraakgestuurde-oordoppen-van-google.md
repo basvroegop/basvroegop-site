@@ -4,7 +4,6 @@ description: Techreus Google gaat de nieuwe versie van zijn opvouwbare telefoon 
 published: 2024-08-13
 modified: 2024-08-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

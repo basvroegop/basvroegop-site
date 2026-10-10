@@ -4,7 +4,6 @@ description: Puzzelen met drie dimensies. Fez heeft een van de slimste puzzelmec
 published: 2012-04-16
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /fez-review

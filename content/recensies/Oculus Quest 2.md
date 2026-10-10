@@ -5,7 +5,6 @@ published: 2020-10-14
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-vr-bril-oculus-quest-2-is-geweldig-maar-vooral-voor-gamers

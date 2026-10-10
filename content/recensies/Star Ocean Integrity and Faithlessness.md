@@ -5,7 +5,6 @@ published: 2016-07-23
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /star-ocean-integrity-and-faithlessness-review

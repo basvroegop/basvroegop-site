@@ -5,7 +5,6 @@ published: 2016-03-01
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /legend-of-zelda-twilight-princess-hd-review

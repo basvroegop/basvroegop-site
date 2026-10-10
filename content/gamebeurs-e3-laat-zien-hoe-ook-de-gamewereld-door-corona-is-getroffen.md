@@ -5,7 +5,6 @@ published: 2021-06-16
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/gamebeurs-e3-laat-zien-hoe-ook-de-gamewereld-door-corona-is-getroffen

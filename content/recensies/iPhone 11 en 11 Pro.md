@@ -5,7 +5,6 @@ published: 2019-09-11
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-nieuwe-iphones-moeten-het-vooral-van-de-cameras-hebben

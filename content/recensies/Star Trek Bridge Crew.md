@@ -5,7 +5,6 @@ published: 2017-06-01
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /star-trek-bridge-crew-review

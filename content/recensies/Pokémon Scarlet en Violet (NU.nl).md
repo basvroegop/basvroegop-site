@@ -5,7 +5,6 @@ published: 2022-11-17
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel

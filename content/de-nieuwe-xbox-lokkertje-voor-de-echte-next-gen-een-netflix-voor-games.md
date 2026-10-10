@@ -3,7 +3,6 @@ title: De nieuwe Xbox is een lokkertje voor 'de Netflix van games'
 description: Bright Analyse
 published: 2020-09-08
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/de-nieuwe-xbox-lokkertje-voor-de-echte-next-gen-een-netflix-voor-games

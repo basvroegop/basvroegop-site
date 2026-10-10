@@ -3,7 +3,6 @@ title: Gaat de Amsterdamse afremmer op e-bikes een verschil maken?
 description: De gemeente Amsterdam experimenteert met een nieuw systeem dat e-bikes automatisch afremt in drukke gebieden. Gaat dat er straks ook echt voor zorgen dat er minder ongelukken gebeuren? We bespreken het in onze podcast.
 published: 2024-03-15
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/gaat-de-amsterdamse-afremmer-op-e-bikes-een-verschil-maken

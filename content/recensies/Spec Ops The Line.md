@@ -4,7 +4,6 @@ description: "Eindelijk een nare oorlogsgame: schieten voelt bijna als een misda
 published: 2012-07-05
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /spec-ops-the-line-review

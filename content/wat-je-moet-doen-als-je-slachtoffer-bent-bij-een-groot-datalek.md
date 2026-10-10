@@ -5,7 +5,6 @@ published: 2021-03-14
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/wat-je-moet-doen-als-je-slachtoffer-bent-bij-een-groot-datalek

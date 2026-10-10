@@ -4,7 +4,6 @@ description: De nieuwe Prince of Persia doet denken aan Metroid Dread en Super S
 published: 2023-08-24
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/prince-of-persia-the-lost-crown-heeft-de-botten-van-een-goede-metroidvania

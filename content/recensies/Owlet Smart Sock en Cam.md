@@ -4,7 +4,6 @@ description: "Smarthomebedrijf Owlet heeft een slimme sok voor baby’s gemaakt,
 published: 2022-11-15
 modified: 2022-11-15
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

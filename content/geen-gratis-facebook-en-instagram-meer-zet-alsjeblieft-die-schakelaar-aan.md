@@ -4,7 +4,6 @@ description: "Sommige gebruikers van de apps Facebook en Instagram krijgen een o
 published: 2021-05-03
 modified: 2021-05-03
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

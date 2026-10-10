@@ -4,7 +4,6 @@ description: Rokko Chan is een hommage van Japanse hobby-ontwikkelaars aan de ga
 published: 2012-01-14
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /rokko-chan-review

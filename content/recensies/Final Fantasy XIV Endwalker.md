@@ -5,7 +5,6 @@ published: 2021-12-20
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-ffxiv-endwalker-sluit-verhaal-van-elf-jaar-lang-uitmuntend-af

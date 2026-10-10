@@ -4,7 +4,6 @@ description: Sonos heeft een nieuwe, goedkopere subwoofer uitgebracht. We konden
 published: 2022-09-29
 modified: 2022-10-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

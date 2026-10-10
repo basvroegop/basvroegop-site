@@ -4,7 +4,6 @@ description: Bas had vooraf al een beetje verwacht dat de nieuwste Prince of Per
 published: 2023-08-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Power Unlimited
 aliases:
   - /artikelen/prince-of-persia-the-lost-crown-preview-metroid-met-een-beetje-smash-bros

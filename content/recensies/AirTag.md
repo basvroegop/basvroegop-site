@@ -4,7 +4,6 @@ description: Apple probeert met zijn nieuwe AirTags het probleem van de kwijtger
 published: 2021-05-06
 modified: 2021-05-06
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

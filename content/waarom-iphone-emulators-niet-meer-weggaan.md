@@ -5,7 +5,6 @@ published: 2024-04-22
 modified: 2024-04-22
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/waarom-iphone-emulators-niet-meer-weggaan

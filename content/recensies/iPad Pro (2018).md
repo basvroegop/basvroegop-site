@@ -5,7 +5,6 @@ published: 2018-11-23
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-voor-wie-is-de-ipad-pro-nou-bedoeld

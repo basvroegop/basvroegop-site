@@ -11,7 +11,6 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/nog-nooit-was-china-zo-groot-op-gamescom

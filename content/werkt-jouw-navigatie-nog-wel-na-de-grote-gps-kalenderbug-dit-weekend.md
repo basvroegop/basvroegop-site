@@ -5,7 +5,6 @@ published: 2019-04-05
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/werkt-jouw-navigatie-nog-wel-na-de-grote-gps-kalenderbug-dit-weekend

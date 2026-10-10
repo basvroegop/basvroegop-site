@@ -4,7 +4,6 @@ description: De iPhone 13 en 13 Pro zijn op smartphonegebied eigenlijk amper and
 published: 2021-09-21
 modified: 2021-09-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

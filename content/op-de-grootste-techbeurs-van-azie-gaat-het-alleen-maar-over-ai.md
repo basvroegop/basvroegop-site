@@ -4,7 +4,6 @@ description: "Wie deze week techbeurs Computex binnenliep, zag één term overal
 published: 2024-06-08
 modified: 2024-06-08
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

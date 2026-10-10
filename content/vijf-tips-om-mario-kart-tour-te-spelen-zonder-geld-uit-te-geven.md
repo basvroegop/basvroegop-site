@@ -3,7 +3,6 @@ title: "Tips: zo speel je Mario Kart Tour zonder geld uit te geven"
 description: Gratis robijnen
 published: 2019-09-25
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/vijf-tips-om-mario-kart-tour-te-spelen-zonder-geld-uit-te-geven

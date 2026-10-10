@@ -4,7 +4,6 @@ description: Op de plek van één van Nintendo’s oudste fabrieken in het Japan
 published: 2024-10-04
 modified: 2024-10-04
 tags:
-  - Elders gepubliceerd
   - AD
   - Games
 aliases:

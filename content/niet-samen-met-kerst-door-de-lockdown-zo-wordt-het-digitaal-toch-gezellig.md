@@ -5,7 +5,6 @@ published: 2021-12-23
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/niet-samen-met-kerst-door-de-lockdown-zo-wordt-het-digitaal-toch-gezellig

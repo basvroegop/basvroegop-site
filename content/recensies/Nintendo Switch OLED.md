@@ -5,7 +5,6 @@ published: 2021-10-06
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-de-nieuwe-nintendo-switch-moet-het-alleen-van-zijn-scherm-hebben

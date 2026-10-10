@@ -5,7 +5,6 @@ published: 2018-01-19
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/gaat-de-auto-op-de-schop-het-is-de-volgende-technologische-revolutie

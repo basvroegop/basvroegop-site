@@ -5,7 +5,6 @@ published: 2011-11-11
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /call-of-duty-modern-warfare-3-review

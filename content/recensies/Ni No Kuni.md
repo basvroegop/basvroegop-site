@@ -5,7 +5,6 @@ published: 2013-02-16
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /ni-no-kuni-review

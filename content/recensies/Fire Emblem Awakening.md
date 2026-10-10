@@ -4,7 +4,6 @@ description: Strategische rollenspellen zijn zelden zo diep en toegankelijk.
 published: 2013-04-21
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /fire-emblem-awakening-review

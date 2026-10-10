@@ -4,7 +4,6 @@ description: "Eerder deze week presenteerde Samsung de opvolgers van zijn opvouw
 published: 2022-08-14
 modified: 2022-08-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

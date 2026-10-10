@@ -5,7 +5,6 @@ published: 2022-07-26
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-xenoblade-chronicles-3-wordt-na-twintig-uur-spelen-geweldig

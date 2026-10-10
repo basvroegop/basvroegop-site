@@ -4,7 +4,6 @@ description: Techreus Google heeft een reeks nieuwe maatregelen aangekondigd, di
 published: 2021-08-11
 modified: 2021-08-11
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2011-12-17
 modified: 2022-09-20
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /cave-story-review

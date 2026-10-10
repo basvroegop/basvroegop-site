@@ -3,7 +3,6 @@ title: HP Reverb G2 (Bright)
 description: Bright Review
 published: 2021-01-19
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen

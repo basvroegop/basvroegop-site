@@ -4,7 +4,6 @@ description: We kopiëren en plakken honderden keren per dag op onze computers, 
 published: 2022-08-10
 modified: 2022-08-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2018-08-23
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /guacamelee-2-review

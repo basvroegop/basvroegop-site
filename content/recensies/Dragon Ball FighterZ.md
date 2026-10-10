@@ -5,7 +5,6 @@ published: 2018-01-30
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /dragon-ball-fighterz-review

@@ -5,7 +5,6 @@ published: 2018-03-18
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/wat-gebeurt-er-na-het-referendum-over-de-aftapwet

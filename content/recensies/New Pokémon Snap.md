@@ -5,7 +5,6 @@ published: 2021-04-29
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-fotograferen-in-new-pokemon-snap-verveelt-soms-een-beetje

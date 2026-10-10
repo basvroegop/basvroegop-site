@@ -4,7 +4,6 @@ description: Waar doe je goed aan bij het kopen van een nieuwe MacBook? Apple br
 published: 2024-12-26
 modified: 2024-12-26
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

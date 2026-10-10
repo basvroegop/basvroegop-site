@@ -5,7 +5,6 @@ published: 2016-11-12
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-moto-z-is-een-modulaire-middenmoter

@@ -3,7 +3,6 @@ title: Deze 3 spellen speel je straks op de Nintendo Switch 2
 description: Naast de nieuwe spelcomputer kondigde Nintendo ook meteen een aantal nieuwe games aan. Een lijstje met een paar tips.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /artikelen/deze-3-spellen-speel-je-straks-op-de-nintendo-switch-2

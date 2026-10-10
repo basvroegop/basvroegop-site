@@ -4,7 +4,6 @@ description: De ouderwetse klaptelefoon is helemaal terug. Dankzij flexibele sch
 published: 2024-11-10
 modified: 2024-11-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

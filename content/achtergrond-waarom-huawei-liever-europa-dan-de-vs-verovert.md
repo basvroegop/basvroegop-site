@@ -5,7 +5,6 @@ published: 2017-10-22
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/achtergrond-waarom-huawei-liever-europa-dan-de-vs-verovert

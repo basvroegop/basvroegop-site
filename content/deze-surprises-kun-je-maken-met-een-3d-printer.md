@@ -4,7 +4,6 @@ description: Bij veel families en vriendengroepen zijn de lootjes alweer getrokk
 published: 2021-11-22
 modified: 2021-11-22
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

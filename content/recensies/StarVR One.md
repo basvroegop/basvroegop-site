@@ -5,7 +5,6 @@ published: 2018-09-02
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-starvr-one-is-een-virtualrealitybril-met-gigantische-kijkhoek

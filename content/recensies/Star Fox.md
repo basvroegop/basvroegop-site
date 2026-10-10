@@ -3,7 +3,6 @@ title: Star Fox
 description: Geen nieuwe Mario of Zelda deze zomer, maar een nieuwe Fox McCloud. Of eigenlijk het oude Star Fox, maar dan in een nieuw jasje.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-star-fox-oude-vos-in-nieuw-jasje

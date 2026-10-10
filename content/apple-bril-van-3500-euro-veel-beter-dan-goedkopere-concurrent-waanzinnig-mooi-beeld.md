@@ -4,7 +4,6 @@ description: De Apple Vision Pro-bril moet volgens topman Tim Cook de wereld ver
 published: 2024-02-13
 modified: 2024-02-14
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

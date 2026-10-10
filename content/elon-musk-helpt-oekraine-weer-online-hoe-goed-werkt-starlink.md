@@ -4,7 +4,6 @@ description: De satellieten van Elon Musk zijn sinds deze week actief in Oekraï
 published: 2022-03-01
 modified: 2022-03-01
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

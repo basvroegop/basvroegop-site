@@ -4,7 +4,6 @@ description: Na zes jaar wachten verkoopt Google eindelijk zijn Pixel-telefoons 
 published: 2022-10-12
 modified: 2022-10-12
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2018-07-18
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/waarom-krijgt-google-zulke-gigaboetes-van-europa

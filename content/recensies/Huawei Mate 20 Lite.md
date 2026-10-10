@@ -5,7 +5,6 @@ published: 2018-08-31
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-huawei-mate-20-lite-is-een-nieuwe-telefoon-die-al-bestond

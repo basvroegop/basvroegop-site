@@ -3,7 +3,6 @@ title: Tales of the Shire
 description: In Tales of the Shire kruip je in de huid van een hobbit uit The Lord of the Rings. Je gaat alleen niet op avontuur zoals Bilbo en Frodo, maar klust en kletst wat in en om je hobbithol.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-tales-of-the-shire-een-simpel-maar-leuk-en-ontspannen-spel

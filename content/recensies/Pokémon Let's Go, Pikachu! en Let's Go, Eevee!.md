@@ -5,7 +5,6 @@ published: 2018-11-13
 modified: 2025-06-10
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-pokemon-lets-go-is-een-instapgame-voor-pokemon-go-fans

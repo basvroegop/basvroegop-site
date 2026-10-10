@@ -4,7 +4,6 @@ description: Door de lockdown loopt kerst anders dan we gedacht hadden, maar gel
 published: 2021-12-24
 modified: 2021-12-24
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

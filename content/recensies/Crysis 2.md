@@ -4,7 +4,6 @@ description: Grafische krachtpatser krijgt creatief vervolg.
 published: 2011-04-05
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /crysis-2-review

@@ -3,7 +3,6 @@ title: iPad 2
 description: Dunner, lichter, sneller. Bastiaan was met Apple in Londen en mocht de iPad 2 even testen.
 published: 2011-03-04
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-ipad-2

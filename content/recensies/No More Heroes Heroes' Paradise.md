@@ -5,7 +5,6 @@ published: 2011-05-31
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /no-more-heroes-heroes-paradise-review

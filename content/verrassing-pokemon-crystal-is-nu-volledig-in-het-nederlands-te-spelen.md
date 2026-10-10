@@ -5,7 +5,6 @@ published: 2025-05-26
 modified: 2025-05-30
 tags:
   - Games
-  - Elders gepubliceerd
   - Power Unlimited
 aliases:
   - /artikelen/verrassing-pokemon-crystal-is-nu-volledig-in-het-nederlands-te-spelen

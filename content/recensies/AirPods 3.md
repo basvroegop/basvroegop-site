@@ -5,7 +5,6 @@ published: 2021-11-04
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-airpods-3-zijn-goed-nieuws-voor-in-earhaters

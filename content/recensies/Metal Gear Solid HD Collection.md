@@ -5,7 +5,6 @@ published: 2012-06-27
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /metal-gear-solid-hd-collection-review

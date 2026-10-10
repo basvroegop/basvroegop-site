@@ -4,7 +4,6 @@ description: Je kunt proberen op het schermpje van je laptop te werken, maar het
 published: 2025-03-21
 modified: 2025-03-21
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2017-11-26
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-huawei-mate-10-pro-heeft-vooral-een-lange-accuduur

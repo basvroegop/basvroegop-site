@@ -3,7 +3,6 @@ title: Princess Peach Showtime
 description: Voor het eerst in heel lange tijd heeft prinses Peach uit de Mario-games weer een eigen spel. In ieder level trekt ze een outfit aan die haar laat veranderen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-princess-peach-showtime

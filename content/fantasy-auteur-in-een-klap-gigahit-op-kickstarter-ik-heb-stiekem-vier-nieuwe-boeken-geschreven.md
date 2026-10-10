@@ -4,7 +4,6 @@ description: Een Kickstarter-project van fantasy-auteur Brandon Sanderson is het
 published: 2022-03-05
 modified: 2022-03-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -6,7 +6,6 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/beat-saber-preview

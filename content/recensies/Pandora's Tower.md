@@ -4,7 +4,6 @@ description: Pandora's Tower is het derde en mogelijk laatste Japanse rollenspel
 published: 2012-04-24
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /pandora-s-tower-review

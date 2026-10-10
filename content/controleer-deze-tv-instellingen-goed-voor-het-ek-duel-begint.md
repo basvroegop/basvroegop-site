@@ -4,7 +4,6 @@ description: Vanavond om 21:00 uur zit Nederland weer massaal voor de televisie 
 published: 2021-06-17
 modified: 2021-06-17
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

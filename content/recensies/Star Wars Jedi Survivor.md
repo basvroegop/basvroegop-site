@@ -4,7 +4,6 @@ description: Bright Review
 published: 2023-04-26
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /review-star-wars-jedi-survivor-grootser-leuker-en-met-meer-foutjes

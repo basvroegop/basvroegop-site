@@ -5,7 +5,6 @@ published: 2017-02-24
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/worden-smartphones-in-2017-weer-innovatief

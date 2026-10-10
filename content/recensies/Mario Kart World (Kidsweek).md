@@ -3,7 +3,6 @@ title: Mario Kart World (Kidsweek)
 description: De nieuwe Mario Kart speelt zoals je gewend bent, maar is óók helemaal anders.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen

@@ -5,7 +5,6 @@ published: 2022-07-14
 modified: 2026-10-09
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-nieuwe-macbook-air-heeft-giga-accu-2020-model-blijft-favoriet

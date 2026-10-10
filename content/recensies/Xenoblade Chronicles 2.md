@@ -5,7 +5,6 @@ published: 2017-11-30
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /xenoblade-chronicles-2-review

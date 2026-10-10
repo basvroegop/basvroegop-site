@@ -4,7 +4,6 @@ description: Het heeft even geduurd, maar Philips verkoopt eindelijk slimme Hue-
 published: 2022-12-13
 modified: 2022-12-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

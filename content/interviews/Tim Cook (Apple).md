@@ -4,7 +4,6 @@ description: Apple-topman Tim Cook was maandag op werkbezoek in Eindhoven, waar 
 published: 2023-09-25
 modified: 2023-09-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

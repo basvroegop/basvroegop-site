@@ -5,7 +5,6 @@ published: 2017-09-30
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-iphone-8-is-vooral-conservatief

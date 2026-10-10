@@ -7,7 +7,6 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/pokemon-update-1-de-eerste-120-pokemon-zijn-bijna-binnen

@@ -5,7 +5,6 @@ published: 2018-08-01
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-concurreert-de-samsung-galaxy-tab-s4-met-laptops

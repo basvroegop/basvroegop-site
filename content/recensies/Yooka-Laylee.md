@@ -5,7 +5,6 @@ published: 2017-04-04
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /yooka-laylee-review

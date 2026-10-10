@@ -5,7 +5,6 @@ published: 2017-07-29
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-blackberry-keyone-met-toetsenbord-schiet-tekort

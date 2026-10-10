@@ -4,7 +4,6 @@ description: Met Child of Eden word je gedwongen om in de soundtrack te verdrink
 published: 2011-06-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /child-of-eden-review

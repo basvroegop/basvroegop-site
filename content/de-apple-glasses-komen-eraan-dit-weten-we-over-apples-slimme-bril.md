@@ -4,7 +4,6 @@ description: Techreus Apple zou in het diepste geheim werken aan een slimme bril
 published: 2022-01-18
 modified: 2022-01-18
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

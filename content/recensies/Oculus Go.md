@@ -5,7 +5,6 @@ published: 2018-05-01
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-oculus-go-maakt-goede-virtual-reality-eindelijk-betaalbaar

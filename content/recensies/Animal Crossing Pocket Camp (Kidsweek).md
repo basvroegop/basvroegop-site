@@ -3,7 +3,6 @@ title: "Animal Crossing: Pocket Camp (Kidsweek)"
 description: "Animal Crossing: Pocket Camp was altijd gratis te spelen op je telefoon. Maar er werd je wel steeds gevraagd om upgrades te kopen. Bij de nieuwe versie betaal je eenmalig tien euro en dat is dat."
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet

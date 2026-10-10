@@ -4,7 +4,6 @@ description: In 2017 introduceerde Apple zijn eerste slimme speaker, die hier in
 published: 2023-02-01
 modified: 2023-02-01
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

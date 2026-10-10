@@ -3,7 +3,6 @@ title: Endless Ocean Luminous
 description: Een groot koraalrif in de oceaan gaat dood en niemand weet waarom. In Endless Ocean Luminous word jij als duiker het water ingestuurd om te kijken wat er aan de hand is.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-endless-ocean-luminous

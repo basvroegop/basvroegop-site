@@ -5,7 +5,6 @@ published: 2012-05-02
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-witcher-2-enhanced-edition-review

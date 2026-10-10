@@ -3,7 +3,6 @@ title: Two Point Museum
 description: In Two Point Museum ben jij de baas in een museum waar de gekste dingen gebeuren.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-two-point-museum-bouwen-aan-een-museum

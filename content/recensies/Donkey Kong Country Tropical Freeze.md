@@ -5,7 +5,6 @@ published: 2018-05-01
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - InsideGamer
 aliases:
   - /donkey-kong-country-tropical-freeze-review

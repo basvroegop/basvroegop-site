@@ -5,7 +5,6 @@ published: 2016-11-03
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-huawei-mate-9-is-vooral-een-technische-verbetering

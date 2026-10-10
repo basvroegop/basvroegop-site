@@ -5,7 +5,6 @@ published: 2025-06-19
 modified: 2026-02-21
 tags:
   - Games
-  - Elders gepubliceerd
   - Power Unlimited
 aliases:
   - /review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken

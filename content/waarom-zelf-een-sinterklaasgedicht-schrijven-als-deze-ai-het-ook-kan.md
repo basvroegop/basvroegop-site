@@ -4,7 +4,6 @@ description: "Het is nog enkele uren voor pakjesavond start, dus wie nog geen ge
 published: 2022-12-05
 modified: 2022-12-05
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

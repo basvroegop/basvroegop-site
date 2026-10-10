@@ -4,7 +4,6 @@ description: Techreus Apple is eindelijk begonnen met de verkoop van zijn slimme
 published: 2022-03-25
 modified: 2022-03-25
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

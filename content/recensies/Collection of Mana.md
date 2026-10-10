@@ -5,7 +5,6 @@ published: 2019-10-06
 modified: 2022-07-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /collection-of-mana-review

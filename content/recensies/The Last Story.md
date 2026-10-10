@@ -4,7 +4,6 @@ description: Final Fantasy-legende Sakaguchi probeert met The Last Story eens ie
 published: 2012-02-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /the-last-story-review

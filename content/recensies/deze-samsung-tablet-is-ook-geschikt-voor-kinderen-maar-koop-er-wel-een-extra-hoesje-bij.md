@@ -4,7 +4,6 @@ description: Kinderen kunnen prima met een reguliere tablet uit de voeten, maar 
 published: 2024-10-24
 modified: 2024-10-24
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -5,7 +5,6 @@ published: 2026-03-10
 modified: 2026-03-18
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/vang-ze-allemaal-alle-rip-offs-in-de-trailer-van-pickmon

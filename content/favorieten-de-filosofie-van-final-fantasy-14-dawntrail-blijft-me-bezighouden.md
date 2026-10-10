@@ -4,7 +4,6 @@ description: "In deze rubriek vertellen PU.nl-redacteuren over de game die het a
 published: 2025-01-07
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/favorieten-de-filosofie-van-final-fantasy-14-dawntrail-blijft-me-bezighouden

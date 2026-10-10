@@ -5,7 +5,6 @@ published: 2018-05-24
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-detroit-become-human-is-een-game-die-liever-een-film-is

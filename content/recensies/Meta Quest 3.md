@@ -5,7 +5,6 @@ published: 2023-10-19
 modified: 2024-01-17
 tags:
   - Tech
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /meta-quest-3-review

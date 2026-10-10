@@ -3,7 +3,6 @@ title: "Pokémon Legends: Z-A"
 description: In Pokémon Legends Z-A reis je naar Lumiose, een stad met een gloeiende toren die sterk lijkt op Parijs. Als Pokémon-trainer moet je sterker worden en monsters vangen om mysterie van de toren op te lossen.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-pokemon-legends-z-a-monsters-vangen-als-freek-vonk

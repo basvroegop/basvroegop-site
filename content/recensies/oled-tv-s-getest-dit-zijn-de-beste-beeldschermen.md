@@ -4,7 +4,6 @@ description: Black Friday nadert en gadgets vliegen de deur uit met flinke korti
 published: 2024-11-27
 modified: 2024-11-28
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

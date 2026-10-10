@@ -5,7 +5,6 @@ published: 2017-05-15
 modified: 2022-07-01
 tags:
   - Games
-  - Elders gepubliceerd
   - Laadscherm
 aliases:
   - /artikelen/deze-fans-vertalen-al-vijf-jaar-phantasy-star-online-2

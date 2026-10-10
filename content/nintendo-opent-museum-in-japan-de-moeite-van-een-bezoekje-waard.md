@@ -3,7 +3,6 @@ title: "Nintendo opent een museum: wij waren erbij!"
 description: "Legendes als Zelda, Mario en Duck Hunt: allemaal komen ze van hetzelfde epische gamebedrijf. Maar wist je dat Nintendo ooit begonnen is met het maken van speelkaarten, kinderwagens en bordspellen? Bright -gamejournalist Bastiaan Vroegop mocht als eerste Nederlander een kijkje nemen in het nieuwe…"
 published: 2024-09-27
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/nintendo-opent-museum-in-japan-de-moeite-van-een-bezoekje-waard

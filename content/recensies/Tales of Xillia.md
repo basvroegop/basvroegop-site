@@ -5,7 +5,6 @@ published: 2013-08-24
 modified: 2022-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /tales-of-xillia-review

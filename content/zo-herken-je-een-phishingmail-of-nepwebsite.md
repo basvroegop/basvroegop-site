@@ -4,7 +4,6 @@ description: "Het is inmiddels gemeengoed op internet: phishing. Criminelen doen
 published: 2021-04-23
 modified: 2022-03-31
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

@@ -4,7 +4,6 @@ description: "In een geheime kamer diep in Googles hoofdkantoor mochten we het n
 published: 2024-05-17
 modified: 2024-05-17
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

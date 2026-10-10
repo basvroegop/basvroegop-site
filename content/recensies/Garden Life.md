@@ -3,7 +3,6 @@ title: Garden Life
 description: In Garden Life neem je een verlaten moestuin onder handen. Je plant zaden, geeft bloemen en planten water en wiedt onkruid. Een game voor spelers met groene vingers dus.
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /recensie-garden-life-gamen-met-groene-vingers

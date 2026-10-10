@@ -11,7 +11,6 @@ sourceUrl: https://laadscherm.nl/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-di
 socialImage: ./media/gamepraat/hoe-ik-jaren-voor-de-aankondiging-al-pokemon-diamond-speelde/bd04d59f3e.jpg
 publish: true
 tags:
-  - Elders gepubliceerd
   - Laadscherm
 ---
 

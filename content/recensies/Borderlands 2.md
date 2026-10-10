@@ -4,7 +4,6 @@ description: Groter, langer, origineler en verhalender.
 published: 2012-10-04
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /borderlands-2-review

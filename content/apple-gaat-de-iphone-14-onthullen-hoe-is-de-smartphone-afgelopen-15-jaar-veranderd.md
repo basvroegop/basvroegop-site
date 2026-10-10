@@ -4,7 +4,6 @@ description: Op woensdag 7 september onthult Apple de nieuwste generatie iPhones
 published: 2022-08-30
 modified: 2022-08-31
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

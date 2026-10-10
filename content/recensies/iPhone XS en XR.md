@@ -5,7 +5,6 @@ published: 2018-09-13
 modified: 2025-06-10
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-opvolgers-van-iphone-x-zijn-niet-heel-spannend

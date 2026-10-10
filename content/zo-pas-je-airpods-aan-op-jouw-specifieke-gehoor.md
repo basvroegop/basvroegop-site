@@ -4,7 +4,6 @@ description: De AirPods-oordoppen van Apple kunnen worden aangepast op basis van
 published: 2021-10-13
 modified: 2021-10-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

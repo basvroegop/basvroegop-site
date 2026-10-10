@@ -5,7 +5,6 @@ published: 2021-10-25
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-guardians-of-the-galaxy-is-een-verrassend-geweldige-game

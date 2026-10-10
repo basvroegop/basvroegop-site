@@ -5,7 +5,6 @@ published: 2016-06-13
 modified: 2022-07-11
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /mighty-no-9-review

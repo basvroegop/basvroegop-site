@@ -4,7 +4,6 @@ description: Bij een kapotte iPhone of Mac kun je straks rechtstreeks bij Apple 
 published: 2023-12-13
 modified: 2023-12-13
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

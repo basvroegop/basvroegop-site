@@ -5,7 +5,6 @@ published: 2013-03-20
 modified: 2018-04-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /monster-hunter-3-ultimate-review

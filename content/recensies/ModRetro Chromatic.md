@@ -5,7 +5,6 @@ published: 2024-12-23
 modified: 2025-04-30
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /review-de-modretro-chromatic-is-de-beste-game-boy-color-ooit-gemaakt

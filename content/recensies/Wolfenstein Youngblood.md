@@ -5,7 +5,6 @@ published: 2019-06-16
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-samen-op-nazis-schieten-in-wolfenstein-youngblood

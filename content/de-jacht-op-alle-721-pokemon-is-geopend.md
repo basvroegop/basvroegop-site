@@ -7,7 +7,6 @@ tags:
   - Achtergrond
   - Games
   - Livingdex
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/de-jacht-op-alle-721-pokemon-is-geopend

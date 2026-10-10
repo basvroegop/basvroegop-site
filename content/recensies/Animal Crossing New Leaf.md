@@ -5,7 +5,6 @@ published: 2013-06-18
 modified: 2024-01-17
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /animal-crossing-new-leaf-review

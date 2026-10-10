@@ -4,7 +4,6 @@ description: Afgelopen week ging de open bèta van Civ World van start. Een Face
 published: 2011-07-12
 tags:
   - Games
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /civworld-review

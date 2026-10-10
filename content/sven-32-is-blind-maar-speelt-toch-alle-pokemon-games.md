@@ -5,7 +5,6 @@ published: 2018-08-01
 modified: 2022-07-01
 tags:
   - Games
-  - Elders gepubliceerd
   - Laadscherm
 aliases:
   - /artikelen/sven-32-is-blind-maar-speelt-toch-alle-pokemon-games

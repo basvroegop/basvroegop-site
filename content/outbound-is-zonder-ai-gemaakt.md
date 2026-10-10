@@ -5,7 +5,6 @@ published: 2026-05-21
 modified: 2026-05-21
 tags:
   - Games
-  - Elders gepubliceerd
   - Unpause
 aliases:
   - /artikelen/outbound-is-zonder-ai-gemaakt

@@ -3,7 +3,6 @@ title: "Disney+ is live: deze nieuwe films en series kun je nu kijken"
 description: Disney mis
 published: 2019-11-12
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /artikelen/disney-films-series-star-wars-marvel-pixar-mandalorian-simpsons

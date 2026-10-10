@@ -5,7 +5,6 @@ published: 2023-02-25
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /we-hebben-de-nieuwe-vr-bril-van-sony-getest-vijf-dingen-die-opvallen

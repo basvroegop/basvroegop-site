@@ -4,7 +4,6 @@ description: Het was dit weekend precies 15 jaar geleden sinds de onthulling van
 published: 2022-01-10
 modified: 2022-01-10
 tags:
-  - Elders gepubliceerd
   - AD
   - Technologie
 aliases:

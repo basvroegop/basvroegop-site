@@ -5,7 +5,6 @@ published: 2020-12-26
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/waarom-de-game-among-us-ineens-een-gigahit-was-in-2020

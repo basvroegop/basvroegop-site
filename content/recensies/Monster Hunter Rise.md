@@ -5,7 +5,6 @@ published: 2021-03-23
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /review-monster-hunter-rise-is-de-beste-en-toegankelijkste-game-in-de-reeks

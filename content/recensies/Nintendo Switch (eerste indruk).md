@@ -5,7 +5,6 @@ published: 2017-01-13
 modified: 2025-03-28
 tags:
   - Games
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-controversiele-hybride-console-nintendo-switch

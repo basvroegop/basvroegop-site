@@ -5,7 +5,6 @@ published: 2016-12-15
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /artikelen/experts-kritisch-over-nieuwe-aftapwet

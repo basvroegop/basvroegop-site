@@ -5,7 +5,6 @@ published: 2018-05-23
 modified: 2025-03-28
 tags:
   - Technologie
-  - Elders gepubliceerd
   - NU.nl
 aliases:
   - /eerste-indruk-htc-u12-plus-dure-smartphone-met-advertenties

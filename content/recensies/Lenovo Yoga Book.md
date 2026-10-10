@@ -3,7 +3,6 @@ title: Lenovo Yoga Book
 description: De Yoga Book van Lenovo heeft geen toetsenbord. Je typt op een groot aanraakvlak, waarop je ook met een styluspen notities en tekeningen kunt maken.
 published: 2016-08-31
 tags:
-  - Elders gepubliceerd
   - Bright
 aliases:
   - /eerste-indruk-lenovo-yoga-book-laptop-zonder-fysiek-toetsenbord

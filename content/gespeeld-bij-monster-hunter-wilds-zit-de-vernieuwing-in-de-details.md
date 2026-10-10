@@ -5,7 +5,6 @@ published: 2024-08-28
 modified: 2024-08-28
 tags:
   - Games
-  - Elders gepubliceerd
   - Gamer.nl
 aliases:
   - /artikelen/gespeeld-bij-monster-hunter-wilds-zit-de-vernieuwing-in-de-details

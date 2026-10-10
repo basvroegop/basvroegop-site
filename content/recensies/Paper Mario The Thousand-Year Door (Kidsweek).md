@@ -3,7 +3,6 @@ title: "Paper Mario: The Thousand-Year Door (Kidsweek)"
 description: "Paper Mario: The Thousand Year Door is een oude game in een nieuw jasje. Deze nieuwe editie ziet er niet alleen mooier uit, maar kan ook helemaal in het Nederlands gespeeld worden."
 tags:
   - Games
-  - Elders gepubliceerd
   - Kidsweek
 aliases:
   - /gamerecensie-oude-mario-in-een-nieuw-jasje
