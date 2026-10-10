@@ -18,10 +18,10 @@ publish: true
 
 [Bekijk ingesloten media](https://www.youtube.com/embed/umb7BJLkhZc?autoplay=1&modestbranding=1)
 
+We vermelden met hoeveel mensen je tegelijkertijd kunt bellen, maar ook welke apparaten allemaal worden ondersteund. Je hebt immers niks aan een videobel-app als veel van je collega's hem niet kunnen installeren.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1125801/met-deze-apps-videobel-je-het-handigst-tijdens-het-thuiswerken.html).
-
-We vermelden met hoeveel mensen je tegelijkertijd kunt bellen, maar ook welke apparaten allemaal worden ondersteund. Je hebt immers niks aan een videobel-app als veel van je collega's hem niet kunnen installeren.
 
 ## Google Hangouts
 

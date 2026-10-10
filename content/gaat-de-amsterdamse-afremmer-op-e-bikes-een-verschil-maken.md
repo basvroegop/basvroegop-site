@@ -16,10 +16,10 @@ publish: true
 
 [Bekijk ingesloten media](https://art19.com/shows/31fdccbb-bebc-4fc9-9b73-5ed14c3aa381/episodes/3f591f8d-b61c-4b57-b5f9-56e49ddc54a0/embed)
 
+**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app).**
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1186679/gaat-de-amsterdamse-afremmer-op-e-bikes-een-verschil-maken.html).
-
-**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app).**
 
 Verder in deze aflevering van onze podcast: [nieuwe MacBooks](https://www.bright.nl/nieuws/1184667/daar-is-ie-dan-de-nieuwe-macbook-air-met-m3-processor.html), goed nieuws over [de thuisbatterij](https://www.bright.nl/nieuws/1183950/zonneplan-praktijktest-thuisbatterij-overtreft-verwachtingen-rendement-hoger.html) en [geld toe krijgen](https://www.bright.nl/nieuws/1184824/energie-aanbieder-betaalt-klanten-die-net-helpen-apparaten-automatisch-aan-en-uit.html) door energie te besparen.
 

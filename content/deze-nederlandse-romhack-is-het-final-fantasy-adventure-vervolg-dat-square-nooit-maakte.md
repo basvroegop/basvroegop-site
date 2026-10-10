@@ -18,11 +18,11 @@ publish: true
 
 **Internet van de jaren '90**
 
+Om 6 uur ’s ochtends gaat in een huis ergens in Brabant de wekker. Het huis slaapt nog, een veertiger klimt uit bed. Hij zet een kop thee en kruipt achter de computer. Op het scherm staat een in elkaar geknutselde editor, specifiek voor de code van zijn favoriete Game Boy-game uit 1991. Stukje bij beetje leert hij hoe de achterliggende systemen werken. Er ontstaat iets nieuws: een compleet andere game, gebouwd op de botten van een klassieker.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/deze-nederlandse-romhack-is-het-final-fantasy-adventure-vervolg-dat-square-nooit-maakte/).
-
-Om 6 uur ’s ochtends gaat in een huis ergens in Brabant de wekker. Het huis slaapt nog, een veertiger klimt uit bed. Hij zet een kop thee en kruipt achter de computer. Op het scherm staat een in elkaar geknutselde editor, specifiek voor de code van zijn favoriete Game Boy-game uit 1991. Stukje bij beetje leert hij hoe de achterliggende systemen werken. Er ontstaat iets nieuws: een compleet andere game, gebouwd op de botten van een klassieker.
 
 Het is een ritueel dat de Nederlandse romhacker vier jaar lang volhield. Steevast sleutelde hij één uur in de vroege ochtend aan zijn passieproject, terwijl zijn gezin nog lag te slapen. Het is het enige moment op de dag dat hij er tijd voor heeft in zijn verder drukke leven.
 

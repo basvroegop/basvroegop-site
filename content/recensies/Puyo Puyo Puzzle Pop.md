@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+In het puzzelspel Puyo Puyo Puzzle Pop moet je blokjes van verschillende kleuren naast elkaar zetten. Staan er vier van dezelfde kleur op een rij, dan verdwijnen ze en krijg je punten.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/puyo-puyo-puzzle-pop-puzzelen-met-blokjes~67de095).
-
-In het puzzelspel Puyo Puyo Puzzle Pop moet je blokjes van verschillende kleuren naast elkaar zetten. Staan er vier van dezelfde kleur op een rij, dan verdwijnen ze en krijg je punten.
 
 Je speelt de game altijd tegen een - meestal computergestuurde - tegenstander. Door veel rijen van dezelfde kleur na elkaar te bouwen, stuur je obstakels naar het speelveld van de ander. Door alle ongewilde blokjes is die dan sneller af. De kunst zit hem in het maken van lange combinaties, waarbij de ene na de andere reeks automatisch in elkaar valt. Dat is lastig, want je moet goed vooruitdenken over waar je blokjes neerlegt zodat ze later goed naar beneden vallen. Maar als het lukt, voelt dat ontzettend goed.
 

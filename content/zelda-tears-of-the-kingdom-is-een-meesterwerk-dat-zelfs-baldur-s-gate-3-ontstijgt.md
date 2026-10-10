@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/zelda-tears-of-the-kingdom-is-een-meesterwerk-dat-
 publish: true
 ---
 
+In deze rubriek vertellen Gamer.nl-redacteuren over de game die het afgelopen jaar de meeste indruk op ze heeft gemaakt. Vandaag: Bastiaan Vroegop met The Legend of Zelda: Tears of the Kingdom.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/opinie/favorieten-van-de-redactie/zelda-tears-of-the-kingdom-is-een-meesterwerk-dat-zelfs-baldur-s-gate-3-ontstijgt/).
-
-In deze rubriek vertellen Gamer.nl-redacteuren over de game die het afgelopen jaar de meeste indruk op ze heeft gemaakt. Vandaag: Bastiaan Vroegop met The Legend of Zelda: Tears of the Kingdom.
 
 [**_Lees hier alle Favorieten van de redactie._**](https://gamer.nl/achtergrond/opinie/favorieten-van-de-redactie/)
 

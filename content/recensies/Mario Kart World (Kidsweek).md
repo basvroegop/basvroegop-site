@@ -20,11 +20,11 @@ modified: 2025-06-16
 rating: 5
 ---
 
+De nieuwe _Mario Kart_ speelt zoals je gewend bent, maar is óók helemaal anders.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen~426a3a6).
-
-De nieuwe _Mario Kart_ speelt zoals je gewend bent, maar is óók helemaal anders.
 
 In _Mario Kart World_ nemen Mario en zijn vrienden het op de racebaan weer tegen elkaar op. En net zoals altijd gaat het er niet alleen om wie het beste rijdt, maar ook om elkaar zoveel mogelijk te dwarsbomen met bananenschillen, schildpadschilden en andere gekke wapens. Dat werkt allemaal zoals je gewend bent uit de eerdere games, maar er zijn ook een paar leuke toevoegingen. Door een knop ingedrukt te houden, maakt je auto een sprongetje. Je kunt zo op andere auto’s springen en die als trampoline gebruiken, via de muur verder rijden of als een skateboarder op de vangrail balanceren. Dat lijken kleine toevoegingen, maar ze zorgen er wel voor dat je de races op een heel andere manier rijdt.
 

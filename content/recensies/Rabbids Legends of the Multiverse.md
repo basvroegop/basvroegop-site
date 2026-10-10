@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+De Rabbids zijn het multiversum ingezogen. Daar nemen ze het op tegen versies van zichzelf. Ze vechten tegen cowboys, ridders, piraten en allemaal andere gekke konijnenschurken.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-vechten-met-konijnenschurken-in-rabbids~4ef6b69).
-
-De Rabbids zijn het multiversum ingezogen. Daar nemen ze het op tegen versies van zichzelf. Ze vechten tegen cowboys, ridders, piraten en allemaal andere gekke konijnenschurken.
 
 Deze nieuwe Rabbids-game speelt een beetje zoals het populaire Clash Royale. Links staat een konijn dat langzaam naar rechts loopt richting de tegenstander. Ondertussen vult onderin het scherm een balkje. Daarin staan punten, die je mag uitgeven om andere konijnen aan jouw kant van het scherm op te roepen. Aan jou de taak om de juiste konijnen voor de taak te selecteren. Zo kan het slim zijn om een spierbundel op te roepen die klappen opvangt, gevolgd door een sluipschutter die van achter salvo’s afvuurt. In het begin heb je maar een paar eenheden om te gebruiken, later kun je jouw arsenaal naar eigen smaak aanpassen.
 

@@ -16,10 +16,10 @@ publish: true
 
 **Bright Analyse**
 
+De nieuwe [Xbox Series S](https://www.bright.nl/nieuws/1127411/microsoft-xbox-series-s-x-299-499-dollar-10-november-next-gen-games.html) is alles wat je van een nieuwe spelcomputer verwacht: sneller, krachtiger en met een nieuw, fris ontwerp. Dit model verschijnt tegelijk met de eerder onthulde [Xbox Series X](https://www.bright.nl/nieuws/artikel/5035746/dit-weten-we-al-over-de-xbox-series-x). Die laatste draait games op 4K-televisies en zou 499 dollar kosten, terwijl de Series S lagere resoluties hanteert, maar een erg schappelijke prijs heeft: maar 299 dollar.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1127421/de-nieuwe-xbox-lokkertje-voor-de-echte-next-gen-een-netflix-voor-games.html).
-
-De nieuwe [Xbox Series S](https://www.bright.nl/nieuws/1127411/microsoft-xbox-series-s-x-299-499-dollar-10-november-next-gen-games.html) is alles wat je van een nieuwe spelcomputer verwacht: sneller, krachtiger en met een nieuw, fris ontwerp. Dit model verschijnt tegelijk met de eerder onthulde [Xbox Series X](https://www.bright.nl/nieuws/artikel/5035746/dit-weten-we-al-over-de-xbox-series-x). Die laatste draait games op 4K-televisies en zou 499 dollar kosten, terwijl de Series S lagere resoluties hanteert, maar een erg schappelijke prijs heeft: maar 299 dollar.
 
 Dit is alweer de vierde keer dat Microsoft een nieuwe generatie gameconsoles presenteert. Het is een vertrouwde cyclus aan het worden, die bedrijven als Nintendo en Sony ook hanteren: eens in de zoveel tijd brengen ze nieuwe spelcomputers uit, die aangeschaft moeten worden om de nieuwste games te blijven spelen.
 

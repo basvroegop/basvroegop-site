@@ -20,11 +20,11 @@ socialImage: ../media/gamer-pu/pegi-het-lootboxdebat-is-emotioneel/9c0963a7d64a.
 publish: true
 ---
 
+De Nederlandse gamesector heeft zich vaak te bewijzen. Ouders zijn bezorgd over lootboxen en geweld in games, wat leidt tot zowel politieke discussies als kritische consumentenprogramma's op televisie. Hoe gaat de industrie daarmee om?
+
 > [!NOTE]
 >
 > Dit interview verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/pegi-het-lootboxdebat-is-emotioneel/).
-
-De Nederlandse gamesector heeft zich vaak te bewijzen. Ouders zijn bezorgd over lootboxen en geweld in games, wat leidt tot zowel politieke discussies als kritische consumentenprogramma's op televisie. Hoe gaat de industrie daarmee om?
 
 Martijn Schenderling is al jaren de general manager van de Videogame Federatie Nederland (VGFN), een branchevereniging van grote gamebedrijven die in Nederland actief zijn. De organisatie "behartigt de belangen van Nederlandse uitgevers", leest hun site, terwijl ze een "zo vruchtbaar mogelijk businessklimaat willen scheppen".
 

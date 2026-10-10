@@ -19,11 +19,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/reviews/gam
 publish: true
 ---
 
+Wie zich nog de shitshow van Cyberpunk 2077 op de PlayStation 4 kan herinneren, zal vast nerveus worden van het idee dat die game nu op de draagbare Nintendo Switch 2 speelbaar is. Maar niet getreurd: dit blijkt een verrassend stabiele editie van de game te zijn, die met wat extra's completer is dan je hem elders kunt spelen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Power Unlimited](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/games/nintendo-switch/review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken/).
-
-Wie zich nog de shitshow van Cyberpunk 2077 op de PlayStation 4 kan herinneren, zal vast nerveus worden van het idee dat die game nu op de draagbare Nintendo Switch 2 speelbaar is. Maar niet getreurd: dit blijkt een verrassend stabiele editie van de game te zijn, die met wat extra's completer is dan je hem elders kunt spelen.
 
 Toen The Witcher 3 naar de Switch kwam, was het een soort klein wonder. De chip van Nintendo's spelcomputer was toen al het equivalent van een broodrooster, maar CD Projekt Red had hun grootse rpg nét werkend gekregen met een paar technische kunstjes en door textures en assets zo klein mogelijk te maken. Het resultaat was een game die draaide, maar niet bepaald de ervaring bood die je op een PlayStation, Xbox of pc kreeg.
 

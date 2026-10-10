@@ -20,11 +20,11 @@ modified: 2024-09-30
 rating: 5
 ---
 
+In _The Legend of Zelda - Echoes of Wisdom_ is niet Link de held, maar Zelda. Nadat de groen gemutste held haar heeft gered, raakt hij zelf in de problemen. Nu is het aan de prinses om hem uit de brand te helpen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-the-legend-of-zelda~97840e45).
-
-In _The Legend of Zelda - Echoes of Wisdom_ is niet Link de held, maar Zelda. Nadat de groen gemutste held haar heeft gered, raakt hij zelf in de problemen. Nu is het aan de prinses om hem uit de brand te helpen.
 
 In tegenstelling tot Link heeft Zelda geen zwaard. Maar ze heeft wel een toverstaf waarmee ze dingen na kan maken, zoals tafels, trampolines en ook monsters. Die objecten gebruikt ze om langs obstakels te komen, om puzzels op te lossen en om haar tegenstanders te verslaan. Dat toveren zit heel erg slim in elkaar. Door drie bedden op elkaar te stapelen maak je bijvoorbeeld een trap en met een betoverde tegel vlieg je zo over een ravijn. Je komt steeds nieuwe dingen tegen, waardoor je weer wat leuks kunt uitproberen. Later in de game worden de puzzels knap lastig, waardoor je echt creatieve oplossingen moet verzinnen.
 

@@ -18,11 +18,11 @@ publish: true
 
 **Temu-Pikachu in je plagiaatdex**
 
+Maandagavond verscheen de eerste trailer van Pickmon. Een game die zoveel van Pokémon, Zelda en andere grote franchises heeft gestolen, dat zelfs de makers van Palworld ervan moesten blozen. Om te illustreren hoe bizar het is, ben ik frame voor frame door de gehele trailer gegaan.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/vang-ze-allemaal-alle-rip-offs-in-de-trailer-van-pickmon/).
-
-Maandagavond verscheen de eerste trailer van Pickmon. Een game die zoveel van Pokémon, Zelda en andere grote franchises heeft gestolen, dat zelfs de makers van Palworld ervan moesten blozen. Om te illustreren hoe bizar het is, ben ik frame voor frame door de gehele trailer gegaan.
 
 Voor we beginnen, de trailer in kwestie vind je hieronder:
 

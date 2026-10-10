@@ -20,11 +20,11 @@ modified: 2026-05-20
 rating: 3
 ---
 
+De zomer is dan misschien in aantocht, in _Moomintroll: Winter’s Warmth_ ga je op zoek naar vrienden om je warm te houden in koude dagen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-moomintroll-winter-s-warmth~982e615).
-
-De zomer is dan misschien in aantocht, in _Moomintroll: Winter’s Warmth_ ga je op zoek naar vrienden om je warm te houden in koude dagen.
 
 Wanneer Moemin onverwacht vroeg wakker wordt uit zijn winterslaap, ontdekt hij dat hij helemaal alleen is. Zijn familie en vrienden zijn nergens te bekennen. Ook is het ijzig koud in de vallei waar hij woont. Moemin gaat op pad: op zoek naar iemand die hem door die lange koude winter kan helpen. Tijdens zijn zoektocht komen hij allerlei figuren tegen die ook hulp kunnen gebruiken. De één zit vast op een klif en een ander zoekt hulp bij het maken van een kampvuur.
 

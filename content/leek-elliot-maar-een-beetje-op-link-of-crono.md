@@ -18,11 +18,11 @@ publish: true
 
 **The Adventures of Elliott wil te veel vertellen**
 
+The Adventures of Elliot: The Millennium Tales is een eerbetoon aan oude Zelda’s, maar vergeet om de speler te laten doen wat in die games juist zo belangrijk was.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/leek-elliot-maar-een-beetje-op-link-of-crono/).
-
-The Adventures of Elliot: The Millennium Tales is een eerbetoon aan oude Zelda’s, maar vergeet om de speler te laten doen wat in die games juist zo belangrijk was.
 
 Als een meisje de teleporteermachine op de kermis mag uitproberen, gebeurt er iets vreemds. Een groot, blauw portaal verschijnt dreigend in de lucht, zuigt haar naar binnen en sluit zich weer. Het enige dat blijft liggen is de ketting die ze droeg.
 

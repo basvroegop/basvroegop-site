@@ -20,11 +20,11 @@ modified: 2025-03-16
 rating: 4
 ---
 
+_Carmen Sandiego_ ken je misschien van de gelijknamige Netflix-serie. Nu kruip je zelf in de huid van deze meesterdievegge.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-carmen-sandiego-op-dievenjacht~7639a97).
-
-_Carmen Sandiego_ ken je misschien van de gelijknamige Netflix-serie. Nu kruip je zelf in de huid van deze meesterdievegge.
 
 Je reist de wereld over op zoek naar criminelen die waardevolle schatten hebben gestolen, zodat jij die weer van hen kunt stelen. Dat doe je door allerlei mini-spelletjes te spelen. De ene keer zwiep je met je enterhaak zo snel mogelijk heen en weer om een verdachte te achtervolgen. De andere keer moet je ongezien een boef beroven van een bewijsstuk. Ieder voltooid spel levert hints op, bijvoorbeeld over de haarkleur van de dief. Zo ontdek je achter wie je aanzit, zodat je de dief kunt confronteren.
 

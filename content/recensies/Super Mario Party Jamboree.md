@@ -20,11 +20,11 @@ modified: 2024-10-21
 rating: 4
 ---
 
+De _Super Mario Party_\-games zijn net een bordspel, maar dan digitaal. In het nieuwe _Jamboree_ mag je met twee figuren tegelijk aan de slag als je de spelletjes goed speelt.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-super-mario-party-jamboree-gieren-op-de-bank~1de872f).
-
-De _Super Mario Party_\-games zijn net een bordspel, maar dan digitaal. In het nieuwe _Jamboree_ mag je met twee figuren tegelijk aan de slag als je de spelletjes goed speelt.
 
 Mario, Luigi, Peach, Bowser en hun vrienden strijden tegen elkaar om de meeste punten. Iedere beurt gooi je een dobbelsteen en kom je verder op het bord, waar je zoveel mogelijk sterren verzamelt. Maar het wordt pas echt leuk als iedereen aan de beurt is geweest. Dan speel je een van de vele minispelletjes tegen elkaar, waarbij de winnaar het rijkelijkst wordt beloond.
 

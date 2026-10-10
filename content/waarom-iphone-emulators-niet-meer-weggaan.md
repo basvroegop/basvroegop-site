@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/waarom-iphone-emulators-niet-meer-weggaan/20e29be1
 publish: true
 ---
 
+Acht jaar lang waren emulators ten strengste verboden in Apples App Store, maar enkele weken geleden kwam daar ineens verandering in. Het lijkt een definitieve maatregel van het bedrijf - maar sommige populaire emulators zullen wellicht niet worden toegelaten.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/waarom-iphone-emulators-niet-meer-weggaan/).
-
-Acht jaar lang waren emulators ten strengste verboden in Apples App Store, maar enkele weken geleden kwam daar ineens verandering in. Het lijkt een definitieve maatregel van het bedrijf - maar sommige populaire emulators zullen wellicht niet worden toegelaten.
 
 "Dit is de populairste gamemachine ter wereld", zei Steve Jobs glunderend tijdens een Apple-presentatie in 1999. "Zou het niet leuk zijn als je games hiervan op de Mac kunt spelen?" Mac-baas Phil Schiller vulde aan dat het "cool keer tien" was.
 

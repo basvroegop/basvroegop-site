@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/triple-a-games-kunnen-veel-leren-van-het-kleinere-
 publish: true
 ---
 
+De eerste game van de nieuwe studio van Dragon Age- en Mass Effect-veteraan Mike Laidlaw is niet alleen goed – het spel zit ook vol met lessen voor de steeds grotere groep triple-A-developers die kwakkelen door hun constante groeidrang.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/opinie/columns/triple-a-games-kunnen-veel-leren-van-het-kleinere-eternal-strands/).
-
-De eerste game van de nieuwe studio van Dragon Age- en Mass Effect-veteraan Mike Laidlaw is niet alleen goed – het spel zit ook vol met lessen voor de steeds grotere groep triple-A-developers die kwakkelen door hun constante groeidrang.
 
 Eternal Strands is geen triple-A-game. Het spel is ontwikkeld door het in 2020 opgerichte Yellowbrick Games, dat in die jaren van dertig naar zestig medewerkers is gegroeid. Het is een game zonder grote uitgevers of investeerders er achter, die volledig door de studio zelf is gebouwd en wordt beheerd.
 

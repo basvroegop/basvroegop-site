@@ -16,10 +16,10 @@ publish: true
 
 **Gratis robijnen**
 
+[Mario Kart Tour](https://www.bright.nl/nieuws/artikel/4859976/racegame-mario-kart-tour-voor-ios-en-android-verschenen) is de eerste Mario Kart-game voor smartphones. Hoewel je het spel gratis kunt downloaden, is dit allesbehalve een gratis game. Overal in het spel zitten upgrades en extra's die je kunt kopen door je portemonnee open te trekken. Wie ertoe bereid is, kan honderden euro's spenderen om zijn favoriete karts en racers allemaal te verzamelen.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1123861/vijf-tips-om-mario-kart-tour-te-spelen-zonder-geld-uit-te-geven.html).
-
-[Mario Kart Tour](https://www.bright.nl/nieuws/artikel/4859976/racegame-mario-kart-tour-voor-ios-en-android-verschenen) is de eerste Mario Kart-game voor smartphones. Hoewel je het spel gratis kunt downloaden, is dit allesbehalve een gratis game. Overal in het spel zitten upgrades en extra's die je kunt kopen door je portemonnee open te trekken. Wie ertoe bereid is, kan honderden euro's spenderen om zijn favoriete karts en racers allemaal te verzamelen.
 
 Dat hoeft echter niet. Wie slim te werk gaat, kan verrassend veel ontgrendelen in de game zonder dat je ook maar een cent hoeft te besteden. We zetten vijf trucs voor je op een rij.
 

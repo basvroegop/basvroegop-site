@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+Twee jaar na het uitkomen van Splatoon 3 is er nu het uitbreidingspakket De Toren der Orde. Dat voegt een helemaal nieuwe manier van spelen toe.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-splatoon-3-breidt-uit-met-de-toren-der-orde~94beea3).
-
-Twee jaar na het uitkomen van Splatoon 3 is er nu het uitbreidingspakket De Toren der Orde. Dat voegt een helemaal nieuwe manier van spelen toe.
 
 In _Splatoon 3_ schiet je als mensachtige inktvis met verf op anderen. Wie de wereld de meeste kleur geeft, wint de pot. In deze uitbreiding neem je het niet op tegen andere gamers. In plaats daarvan ga je met een lift naar de top van een grote toren. Bovenaan is een kwaadaardige supercomputer die jij moet verslaan. De lift stopt op iedere verdieping. Daar moet jij dan iets doen om weer verder te mogen. Soms versla je vijanden, andere keren moet je een puzzel oplossen. Iedere keer krijg je een nieuwe power-up die jou sterker maakt.
 

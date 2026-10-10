@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+In Animal Well moet een klein wezentje uit een diep en een donker labyrint ontsnappen. Daarbij stuit je op allerlei gekke dieren die je in de weg zitten.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-animal-well-bigmode~db375c7).
-
-In Animal Well moet een klein wezentje uit een diep en een donker labyrint ontsnappen. Daarbij stuit je op allerlei gekke dieren die je in de weg zitten.
 
 Eigenlijk is _Animal Well_ een grote puzzeldoos, waarbij je op zoek moet naar oplossingen voor ieder obstakel. Zoals honden die je achterna rennen en kikkers die met water spugen. Kom je niet langs de honden? Zoek dan een frisbee op of stuiter rond, zodat ze worden afgeleid. En bij de spugende kikker spring je op de achtergelaten belletjes een weg omhoog.
 

@@ -20,11 +20,11 @@ modified: 2026-01-19
 rating: 5
 ---
 
+_Suika Game Planet_ was twee jaar geleden een onverwachte hit op de Nintendo Switch. Nu is er een tweede deel van dit fruitige spelletje.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-suika-game-planet-passen-en-meten-op-fruitplaneet~0ce2c1a).
-
-_Suika Game Planet_ was twee jaar geleden een onverwachte hit op de Nintendo Switch. Nu is er een tweede deel van dit fruitige spelletje.
 
 Het idee van het eerste deel van _Suika Game Planet_ is simpel. Van boven in het scherm laat je fruit naar beneden vallen. Je moet ervoor zorgen dat twee dezelfde stukken elkaar raken. Die smelten dan samen tot een grotere vrucht. Het fruit moet je vervolgens met elkaar combineren: twee kersen worden een aardbei, die na een botsing met een andere aardbei verandert in een druif. De vrucht waarvoor je de meeste punten krijgt, is de watermeloen (_suika_ in het Japans), maar daaraan gaan een heleboel combinaties vooraf. En pas op! Je bak moet niet te vol worden, anders is het game-over.
 

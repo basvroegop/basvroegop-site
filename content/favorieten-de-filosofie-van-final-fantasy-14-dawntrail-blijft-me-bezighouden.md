@@ -15,11 +15,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+In deze rubriek vertellen Gamer.nl-redacteuren over de game die het afgelopen jaar de meeste indruk op ze heeft gemaakt. Vandaag: Bas met Final Fantasy 14 Dawntrail.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/opinie/favorieten-van-de-redactie/de-filosofie-van-final-fantasy-14-dawntrail-blijft-me-bezighouden/).
-
-In deze rubriek vertellen Gamer.nl-redacteuren over de game die het afgelopen jaar de meeste indruk op ze heeft gemaakt. Vandaag: Bas met Final Fantasy 14 Dawntrail.
 
 Na tien jaar aan jubelverhalen was Dawntrail een omstreden uitbreiding. Sinds Final Fantasy 14 na een geflopte release in 2010 van de afgerond werd gered met een remake in 2013, leek ieder opvolgend uitbreidingspakket steeds iets beter in de smaak te vallen. Het absolute hoogtepunt werd bereikt met Endwalker, waarin het elf jaar lopende verhaal definitief tot een einde werd gebracht. Zaadjes die een decennium geleden waren geplant, groeiden uit tot iets waanzinnigs. Nagenoeg ieder los eindje werd netjes vastgeknoopt.
 

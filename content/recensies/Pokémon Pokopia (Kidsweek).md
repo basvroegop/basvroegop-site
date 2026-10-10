@@ -20,11 +20,11 @@ modified: 2026-03-06
 rating: 5
 ---
 
+_Pokopia_ is een beetje _Pokémon_, een beetje _Minecraft_ en een beetje _Animal Crossing_. Samen maakt dat een erg leuke game.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-pokopia-bouwpret-op-een-eiland~ca1344e).
-
-_Pokopia_ is een beetje _Pokémon_, een beetje _Minecraft_ en een beetje _Animal Crossing_. Samen maakt dat een erg leuke game.
 
 Ditto is een pokémon die in alles kan veranderen. Hij wordt wakker op een eiland waar geen mens meer te vinden is en waar de pokémon nu de baas zijn. Omdat Ditto zijn mensenbaasje mist, besluit hij daarin te veranderen. Ook kopieert hij de speciale vaardigheden van andere achtergelaten pokémon. Zoals Hitmonchan, die met zijn bokshandschoenen stenen kapot kan slaan, en Scyther, die met zijn messen gras kan snijden. Met die trucs kun je op het eiland graven en bouwen, net als in _Minecraft_.
 

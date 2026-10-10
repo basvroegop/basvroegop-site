@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+Mario vs. Donkey Kong lijkt heel erg op eerdere Mario-games. Het spel is net zo leuk, maar je moet het wel op een heel andere manier spelen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/recensie-mario-vs-donkey-kong~a37f373).
-
-Mario vs. Donkey Kong lijkt heel erg op eerdere Mario-games. Het spel is net zo leuk, maar je moet het wel op een heel andere manier spelen.
 
 Tijdens het spelen lijkt _Mario vs. Donkey Kong_ heel erg op _Super Mario Wonder_ of oudere Mario-spellen. Je beweegt als Mario naar links en rechts, springt over obstakels heen en probeert bij het einde van een level te komen. In die oudere games moest je behendig zijn, terwijl je in dit nieuwe deel vooral puzzels oplost. Je springt op knoppen om blokken te laten verdwijnen, gaat op zoek naar sleutels en maakt speciale salto’s om op moeilijk bereikbare plekken te komen. In het begin is de oplossing vaak makkelijk te vinden, later moet je goed nadenken over wat je te doen staat.
 

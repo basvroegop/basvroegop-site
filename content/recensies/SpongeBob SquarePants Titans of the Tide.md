@@ -20,11 +20,11 @@ modified: 2025-11-29
 rating: 4
 ---
 
+In Titans of the Tide wordt Bikinibroek binnengevallen door een stel spoken. Aan SpongeBob en zijn vriend Patrick om die te verjagen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-spongebob-squarepants-titans-of-the-tide~bd521e65).
-
-In Titans of the Tide wordt Bikinibroek binnengevallen door een stel spoken. Aan SpongeBob en zijn vriend Patrick om die te verjagen.
 
 _Titans of the Tide_ is een verrassend leuk spel waarin je moet rennen, springen, klimmen en obstakels ontwijken. Aan het eind van elk level is er een spook om te verslaan. SpongeBob en Patrick hebben allebei hun eigen kwaliteiten. SpongeBob kan hoog springen en Patrick goed graven en door de lucht slingeren. Met één druk op de knop wissel je van hoofdpersoon. Je hoeft een level dus niet opnieuw te spelen met een ander personage. Het wisselen tussen de helden is leuk omdat de game dan meteen anders aanvoelt. Ook omdat de muziek verandert.
 

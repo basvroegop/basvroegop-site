@@ -16,10 +16,10 @@ publish: true
 
 **Bright Analyse**
 
+Het is de laatste tijd oorlog rond Apples App Store. [Fortnite werd verwijderd](https://www.bright.nl/nieuws/1127331/apple-blokkeert-account-fortnite-maker-epic.html) na het overtreden van de betaalregels, waarna ontwikkelaar Epic Games een grote rechtszaak startte. Tegelijkertijd klaagt Spotify al lange tijd over de forse marges die worden geïnd bij iPhone-klanten, waardoor Apple Music een oneerlijk voordeel zou hebben.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1127568/amazon-bewijst-dat-stadia-en-game-pass-allang-op-ios-kunnen-werken.html).
-
-Het is de laatste tijd oorlog rond Apples App Store. [Fortnite werd verwijderd](https://www.bright.nl/nieuws/1127331/apple-blokkeert-account-fortnite-maker-epic.html) na het overtreden van de betaalregels, waarna ontwikkelaar Epic Games een grote rechtszaak startte. Tegelijkertijd klaagt Spotify al lange tijd over de forse marges die worden geïnd bij iPhone-klanten, waardoor Apple Music een oneerlijk voordeel zou hebben.
 
 Als klap op de vuurpijl ligt Apple overhoop met meerdere techbedrijven die hun gamestreamingdiensten naar iOS willen brengen. Daarmee is het mogelijk om hoogwaardige games vanuit een datacenter te streamen, waardoor ineens bijvoorbeeld de nieuwste Call of Duty of FIFA op je smartphone werkt.
 

@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 3
 ---
 
+Heb jij wel eens een schaduwspelletje gespeeld? Dat je van schaduw naar schaduw springt zonder de zonnige delen van de straat aan te raken. De makers van Schim hebben een hele game gebouwd waarin je dat als een klein spookje doet.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-schim-een-slim-schaduwspel~b0479ed).
-
-Heb jij wel eens een schaduwspelletje gespeeld? Dat je van schaduw naar schaduw springt zonder de zonnige delen van de straat aan te raken. De makers van Schim hebben een hele game gebouwd waarin je dat als een klein spookje doet.
 
 In _Schim_ speel je de schaduw die van een mens is losgeraakt. Jij moet jouw menselijke helft weer terugvinden. Omdat je als schim alleen van schaduw naar schaduw kunt bewegen, veranderen heel normale omgevingen ineens in gamelevels. Je springt tussen de schaduwen van paaltjes op straat, of beweegt met voetgangers mee die de juiste kant op gaan. Dat is trouwens nooit heel lastig: _Schim_ is een soort kijkdoos die je kunt verkennen.
 

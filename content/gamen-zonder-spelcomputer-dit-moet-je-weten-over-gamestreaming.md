@@ -16,10 +16,10 @@ publish: true
 
 **Stadia, PS Now, xCloud**
 
+Gamen werkt al jarenlang min of meer hetzelfde: je koopt een console of pc, installeert je games en speelt ze vervolgens af. Streaming wil dat hele proces veranderen, door ervoor te zorgen dat je niet meer een apparaat hoeft te kopen.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124464/gamen-zonder-spelcomputer-dit-moet-je-weten-over-gamestreaming.html).
-
-Gamen werkt al jarenlang min of meer hetzelfde: je koopt een console of pc, installeert je games en speelt ze vervolgens af. Streaming wil dat hele proces veranderen, door ervoor te zorgen dat je niet meer een apparaat hoeft te kopen.
 
 ## Geen spelcomputer? Hoe kan dat?
 

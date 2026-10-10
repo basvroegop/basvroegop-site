@@ -18,11 +18,11 @@ publish: true
 
 **Fox is een sukkel**
 
+The Super Mario Galaxy Movie wordt afgebrand door recensenten, maar voor één iemand is het de beste film ooit gemaakt.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/de-mario-galaxy-film-is-voor-hem-de-beste-film-ooit-gemaakt/).
-
-The Super Mario Galaxy Movie wordt afgebrand door recensenten, maar voor één iemand is het de beste film ooit gemaakt.
 
 Super Mario Bros. Wonder is de eerste game die mijn oudste zoon ooit uitspeelde. Sindsdien leeft hij voor Nintendo’s loodgieter. Hij draagt shirts waar de iconische snor op prijkt en bouwde honderden levels in Super Mario Maker 2. Als je hem nu een level ziet spelen, is het alsof je naar een speedrunsessie bij Games Done Quick zit te kijken. En de eerste Mario-film? Die is bij elkaar opgeteld 47 keer bij ons thuis gekeken.
 

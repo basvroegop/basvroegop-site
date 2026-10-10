@@ -18,11 +18,11 @@ publish: true
 
 **Meer mensen moeten dat weten**
 
+“Laatst riepen ze dat we de hele game met AI hebben gemaakt. Maar we hebben AI uit principe uit het gehele ontwikkelproces weggehouden.”
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/outbound-is-zonder-ai-gemaakt/).
-
-“Laatst riepen ze dat we de hele game met AI hebben gemaakt. Maar we hebben AI uit principe uit het gehele ontwikkelproces weggehouden.”
 
 Afgelopen donderdag liep ik samen met het ontwikkelteam van het Groningse Outbound door de MediaMarkt. Na hun game eerder die week digitaal te hebben uitgebracht, zouden die dag de eerste fysieke schijfjes in winkels belanden.
 

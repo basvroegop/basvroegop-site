@@ -18,11 +18,11 @@ publish: true
 
 **YouTubend naar Godot**
 
+Begin vorig jaar zat ik met mijn zesjarige zoontje in de auto. We spijbelden een dagje van school (sorry als je dit leest, juf Marianne) zodat hij met mij mee kon naar de persdemo van de Nintendo Switch 2.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/achtergrond/mijn-zoon-speelde-mario-maker-2-en-nu-moet-ik-gamedeveloper-worden/).
-
-Begin vorig jaar zat ik met mijn zesjarige zoontje in de auto. We spijbelden een dagje van school (sorry als je dit leest, juf Marianne) zodat hij met mij mee kon naar de persdemo van de Nintendo Switch 2.
 
 De nieuwe games vond ie gaaf, maar op weg naar huis wilde hij vooral graag bij Nintendo werken. Die conferentiezaal vol gecoördineerde rode shirtjes naast rijen aan demopods maakte hem ineens duidelijk dat gamebedrijven echte plekken zijn. Hij wilde leren games bouwen, dus ik downloadde Super Mario Maker 2 voor hem.
 

@@ -22,10 +22,10 @@ republishedAt: https://gamepraat.nl/cube-world-review/
 
 **De volgende _Minecraft_?**
 
+Cube World is een wat vreemde game om te beschrijven. De ontwikkelaar zegt elementen van _Minecraft_, _World of Warcraft_, _Monster Hunter, Secret of Mana_ en een hoop andere games te combineren, maar het eindproduct lijkt op geen van deze spellen. Het resultaat is juist een ontzettend open rollenspel, waarin jouw held in het wild wordt geworpen en mag doen wat hij wil. Er zijn vijanden om te doden, grotten om te verkennen, steden te bezoeken en boten om te bevaren, maar geen van deze bezigheden is verplicht. Je opent de wereldkaart, zoekt een bestemming op en gaat op avontuur. De wereld van de game wordt gegenereerd op basis van een cijfer dat je zelf invoert, wat betekent dat geen avontuur hetzelfde zal zijn.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1100712/game-van-de-week-cube-world.html).
-
-Cube World is een wat vreemde game om te beschrijven. De ontwikkelaar zegt elementen van _Minecraft_, _World of Warcraft_, _Monster Hunter, Secret of Mana_ en een hoop andere games te combineren, maar het eindproduct lijkt op geen van deze spellen. Het resultaat is juist een ontzettend open rollenspel, waarin jouw held in het wild wordt geworpen en mag doen wat hij wil. Er zijn vijanden om te doden, grotten om te verkennen, steden te bezoeken en boten om te bevaren, maar geen van deze bezigheden is verplicht. Je opent de wereldkaart, zoekt een bestemming op en gaat op avontuur. De wereld van de game wordt gegenereerd op basis van een cijfer dat je zelf invoert, wat betekent dat geen avontuur hetzelfde zal zijn.
 
 Cube World geeft je geen doel en laat je de wereld verkennen, maar nagenoeg alles in je omgeving is dodelijk. Monsters delen rake klappen uit en zitten in de grotten en kerkers die je tegenkomt, wat betekent dat je jezelf eerst moet voorbereiden op je avontuur. Dat kan door vijanden in het wild te doden en in level te groeien, maar er zijn ook andere manieren. Zo kun je bijvoorbeeld katoen plukken om een shirt te maken, of grotten verkennen in de hoop wat erts voor een nieuw wapen te vinden. Alles in de spelwereld zit op een logische plek in de natuur verborgen en moet ook op simpele wijze worden toegepast. Zo heb je voor genezingsdrankjes onder andere water nodig, dat je krijgt door glazen potten te kopen en deze in een beekje te dompelen.
 

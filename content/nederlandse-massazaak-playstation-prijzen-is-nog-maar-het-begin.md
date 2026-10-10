@@ -16,11 +16,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Nederlandse gamers zouden fors te veel betalen voor games in de PlayStation Store en hebben recht op compensatie, aldus een aangespannen rechtszaak van een consumentenorganisatie. Met die rechtszaak bereikt de grote strijd om gesloten platforms ook de game-industrie - nadat techreus Apple vorig jaar moest zwichten. Een tweede zaak tegen een andere gamereus lijkt nabij.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/nederlandse-massazaak-playstation-prijzen-is-nog-maar-het-begin/).
-
-Nederlandse gamers zouden fors te veel betalen voor games in de PlayStation Store en hebben recht op compensatie, aldus een aangespannen rechtszaak van een consumentenorganisatie. Met die rechtszaak bereikt de grote strijd om gesloten platforms ook de game-industrie - nadat techreus Apple vorig jaar moest zwichten. Een tweede zaak tegen een andere gamereus lijkt nabij.
 
 Nog even kort samengevat: Stichting Massaschade & Consument is een collectieve rechtszaak gestart, waarbij het namens Nederlandse PlayStation-gebruikers het opneemt tegen Sony. De stichting noemt de prijzen in de PlayStation Store buitensporig [hoog](https://gamer.nl/nieuws/playstation/ps5/nederlandse-stichting-klaagt-sony-aan-vanwege-playstation-store-prijzen/). Een game digitaal uitgeven is namelijk goedkoper omdat er geen winkelier tussen zit en er geen drukkosten of transport worden gerekend, maar toch zijn veel jarenoude spellen duurder dan in de fysieke winkel.
 

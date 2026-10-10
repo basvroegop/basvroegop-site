@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+In Garden Life neem je een verlaten moestuin onder handen. Je plant zaden, geeft bloemen en planten water en wiedt onkruid. Een game voor spelers met groene vingers dus.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/recensie-garden-life-gamen-met-groene-vingers~4b36dd6).
-
-In Garden Life neem je een verlaten moestuin onder handen. Je plant zaden, geeft bloemen en planten water en wiedt onkruid. Een game voor spelers met groene vingers dus.
 
 Er zijn twee manieren om _Garden Life_ te spelen. Als eerste is er de verhaalmodus, waarbij je de moestuin erft en tijdens het tuinieren de dorpsbewoners uit de buurt ontmoet. Zij leggen je uit hoe de game werkt, zodat je steeds weer nieuwe dingen kunt proberen. Het verhaal is in engels gesproken, maar de schermteksten zijn in het Nederlands te lezen. Wel zijn de letters op de tv soms wat moeilijk te lezen als je ver weg zit. Je hebt daar geen last van als je op de computer speelt, want dan zit je dichter op het beeldscherm.
 

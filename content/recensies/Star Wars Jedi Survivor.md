@@ -20,10 +20,10 @@ publish: true
 
 **Bright Review**
 
+Fallen Order was in 2019 de eerste Star Wars-game in jaren die echt een goede indruk wist te maken. Het voelde als een interactieve film: je speelde als de jonge Jedi Cal Kestis, die op de vlucht voor het keizerrijk op zoek gaat naar andere overlevenden.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1134205/review-star-wars-jedi-survivor-grootser-leuker-en-met-meer-foutjes.html).
-
-Fallen Order was in 2019 de eerste Star Wars-game in jaren die echt een goede indruk wist te maken. Het voelde als een interactieve film: je speelde als de jonge Jedi Cal Kestis, die op de vlucht voor het keizerrijk op zoek gaat naar andere overlevenden.
 
 Het nieuwe Jedi Survivor speelt vijf jaar na de gebeurtenissen van die game af. Cal heeft zich inmiddels aangesloten bij het verzet en reist van schuilplaats naar schuilplaats. Als hij ontdekt hoe groot het keizerrijk is geworden, is hij de wanhoop nabij en gaat hij op zoek naar een manier om te overleven.
 

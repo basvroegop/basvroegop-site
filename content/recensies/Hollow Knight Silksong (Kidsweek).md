@@ -20,11 +20,11 @@ modified: 2025-09-29
 rating: 5
 ---
 
+De nieuwe game _Hollow Knight: Silksong_ is zó populair, dat alle online winkels overbelast raakten toen hij voor het eerst te koop was.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game~655c33a).
-
-De nieuwe game _Hollow Knight: Silksong_ is zó populair, dat alle online winkels overbelast raakten toen hij voor het eerst te koop was.
 
 Insect Hornet wordt ontvoerd door mysterieuze soortgenoten. Ze weet te ontsnappen, maar wil weten waarom ze nu juist haar moesten hebben. De kidnappers leven in een stad bovenin een groot insectenkoninkrijk dat je moet doorkruisen om hen te bereiken.
 

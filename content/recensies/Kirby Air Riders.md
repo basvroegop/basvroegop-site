@@ -20,11 +20,11 @@ modified: 2025-11-22
 rating: 4
 ---
 
+Kirby’s nieuwe racegame lijkt simpel, maar heeft stiekem heel veel manieren om te spelen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-kirby-air-riders-creatief-racen~35176ea).
-
-Kirby’s nieuwe racegame lijkt simpel, maar heeft stiekem heel veel manieren om te spelen.
 
 In _Kirby Air Riders_ beweegt je voertuig automatisch naar voren en verder is er alleen een remknop. Rem je in een bocht en beweeg je snel opzij, dan krijg je een boost waardoor je razendsnel over het veld scheurt. Een goede Air Rider remt de hele tijd op het juiste moment om zo snel mogelijk over de baan te racen.
 

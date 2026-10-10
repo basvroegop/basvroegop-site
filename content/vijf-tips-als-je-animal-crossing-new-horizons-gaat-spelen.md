@@ -16,10 +16,10 @@ publish: true
 
 **Klingels cashen**
 
+In Animal Crossing verhuis je naar een onbewoond eiland, waar de tijd net zo snel vervliegt als in de echte wereld. Is het buiten donker, dan is de gamewereld dat ook. En feestdagen worden allemaal netjes gevierd op de dagen die je gewend bent.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1125783/vijf-tips-als-je-animal-crossing-new-horizons-gaat-spelen.html).
-
-In Animal Crossing verhuis je naar een onbewoond eiland, waar de tijd net zo snel vervliegt als in de echte wereld. Is het buiten donker, dan is de gamewereld dat ook. En feestdagen worden allemaal netjes gevierd op de dagen die je gewend bent.
 
 Eigenlijk is deze game vooral gemaakt om lekker in te luieren: om even rustig te vissen langs de rivier of insecten te vangen, zonder dat je echt iets moet doen. Is dat alles waar je naar op zoek bent, dan hebben eigenlijk maar één tip voor je: lees dit artikel niet en verken de game op je eigen tempo.
 

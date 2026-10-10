@@ -22,10 +22,10 @@ republishedAt: https://gamepraat.nl/darksiders-ii-review/
 
 **Zelda plus God of War plus Diablo is Darksiders II.**
 
+Begin 2010 wist [Darksiders](http://www.darksiders.com/?ref=gamepraat.nl) nagenoeg iedereen te verrassen. Het speel leek in het eerste opzicht weinig om het lichaam te hebben: hoewel de legendarische striptekenaar Joe Madueira en jedi/stemacteur Mark Hamill bij de productie waren verwikkeld, wezen vroege beelden vooral op een imitatie van God of War. Speelde je echter het spel, dan ontpopte zich al snel een modernere (en op sommige punten strakkere) variant op The Legend of Zelda. Darksiders II belooft meer van ditzelfde, maar voegt een van de verslavendere aspecten van andere games daar aan toe: [loot](http://en.wikipedia.org/wiki/Looting_\(gaming\)?ref=gamepraat.nl).
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1103004/game-van-de-week-darksiders-ii.html).
-
-Begin 2010 wist [Darksiders](http://www.darksiders.com/?ref=gamepraat.nl) nagenoeg iedereen te verrassen. Het speel leek in het eerste opzicht weinig om het lichaam te hebben: hoewel de legendarische striptekenaar Joe Madueira en jedi/stemacteur Mark Hamill bij de productie waren verwikkeld, wezen vroege beelden vooral op een imitatie van God of War. Speelde je echter het spel, dan ontpopte zich al snel een modernere (en op sommige punten strakkere) variant op The Legend of Zelda. Darksiders II belooft meer van ditzelfde, maar voegt een van de verslavendere aspecten van andere games daar aan toe: [loot](http://en.wikipedia.org/wiki/Looting_\(gaming\)?ref=gamepraat.nl).
 
 Terwijl je kerkers doorkruist kom je zwaarden, hamers, bijlen, broeken, handschoenen, pantsers, accessoires en veel meer andere voorwerpen tegen waarmee je hoofdrolspeler [Death](http://www.darksiders.com/gb/game-info/characters?ref=gamepraat.nl#death) - letterlijk gebaseerd op de dood - kunt bekleden. Ieder kledingstuk en wapen heeft andere statistieken, maar ook een ander uiterlijk. Hierdoor ga je er naar verloop van het spel er steeds stoerder en indrukwekkender uitzien. Gevonden wapens zijn sterker of zwakker dan je al hebt, maar spelen af en toe ook totaal anders.
 

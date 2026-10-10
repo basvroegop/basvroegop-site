@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/batman-metro-en-vendetta-forever-de-beste-vr-games
 publish: true
 ---
 
+Met onder andere Batman en Metro zat het afgelopen seizoen vol met uitstekende virtualrealitygames. We zetten de vijf meest noemenswaardige titels van het najaar op een rij.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/batman-metro-en-vendetta-forever-de-beste-vr-games-van-dit-najaar/).
-
-Met onder andere Batman en Metro zat het afgelopen seizoen vol met uitstekende virtualrealitygames. We zetten de vijf meest noemenswaardige titels van het najaar op een rij.
 
 Virtual reality kan soms een ondergeschoven kindje zijn. Waar de meesten wel een PlayStation, Switch of Xbox in huis hebben staan, is het aantal verkochte vr-headsets daarmee vergeleken vrij klein. Zonde, want vooral dit jaar zijn er buitengewoon veel vr-games uitgekomen die waardig zijn voor een plekje in een GOTY-lijst.
 

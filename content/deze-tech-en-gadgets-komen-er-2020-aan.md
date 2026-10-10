@@ -16,12 +16,12 @@ publish: true
 
 **Vooruitblik**
 
-> [!NOTE]
-> Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124812/deze-tech-en-gadgets-komen-er-2020-aan.html).
-
 ## iPhone 12 en een goedkope iPhone
 
 De nieuwe iPhones worden hoogstwaarschijnlijk op twee momenten gepresenteerd. In het voorjaar wordt afgetrapt met de '[iPhone SE 2](https://www.bright.nl/nieuws/artikel/4871236/iphone-se-2-goedkope-iphones-iphone)': een iPhone 8 met aan de binnenkant snellere hardware, die voor een relatief zacht prijsje wordt verkocht.
+
+> [!NOTE]
+> Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124812/deze-tech-en-gadgets-komen-er-2020-aan.html).
 
 De [iPhone 12](https://www.bright.nl/nieuws/artikel/4861426/iphone-12-gaat-lijken-op-de-oude-iphone-4) die in september volgt is Apples krachtpatser van het jaar, die met drie schermgroottes wordt verkocht. Het ontwerp is geïnspireerd door de oude iPhone 4. Naast de vertrouwde gezichtsherkenning zou Apple ook de vingerscanner terugbrengen.
 

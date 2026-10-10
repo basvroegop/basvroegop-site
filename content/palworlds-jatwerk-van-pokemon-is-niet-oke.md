@@ -15,11 +15,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Palworld is in korte tijd de grootste game op Steam geworden, maar lijkt ook vol te zitten met ontwerpen gestolen uit Pokémon. Online woedt veel discussie of daar kunstmatige intelligentie voor is gebruikt, maar eigenlijk maakt dat niet uit: gejat is gejat.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/opinie/columns/palworlds-jatwerk-van-pokemon-is-niet-oke/).
-
-Palworld is in korte tijd de grootste game op Steam geworden, maar lijkt ook vol te zitten met ontwerpen gestolen uit Pokémon. Online woedt veel discussie of daar kunstmatige intelligentie voor is gebruikt, maar eigenlijk maakt dat niet uit: gejat is gejat.
 
 Palworld was jarenlang voer voor grapjes: trailers waren duidelijk geïnspireerd op Pokémon, waarna de monsters er ineens volautomatische geweren bij pakten om elkaar onder vuur te nemen. Het zag er gek uit, maar de uiteindelijke game bleek interessant genoeg om de Steam-ranglijsten te beklimmen. In drie dagen [werd de game vijf miljoen keer verkocht](https://gamer.nl/nieuws/overig/pc/palworld-is-vier-miljoen-keer-verkocht-in-drie-dagen-tijd/) en tijdens een piek speelden bijna 1,3 miljoen mensen tegelijk op Steam. En dat is nog alleen Steam: ook op Xbox-consoles en Game Pass zal het spel geheid veel worden opgestart. Spelers zijn grotendeels enthousiast: Palworld lijkt een uitstekende mix van een survivalspel, de klassieke Pokémon-formule en titels als Satisfactory te zijn.
 

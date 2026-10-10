@@ -20,11 +20,11 @@ modified: 2024-11-18
 rating: 4
 ---
 
+In _Mario & Luigi Brothership_ zijn de twee bekende broers naar een mysterieuze wereld gestuurd. Daar varen ze op een zeilend eiland (het Zeiland genaamd) de zee af op zoek naar avontuur.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-mario-en-luigi-brothership~eb45b96).
-
-In _Mario & Luigi Brothership_ zijn de twee bekende broers naar een mysterieuze wereld gestuurd. Daar varen ze op een zeilend eiland (het Zeiland genaamd) de zee af op zoek naar avontuur.
 
 In dit nieuwe Mario-spel worden beide broers steeds ietsje sterker naarmate ze vaker tegen monsters vechten. De gevechten zijn erg strategisch: om de beurt moet je de juiste aanvallen kiezen waar je tegenstander slecht tegen bestand is. Maar geen nood, ook het ouderwetse springwerk zit er in. Als een vijand jou probeert te verslaan in zijn of haar beurt, voorkom je met een goed getimede sprong een deel van de schade. Dat maakt het vechten leuk. Al moet dus wel van al dat knokken houden. Je doet het namelijk héél veel in deze game.
 

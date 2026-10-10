@@ -15,11 +15,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Mario and Luigi Brothership is het eerste compleet nieuwe deel in Nintendo's rpg-reeks in negen jaar tijd. De eerste trailer bood ruimte voor wat lichte zorgen, maar die zijn na een paar uur spelen als sneeuw voor de zon verdwenen.
+
 > [!NOTE]
 >
 > Deze preview verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/preview/gespeeld-mario-and-luigi-brothership-is-vooral-grappig-in-het-nederlands/).
-
-Mario and Luigi Brothership is het eerste compleet nieuwe deel in Nintendo's rpg-reeks in negen jaar tijd. De eerste trailer bood ruimte voor wat lichte zorgen, maar die zijn na een paar uur spelen als sneeuw voor de zon verdwenen.
 
 Het was lange tijd stil rond de Mario and Luigi-reeks. De rollenspellen maakten ooit hun entree op de Game Boy Advance, met als belangrijkste gimmick de samenwerking tussen de twee broers. Ieder was gebonden aan één van de twee actieknoppen van de handheld, waar je met de juiste timing op moest drukken om extra schade te doen en aanvallen te vermijden.
 

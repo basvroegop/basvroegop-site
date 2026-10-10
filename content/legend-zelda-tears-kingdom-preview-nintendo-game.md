@@ -17,14 +17,14 @@ publish: true
 
 **Bright Preview**
 
-> [!NOTE]
-> Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1134204/legend-zelda-tears-kingdom-preview-nintendo-game.html).
-
 ## Luister ook onze podcast:
 
 [Bekijk ingesloten media](https://embed.podcasts.apple.com/nl/podcast/nieuwe-zelda-als-eerste-gespeeld-en-de-asus-spelcomputer/id1451965752?i=1000610750222)
 
 Weinig games zijn zo in mysterie gehuld als Tears of the Kingdom. Sinds het spel in 2019 werd onthuld, heeft Nintendo spaarzaam details naar buiten gebracht. Zo zagen we in trailers dat je reist tussen eilanden die in de lucht vliegen en dat je objecten aan elkaar kunt plakken om bijvoorbeeld voertuigen te maken. Maar hoe het verhaal van de game in elkaar steekt en wat je ditmaal moet doen? Daar heeft Nintendo nog geen woord van verklapt.
+
+> [!NOTE]
+> Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1134204/legend-zelda-tears-kingdom-preview-nintendo-game.html).
 
 Dat maakte de middag dat we bij Nintendo de game konden spelen bijzonder. Het gaf gelegenheid om voor het eerst te ruiken aan een spel dat tot nu toe slechts een paar korte trailers heeft gehad, om een idee te krijgen wat nu eigenlijk de bedoeling is. Al was ook dat een vrij beperkte indruk: Nintendo had een duidelijk gebied afgebakend om binnen de game te verkennen, en vroeg ons beleefd weer om te draaien als we daar van probeerden af te wijken.
 

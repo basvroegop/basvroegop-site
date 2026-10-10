@@ -19,10 +19,10 @@ publish: true
 
 **Wat een games**
 
+Met [Apple Arcade](https://www.bright.nl/trends/artikel/4656351/apple-arcade-gamedienst-games-prijs-prijzen-spelen-ios-android) hoopt Apple mobiele games weer een beetje interessant te maken. Ontwikkelaars krijgen een keuze: als games geen in-app aankopen of advertenties bevatten en niet voor Android verschijnen, dan mogen ze worden uitgegeven via het nieuwe Apple-platform.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1123758/eerste-indruk-apple-arcade-kan-de-app-store-voor-altijd-veranderen.html).
-
-Met [Apple Arcade](https://www.bright.nl/trends/artikel/4656351/apple-arcade-gamedienst-games-prijs-prijzen-spelen-ios-android) hoopt Apple mobiele games weer een beetje interessant te maken. Ontwikkelaars krijgen een keuze: als games geen in-app aankopen of advertenties bevatten en niet voor Android verschijnen, dan mogen ze worden uitgegeven via het nieuwe Apple-platform.
 
 Een deel van het abonnementsgeld van alle Arcade-gebruikers die de game spelen, wordt vervolgens uitgekeerd aan de maker. Hiermee is het platform vergelijkbaar met bijvoorbeeld Spotify en Netflix, maar dan voor mobiele spellen. Het is overigens nog de vraag hoe Apple die punten van de taart precies zal verdelen.
 

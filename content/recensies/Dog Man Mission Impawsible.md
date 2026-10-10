@@ -20,11 +20,11 @@ modified: 2024-12-12
 rating: 3
 ---
 
+Dog Man ken je vast van de grappige stripboeken. In zijn eerste game _Mission Impawsible_ moet hij een superschurk tegenhouden die alle boeven uit de gevangenis heeft vrijgelaten.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-dog-man-mission-impawsible-~44264f7).
-
-Dog Man ken je vast van de grappige stripboeken. In zijn eerste game _Mission Impawsible_ moet hij een superschurk tegenhouden die alle boeven uit de gevangenis heeft vrijgelaten.
 
 Dog Man is een echt platformspel. Je springt van richel naar richel, ontwijkt vijanden en zoekt ondertussen naar verborgen verzamelobjecten. Soms moet je ook puzzels oplossen, waarbij je bijvoorbeeld een doos op de juiste schakelaar zet om een deur te openen. Eerst speel je alleen als Dog Man, die kan graven en zweven. Later kun je ook wisselen tussen personages. Dan kruip je als Kleine Karel door smalle ruimte en hack je computers of spring je met 80-HD extra ver en duw je zware voorwerpen omver.
 

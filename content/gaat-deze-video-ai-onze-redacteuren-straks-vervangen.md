@@ -16,10 +16,10 @@ publish: true
 
 [Bekijk ingesloten media](https://art19.com/shows/31fdccbb-bebc-4fc9-9b73-5ed14c3aa381/episodes/a3fbc4c8-c288-402a-a04d-dbe9c4e375cf/embed)
 
+**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app) natuurlijk!**
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1189566/gaat-deze-video-ai-onze-redacteuren-straks-vervangen.html).
-
-**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app) natuurlijk!**
 
 Verder in deze aflevering van onze podcast veel AI-nieuws: Samsung brengt zijn AI-functies naar oudere telefoons, er is een grote Copilot-update voor Windows op komst en [kunstmatige intelligentie](https://www.bright.nl/onderwerpen/kunstmatige-intelligentie) heeft bier lekkerder laten smaken.
 

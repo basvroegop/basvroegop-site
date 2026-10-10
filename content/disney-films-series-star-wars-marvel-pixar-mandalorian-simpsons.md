@@ -16,10 +16,10 @@ publish: true
 
 **Disney mis**
 
+Je vindt op [Disney+](https://www.youtube.com/watch?v=O3EkGCTYQwM) natuurlijk veel oude producties van Disney en zijn studio's, waaronder nagenoeg alle Marvel- en [Star Wars](https://www.bright.nl/tags/onderwerpen/kunst-cultuur/film/star-wars)\-films en veel van wat Disney en Pixar hebben gemaakt. Ook staan er programma’s van National Geographic op de dienst.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124384/disney-films-series-star-wars-marvel-pixar-mandalorian-simpsons.html).
-
-Je vindt op [Disney+](https://www.youtube.com/watch?v=O3EkGCTYQwM) natuurlijk veel oude producties van Disney en zijn studio's, waaronder nagenoeg alle Marvel- en [Star Wars](https://www.bright.nl/tags/onderwerpen/kunst-cultuur/film/star-wars)\-films en veel van wat Disney en Pixar hebben gemaakt. Ook staan er programma’s van National Geographic op de dienst.
 
 In dit artikel kijken we niet naar bovenstaande oude titels, maar naar wat er allemaal voor het eerst op Disney+ te zien is. Disney heeft namelijk films en series speciaal voor de streamingdienst gemaakt.
 

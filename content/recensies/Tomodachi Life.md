@@ -20,11 +20,11 @@ modified: 2026-04-18
 rating: 4
 ---
 
+In het spel _Tomodachi Life_ ben je de baas van een eiland. Je maakt poppetjes die daar samen leven. En daarna is het afwachten wat er gebeurt...
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-tomodachi-life-afwachten-wat-er-gebeurt~1fd2f78).
-
-In het spel _Tomodachi Life_ ben je de baas van een eiland. Je maakt poppetjes die daar samen leven. En daarna is het afwachten wat er gebeurt...
 
 De poppetjes die je maakt, kun je op je familieleden, klasgenoten of beste vrienden laten lijken. Ook bepaal je welke gebouwen er op het eiland komen. Maar verder bepalen de eilandbewoners wat er gebeurt. Jij kunt ze hoogstens een handje helpen. Door eten voor ze te kopen of iets nieuws voor hun huis. Of je vertelt ze wat een leuk onderwerp is om over te praten. Maar wat ze daar verder mee doen, is aan de poppetjes zelf. Raken ze bevriend of krijgen soms ruzie? Worden ze verliefd of willen ze in hetzelfde huis wonen?
 

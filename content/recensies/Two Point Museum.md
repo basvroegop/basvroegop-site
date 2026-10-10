@@ -20,11 +20,11 @@ modified: 2025-11-09
 rating: 3
 ---
 
+In _Two Point Museum_ ben jij de baas in een museum waar de gekste dingen gebeuren.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-two-point-museum-bouwen-aan-een-museum~d1b44b7e).
-
-In _Two Point Museum_ ben jij de baas in een museum waar de gekste dingen gebeuren.
 
 Het museum is gloednieuw en nog helemaal leeg. Jij bepaalt waar de dinobotten en de schilderijen komen. Je zet bankjes neer, zodat bezoekers kunnen zitten, en prullenbakken, zodat ze hun rommel kunnen weggooien. Om te voorkomen dat bezoekers verdwalen, plaats je wegwijzers in de hal. Dat klinkt misschien wat saai, maar _Two Point Museum_ zit vol humor. In de fossielen zitten bijvoorbeeld _Star Wars_\-personages verstopt en als uitje voor kinderen bouw je bizarre lasergamehallen.
 

@@ -20,11 +20,11 @@ modified: 2026-07-04
 rating: 4
 ---
 
+Geen nieuwe Mario of Zelda deze zomer, maar een nieuwe Fox McCloud. Of eigenlijk het oude _Star Fox_, maar dan in een nieuw jasje.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-star-fox-oude-vos-in-nieuw-jasje~f36e63e).
-
-Geen nieuwe Mario of Zelda deze zomer, maar een nieuwe Fox McCloud. Of eigenlijk het oude _Star Fox_, maar dan in een nieuw jasje.
 
 Het is al lang geleden dat er een nieuw spel van Fox McCloud verscheen. De ruimtevos was eerder dit jaar wel te zien in de nieuwste Mario-film. De hoop is natuurlijk dat filmkijkers nu meteen dit nieuwe spel gaan spelen. _Star Fox_ is alleen geen nieuw spel. Het verscheen dertig jaar geleden al, maar het is compleet herbouwd. Met je ruimteschip vlieg je door asteroïdengordels en over planeetvlaktes, terwijl je zoveel mogelijk vijanden uit de lucht schiet en binnenkomende salvo’s probeert te ontwijken. Jouw doel: voorkomen dat wetenschapper Andross het universum verovert.
 

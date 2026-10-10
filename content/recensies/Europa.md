@@ -20,11 +20,11 @@ modified: 2024-10-14
 rating: 4
 ---
 
+In de game _Europa_ word je wakker op één van de manen van Jupiter. Die ziet er anders dan je denkt. Mensen hebben de maan veranderd in een paradijs, met mooie grasvlaktes, stromende beekjes en dartelende dieren.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-europa~388f387).
-
-In de game _Europa_ word je wakker op één van de manen van Jupiter. Die ziet er anders dan je denkt. Mensen hebben de maan veranderd in een paradijs, met mooie grasvlaktes, stromende beekjes en dartelende dieren.
 
 _Europa_ is een vredig spelletje waarin niet wordt gevochten. Je wandelt, springt en zweeft rond door een prachtige omgeving terwijl je probeert een mysterieus, zwevend eiland te bereiken. Hier en daar is de game wat uitdagend: vooral later moet je lastige sprongen precies goed timen. Ook moet je hier en daar puzzelen om deuren te openen en verder in de wereld te komen.
 

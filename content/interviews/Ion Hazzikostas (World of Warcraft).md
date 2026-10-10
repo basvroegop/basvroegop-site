@@ -20,11 +20,11 @@ socialImage: ../media/gamer-pu/warcraft-baas-ion-hazzikostas-probeert-al-jaren-v
 publish: true
 ---
 
+Tijdens Gamescom kregen we de kans om een uur lang te spreken met Ion Hazzikostas, de regisseur van World of Warcraft. Hij sprak openhartig over zijn fouten en hoe Blizzard probeert het vertrouwen van de fans terug te winnen.
+
 > [!NOTE]
 >
 > Dit interview verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdiene/).
-
-Tijdens Gamescom kregen we de kans om een uur lang te spreken met Ion Hazzikostas, de regisseur van World of Warcraft. Hij sprak openhartig over zijn fouten en hoe Blizzard probeert het vertrouwen van de fans terug te winnen.
 
 The War Within is de comebacktour van Blizzard. Het nieuwe uitbreidingspakket trapt een trilogie van nieuwe updates af, waarmee het bedrijf belooft sneller meer content uit te brengen. Het is bovendien de comeback van geestelijk vader Chris Metzen, die uit zijn pensioen is getreden om het verhaal de juiste kant op te sturen.
 

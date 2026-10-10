@@ -20,11 +20,11 @@ modified: 2025-05-26
 rating: 3
 ---
 
+In Palia bouw je aan je eigen plekje in een fantasiewereld waar ook je vrienden op een eigen stukje land een huis kunnen bouwen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-palia~e035506).
-
-In Palia bouw je aan je eigen plekje in een fantasiewereld waar ook je vrienden op een eigen stukje land een huis kunnen bouwen.
 
 Palia lijkt een beetje op games als _Animal Crossing_. Ook in dit spel klets je met dorpsgenoten om ze beter te leren kennen, terwijl je in je eigen tempo aan je huis knutselt. Er is geen schurk of iets anders waardoor je haast moet maken. Alles gaat heel ontspannen. Omdat je met je vrienden in dezelfde wereld bent, kun je ook gezellig samen iets bouwen of op avontuur gaan. Je kunt het land verkennen, insecten vangen, op jacht gaan of samen tuinieren. Van dit soort games zijn er veel, maar vaak zijn die klein. _Palia_ is met zijn gigantisch grote 3D-wereld veel indrukwekkender.
 

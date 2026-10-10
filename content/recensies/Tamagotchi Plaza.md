@@ -20,11 +20,11 @@ modified: 2025-07-07
 rating: 2
 ---
 
+Járen geleden waren Tamagotchi een enorme speelgoedrage. Nu zijn de digitale huisdieren terug met een eigen game: _Tamagotchi Plaza._
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-tamagotchi-plaza-leuke-minispelletjes-maar-veel-herhaling~bb36d7c).
-
-Járen geleden waren Tamagotchi een enorme speelgoedrage. Nu zijn de digitale huisdieren terug met een eigen game: _Tamagotchi Plaza._
 
 In dit spel wil de koning een feest geven, maar voor de organisatie is geld nodig. Dat verdien je door klusjes te doen in de stad. In de manga-winkel maak je strips en het sushi-restaurant laat je vis snijden. Iedere taak is een eigen minispelletje, waarbij je bijvoorbeeld de juiste ingrediënten op één bord moet leggen of met gekleurde flesjes cocktails moet mixen.
 

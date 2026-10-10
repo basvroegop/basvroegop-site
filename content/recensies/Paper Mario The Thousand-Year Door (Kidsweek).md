@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 5
 ---
 
+Paper Mario: The Thousand Year Door is een oude game in een nieuw jasje. Deze nieuwe editie ziet er niet alleen mooier uit, maar kan ook helemaal in het Nederlands gespeeld worden.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-oude-mario-in-een-nieuw-jasje~80c2bf7).
-
-Paper Mario: The Thousand Year Door is een oude game in een nieuw jasje. Deze nieuwe editie ziet er niet alleen mooier uit, maar kan ook helemaal in het Nederlands gespeeld worden.
 
 Mario krijgt een brief van prinses Peach met de vraag of hij wil helpen zoeken naar een oude schat die ligt begraven onder een piratendorp. Al snel blijkt dat Peach bij haar zoektocht is ontvoerd. Je moet dus ook nog eens haar redden van mysterieuze mannetjes.
 

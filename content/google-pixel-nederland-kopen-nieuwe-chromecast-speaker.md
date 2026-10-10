@@ -16,10 +16,10 @@ publish: true
 
 **Bright Analyse**
 
+Het was voor Google-fans een mooi weekje: het bedrijf presenteerde twee nieuwe Pixel-telefoons, een Chromecast met een compleet aangepast besturingssysteem en een slimme Nest-speaker met betere audiokwaliteit.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1127622/google-pixel-nederland-kopen-nieuwe-chromecast-speaker.html).
-
-Het was voor Google-fans een mooi weekje: het bedrijf presenteerde twee nieuwe Pixel-telefoons, een Chromecast met een compleet aangepast besturingssysteem en een slimme Nest-speaker met betere audiokwaliteit.
 
 Van al die apparatuur zal alleen de [Nest Audio](https://www.bright.nl/nieuws/1127602/nest-audio-google-speaker.html) naar Nederland komen. Hier blijft nog alleen de oude Chromecast in de winkels liggen en zal de Pixel-telefoon wederom niet officieel door Google in ons land worden uitgebracht.
 

@@ -16,10 +16,10 @@ publish: true
 
 **Early Access**
 
+In [Minecraft Earth](https://www.bright.nl/nieuws/artikel/4866611/ar-spel-minecraft-earth-start-oktober-ook-nederland) verzamel je bouwblokken door in de echte wereld rond te lopen. Die gebruik je vervolgens om allerlei constructies in augmented reality (AR) te bouwen. Daarnaast kun je naar speciale plekken wandelen om zogeheten Adventures in AR te spelen.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124399/zo-speel-je-nu-al-minecraft-earth-op-je-smartphone.html).
-
-In [Minecraft Earth](https://www.bright.nl/nieuws/artikel/4866611/ar-spel-minecraft-earth-start-oktober-ook-nederland) verzamel je bouwblokken door in de echte wereld rond te lopen. Die gebruik je vervolgens om allerlei constructies in augmented reality (AR) te bouwen. Daarnaast kun je naar speciale plekken wandelen om zogeheten Adventures in AR te spelen.
 
 Op het moment van schrijven kunnen vroege testers in Canada, Mexico, Nieuw-Zeeland, het Verenigd Koninkrijk en de Verenigde Staten de game alvast downloaden om te testen. Download je de game echter via een omweg, dan is hij in Nederland volledig te spelen. Sterker nog: in de buitenlandse testversies zit al een Nederlandse taaloptie.
 

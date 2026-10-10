@@ -22,10 +22,10 @@ republishedAt: https://gamepraat.nl/toki-tori-2-review/
 
 **Mysterieus puzzelspel van Nederlandse bodem.**
 
+Toki Tori 2 is een downloadgame voor de Wii U afkomstig van Nederlandse bodem. Bijzonder, aangezien de Wii U op het moment van schrijven nog niet absurd veel spellen heeft die je in Nintendo's 'app store' kunt downloaden. Daarmee weet ontwikkelaar Two Tribes de aandacht op zich te vestigen - aandacht die ze kunnen gebruiken om een aantal niet conventionele spelideeën aan een flink publiek te laten zien.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1101370/game-van-de-week-toki-tori-2.html).
-
-Toki Tori 2 is een downloadgame voor de Wii U afkomstig van Nederlandse bodem. Bijzonder, aangezien de Wii U op het moment van schrijven nog niet absurd veel spellen heeft die je in Nintendo's 'app store' kunt downloaden. Daarmee weet ontwikkelaar Two Tribes de aandacht op zich te vestigen - aandacht die ze kunnen gebruiken om een aantal niet conventionele spelideeën aan een flink publiek te laten zien.
 
 In Toki Tori 2 bestuur je een geel kuikentje dat op pad gaat. Een simpelere verhaalbeschrijving hebben we zelden gegeven, maar het vat de essentie van Toki Tori perfect samen. De game wordt namelijk niet voorgegaan door filmpjes om het verhaal mee uit te leggen of een dialoog in de game terwijl je rondloopt. Je wordt gewoon in de spelwereld gezet, waarna je maar uitvogelt hoe je beweegt van spelscherm naar spelscherm.
 

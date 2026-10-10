@@ -20,11 +20,11 @@ modified: 2024-11-25
 rating: 3
 ---
 
+_Horizon_ is de grootste game ooit in Nederland gemaakt. Maar met zijn serieuze onderwerpen en gewelddadige momenten was het spel niet voor kinderen bedoeld. Daarom is er nu een speciale LEGO-versie.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-lego-horizon-adventures~fde0b8e).
-
-_Horizon_ is de grootste game ooit in Nederland gemaakt. Maar met zijn serieuze onderwerpen en gewelddadige momenten was het spel niet voor kinderen bedoeld. Daarom is er nu een speciale LEGO-versie.
 
 Dit spel vertelt hetzelfde verhaal als de originele game. De zestienjarige Aloy strijdt met haar pijl en boog tegen robotdino’s. Ze probeert er intussen achter te komen waarom de wereld ooit is vernietigd en de mensheid weer in een soort prehistorie leeft. Deze legoversie is alleen veel grappiger, dan het origineel. Aloy vecht namelijk een beetje als een cartoonfiguur. Ook vind je ergens in de game een disco waar wordt gedanst. En er zit een oma in die als grapje steeds vergeet hoeveel kleinkinderen ze nou heeft.
 

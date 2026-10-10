@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+In deze game ben jij Val, de beste zwaardvechter uit het dorp en beschermer van een groep reizigers. Samen moeten jullie een gigantisch grote, magische boom bereiken om de wereld van de ondergang te redden. Het is een soort digitaal sprookje...
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-visions-of-mana-een-onschuldig-sprookje~5f6d44e).
-
-In deze game ben jij Val, de beste zwaardvechter uit het dorp en beschermer van een groep reizigers. Samen moeten jullie een gigantisch grote, magische boom bereiken om de wereld van de ondergang te redden. Het is een soort digitaal sprookje...
 
 Ieder gebied is helemaal vrij om te verkennen. Je vindt verstopte schatkistjes, sterke monsters en onverwachte uitdagingen. Verdwalen doe je nooit, want alle interessante dingen staan op een grote landkaart gemarkeerd. Dat maakt het verkennen makkelijk. Het is ook een ontzettend kleurrijke game. De wereld lijkt op een mooi schilderij, de helden zijn in uitbundige fanatasie-outfits gekleed. Alles wordt begeleid door vrolijke muziek die na het spelen in je hoofd blijft zitten.
 

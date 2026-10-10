@@ -22,10 +22,10 @@ republishedAt: https://gamepraat.nl/zombiu-review/
 
 **Het voorbeeld voor toekomstige Wii U-spellen.**
 
+Nintendo heeft met de [Wii U](https://bright.nl/eerste-indruk-nintendo-wii-u?ref=gamepraat.nl) weer een nieuwe spelcomputer uitgebracht. Traditiegetrouw komen de beste nieuwe games uit Nintendo’s eigen keuken, maar ditmaal lijkt het tegendeel waar: Ubisoft’s _ZombiU_ weet de nieuwe controller van Nintendo op zo’n bijzondere manier te gebruiken, dat we alleen maar enthousiast kunnen worden van de toekomstplannen van andere ontwikkelaars.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1102247/game-van-de-week-zombiu.html).
-
-Nintendo heeft met de [Wii U](https://bright.nl/eerste-indruk-nintendo-wii-u?ref=gamepraat.nl) weer een nieuwe spelcomputer uitgebracht. Traditiegetrouw komen de beste nieuwe games uit Nintendo’s eigen keuken, maar ditmaal lijkt het tegendeel waar: Ubisoft’s _ZombiU_ weet de nieuwe controller van Nintendo op zo’n bijzondere manier te gebruiken, dat we alleen maar enthousiast kunnen worden van de toekomstplannen van andere ontwikkelaars.
 
 Het sleutelstuk van de Wii U is de nieuwe controller, met in het midden een tablet waarmee je allemaal extra dingen kunt doen of bekijken tijdens het spelen van een spel. ZombiU is echter het eerste Wii U-spel dat de controller behandelt als een voorwerp in de spelwereld. Je bent een overlevende tijdens de zombie-apocalypse en vindt al snel een gelijkvormige tablet die je extra informatie biedt tijdens je overlevingstocht. De tablet behelst een kaart, een scanner maar ook een communicatiemiddel. En met vooral dat laatste weet de game je te overtuigen een echt object uit de fictieve spelwereld vast te houden: word je gebeld door een ander personage, dan komt de stem enkel uit de speakers van de controller.
 

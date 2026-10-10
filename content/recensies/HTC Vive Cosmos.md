@@ -19,10 +19,10 @@ publish: true
 
 **Hands-on met VR**
 
+De eerste [HTC Vive](https://youtu.be/Dx79JUQ9N4Y) heeft virtual reality mede op de kaart gezet. Het was samen met de [Oculus Rift](https://www.youtube.com/watch?v=EG40N-EsLLk) één van de eerste 'echte' VR-brillen, die de positie van je hoofd en handen in een kamer nauwlettend kan doorgeven aan grootse, indrukwekkende games.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1123941/eerste-indruk-htc-vive-cosmos-een-tamme-upgrade.html).
-
-De eerste [HTC Vive](https://youtu.be/Dx79JUQ9N4Y) heeft virtual reality mede op de kaart gezet. Het was samen met de [Oculus Rift](https://www.youtube.com/watch?v=EG40N-EsLLk) één van de eerste 'echte' VR-brillen, die de positie van je hoofd en handen in een kamer nauwlettend kan doorgeven aan grootse, indrukwekkende games.
 
 Sindsdien heeft HTC meerdere variaties uitgebracht, zoals de [Vive Pro](https://www.bright.nl/nieuws/artikel/4543816/nieuwe-vr-bril-htc-vive-trackt-waar-je-naar-kijkt) voor de zakelijke markt. De Vive Cosmos is de eerste volwaardige opvolger voor gamers. Deze nieuwe bril bevat een beter scherm en vereist niet langer dat je sensoren in hoeken van je kamer neerzet.
 

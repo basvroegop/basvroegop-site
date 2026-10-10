@@ -15,11 +15,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+De nieuwe Prince of Persia doet denken aan Metroid Dread en Super Smash Bros. Het heeft de botten van een goede metroidvania, al zijn er wat kleine mankementen die nog aangepakt moeten worden.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/preview/prince-of-persia-the-lost-crown-heeft-de-botten-van-een-goede-metroidvania/).
-
-De nieuwe Prince of Persia doet denken aan Metroid Dread en Super Smash Bros. Het heeft de botten van een goede metroidvania, al zijn er wat kleine mankementen die nog aangepakt moeten worden.
 
 Al sinds 2010 is er geen nieuwe Prince of Persia-game verschenen. Na een mislukte reboot in 2008 verschenen nog wat kleine spin-offs, waarna de door de film geïnspireerde game Forgotten Sands de serie in een winterslaap stuurde. Nu Prince of Persia terugkeert, grijpt de reeks terug op zijn roots. The Lost Crown is geen groots 3D-spektakel, maar een 2D-game waarin je met acrobatiek en vechtkunsten je een weg door de wereld baant.
 

@@ -20,11 +20,11 @@ modified: 2024-12-29
 rating: 4
 ---
 
+_Animal Crossing: Pocket Camp_ was altijd gratis te spelen op je telefoon. Maar er werd je wel steeds gevraagd om upgrades te kopen. Bij de nieuwe versie betaal je eenmalig tien euro en dat is dat.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet~6d91e4f).
-
-_Animal Crossing: Pocket Camp_ was altijd gratis te spelen op je telefoon. Maar er werd je wel steeds gevraagd om upgrades te kopen. Bij de nieuwe versie betaal je eenmalig tien euro en dat is dat.
 
 In _Animal Crossing: Pocket Camp_ ben je de manager van een camping. Je loopt rond, kletst wat met de dieren die komen kamperen, verzamelt rommel van de grond en koopt nieuwe dingetjes in de winkel. Eigenlijk is het vooral een gezellig spelletje waarin niet teveel moet.
 

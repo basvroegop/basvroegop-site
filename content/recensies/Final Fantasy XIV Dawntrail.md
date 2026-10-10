@@ -18,11 +18,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/reviews/gam
 publish: true
 ---
 
+Final Fantasy 14 bevindt zich op een cruciaal moment. Endwalker, het vorige uitbreidingspakket, sloot het tien jaar durende verhaal af waarmee de game ooit begon. Dawntrail start daarom met een schone lei, maar volgt daarmee vooral de al gelegde blauwdruk.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/games/playstation/review-final-fantasy-14-blijft-met-dawntrail-de-beste-mmorpg/).
-
-Final Fantasy 14 bevindt zich op een cruciaal moment. Endwalker, het vorige uitbreidingspakket, sloot het tien jaar durende verhaal af waarmee de game ooit begon. Dawntrail start daarom met een schone lei, maar volgt daarmee vooral de al gelegde blauwdruk.
 
 Endwalker was een meesterwerk. De schrijvers wisten alle _worldbuilding_ uit de basisgame en vier uitbreidingen logisch samen te brengen. De verschillende werelden, het magiesysteem en de goden van Eorzea werden in een zinderende climax verklaard, waarbij je het hele universum redde.
 

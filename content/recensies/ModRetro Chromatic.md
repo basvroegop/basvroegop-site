@@ -20,11 +20,11 @@ socialImage: ../media/gamer-pu/review-de-modretro-chromatic-is-de-beste-game-boy
 publish: true
 ---
 
+De ModRetro Chromatic is misschien wel de beste Game Boy Color die ooit is gemaakt - maar ook één waarbij je veel voor lief moet nemen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/hardware/consoles/review-de-modretro-chromatic-is-de-beste-game-boy-color-ooit-gemaakt/).
-
-De ModRetro Chromatic is misschien wel de beste Game Boy Color die ooit is gemaakt - maar ook één waarbij je veel voor lief moet nemen.
 
 De productie van de Game Boy (Color) werd in 2003 gestaakt, maar eigenlijk is de handheld nooit weggeweest. Wie vandaag op Marktplaats rondzoekt vindt al snel een oude Game Boy voor rond de 100 euro - ongeveer de helft van de 200 euro die de oorspronkelijke Game Boy met inflatie nu zou hebben gekost. Cartridges van Pokémon gaan voor vele malen de originele retailprijs over de toonbank en wie een beetje zoekt, vindt zelfs Game Boy Camera-foto's op Instagram.
 

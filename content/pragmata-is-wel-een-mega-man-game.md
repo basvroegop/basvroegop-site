@@ -18,11 +18,11 @@ publish: true
 
 **Een pragmatische versie van de Blue Bomber**
 
+Na het spelen van Capcoms nieuwe game Pragmata blijft vooral één gevoel kleven: dit is een Mega Man-game in alles behalve naam.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/pragmata-is-wel-een-mega-man-game/).
-
-Na het spelen van Capcoms nieuwe game Pragmata blijft vooral één gevoel kleven: dit is een Mega Man-game in alles behalve naam.
 
 Ik ben niet de eerste die dit denkt. Afgelopen zomer laaide de discussie op, toen de thematische gelijkenissen tussen de twee franchises voor het eerst werden opgemerkt. In Pragmata speel je Hugh, een astronaut die probeert een ruimtebasis te redden van een op hol geslagen kunstmatige intelligentie. Op zijn rug draagt hij het robotmeisje Diana met zich mee, die hem helpt door vijanden te hacken. Een robot gehuld in hetzelfde blauw van de oude Capcom-mascotte, met een jas waarvan de mouw in bepaalde shots verrassend veel lijkt op de klassieke Mega Buster.
 

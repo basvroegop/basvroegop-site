@@ -15,11 +15,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Microsoft is dit jaar zonder twijfel de grote winnaar van Gamescom. Maar komt dat door hun line-up, of simpelweg omdat hun grootste concurrenten een jaar overslaan?
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/opinie/columns/xbox-is-de-grote-winnaar-van-gamescom/).
-
-Microsoft is dit jaar zonder twijfel de grote winnaar van Gamescom. Maar komt dat door hun line-up, of simpelweg omdat hun grootste concurrenten een jaar overslaan?
 
 De evenementzalen van Gamescom zijn vrij fors, met afmetingen tussen de 8.000 en 10.000 vierkante meter. Microsoft had dit jaar maar liefst ’een halve zaal afgehuurd om alle nieuwe Xbox-games te demonstreren. De stand nam dik vier keer zoveel ruimte in beslag als de andere 'grote' booths op het evenement – een duidelijke _power move_ waarmee Microsoft zichzelf profileert als de marktleider die het zo graag wil zijn.
 

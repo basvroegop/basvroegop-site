@@ -18,11 +18,11 @@ publish: true
 
 **An Inconvenient Lavos**
 
+Bijna drie decennia later wordt Chrono Trigger nog steeds gezien als één van de beste rollenspellen ooit gemaakt. De thematiek van deze rpg is sindsdien enkel in relevantie toegenomen. Reizend door verschillende tijdsperiodes worden de gevolgen van klimaatverandering, pardon, Lavos, zichtbaar.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/achtergrond/chrono-trigger-klimaatverandering-naoorlogs-trauma/).
-
-Bijna drie decennia later wordt Chrono Trigger nog steeds gezien als één van de beste rollenspellen ooit gemaakt. De thematiek van deze rpg is sindsdien enkel in relevantie toegenomen. Reizend door verschillende tijdsperiodes worden de gevolgen van klimaatverandering, pardon, Lavos, zichtbaar.
 
 Tijdreizen staat centraal in Chrono Trigger. De jonge Crono ontmoet op een lokaal festival een leuke meid, die door een bizar ongeluk naar het verleden wordt gestuurd. Hij reist er achteraan en er ontpopt zich al snel een groots avontuur. Je ontmoet een zwaardvechtende kikker, ontdekt dat zijn nieuwe vriendinnetje een gevluchte prinses is, redt een ontvoerde koningin, komt in de cel terecht en reist af naar de verre toekomst.
 

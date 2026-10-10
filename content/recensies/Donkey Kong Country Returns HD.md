@@ -20,11 +20,11 @@ modified: 2025-01-18
 rating: 4
 ---
 
+De bananen van Donkey Kong zijn gestolen door de Tiki Tak-stam. In _Donkey Kong Country Returns_ moet jij die weer verzamelen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-donkey-kong-country-returns~f15e23b).
-
-De bananen van Donkey Kong zijn gestolen door de Tiki Tak-stam. In _Donkey Kong Country Returns_ moet jij die weer verzamelen.
 
 _Donkey Kong Country Returns_ is een platformspel. Je loopt van links naar rechts en springt over obstakels heen. Af en toe race je in een mijnkar of rijd je rond op een dolle neushoorn. Ook los je simpele puzzels op door bijvoorbeeld op schakelaars te slaan. Dat kan door op een knop te drukken, maar de game herkent ook bewegingen. Als je de controllers van je Switch heen en weer schudt, is het alsof je zelf mept. Speel je dit spel in je eentje dan wissel je steeds tussen Donkey Kong en zijn vriend Diddy. Speel je met een vriend dan komen de apen tegelijkertijd in actie.
 

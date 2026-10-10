@@ -18,11 +18,11 @@ publish: true
 
 **Itereren, decompileren, hercompileren**
 
+Na jaren sleutelen verscheen afgelopen maand een pc-port van The Legend of Zelda: Twilight Princess. Het is de zoveelste keer dat fans een oude klassieker naar moderne tijden trekken, met hogere framerates, mooiere textures en talloze andere verbeteringen.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/achtergrond/decompiles-recompiles-ports-pc/).
-
-Na jaren sleutelen verscheen afgelopen maand een pc-port van The Legend of Zelda: Twilight Princess. Het is de zoveelste keer dat fans een oude klassieker naar moderne tijden trekken, met hogere framerates, mooiere textures en talloze andere verbeteringen.
 
 Diep in je geheugen zitten wel de momenten dat je op een dikke beeldbuis door Mario 1-1 sprong of voor het eerst Ganondorf versloeg. In een nostalgische bui start je eens een (legaal verworven!) rombestand in een emulator om dat ene moment uit je jeugd opnieuw te beleven. En dan word je geconfronteerd met wat je was vergeten: de lage resolutie en framerate, de frustrerende camerabesturing. Het gebrek aan een coherent savesysteem.
 

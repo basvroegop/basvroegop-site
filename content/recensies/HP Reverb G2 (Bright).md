@@ -19,10 +19,10 @@ publish: true
 
 **Bright Review**
 
+Virtual reality zoals we het nu kennen is inmiddels alweer vijf jaar oud: Oculus en HTC verkopen sinds het voorjaar van 2016 VR-headsets voor het grote publiek, waarna steeds meer fabrikanten zich op diezelfde markt hebben gestort.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1128531/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen.html).
-
-Virtual reality zoals we het nu kennen is inmiddels alweer vijf jaar oud: Oculus en HTC verkopen sinds het voorjaar van 2016 VR-headsets voor het grote publiek, waarna steeds meer fabrikanten zich op diezelfde markt hebben gestort.
 
 Dat geldt ook voor HP, dat in 2019 zijn HP Reverb-bril introduceerde. Met een resolutie van 2160 bij 2160 per oog was het één van de eerste 4K-VR-brillen, een trend die met de nieuwe Reverb G2 wordt voortgezet.
 

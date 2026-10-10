@@ -19,11 +19,11 @@ published: 2024-09-23
 modified: 2024-09-23
 ---
 
+In _The Plucky Squire_ verken je een wereld die je niet vaak in games ziet. Je loopt namelijk rond in een prentenboek.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-the-plucky-squire-reis-door-een-prentenboek~1514725).
-
-In _The Plucky Squire_ verken je een wereld die je niet vaak in games ziet. Je loopt namelijk rond in een prentenboek.
 
 Als de stoere zwaardvechter Jot reis je het land af om gevaren te trotseren. Je komt oog in oog te staan met een kwade magiër. Als bij een prentenboek worden kleurige pagina’s omgeslagen en een verteller beschrijft wat er gebeurt. Bijzonder is dat je in latere levels die pagina’s ineens mag verlaten door letterlijk naar buiten te klimmen. Dan transformeert _The Plucky Squire_ in een driedimensionaal avontuur, dat heel anders speelt dan de 2D-boekenwereld.
 

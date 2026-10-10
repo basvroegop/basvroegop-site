@@ -18,11 +18,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/reviews/gam
 publish: true
 ---
 
+Waar oude Final Fantasy-games nostalgische gevoelens opwekken bij Nederlandse gamers, is dat bij Dragon Quest veel minder het geval. Officieel maakte de franchise hier in Europa pas zijn entree met het achtste deel op de PlayStation 2 – eerdere delen verschenen hier enkel in remakevorm. Het inmiddels 36 jaar oude Dragon Quest 3 voelt als een reliek uit je jeugd, door zijn pixelwereld en beurtelingse gevechten, maar de kans is klein dat je deze game als achtjarige op de NES hebt gespeeld.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/games/playstation/review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger/).
-
-Waar oude Final Fantasy-games nostalgische gevoelens opwekken bij Nederlandse gamers, is dat bij Dragon Quest veel minder het geval. Officieel maakte de franchise hier in Europa pas zijn entree met het achtste deel op de PlayStation 2 – eerdere delen verschenen hier enkel in remakevorm. Het inmiddels 36 jaar oude Dragon Quest 3 voelt als een reliek uit je jeugd, door zijn pixelwereld en beurtelingse gevechten, maar de kans is klein dat je deze game als achtjarige op de NES hebt gespeeld.
 
 Nieuwkomers vinden bij deze remake daarom vooral één ding: een oer-jrpg. Dragon Quest definieerde in de jaren tachtig ooit welke kant het genre opging, met zijn anime-achtige stijl en gestroomlijnde gevechtssysteem. Het zijn zaken die ook in dit derde deel aanwezig zijn. Je bent de zoon van een oude held, die in zijn vaders voetsporen moet treden om het land te redden van het kwaad. Met een team bondgenoten reis je stad en land af, los je problemen op en probeer je de boze koning van de demonen te verslaan.
 

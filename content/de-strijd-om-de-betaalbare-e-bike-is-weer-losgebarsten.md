@@ -16,10 +16,10 @@ publish: true
 
 [Bekijk ingesloten media](https://art19.com/shows/31fdccbb-bebc-4fc9-9b73-5ed14c3aa381/episodes/35959189-11e2-40e2-a1ec-9011a85e8d2d/embed)
 
+**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app) natuurlijk!**
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1188207/de-strijd-om-de-betaalbare-e-bike-is-weer-losgebarsten.html).
-
-**Luister op [Spotify](https://open.spotify.com/show/0aF18bIN1VB94VrcHkzRED), [Apple Podcasts](https://itunes.apple.com/nl/podcast/bright-tech-podcast/id1451965752?mt=2), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuYnJpZ2h0Lm5sL3Jzcy9wb2RjYXN0LnhtbC80NTg2MDU2) of [ART19](https://art19.com/shows/bright-podcast). Of in je favoriete podcast-[app](https://www.bright.nl/onderwerpen/app) natuurlijk!**
 
 Verder in deze aflevering van onze podcast: [LEGO van Dungeons & Dragons](https://www.bright.nl/nieuws/1188041/lego-lanceert-een-dungeons-dragons-set-en-die-is-ontworpen-door-een-nederlander.html) door een Nederlandse ontwerper, [hoge kosten voor energieleveranciers](https://www.bright.nl/nieuws/1188144/energiebedrijven-reageren-op-rapport-acm-dat-klanten-met-zonnepanelen-extra-geld-kosten.html) bij zonnepanelen en [AI die de scripts in games schrijft](https://www.bright.nl/nieuws/1188118/de-toekomst-van-gamen-ubisoft-toont-npc-s-met-generatieve-ai.html).
 

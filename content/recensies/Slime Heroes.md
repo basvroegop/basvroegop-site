@@ -20,11 +20,11 @@ modified: 2025-03-10
 rating: 4
 ---
 
+In games zijn slijmmonsters meestal je vijand, maar in _Slime Heroes_ ben je er zelf een. Nadat boze monsters inbreken in het huis van jou en je drakenvriend, ga je op pad om je maatje te redden.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-slijmmonster-als-held~e41f3de).
-
-In games zijn slijmmonsters meestal je vijand, maar in _Slime Heroes_ ben je er zelf een. Nadat boze monsters inbreken in het huis van jou en je drakenvriend, ga je op pad om je maatje te redden.
 
 _Slime Heroes_ speelt best simpel. Je bekijkt de wereld van bovenaf en verslaat vijanden met een combinatie van snelle en sterke aanvallen. Het doel is om je door levels heen te vechten en nieuwe gebieden te bereiken. De lol zit vooral in de afwisseling. Als je sterker wordt, krijg je nieuwe vaardigheden en wapens om je vijanden mee te verslaan. Er zijn wapens waarmee je snel toeslaat, maar die weinig schade veroorzaken. Terwijl een langzaam zwaard juist veel pijn doet bij je tegenstander.
 

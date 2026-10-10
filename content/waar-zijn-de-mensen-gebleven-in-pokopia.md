@@ -18,11 +18,11 @@ publish: true
 
 **Slavernij of niet, ze worden gemist**
 
+In Pokopia ben je een pokémon die wakker wordt in een wereld zonder mensen. Waar ze zijn gebleven, blijft het grootste mysterie van het spel. De manier waarop ze worden gemist, de meest filosofische twist.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/actueel/waar-zijn-de-mensen-gebleven-in-pokopia/).
-
-In Pokopia ben je een pokémon die wakker wordt in een wereld zonder mensen. Waar ze zijn gebleven, blijft het grootste mysterie van het spel. De manier waarop ze worden gemist, de meest filosofische twist.
 
 “Ze noemen dit ook wel een ‘stoel’. Mensen zaten daar vroeger op als ze heel moe waren.”
 

@@ -16,11 +16,11 @@ published: 2025-04-12
 modified: 2025-04-12
 ---
 
+Naast de nieuwe spelcomputer kondigde Nintendo ook meteen een aantal nieuwe games aan. Een lijstje met een paar tips.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/nieuwe-spellen-op-de-nintendo-switch-2~4c5d4f0).
-
-Naast de nieuwe spelcomputer kondigde Nintendo ook meteen een aantal nieuwe games aan. Een lijstje met een paar tips.
 
 ## 1. Mario Kart World Tour
 

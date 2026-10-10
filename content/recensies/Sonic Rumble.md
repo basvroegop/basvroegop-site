@@ -20,11 +20,11 @@ modified: 2025-05-17
 rating: 2
 ---
 
+_Sonic Rumble_ is speciaal gemaakt voor de smartphone én gratis te downloaden. Toch probeert het spel je steeds te verleiden om aankopen te doen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-sonic-rumble-gratis-maar-niet-helemaal~da3f340).
-
-_Sonic Rumble_ is speciaal gemaakt voor de smartphone én gratis te downloaden. Toch probeert het spel je steeds te verleiden om aankopen te doen.
 
 In dit spel maak je als eerste een eigen egel, vos, wolf of ander dier uit de Sonic-wereld. Daarmee doe je mee aan een obstakelrace. Die bestaat uit drie rondes. Wat je gaat doen, is iedere keer anders. De ene keer ren je snel door een level, de andere keer verzamel je zoveel mogelijk munten. De activiteiten doe je altijd met 32 spelers tegelijkertijd. Die proberen elkaar uit het level te duwen. Iedere ronde vallen de slechtste spelers af, waardoor aan het eind alleen nog een kleine groep meedoet. Eigenlijk zoals in _Fortnite_, met als grote verschil dat je nu niet moet schieten, maar moet racen en door levels springen. Al gaat dat laatste niet heel soepel.
 

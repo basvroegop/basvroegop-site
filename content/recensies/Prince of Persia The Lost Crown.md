@@ -19,11 +19,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/reviews/gam
 publish: true
 ---
 
+The Lost Crown is een stap in de goede richting voor Ubisoft: niet alleen brengt het een lang verloren franchise terug, het is ook een game met meer focus en creativiteit dan we afgelopen jaren bij de grote Ubisoft-titels zagen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/games/playstation/review-prince-of-persia-the-lost-crown-is-sterk-en-wat-ongebalanceerd/).
-
-The Lost Crown is een stap in de goede richting voor Ubisoft: niet alleen brengt het een lang verloren franchise terug, het is ook een game met meer focus en creativiteit dan we afgelopen jaren bij de grote Ubisoft-titels zagen.
 
 Na jarenlange stilte hebben we weer een Prince of Persia. Niet een grootse 3D-game, zoals de laatste edities, maar een ‘ouderwetse’ 2D-titel. Daarmee grijpt de serie terug naar zijn roots: in de eerste Prince of Persia moest je, heel voorzichtig, de tweedimensionale kerkers verkennen om te ontsnappen en een prinses te redden.
 

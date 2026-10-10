@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/verrassing-pokemon-crystal-is-nu-volledig-in-het-n
 publish: true
 ---
 
+Sommigen gaan mountainbiken, anderen de kroeg in. Bas besloot om in zijn vrije uurtjes het gehele script van Pokémon Crystal naar het Nederlands te vertalen. Niet voor hemzelf, maar voor zijn steeds fanatieker gamende zoontje.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Power Unlimited](https://web.archive.org/web/20260419112958/https://pu.nl/games/features/achtergrond-features/verrassing-pokemon-crystal-is-nu-volledig-in-het-nederlands-te-spelen/).
-
-Sommigen gaan mountainbiken, anderen de kroeg in. Bas besloot om in zijn vrije uurtjes het gehele script van Pokémon Crystal naar het Nederlands te vertalen. Niet voor hemzelf, maar voor zijn steeds fanatieker gamende zoontje.
 
 Ik weet het: Nederlandse lokalisaties van games zijn soms best omstreden. Een beetje gamer spreekt een aardig woordje Engels en heeft daarom niet veel aan Hollandse schermteksten. En omdat Engels voor ons de 'gametaal' is, kan het soms onwennig voelen om een game in het Nederlands te spelen.
 

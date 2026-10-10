@@ -18,11 +18,11 @@ publish: true
 
 **Wie kent 'm niet?**
 
+Negen jaar zit er straks tussen Mega Man 11 en het nieuwe Dual Override. Capcom probeert voor de vierde keer op rij zijn oudste mascotte nieuw leven in te blazen en grijpt daarmee wederom naar de meest klassieke gameformule. Maar de makers? Die zouden het allerliefst een nieuwe kartgame maken.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/achtergrond/gun-je-mega-man-team-hun-obscure-kartgame-capcom/).
-
-Negen jaar zit er straks tussen Mega Man 11 en het nieuwe Dual Override. Capcom probeert voor de vierde keer op rij zijn oudste mascotte nieuw leven in te blazen en grijpt daarmee wederom naar de meest klassieke gameformule. Maar de makers? Die zouden het allerliefst een nieuwe kartgame maken.
 
 Mega Man is met zijn sequels spin-offs wat verwarrend geworden. Je hebt de originele reeks, de wat ruigere spin-off Mega Man X, de daar weer op gebaseerde spin-off Mega Man Zero en de dáár op gebaseerde spin-off Mega Man ZX. En dan heb je nog een riedeltje jrpg’s met computervirussen en buitenaarde radiogolven in plaats van robots.
 

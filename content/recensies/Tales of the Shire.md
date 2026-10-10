@@ -20,11 +20,11 @@ modified: 2025-08-13
 rating: 4
 ---
 
+In _Tales of the Shire_ kruip je in de huid van een hobbit uit _The Lord of the Rings_. Je gaat alleen niet op avontuur zoals Bilbo en Frodo, maar klust en kletst wat in en om je hobbithol.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-tales-of-the-shire-een-simpel-maar-leuk-en-ontspannen-spel~917b1d0).
-
-In _Tales of the Shire_ kruip je in de huid van een hobbit uit _The Lord of the Rings_. Je gaat alleen niet op avontuur zoals Bilbo en Frodo, maar klust en kletst wat in en om je hobbithol.
 
 Als hobbit woon je in het dorpje Bywater. Je krijgt een oud huisje in de grond, dat je eerst moet opruimen en daarna kunt opknappen. Dat doe je door rustig aan geld te verdienen om dingen mee te kopen. Je spit je moestuin om en vist in de rivier. Daarna kun je het verzamelde eten verkopen of je kookt er wat mee zodat het meer waard wordt.
 

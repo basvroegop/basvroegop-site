@@ -17,11 +17,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Met zowel Final Fantasy 14 als 16 op zijn cv is Naoki Yoshida één van de sleutelfiguren binnen Square Enix geworden. We spraken hem over de plannen voor Dawntrail en latere uitbreidingen – en hoe Square all-in gaat met zijn studio.
+
 > [!NOTE]
 >
 > Dit interview verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/preview/interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida/).
-
-Met zowel Final Fantasy 14 als 16 op zijn cv is Naoki Yoshida één van de sleutelfiguren binnen Square Enix geworden. We spraken hem over de plannen voor Dawntrail en latere uitbreidingen – en hoe Square all-in gaat met zijn studio.
 
 **Gamer.nl: Toen we elkaar vorig jaar spraken voordat Final Fantasy 16 uit was gekomen, jongleerde je twee grote games tegelijkertijd. Kun je weer wat meer ontspannen nu je alleen aan 14 werkt?**
 

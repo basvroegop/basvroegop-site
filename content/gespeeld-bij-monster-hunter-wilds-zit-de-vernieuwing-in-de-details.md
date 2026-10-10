@@ -17,11 +17,11 @@ socialImage: ./media/gamer-pu/gespeeld-bij-monster-hunter-wilds-zit-de-vernieuwi
 publish: true
 ---
 
+Hoewel Monster Hunter al een hit was in Japan, brak de serie internationaal pas echt door met World in 2018. Het aankomende Monster Hunter Wilds belooft een direct vervolg te worden – maar hoeveel is er werkelijk anders? We konden de game alvast uitproberen op Gamescom.
+
 > [!NOTE]
 >
 > Deze preview verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/preview/gespeeld-bij-monster-hunter-wilds-zit-de-vernieuwing-in-de-details/).
-
-Hoewel Monster Hunter al een hit was in Japan, brak de serie internationaal pas echt door met World in 2018. Het aankomende Monster Hunter Wilds belooft een direct vervolg te worden – maar hoeveel is er werkelijk anders? We konden de game alvast uitproberen op Gamescom.
 
 Op het moment van schrijven is Monster Hunter World met 20,5 miljoen verkochte exemplaren de meest succesvolle game die Capcom ooit heeft uitgebracht. Bovendien staat het spel twee keer in Capcoms hitlijsten, want de uitbreiding Iceborne is met 13,4 miljoen verkochte exemplaren de op vier na meest succesvolle Capcom-titel ooit.
 

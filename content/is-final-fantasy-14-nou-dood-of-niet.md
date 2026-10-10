@@ -16,11 +16,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond
 publish: true
 ---
 
+Deze zomer krijgt Final Fantasy 14 zijn nieuwste uitbreiding Dawntrail, met daarin een heel nieuw continent, twee nieuwe jobs en een compleet nieuw verhaal. Maar of je de game moet gaan spelen? Content creators kunnen het maar niet eens worden of de game ten dode is opgeschreven. Dat is allemaal de schuld van World of Warcraft.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/achtergrond/achtergrond/achtergrond/is-final-fantasy-14-nou-dood-of-niet/).
-
-Deze zomer krijgt Final Fantasy 14 zijn nieuwste uitbreiding Dawntrail, met daarin een heel nieuw continent, twee nieuwe jobs en een compleet nieuw verhaal. Maar of je de game moet gaan spelen? Content creators kunnen het maar niet eens worden of de game ten dode is opgeschreven. Dat is allemaal de schuld van World of Warcraft.
 
 Op het moment zijn er veel doemdenkers op sociale media en YouTube te vinden wat betreft Final Fantasy 14. De strekking is veelal hetzelfde: het is alweer maanden geleden sinds er nieuwe endgame-content aan de game is toegevoegd, waardoor raiders en andere fanatieke spelers bar weinig te doen hebben. Het aantal actieve spelers neemt ook af sinds de laatste uitbreiding Endwalker in 2021 verscheen, wat er op lijkt te wijzen dat de game zijn meest succesvolle tijd heeft gehad. FF14 is ten dode opgeschreven.
 

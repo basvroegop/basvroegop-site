@@ -20,11 +20,11 @@ modified: 2025-07-02
 rating: 4
 ---
 
+In _Fantasy Life I_ bouw je niet één leven op in een fantasiewereld, maar wel veertien!
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/fantasy-life-review~89962cc).
-
-In _Fantasy Life I_ bouw je niet één leven op in een fantasiewereld, maar wel veertien!
 
 Jouw avontuur begint aan boord van een schip, dat op zoek is naar een mysterieus eiland. Net als je die plek vindt, opent er een portaal die je terug in de tijd brengt naar een oude beschaving die op deze plek leefde. De koning wil je wel helpen thuis te komen, maar pas nadat je voor jezelf een leven hebt opgebouwd. Wat je wordt, mag je zelf kiezen. Je kunt bijvoorbeeld als huurling op jacht gaan naar gevaarlijke monsters of als chefkok taartjes bakken.
 

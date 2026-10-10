@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 4
 ---
 
+Een groot koraalrif in de oceaan gaat dood en niemand weet waarom. In Endless Ocean Luminous word jij als duiker het water ingestuurd om te kijken wat er aan de hand is.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-endless-ocean-luminous~1a01a10).
-
-Een groot koraalrif in de oceaan gaat dood en niemand weet waarom. In Endless Ocean Luminous word jij als duiker het water ingestuurd om te kijken wat er aan de hand is.
 
 Tijdens het spelen ontrafelt het verhaal van het koraalrif zich. Onderweg moet je vissen scannen om een bibliotheek te vullen. Bij iedere gescande vis krijg je een pagina met informatie en leuke weetjes. De game bevat vissen uit de echte wereld, waardoor die bibliotheek heel erg leerzaam is. _Endless Ocean Luminous_ is helemaal Nederlandstalig, waardoor alles goed te begrijpen is. Heb je geen zin om te lezen, dan kun je bij iedere vis ook op een knop drukken om de tekst voor te laten lezen.
 

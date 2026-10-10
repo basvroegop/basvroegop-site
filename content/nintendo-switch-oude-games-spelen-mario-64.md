@@ -16,10 +16,10 @@ publish: true
 
 **Commentaar**
 
+In Super Mario 3D All-Stars zitten Super Mario 64, Super Mario Sunshine en Super Mario Galaxy - de drie eerste Mario-games die voor respectievelijk de Nintendo 64, GameCube en Wii verschenen. Met het pakket wil Nintendo het 35-jarige jubileum van mascotte Mario vieren.
+
 > [!NOTE]
 > Dit artikel verscheen eerder op [Bright](https://www.bright.nl/nieuws/1127379/nintendo-switch-oude-games-spelen-mario-64.html).
-
-In Super Mario 3D All-Stars zitten Super Mario 64, Super Mario Sunshine en Super Mario Galaxy - de drie eerste Mario-games die voor respectievelijk de Nintendo 64, GameCube en Wii verschenen. Met het pakket wil Nintendo het 35-jarige jubileum van mascotte Mario vieren.
 
 Maar omdat 3D All-Stars een jubileumpakket is, heeft Nintendo ervoor gekozen de bundel slechts tijdelijk aan te bieden. Na maart 2021 zijn de spellen niet langer verkrijgbaar. Dat geldt voor het doosje dat vanaf 18 september in de winkels ligt, maar ook voor de digitale versie in de Nintendo eShop.
 

@@ -18,11 +18,11 @@ archiveUrl: https://web.archive.org/web/20260419112958/https://pu.nl/reviews/gam
 publish: true
 ---
 
+Waar het Peach maar niet lukt om glansrijk voor Mario in te vallen, is Zelda in het nieuwe Echoes of Wisdom een uitstekende alternatieve held. Het is een wat kleinere game dan Tears of the Kingdom, maar wel één die dezelfde creativiteit inspireert.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Gamer.nl](https://web.archive.org/web/20260419112958/https://pu.nl/reviews/games/nintendo-switch/zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten/).
-
-Waar het Peach maar niet lukt om glansrijk voor Mario in te vallen, is Zelda in het nieuwe Echoes of Wisdom een uitstekende alternatieve held. Het is een wat kleinere game dan Tears of the Kingdom, maar wel één die dezelfde creativiteit inspireert.
 
 [Bekijk ingesloten media](https://open.spotify.com/embed/episode/10auCQxBvoSCt4aCzCnDyT?utm_source=generator)
 

@@ -19,12 +19,12 @@ publish: true
 
 **Net een echte console**
 
-> [!NOTE]
-> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124438/review-google-stadia-werkt-magisch-heeft-nog-weinig.html).
-
 [Bekijk ingesloten media](https://www.youtube.com/embed/k_ggh7FE0KY?autoplay=1&modestbranding=1)
 
 [Google Stadia](https://youtu.be/k_ggh7FE0KY) is een spelcomputerloze spelcomputer. Je verbindt een gamepad met één van de ondersteunde apparaten, waarna het door jou gewilde spel vanaf een Google-server je kant op wordt gestreamd. Jouw knopindrukken gaan weer richting datzelfde datacenter, zodat je het spel kunt bedienen zoals op een PlayStation 4 of Xbox One.
+
+> [!NOTE]
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124438/review-google-stadia-werkt-magisch-heeft-nog-weinig.html).
 
 Gamers wereldwijd vrezen vooral voor één ding: vertraging. Omdat je gamebeeld meerdere kilometers moet afleggen voor het jouw televisie bereikt, kan de tijd tussen jouw knopindruk en een handeling op het scherm best groot zijn.
 

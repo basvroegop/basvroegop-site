@@ -20,11 +20,11 @@ modified: 2024-11-20
 rating: 3
 ---
 
+Voor het eerst in heel lange tijd heeft prinses Peach uit de Mario-games weer een eigen spel. In ieder level trekt ze een outfit aan die haar laat veranderen in bijvoorbeeld een ninja, kok of cowgirl.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-princess-peach-showtime~86034b8).
-
-Voor het eerst in heel lange tijd heeft prinses Peach uit de Mario-games weer een eigen spel. In ieder level trekt ze een outfit aan die haar laat veranderen in bijvoorbeeld een ninja, kok of cowgirl.
 
 Prinses Peach gaat naar het theater. Ineens sluit schurk Grape de deuren en neemt de boel over. Als Peach moet je aan iedere voorstelling meedoen. Dat doe je in elk level ongeveer hetzelfde. Eerst loop je de zaal binnen en spring je rond door het level terwijl je jouw haarlint in het rond slingert om vijanden te verslaan en bondgenoten energie te geven. In iedere kamer verzamel je sterren, die je later nodig hebt om tegen een grote eindbaas te mogen vechten.
 

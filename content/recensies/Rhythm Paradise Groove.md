@@ -20,11 +20,11 @@ modified: 2026-09-05
 rating: 4
 ---
 
+_Rhythm Paradise Groove_ bestaat uit meer dan honderd spelletjes. En die testen allemaal jouw ritmegevoel.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/games/gamerecensie-rhythm-paradise-groove-gamen-op-de-maat~42e6691).
-
-_Rhythm Paradise Groove_ bestaat uit meer dan honderd spelletjes. En die testen allemaal jouw ritmegevoel.
 
 Bij het ene spel moet je op het juiste moment door hoepels springen, bij het andere hak je groenten in stukjes voor een salade. De meeste spellen in _Rhythm Paradise Groove_ speel je alleen, maar er zijn er ook die je samen met vrienden speelt. Dan kijk je wie van jullie het vaakst als ninja een pijl uit de lucht kan slaan, of wie met een tennisracket de meeste monsters kan raken. Ieder spelletje is simpel in opzet. De lol zit vooral in zo goed mogelijk worden. Met opperste concentratie haal je een steeds hogere score. Dat is extra leuk als iemand op dezelfde Switch meespeelt om de meeste punten.
 

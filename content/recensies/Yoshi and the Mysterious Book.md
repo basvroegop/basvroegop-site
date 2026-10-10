@@ -20,11 +20,11 @@ modified: 2026-05-23
 rating: 4
 ---
 
+In _Yoshi and the Mysterious Book_ duikt Yoshi in de pagina’s van een magisch boek vol bijzondere wezens. Aan de kleine dino de taak om te ontdekken wat ze allemaal kunnen.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-yoshi-and-the-mysterious-book-op-ontdekkingstocht~2d7ead7).
-
-In _Yoshi and the Mysterious Book_ duikt Yoshi in de pagina’s van een magisch boek vol bijzondere wezens. Aan de kleine dino de taak om te ontdekken wat ze allemaal kunnen.
 
 In het eerste level van dit spel doe je bijvoorbeeld onderzoek naar een rondwandelende en pratende bloem. Door hem op te eten, ontdek je dat hij zoet smaakt. Stamp je erop, dan duw je de bloem in de grond en begint hij te groeien. Doe je dat in de buurt van water? Dan ontstaat ineens een bloemenveld. Hoe meer je ontdekt, hoe meer er verderop in het spel mogelijk is. Je leert bijvoorbeeld dat je de levende bloem kunt gebruiken om drie grote bloemknoppen verderop in het level te laten bloeien.
 

@@ -19,10 +19,10 @@ publish: true
 
 **Bright Review**
 
+Hoewel je zonder gamecontroller kunt gamen op een iPhone, is het niet altijd even handig. Je moet dan met je handen over het scherm zitten terwijl je virtuele knoppen en sticks moet bedienen die je niet met je vingertoppen kunt aanvoelen. Hierdoor zie je maar de helft van het speelveld en druk je regelmatig op de verkeerde toets.
+
 > [!NOTE]
 > Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1128530/deze-gadget-maakt-van-je-iphone-een-switch-concurrent.html).
-
-Hoewel je zonder gamecontroller kunt gamen op een iPhone, is het niet altijd even handig. Je moet dan met je handen over het scherm zitten terwijl je virtuele knoppen en sticks moet bedienen die je niet met je vingertoppen kunt aanvoelen. Hierdoor zie je maar de helft van het speelveld en druk je regelmatig op de verkeerde toets.
 
 Een gamecontroller zoals de Backbone One moet daar verandering in brengen. Door de iPhone ertussen te klemmen en via de Lightning-poort te verbinden, heb je bij ondersteunde spellen ineens extra toetsen tot je beschikking. Opladen hoeft niet, omdat hij via de verbinding stroom van je iPhone gebruikt. Bij onze tests had dat een minimale impact op onze telefoonaccu.
 

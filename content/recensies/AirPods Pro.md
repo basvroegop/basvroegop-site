@@ -19,14 +19,14 @@ publish: true
 
 **Oordopjes**
 
-> [!NOTE]
-> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124249/eerste-indruk-airpods-pro-doen-precies-wat-je-wil.html).
-
 [Bekijk ingesloten media](https://www.youtube.com/embed/VNViBTFl8tg?autoplay=1&modestbranding=1)
 
 ## Kijk de eerste indruk en reageer:
 
 **Maak kans op de AirPods Pro:** volg Bright op [Instagram](https://www.instagram.com/bright_nl) of [Facebook](https://www.facebook.com/brightnl), en download de Bright-app, voor [iOS](https://bit.ly/brightios) of [Android](https://bit.ly/brightandroid).
+
+> [!NOTE]
+> Deze recensie verscheen eerder op [Bright](https://www.bright.nl/nieuws/1124249/eerste-indruk-airpods-pro-doen-precies-wat-je-wil.html).
 
 Met de [AirPods Pro](https://www.bright.nl/nieuws/artikel/4900586/apple-kondigt-airpods-pro-aan-oordoppen-met-noise-cancelling) bevindt Apple zich ineens op een heel andere markt. Met een prijskaart van 280 euro moeten deze draadloze oordoppen zich niet alleen meten met veel high-end-merken, maar ook met ruisonderdrukkende koptelefoons van bijvoorbeeld [Sony](https://www.bright.nl/bright-stuff/artikel/4439121/sony-1000xm3-bright-stuff-buyers-guide-koopgids-review-de-beste) en [Bose](https://www.bright.nl/bright-stuff/artikel/4829121/bright-stuff-bose-700-nc-koptelefoon).
 

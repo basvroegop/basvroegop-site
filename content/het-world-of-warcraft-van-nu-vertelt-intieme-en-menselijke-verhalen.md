@@ -18,11 +18,11 @@ publish: true
 
 **Twee voor twaalf voor vader en zoon**
 
+Net als zijn publiek is World of Warcraft volwassen geworden. Waar de mmorpg voorheen alleen maar groot, grootser, grootst was, houdt WoW het in nieuwe uitbreidingen steeds vaker klein: niet alleen maar epische oorlogen, maar persoonlijke verhalen die zich makkelijk naar de echte wereld laten vertalen.
+
 > [!NOTE]
 >
 > Dit artikel verscheen eerder op [Unpause](https://www.unpause.nl/verhalen/achtergrond/het-world-of-warcraft-van-nu-vertelt-intieme-en-menselijke-verhalen/).
-
-Net als zijn publiek is World of Warcraft volwassen geworden. Waar de mmorpg voorheen alleen maar groot, grootser, grootst was, houdt WoW het in nieuwe uitbreidingen steeds vaker klein: niet alleen maar epische oorlogen, maar persoonlijke verhalen die zich makkelijk naar de echte wereld laten vertalen.
 
 Ridder Turalyon kan zich waarschijnlijk geen tijd herinneren waarin hij niet vocht tegen orcs en trollen. Het personage verscheen in 1995 al in Warcraft II, als een van de helden van de Alliance, het bondgenootschap van onder andere de mensen, elven en dwergen. Het was voor soldaten een simpelere tijd: tussen hen en de Horde woedde altijd een oorlog, waarbij de vijand te herkennen was aan de kleur van het uniform.
 

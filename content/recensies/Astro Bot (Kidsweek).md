@@ -20,11 +20,11 @@ modified: 2024-09-17
 rating: 5
 ---
 
+In Astro Bot vlieg je met je honderden robotvrienden door de ruimte, tot een alien je schip kapotslaat en je vrienden naar andere planeten vliegen. Aan jou de taak om ze weer terug te vinden.
+
 > [!NOTE]
 >
 > Deze recensie verscheen eerder op [Kidsweek](https://www.kidsweek.nl/entertainment/gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur~dd195b9).
-
-In Astro Bot vlieg je met je honderden robotvrienden door de ruimte, tot een alien je schip kapotslaat en je vrienden naar andere planeten vliegen. Aan jou de taak om ze weer terug te vinden.
 
 Je doet dat door rond te springen in vrolijk gekleurde levels. Vaak kun je daar iets unieks doen. Astro kan bijvoorbeeld een rakethond op zijn rug hangen die hem snel naar voren schiet. Of hij vindt twee bokshandschoenen op springveren om vijanden mee te slaan.
 
