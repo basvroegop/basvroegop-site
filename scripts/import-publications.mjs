@@ -442,7 +442,10 @@ async function importGhost() {
     sourceUrls: new Set(),
   }
   for (const post of posts) {
-    const importedTags = post.tags?.map((tag) => tag.name).filter((tag) => !tag.startsWith("#"))
+    // "Elders gepubliceerd" was een Gamepraat-rubriek; het archief gebruikt die tag niet.
+    const importedTags = post.tags
+      ?.map((tag) => tag.name)
+      .filter((tag) => !tag.startsWith("#") && !/^elders gepubliceerd$/i.test(tag))
     const route = articleRoute(post.slug, importedTags)
     const migratedHtml = await migrateLegacyBrightLinks(post.html)
     const $ = load(migratedHtml, null, false)
@@ -593,7 +596,7 @@ async function importBright(item, oldId, existing) {
   }
 
   const slug = `${slugify(displayTitle)}-review`
-  const route = articleRoute(slug, ["Review", "Games", "Elders gepubliceerd", "Bright"])
+  const route = articleRoute(slug, ["Review", "Games", "Bright"])
   let markdown = await htmlToMarkdown(article.newsText, {
     slug,
     source: "bright",
@@ -665,7 +668,7 @@ async function importAd(item, existing) {
     throw new Error(`AD body looks incomplete (${markdown.length} characters)`)
   markdown = insertSourceNote(markdown, "AD", item.url)
   const slug = sourceSlugFromUrl(item.url, title)
-  const route = articleRoute(slug, ["Games", "Elders gepubliceerd", "AD"])
+  const route = articleRoute(slug, ["Games", "AD"])
   await writeMarkdown(
     route.relativePath,
     {
@@ -720,7 +723,7 @@ async function importNu(item, existing) {
   )
   if (markdown.split(/\s+/).length < 500) throw new Error("NU.nl article body looks incomplete")
   const slug = sourceSlugFromUrl(item.url, title)
-  const route = articleRoute(slug, ["Review", "Games", "Elders gepubliceerd", "NU.nl"])
+  const route = articleRoute(slug, ["Review", "Games", "NU.nl"])
   await writeMarkdown(
     route.relativePath,
     {

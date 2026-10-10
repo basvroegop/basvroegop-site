@@ -549,6 +549,17 @@ function sourceNote(noun, url, authors = []) {
   return `> [!NOTE]\n> ${demonstrative} ${noun} verscheen eerder in [NRC](${url})${collaboration}.`
 }
 
+// De bronvermelding hoort na de eerste intro-alinea, niet boven het verhaal.
+function noteAfterFirstParagraph(body, note) {
+  const blocks = body.split(/\n{2,}/)
+  const index = blocks.findIndex(
+    (block) => block.trim() && !/^(#|>|!\[|\[Bekijk ingesloten media\]|\|)/.test(block.trim()),
+  )
+  if (index < 0) return `${note}\n\n${body}`
+  blocks.splice(index + 1, 0, note)
+  return blocks.join("\n\n")
+}
+
 async function writeArticle(relativePath, frontmatter, markdown) {
   const destination = path.join(CONTENT_DIR, relativePath)
   if (
@@ -607,7 +618,9 @@ async function importStandalone(item, page) {
       socialImage,
       publish: true,
     },
-    `${intro}${sourceNote(noun, item.url, authors)}\n\n${markdown}`,
+    intro
+      ? `${intro}${sourceNote(noun, item.url, authors)}\n\n${markdown}`
+      : noteAfterFirstParagraph(markdown, sourceNote(noun, item.url, authors)),
   )
 }
 
@@ -693,7 +706,7 @@ async function importMediatip(url, page) {
       publish: true,
       aliases: [`/${slug}`],
     },
-    `${note}\n\n${markdown}`,
+    noteAfterFirstParagraph(markdown, note),
   )
   if (inferredFromCategory) console.log(`  ↳ gekoppeld via het unieke gameblok: ${title}`)
 }

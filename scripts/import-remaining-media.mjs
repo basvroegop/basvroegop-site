@@ -351,6 +351,17 @@ function withRating(body, value) {
   return `${body.trim()}\n\n${line}`
 }
 
+// De bronvermelding hoort na de eerste intro-alinea, niet boven het verhaal.
+function noteAfterFirstParagraph(body, note) {
+  const blocks = body.split(/\n{2,}/)
+  const index = blocks.findIndex(
+    (block) => block.trim() && !/^(#|>|!\[|\[Bekijk ingesloten media\]|\|)/.test(block.trim()),
+  )
+  if (index < 0) return `${note}\n\n${body}`
+  blocks.splice(index + 1, 0, note)
+  return blocks.join("\n\n")
+}
+
 async function writeArticle({ item, parsed, sourceSlug, linkUrl, existingOnly = false }) {
   if (!parsed.title || !parsed.body) throw new Error("titel of artikeltekst ontbreekt")
   if (!/Bastiaan|BasVroegop/i.test(parsed.author || "")) {
@@ -388,7 +399,7 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl, existingOnly = 
   const slug = slugify(parsed.title)
   const folder = item.folder || ""
   const media = await downloadImage(parsed.image, sourceSlug, slug, item.archived)
-  const tags = unique(["Games", "Elders gepubliceerd", item.source])
+  const tags = unique(["Games", item.source])
   // Zonder map is `/${slug}` de pagina zelf; die alias zou het artikel door een redirect vervangen.
   const aliases = folder
     ? [`/${slug}`, `/artikelen/${slug}`, `/artikelen/${folder}/${slug}`]
@@ -409,10 +420,16 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl, existingOnly = 
     publish: true,
   })
   const intro = cleanText(parsed.intro)
+  const subtitle = cleanText(parsed.subtitle)
   const body = withRating(cleanConvertedMarkdown(parsed.body), parsed.rating)
+  const note = sourceNote(item.source, linkUrl, folder, parsed.title)
   const pieces = [frontmatter]
-  if (intro && !cleanText(body).startsWith(intro.slice(0, 100))) pieces.push(`**${intro}**`)
-  pieces.push(sourceNote(item.source, linkUrl, folder, parsed.title), body)
+  if (subtitle) pieces.push(`**${subtitle}**`)
+  if (intro && !cleanText(body).startsWith(intro.slice(0, 100))) {
+    pieces.push(`**${intro}**`, note, body)
+  } else {
+    pieces.push(noteAfterFirstParagraph(body, note))
+  }
   const outputDir = path.join(CONTENT_DIR, folder)
   const destination = path.join(outputDir, `${slug}.md`)
   if (!DRY_RUN) {
@@ -586,7 +603,7 @@ async function normalizeLegacySources() {
               : undefined
     const data = {
       ...record.data,
-      tags: unique([...(record.data.tags || []), "Elders gepubliceerd", source]),
+      tags: unique([...(record.data.tags || []), source]),
       author: "Bastiaan Vroegop",
       source,
       sourceUrl,
@@ -741,7 +758,7 @@ function parseUnpause(html) {
       .text(),
   )
   return {
-    intro: subtitle || undefined,
+    subtitle: subtitle || undefined,
     title: (data?.headline || $("h1").first().text()).replace(/\s+- Unpause$/, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),
     date: data?.datePublished,

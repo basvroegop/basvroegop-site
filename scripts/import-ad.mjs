@@ -405,11 +405,7 @@ function subjectTags(sourceUrl, title) {
   const gamePattern =
     /\b(?:gam(?:e|en|er|ers|ing|emaker|emakers|ebedrijf|ebedrijven|e-industrie)|nintendo|playstation|xbox|pok[eé]mon|zelda|fortnite|twitch|steam|gta|world of warcraft|final fantasy|sonic|minecraft)\b/i
   const pathIsGames = new URL(sourceUrl).pathname.startsWith("/games/")
-  return [
-    pathIsGames || gamePattern.test(title) ? "Games" : "Technologie",
-    "Elders gepubliceerd",
-    "AD",
-  ]
+  return [pathIsGames || gamePattern.test(title) ? "Games" : "Technologie", "AD"]
 }
 
 function sourceNote(folder, sourceUrl) {

@@ -536,7 +536,7 @@ function subjectTags(sourceUrl, title, sections = []) {
   const gamePattern =
     /\b(?:gam(?:e|en|er|ers|ing|ebeurs|e-industrie)|nintendo|playstation|xbox|pok[eé]mon|zelda|fortnite|twitch|steam|gta|warcraft|mario|diablo|minecraft)\b/i
   const games = sections.includes("games") || gamePattern.test(`${title} ${sourceUrl}`)
-  return [games ? "Games" : "Technologie", "Elders gepubliceerd", "NU.nl"]
+  return [games ? "Games" : "Technologie", "NU.nl"]
 }
 
 async function writeMarkdown(filename, data, body) {

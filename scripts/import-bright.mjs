@@ -55,7 +55,7 @@ const contributionSpecs = [
     slug: "noclip-mediatip",
     title: "NoClip",
     folder: "recensies",
-    tags: ["Games", "Elders gepubliceerd", "Bright"],
+    tags: ["Games", "Bright"],
     credit: /^-\s*Bastiaan Vroegop$/i,
   },
 ]
@@ -392,8 +392,12 @@ function sourceNote(noun, sourceUrl) {
 
 function insertSourceNote(markdown, note) {
   const blocks = markdown.split(/\n{2,}/)
+  // Een korte vette regel ("Bright Review") is een rubriek, geen intro-alinea.
   let leadIndex = blocks.findIndex(
-    (block) => block.trim() && !/^(#|>|!\[|\*\*?(?:Bron|Foto|Beeld):)/.test(block.trim()),
+    (block) =>
+      block.trim() &&
+      !/^(#|>|!\[|\*\*?(?:Bron|Foto|Beeld):)/.test(block.trim()) &&
+      !/^\*\*[^*]{1,58}\*\*$/.test(block.trim()),
   )
   if (leadIndex < 0) leadIndex = 0
   blocks.splice(leadIndex + 1, 0, note)
@@ -420,7 +424,7 @@ async function updateExisting(record, article) {
     .split(/\n\s*\n/)[0]
     .replace(/^💡/, "")
     .trim()
-  const tags = unique([...(record.data.tags || []), "Elders gepubliceerd", "Bright"])
+  const tags = unique([...(record.data.tags || []), "Bright"])
   const aliases = unique([
     ...(record.data.aliases || []),
     // Alleen slugs krijgen een korte alias; op productnaam hernoemde bestanden hebben er al een.
@@ -636,7 +640,7 @@ function descriptionFrom(article, markdown) {
 }
 
 function articleTags(article) {
-  const tags = ["Elders gepubliceerd", "Bright"]
+  const tags = ["Bright"]
   if (/^game van de week:/i.test(cleanText(article.newsTitle))) tags.unshift("Games")
   if (article.category?.name === "Games") tags.unshift("Games")
   return unique(tags)
