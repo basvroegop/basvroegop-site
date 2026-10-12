@@ -1,4 +1,5 @@
 ---
+type: page
 title: Over mij
 description: |-
   Hallo! Ik ben Bastiaan Vroegop, tech- en gamejournalist voor onder andere AD, NRC Handelsblad, Bright, Gamer.nl, Power Unlimited en Kidsweek. Ik schrijf dagelijks over de impact van technologie en videogames op de maatschappij.

@@ -1,0 +1,3 @@
+{{- $src := replaceRE `^(\.\./|\./)+media/` "/media/" .Destination -}}
+<img src="{{ $src | relURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
+{{- /* geen witruimte */ -}}

@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur
   - /artikelen/recensies/gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur
   - /recensies/gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur
+  - /recensies/astro-bot-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-astro-bot-een-vrolijk-en-kleurrijk-ruimte-avontuur~dd195b9

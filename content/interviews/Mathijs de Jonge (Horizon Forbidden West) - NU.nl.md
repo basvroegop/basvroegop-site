@@ -11,6 +11,7 @@ aliases:
   - /artikelen/nieuwe-horizon-game-had-eerder-kunnen-uitkomen-we-wilden-niet-overwerken
   - /artikelen/interviews/nieuwe-horizon-game-had-eerder-kunnen-uitkomen-we-wilden-niet-overwerken
   - /interviews/nieuwe-horizon-game-had-eerder-kunnen-uitkomen-we-wilden-niet-overwerken
+  - /interviews/mathijs-de-jonge-(horizon-forbidden-west)---nu.nl
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6184689/nieuwe-horizon-game-had-eerder-kunnen-uitkomen-we-wilden-niet-overwerken.html

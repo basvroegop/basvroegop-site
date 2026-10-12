@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-watch-dogs-legion-voelt-als-tamme-versie-van-black-mirror
   - /artikelen/recensies/eerste-indruk-watch-dogs-legion-voelt-als-tamme-versie-van-black-mirror
   - /recensies/eerste-indruk-watch-dogs-legion-voelt-als-tamme-versie-van-black-mirror
+  - "/recensies/watch-dogs-legion-(nu.nl,-eerste-indruk,-2020)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6064185/eerste-indruk-watch-dogs-legion-voelt-als-tamme-versie-van-black-mirror.html

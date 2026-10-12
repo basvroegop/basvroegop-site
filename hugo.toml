@@ -1,0 +1,86 @@
+# basvroegop.nl: Hugo met het Anatole-thema. De map content/ is ook de Obsidian-map;
+# de artikelen blijven gewone Obsidian-markdown en worden hier alleen anders gelezen.
+baseURL = "https://basvroegop.nl/"
+title = "Bastiaan Vroegop"
+theme = "anatole"
+defaultContentLanguage = "nl"
+locale = "nl-NL"
+enableRobotsTXT = true
+summaryLength = 40
+timeout = "120s"
+
+[pagination]
+  pagerSize = 50
+
+[services.rss]
+  limit = 50
+
+# De artikelen gebruiken `published` en `modified` in plaats van Hugo's eigen velden.
+[frontmatter]
+  date = ["published", "date", "publishDate"]
+  publishDate = ["published", "publishDate"]
+  lastmod = ["modified", "lastmod"]
+
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[module]
+  # Afbeeldingen staan in content/media (naast de notities in Obsidian) en worden als
+  # statische bestanden onder /media geserveerd.
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    files = ["! media/**"]
+  [[module.mounts]]
+    source = "content/media"
+    target = "static/media"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+# Artikelen in de hoofdmap horen bij geen sectie; geef ze een eigen type zodat ze
+# in de lijst met recente publicaties komen.
+[[cascade]]
+  type = "artikelen"
+  [cascade.target]
+    kind = "page"
+    path = "/*"
+
+[params]
+  title = "Bastiaan Vroegop"
+  author = "Bastiaan Vroegop"
+  description = "Ik ben onderzoeksjournalist bij Dagblad van het Noorden en Leeuwarder Courant. Daarnaast schrijf ik over videogames voor NRC Handelsblad, Unpause en Kidsweek. Eerder maakte ik verhalen voor o.a. NU.nl, AD, Gamer.nl, Power Unlimited en Bright."
+  profilePicture = "images/profile.webp"
+  images = ["images/profile.webp"]
+  mainSections = ["artikelen", "recensies", "interviews", "nieuwsbrieven"]
+  customCss = ["css/archief.css"]
+  doNotLoadAnimations = true
+  reversepagetitle = true
+  singleDateFormat = "2 January 2006"
+  indexDateFormat = "2 January 2006"
+  listDateFormat = "2 January 2006"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Recensies"
+    pageRef = "/recensies"
+    weight = 20
+  [[menus.main]]
+    name = "Interviews"
+    pageRef = "/interviews"
+    weight = 30
+  [[menus.main]]
+    name = "Nieuwsbrieven"
+    pageRef = "/nieuwsbrieven"
+    weight = 40
+  [[menus.main]]
+    name = "Over mij"
+    pageRef = "/over-mij"
+    weight = 50

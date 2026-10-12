@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter
   - /artikelen/recensies/review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter
   - /recensies/review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter
+  - /recensies/sonos-sub-mini-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6226623/review-de-sonos-sub-mini-is-goedkoper-maar-niet-per-se-slechter.html

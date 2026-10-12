@@ -11,6 +11,7 @@ aliases:
   - /artikelen/youtube-topvrouw-we-willen-kinderpornonetwerk-100-procent-uitbannen
   - /artikelen/interviews/youtube-topvrouw-we-willen-kinderpornonetwerk-100-procent-uitbannen
   - /interviews/youtube-topvrouw-we-willen-kinderpornonetwerk-100-procent-uitbannen
+  - /interviews/cécile-frot-coutaz-(youtube)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/internet/5916804/youtube-topvrouw-we-willen-kinderpornonetwerk-100-procent-uitbannen.html

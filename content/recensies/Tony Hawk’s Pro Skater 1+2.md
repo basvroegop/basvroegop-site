@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-tony-hawks-pro-skater-remake
   - /artikelen/recensies/review-tony-hawks-pro-skater-remake
   - /recensies/review-tony-hawks-pro-skater-remake
+  - /recensies/tony-hawk’s-pro-skater-1+2
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-tony-hawks-pro-skater-remake/

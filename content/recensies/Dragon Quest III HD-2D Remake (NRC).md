@@ -13,6 +13,7 @@ publish: true
 aliases:
   - /dragon-quest-3-mediatip
   - /recensies/dragon-quest-3-mediatip
+  - /recensies/dragon-quest-iii-hd-2d-remake-(nrc)
 ---
 
 Hardnekkige geruchten beweren dat nieuwe _Dragon Quest_\-games in Japan niet op werkdagen mogen verschijnen, omdat teveel mensen dan zouden spijbelen om hem te spelen. Zo allesbepalend is deze rollenspelreeks in de jaren tachtig geweest, die definieerde hoe toekomstige genregenoten er uit kwamen te zien. _Dragon Quest_ kwam pas vrij laat naar Europa, waardoor de remake van deel drie voor velen de eerste kans is om deze game te spelen. Het is een klassiek rollenspel: als in een sprookje ben jij de held die het koninkrijk moet redden van de ondergang. Een visuele stijl die oud met nieuw mixt en een paar slimme aanpassingen aan de spelformule maken dit zelfs in 2024 nog een warm bad voor rpg-fans, al moet je geen moderne innovaties of een diepgravend verhaal verwachten.

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/de-nieuwe-airpods-pro-klinken-alsof-er-niks-in-je-oren-zit
   - /artikelen/recensies/de-nieuwe-airpods-pro-klinken-alsof-er-niks-in-je-oren-zit
   - /recensies/de-nieuwe-airpods-pro-klinken-alsof-er-niks-in-je-oren-zit
+  - /recensies/airpods-pro-2-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/de-nieuwe-airpods-pro-klinken-alsof-er-niks-in-je-oren-zit~a2d308d88/

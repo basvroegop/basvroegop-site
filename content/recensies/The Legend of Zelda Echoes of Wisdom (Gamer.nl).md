@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten
   - /artikelen/recensies/review-zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten
   - /recensies/review-zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten
+  - /recensies/the-legend-of-zelda-echoes-of-wisdom-(gamer.nl)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/reviews/games/nintendo-switch/zelda-echoes-of-wisdom-biedt-de-twist-waar-we-naar-snakten/

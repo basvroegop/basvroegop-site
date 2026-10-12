@@ -11,6 +11,7 @@ aliases:
   - /artikelen/deze-experimentele-webbrowser-wil-veranderen-hoe-je-het-internet-gebruikt
   - /artikelen/recensies/deze-experimentele-webbrowser-wil-veranderen-hoe-je-het-internet-gebruikt
   - /recensies/deze-experimentele-webbrowser-wil-veranderen-hoe-je-het-internet-gebruikt
+  - /recensies/arc-(webbrowser)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/deze-experimentele-webbrowser-wil-veranderen-hoe-je-het-internet-gebruikt~ab1bdebe/

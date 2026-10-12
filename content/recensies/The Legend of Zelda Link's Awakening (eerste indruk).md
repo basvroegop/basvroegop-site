@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-the-legend-of-zelda-links-awakening-is-oertraditioneel
   - /artikelen/recensies/eerste-indruk-the-legend-of-zelda-links-awakening-is-oertraditioneel
   - /recensies/eerste-indruk-the-legend-of-zelda-links-awakening-is-oertraditioneel
+  - "/recensies/the-legend-of-zelda-link's-awakening-(eerste-indruk)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/5932446/eerste-indruk-the-legend-of-zelda-links-awakening-is-oertraditioneel.html

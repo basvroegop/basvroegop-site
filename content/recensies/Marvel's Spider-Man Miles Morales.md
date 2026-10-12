@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-spider-man-miles-morales-is-korter-intiemer-en-vooral-mooier
   - /artikelen/recensies/review-spider-man-miles-morales-is-korter-intiemer-en-vooral-mooier
   - /recensies/review-spider-man-miles-morales-is-korter-intiemer-en-vooral-mooier
+  - "/recensies/marvel's-spider-man-miles-morales"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6091068/review-spider-man-miles-morales-is-korter-intiemer-en-vooral-mooier.html

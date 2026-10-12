@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-controversiele-hybride-console-nintendo-switch
   - /artikelen/recensies/eerste-indruk-controversiele-hybride-console-nintendo-switch
   - /recensies/eerste-indruk-controversiele-hybride-console-nintendo-switch
+  - /recensies/nintendo-switch-(eerste-indruk)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/4386648/eerste-indruk-controversiele-hybride-console-nintendo-switch.html

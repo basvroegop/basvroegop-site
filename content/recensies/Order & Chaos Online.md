@@ -11,6 +11,7 @@ aliases:
   - /artikelen/order-en-chaos-online-review
   - /artikelen/recensies/order-en-chaos-online-review
   - /recensies/order-en-chaos-online-review
+  - /recensies/order--and--chaos-online
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1106511/game-van-de-week-order-chaos-online.html

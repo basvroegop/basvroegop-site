@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-oude-mario-in-een-nieuw-jasje
   - /artikelen/recensies/gamerecensie-oude-mario-in-een-nieuw-jasje
   - /recensies/gamerecensie-oude-mario-in-een-nieuw-jasje
+  - /recensies/paper-mario-the-thousand-year-door-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-oude-mario-in-een-nieuw-jasje~80c2bf7

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/blade-n-soul-review
   - /artikelen/recensies/blade-n-soul-review
   - /recensies/blade-n-soul-review
+  - /recensies/blade--and--soul
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/blade-amp-soul

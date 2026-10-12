@@ -675,9 +675,7 @@ function parseKidsweek(html) {
   const productTitle =
     productTitleFixes.get(rawProductTitle) ||
     rawProductTitle ||
-    (/^gamerecensie\s+the plucky squire\b/i.test(originalTitle)
-      ? "The Plucky Squire"
-      : undefined)
+    (/^gamerecensie\s+the plucky squire\b/i.test(originalTitle) ? "The Plucky Squire" : undefined)
   return {
     title: originalTitle.replace(/^gamerecensie\s*:?\s*/i, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),

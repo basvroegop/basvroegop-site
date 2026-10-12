@@ -11,6 +11,7 @@ aliases:
   - /artikelen/we-hebben-de-nieuwe-vr-bril-van-sony-getest-vijf-dingen-die-opvallen
   - /artikelen/recensies/we-hebben-de-nieuwe-vr-bril-van-sony-getest-vijf-dingen-die-opvallen
   - /recensies/we-hebben-de-nieuwe-vr-bril-van-sony-getest-vijf-dingen-die-opvallen
+  - /recensies/playstation-vr2-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6252710/we-hebben-de-nieuwe-vr-bril-van-sony-getest-vijf-dingen-die-opvallen.html

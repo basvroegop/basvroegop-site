@@ -12,6 +12,7 @@ socialImage: ../media/nrc/een-game-met-twee-succesformules-ineen-pokemon-en-anim
 publish: true
 aliases:
   - /recensies/een-game-met-twee-succesformules-ineen-pokemon-en-animal-crossing-werkt-dat
+  - /recensies/pokémon-pokopia-(nrc)
 ---
 
 **Beleef Pokopia, waar je met Pokémon een eiland herstelt en een levendige gemeenschap opbouwt. Lees de uitgebreide recensie van NRC.**

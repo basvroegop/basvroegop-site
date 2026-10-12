@@ -11,6 +11,7 @@ aliases:
   - /artikelen/vier-sterren-voor-hbo-s-the-last-of-us-spannend-gameverhaal-prachtig-omgezet-in-serie
   - /artikelen/recensies/vier-sterren-voor-hbo-s-the-last-of-us-spannend-gameverhaal-prachtig-omgezet-in-serie
   - /recensies/vier-sterren-voor-hbo-s-the-last-of-us-spannend-gameverhaal-prachtig-omgezet-in-serie
+  - /recensies/the-last-of-us-(hbo-serie)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/vier-sterren-voor-hbo-s-the-last-of-us-spannend-gameverhaal-prachtig-omgezet-in-serie~a641406d/

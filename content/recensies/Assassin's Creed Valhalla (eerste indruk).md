@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-assassins-creed-valhalla-is-harder-maar-weinig-vernieuwend
   - /artikelen/recensies/eerste-indruk-assassins-creed-valhalla-is-harder-maar-weinig-vernieuwend
   - /recensies/eerste-indruk-assassins-creed-valhalla-is-harder-maar-weinig-vernieuwend
+  - "/recensies/assassin's-creed-valhalla-(eerste-indruk)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6063732/eerste-indruk-assassins-creed-valhalla-is-harder-maar-weinig-vernieuwend.html

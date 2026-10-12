@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-nieuwe-ipads-pro-en-air-zijn-lichter-sneller-en-dunner
   - /artikelen/recensies/review-nieuwe-ipads-pro-en-air-zijn-lichter-sneller-en-dunner
   - /recensies/review-nieuwe-ipads-pro-en-air-zijn-lichter-sneller-en-dunner
+  - /recensies/ipad-pro-en-ipad-air-(2024)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/review-nieuwe-ipads-pro-en-air-zijn-lichter-sneller-en-dunner~a6b4a0bf/

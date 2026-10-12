@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-cyberpunk-2077-laat-zien-hoe-eng-hacken-kan-worden
   - /artikelen/recensies/eerste-indruk-cyberpunk-2077-laat-zien-hoe-eng-hacken-kan-worden
   - /recensies/eerste-indruk-cyberpunk-2077-laat-zien-hoe-eng-hacken-kan-worden
+  - /recensies/cyberpunk-2077-(eerste-indruk)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/5936892/eerste-indruk-cyberpunk-2077-laat-zien-hoe-eng-hacken-kan-worden.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-world-of-warcraft-shadowlands-is-ideaal-voor-nieuwkomers
   - /artikelen/recensies/eerste-indruk-world-of-warcraft-shadowlands-is-ideaal-voor-nieuwkomers
   - /recensies/eerste-indruk-world-of-warcraft-shadowlands-is-ideaal-voor-nieuwkomers
+  - /recensies/world-of-warcraft-shadowlands-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6008508/eerste-indruk-world-of-warcraft-shadowlands-is-ideaal-voor-nieuwkomers.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-final-fantasy-vii-remake-voelt-heel-anders-dan-origineel
   - /artikelen/recensies/eerste-indruk-final-fantasy-vii-remake-voelt-heel-anders-dan-origineel
   - /recensies/eerste-indruk-final-fantasy-vii-remake-voelt-heel-anders-dan-origineel
+  - /recensies/final-fantasy-vii-remake-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5957485/eerste-indruk-final-fantasy-vii-remake-voelt-heel-anders-dan-origineel.html

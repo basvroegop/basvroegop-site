@@ -11,6 +11,7 @@ aliases:
   - /artikelen/luckys-tale-review
   - /artikelen/recensies/luckys-tale-review
   - /recensies/luckys-tale-review
+  - "/recensies/lucky's-tale"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/luckys-tale

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/hp-reverb-g2-review
   - /artikelen/recensies/hp-reverb-g2-review
   - /recensies/hp-reverb-g2-review
+  - /recensies/hp-reverb-g2-(gamer.nl)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/de-hp-reverb-g2-is-de-beste-pcvr-bril-in-een-post-pcvr-wereld

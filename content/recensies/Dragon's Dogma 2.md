@@ -12,6 +12,7 @@ socialImage: ../media/nrc/een-open-cultgame-waarin-je-avonturen-kunt-beleven-met
 publish: true
 aliases:
   - /recensies/een-open-cultgame-waarin-je-avonturen-kunt-beleven-met-zelfgemaakte-vrienden
+  - "/recensies/dragon's-dogma-2"
 ---
 
 **Ontdekkingsreis: Op papier is Dragon’s Dogma 2 een game zoals vele: je speelt een fantasyheld in een grote, open en verkenbare wereld.**

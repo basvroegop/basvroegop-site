@@ -11,6 +11,7 @@ aliases:
   - /artikelen/interview-marthe-jonkers
   - /artikelen/interviews/interview-marthe-jonkers
   - /interviews/interview-marthe-jonkers
+  - /interviews/marthe-jonkers-(capcom)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/interview/als-nederlandse-concept-artist-in-japan

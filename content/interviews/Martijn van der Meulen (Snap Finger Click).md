@@ -11,6 +11,7 @@ aliases:
   - /artikelen/interview-martijn-van-der-meulen
   - /artikelen/interviews/interview-martijn-van-der-meulen
   - /interviews/interview-martijn-van-der-meulen
+  - /interviews/martijn-van-der-meulen-(snap-finger-click)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/interview/de-gamecultuur-in-nederland-lijkt-best-op-die-in-het-buitenland

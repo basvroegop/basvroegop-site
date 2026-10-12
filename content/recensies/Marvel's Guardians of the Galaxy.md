@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-guardians-of-the-galaxy-is-een-verrassend-geweldige-game
   - /artikelen/recensies/review-guardians-of-the-galaxy-is-een-verrassend-geweldige-game
   - /recensies/review-guardians-of-the-galaxy-is-een-verrassend-geweldige-game
+  - "/recensies/marvel's-guardians-of-the-galaxy"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6164097/review-guardians-of-the-galaxy-is-een-verrassend-geweldige-game.html

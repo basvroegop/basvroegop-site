@@ -11,6 +11,7 @@ aliases:
   - /artikelen/nederlander-obbe-was-de-man-achter-het-populaire-gta-alle-seks-in-nieuwe-trailer-is-wel-wat-banaal
   - /artikelen/interviews/nederlander-obbe-was-de-man-achter-het-populaire-gta-alle-seks-in-nieuwe-trailer-is-wel-wat-banaal
   - /interviews/nederlander-obbe-was-de-man-achter-het-populaire-gta-alle-seks-in-nieuwe-trailer-is-wel-wat-banaal
+  - /interviews/obbe-vermeij-(ex-rockstar-games)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/nederlander-obbe-was-de-man-achter-het-populaire-gta-alle-seks-in-nieuwe-trailer-is-wel-wat-banaal~a2dba9c9/

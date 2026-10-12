@@ -11,6 +11,7 @@ aliases:
   - /artikelen/dragons-dogma-dark-arisen-review
   - /artikelen/recensies/dragons-dogma-dark-arisen-review
   - /recensies/dragons-dogma-dark-arisen-review
+  - "/recensies/dragon's-dogma-dark-arisen"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/dragons-dogma-dark-arisen

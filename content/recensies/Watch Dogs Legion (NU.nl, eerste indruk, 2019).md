@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-watch-dogs-legion-laat-speler-hackersteam-samenstellen
   - /artikelen/recensies/eerste-indruk-watch-dogs-legion-laat-speler-hackersteam-samenstellen
   - /recensies/eerste-indruk-watch-dogs-legion-laat-speler-hackersteam-samenstellen
+  - "/recensies/watch-dogs-legion-(nu.nl,-eerste-indruk,-2019)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5934678/eerste-indruk-watch-dogs-legion-laat-speler-hackersteam-samenstellen.html

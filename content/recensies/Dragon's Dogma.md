@@ -11,6 +11,7 @@ aliases:
   - /artikelen/dragon-s-dogma-review
   - /artikelen/recensies/dragon-s-dogma-review
   - /recensies/dragon-s-dogma-review
+  - "/recensies/dragon's-dogma"
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1103508/game-van-de-week-dragons-dogma.html

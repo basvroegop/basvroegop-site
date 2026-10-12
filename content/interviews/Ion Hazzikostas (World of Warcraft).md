@@ -11,6 +11,7 @@ aliases:
   - /artikelen/warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdienen
   - /artikelen/interviews/warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdienen
   - /interviews/warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdienen
+  - /interviews/ion-hazzikostas-(world-of-warcraft)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/achtergrond/achtergrond/achtergrond/warcraft-baas-ion-hazzikostas-probeert-al-jaren-vertrouwen-fans-terug-te-verdiene/

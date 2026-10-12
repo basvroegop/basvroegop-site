@@ -11,6 +11,7 @@ aliases:
   - /artikelen/apple-baas-tim-cook-op-bezoek-bij-jumbo-visma-wielrennen-kijken-wordt-verbazingwekkend
   - /artikelen/interviews/apple-baas-tim-cook-op-bezoek-bij-jumbo-visma-wielrennen-kijken-wordt-verbazingwekkend
   - /interviews/apple-baas-tim-cook-op-bezoek-bij-jumbo-visma-wielrennen-kijken-wordt-verbazingwekkend
+  - /interviews/tim-cook-(apple)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/binnenland/apple-baas-tim-cook-op-bezoek-bij-jumbo-visma-wielrennen-kijken-wordt-verbazingwekkend~a4842ab5/

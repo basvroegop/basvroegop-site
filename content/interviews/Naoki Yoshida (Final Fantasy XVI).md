@@ -15,6 +15,7 @@ aliases:
   - /artikelen/final-fantasy-xvi-interview-naoki-yoshida
   - /artikelen/interviews/final-fantasy-xvi-interview-naoki-yoshida
   - /interviews/final-fantasy-xvi-interview-naoki-yoshida
+  - /interviews/naoki-yoshida-(final-fantasy-xvi)
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/final-fantasy-xvi-interview-naoki-yoshida/

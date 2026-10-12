@@ -11,6 +11,7 @@ aliases:
   - /de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur
   - /artikelen/interviews/de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur
   - /interviews/de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur
+  - "/interviews/erica-pinto,-bruno-valquez-(god-of-war-ragnarok)"
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-nieuwe-actiegame-god-of-war-ragnarok-is-een-soort-tv-serie-met-een-emmy-winnende-acteur~aa89cedf/

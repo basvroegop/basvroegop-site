@@ -11,6 +11,7 @@ aliases:
   - /artikelen/het-is-lastig-om-de-nieuwe-ipad-aan-te-raden
   - /artikelen/recensies/het-is-lastig-om-de-nieuwe-ipad-aan-te-raden
   - /recensies/het-is-lastig-om-de-nieuwe-ipad-aan-te-raden
+  - /recensies/ipad-(2022)-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/het-is-lastig-om-de-nieuwe-ipad-aan-te-raden~a5f72b1c/

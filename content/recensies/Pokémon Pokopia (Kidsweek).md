@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-pokopia-bouwpret-op-een-eiland
   - /artikelen/recensies/gamerecensie-pokopia-bouwpret-op-een-eiland
   - /recensies/gamerecensie-pokopia-bouwpret-op-een-eiland
+  - /recensies/pokémon-pokopia-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-pokopia-bouwpret-op-een-eiland~ca1344e

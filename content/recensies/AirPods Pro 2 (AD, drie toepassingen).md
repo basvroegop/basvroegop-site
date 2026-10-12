@@ -11,6 +11,7 @@ aliases:
   - /artikelen/de-nieuwe-airpods-pro-zijn-nu-ook-handiger-tijdens-concerten-en-op-de-fiets
   - /artikelen/recensies/de-nieuwe-airpods-pro-zijn-nu-ook-handiger-tijdens-concerten-en-op-de-fiets
   - /recensies/de-nieuwe-airpods-pro-zijn-nu-ook-handiger-tijdens-concerten-en-op-de-fiets
+  - "/recensies/airpods-pro-2-(ad,-drie-toepassingen)"
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/de-nieuwe-airpods-pro-zijn-nu-ook-handiger-tijdens-concerten-en-op-de-fiets~a916207c/

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-hogwarts-legacy-is-net-zo-sfeervol-als-de-harry-potter-films
   - /artikelen/recensies/review-hogwarts-legacy-is-net-zo-sfeervol-als-de-harry-potter-films
   - /recensies/review-hogwarts-legacy-is-net-zo-sfeervol-als-de-harry-potter-films
+  - /recensies/hogwarts-legacy-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6250059/review-hogwarts-legacy-is-net-zo-sfeervol-als-de-harry-potter-films.html

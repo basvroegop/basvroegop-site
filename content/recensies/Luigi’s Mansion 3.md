@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-luigis-mansion-3
   - /artikelen/recensies/review-luigis-mansion-3
   - /recensies/review-luigis-mansion-3
+  - /recensies/luigi’s-mansion-3
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-luigis-mansion-3/

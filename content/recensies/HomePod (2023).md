@@ -11,6 +11,7 @@ aliases:
   - /artikelen/apples-nieuwe-speakers-zijn-ook-perfect-als-homecinemaset
   - /artikelen/recensies/apples-nieuwe-speakers-zijn-ook-perfect-als-homecinemaset
   - /recensies/apples-nieuwe-speakers-zijn-ook-perfect-als-homecinemaset
+  - /recensies/homepod-(2023)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/apples-nieuwe-speakers-zijn-ook-perfect-als-homecinemaset~a3cadbea/

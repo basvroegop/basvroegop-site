@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-links-awakening-is-nog-steeds-de-moeite-waard
   - /artikelen/recensies/review-links-awakening-is-nog-steeds-de-moeite-waard
   - /recensies/review-links-awakening-is-nog-steeds-de-moeite-waard
+  - "/recensies/the-legend-of-zelda-link's-awakening"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5995128/review-links-awakening-is-nog-steeds-de-moeite-waard.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-de-macbook-pro-is-eindelijk-weer-interessant-voor-pros
   - /artikelen/recensies/review-de-macbook-pro-is-eindelijk-weer-interessant-voor-pros
   - /recensies/review-de-macbook-pro-is-eindelijk-weer-interessant-voor-pros
+  - /recensies/macbook-pro-(2021)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6169319/review-de-macbook-pro-is-eindelijk-weer-interessant-voor-pros.html

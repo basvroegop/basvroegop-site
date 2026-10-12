@@ -38,14 +38,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Cache Quartz-plugins
-        uses: actions/cache@v5
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-plugins-
-
       - name: Installeer dependencies
         run: npm ci
 
@@ -73,13 +65,9 @@ jobs:
           git commit -m "Importeer publicaties ouder dan een maand"
           git pull --rebase origin main
 
-      - name: Installeer Quartz-plugins
-        if: steps.changes.outputs.changed == 'true'
-        run: npx quartz plugin install
-
       - name: Bouw site
         if: steps.changes.outputs.changed == 'true'
-        run: npm run build:site
+        run: ./build.sh
 
       - name: Push nieuwe publicaties
         if: steps.changes.outputs.changed == 'true'

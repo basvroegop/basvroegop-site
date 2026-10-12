@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-de-nieuwe-ipad-mini-is-eigenlijk-een-kleinere-ipad-air
   - /artikelen/recensies/review-de-nieuwe-ipad-mini-is-eigenlijk-een-kleinere-ipad-air
   - /recensies/review-de-nieuwe-ipad-mini-is-eigenlijk-een-kleinere-ipad-air
+  - /recensies/ipad-mini-(2021)-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6158230/review-de-nieuwe-ipad-mini-is-eigenlijk-een-kleinere-ipad-air.html

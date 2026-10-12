@@ -13,6 +13,7 @@ aliases:
   - /artikelen/interview-mathijs-de-jonge
   - /artikelen/interviews/interview-mathijs-de-jonge
   - /interviews/interview-mathijs-de-jonge
+  - /interviews/mathijs-de-jonge-(horizon-forbidden-west)
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/interview-mathijs-de-jonge/

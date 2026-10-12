@@ -11,6 +11,7 @@ aliases:
   - /artikelen/animal-crossing-pocket-camp
   - /artikelen/recensies/animal-crossing-pocket-camp
   - /recensies/animal-crossing-pocket-camp
+  - /recensies/animal-crossing-pocket-camp-(gamer.nl)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/animal-crossing-pocket-camp

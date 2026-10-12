@@ -11,6 +11,7 @@ aliases:
   - /artikelen/jojos-bizarre-adventure-eyes-of-heaven-review
   - /artikelen/recensies/jojos-bizarre-adventure-eyes-of-heaven-review
   - /recensies/jojos-bizarre-adventure-eyes-of-heaven-review
+  - "/recensies/jojo's-bizarre-adventure-eyes-of-heaven"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/jojos-bizarre-adventure-eyes-of-heaven

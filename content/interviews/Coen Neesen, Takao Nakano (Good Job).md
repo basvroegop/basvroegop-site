@@ -11,6 +11,7 @@ aliases:
   - /artikelen/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
   - /artikelen/interviews/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
   - /interviews/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte
+  - "/interviews/coen-neesen,-takao-nakano-(good-job)"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/interview/hoe-de-nederlandse-gamestudio-paladin-met-nintendo-samenwerkte

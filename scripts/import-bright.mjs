@@ -707,9 +707,13 @@ async function importArticle(summary, route) {
   report.files.push(route.relativePath)
 }
 
-async function importContribution(spec, occupiedPaths) {
+async function importContribution(spec, occupiedPaths, records) {
   const relativePath = path.posix.join(spec.folder, `${spec.slug}.md`)
-  if (occupiedPaths.has(relativePath)) {
+  // Een hernoemd bestand blijft herkenbaar aan de Bright-bron en het overzichtsartikel.
+  const renamed = records.some(
+    (record) => record.data.sourceArticle && [...record.ids].some((id) => id == spec.newsID),
+  )
+  if (renamed || occupiedPaths.has(relativePath)) {
     report.existing += 1
     report.skipped.push({ newsID: spec.newsID, reason: "bijdrage al aanwezig" })
     return
@@ -829,7 +833,7 @@ async function main() {
   if (selected.length) process.stdout.write("\n")
   for (const spec of contributionSpecs) {
     try {
-      await importContribution(spec, occupiedPaths)
+      await importContribution(spec, occupiedPaths, records)
     } catch (error) {
       report.failures.push({
         newsID: spec.newsID,

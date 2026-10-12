@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-assassins-creed-odyssey-belooft-meer-keuzevrijheid
   - /artikelen/recensies/eerste-indruk-assassins-creed-odyssey-belooft-meer-keuzevrijheid
   - /recensies/eerste-indruk-assassins-creed-odyssey-belooft-meer-keuzevrijheid
+  - "/recensies/assassin's-creed-odyssey"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5312936/eerste-indruk-assassins-creed-odyssey-belooft-meer-keuzevrijheid.html

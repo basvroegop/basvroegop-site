@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game
   - /artikelen/recensies/gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game
   - /recensies/gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game
+  - /recensies/hollow-knight-silksong-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-hollow-knight-silksong-een-prachtige-en-mooi-gemaakte-game~655c33a

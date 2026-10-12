@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-super-mario-3d-world
   - /artikelen/recensies/review-super-mario-3d-world
   - /recensies/review-super-mario-3d-world
+  - "/recensies/super-mario-3d-world-+-bowser's-fury"
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-super-mario-3d-world/

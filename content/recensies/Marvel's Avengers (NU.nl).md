@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-avengers-game-moet-jarenlang-speelbaar-blijven
   - /artikelen/recensies/eerste-indruk-avengers-game-moet-jarenlang-speelbaar-blijven
   - /recensies/eerste-indruk-avengers-game-moet-jarenlang-speelbaar-blijven
+  - "/recensies/marvel's-avengers-(nu.nl)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5936187/eerste-indruk-avengers-game-moet-jarenlang-speelbaar-blijven.html

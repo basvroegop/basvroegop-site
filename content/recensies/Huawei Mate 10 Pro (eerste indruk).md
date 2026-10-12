@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-huawei-mate-10-pro-zet-vol-in-op-kunstmatige-intelligentie
   - /artikelen/recensies/eerste-indruk-huawei-mate-10-pro-zet-vol-in-op-kunstmatige-intelligentie
   - /recensies/eerste-indruk-huawei-mate-10-pro-zet-vol-in-op-kunstmatige-intelligentie
+  - /recensies/huawei-mate-10-pro-(eerste-indruk)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/4966130/eerste-indruk-huawei-mate-10-pro-zet-vol-in-op-kunstmatige-intelligentie.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/pegi-het-lootboxdebat-is-emotioneel
   - /artikelen/interviews/pegi-het-lootboxdebat-is-emotioneel
   - /interviews/pegi-het-lootboxdebat-is-emotioneel
+  - "/interviews/martijn-schenderling-(vgfn),-dirk-bosmans-(pegi)"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/achtergrond/achtergrond/achtergrond/pegi-het-lootboxdebat-is-emotioneel/

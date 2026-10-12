@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-mario-en-luigi-brothership-een-heerlijk-luchtig-avontuur-voor-tussendoor
   - /artikelen/recensies/gamerecensie-mario-en-luigi-brothership-een-heerlijk-luchtig-avontuur-voor-tussendoor
   - /recensies/gamerecensie-mario-en-luigi-brothership-een-heerlijk-luchtig-avontuur-voor-tussendoor
+  - /recensies/mario--and--luigi-brothership
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-mario-en-luigi-brothership~eb45b96

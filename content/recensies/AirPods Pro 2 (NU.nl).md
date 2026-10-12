@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert
   - /artikelen/recensies/review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert
   - /recensies/review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert
+  - /recensies/airpods-pro-2-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6225323/review-airpods-pro-2-zijn-ook-fijn-als-je-niet-naar-muziek-luistert.html

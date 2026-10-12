@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-assassins-creed-valhalla-is-een-fijne-herhaaloefening
   - /artikelen/recensies/review-assassins-creed-valhalla-is-een-fijne-herhaaloefening
   - /recensies/review-assassins-creed-valhalla-is-een-fijne-herhaaloefening
+  - "/recensies/assassin's-creed-valhalla"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6089255/review-assassins-creed-valhalla-is-een-fijne-herhaaloefening.html

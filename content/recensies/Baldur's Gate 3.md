@@ -16,6 +16,7 @@ aliases:
   - /artikelen/baldurs-gate-3-review
   - /artikelen/recensies/baldurs-gate-3-review
   - /recensies/baldurs-gate-3-review
+  - "/recensies/baldur's-gate-3"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/reviews/games/pc-games/baldur-s-gate-3-is-de-beste-rpg-in-jaren

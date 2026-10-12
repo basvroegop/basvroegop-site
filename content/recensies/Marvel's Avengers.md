@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-avengers
   - /artikelen/recensies/review-avengers
   - /recensies/review-avengers
+  - "/recensies/marvel's-avengers"
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-avengers/

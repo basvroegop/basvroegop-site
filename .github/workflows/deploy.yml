@@ -21,38 +21,9 @@ jobs:
     steps:
       - name: Haal repository op
         uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
 
-      - name: Stel Node.js in
-        uses: actions/setup-node@v6
-        with:
-          node-version: 24
-
-      - name: Cache npm
-        uses: actions/cache@v5
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Cache Quartz-plugins
-        uses: actions/cache@v5
-        with:
-          path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-plugins-
-
-      - name: Installeer dependencies
-        run: npm ci
-
-      - name: Installeer Quartz-plugins
-        run: npx quartz plugin install
-
-      - name: Bouw site
-        run: npm run build:site
+      - name: Bouw site met Hugo
+        run: ./build.sh
 
       - name: Upload Pages-artifact
         uses: actions/upload-pages-artifact@v3

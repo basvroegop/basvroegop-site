@@ -11,6 +11,7 @@ aliases:
   - /wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen
   - /artikelen/recensies/wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen
   - /recensies/wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen
+  - /recensies/hogwarts-legacy-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/wij-hebben-de-nieuwe-harry-potter-game-gespeeld-vijf-dingen-die-opvielen~adcda97a/

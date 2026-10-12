@@ -1,0 +1,17 @@
+{{- $url := .Destination -}}
+{{- $embed := "" -}}
+{{- if eq (.Text | plainify) "Bekijk ingesloten media" -}}
+  {{- with findRE `(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=)|youtu\.be/)([\w-]{11})` $url 1 -}}
+    {{- $id := replaceRE `.*(?:embed/|watch\?v=|youtu\.be/)([\w-]{11}).*` "$1" (index . 0) -}}
+    {{- $embed = printf "https://www.youtube-nocookie.com/embed/%s" $id -}}
+  {{- else -}}
+    {{- if findRE `^https://(content\.jwplatform\.com/players/|w\.soundcloud\.com/player|platform\.twitter\.com/embed/|datawrapper\.dwcdn\.net/|localfocus2\.appspot\.com/|open\.spotify\.com/embed/|player\.vimeo\.com/|www\.instagram\.com/[^ ]*/embed|www\.linkedin\.com/embed/|art19\.com/.*/embed$)` $url -}}
+      {{- $embed = $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $embed -}}
+<span class="embed"><iframe src="{{ $embed }}" loading="lazy" allowfullscreen title="Ingesloten media"></iframe></span>
+{{- else -}}
+<a href="{{ $url | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix $url "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

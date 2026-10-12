@@ -12,6 +12,7 @@ socialImage: ../media/nrc/paper-mario-the-thousand-year-door-is-een-brutalere-ga
 publish: true
 aliases:
   - /recensies/paper-mario-the-thousand-year-door-is-een-brutalere-game-dan-nintendo-nu-zou-maken
+  - /recensies/paper-mario-the-thousand-year-door-(nrc)
 ---
 
 **De remake van deze twintig jaar oude Paper Mario is prima speelbaar voor jonge spelers, maar door de vele verwijzingen zullen oudere gamers er meer uit halen.**

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/getest-vier-dingen-die-opvallen-bij-apples-nieuwe-macbook-air
   - /artikelen/recensies/getest-vier-dingen-die-opvallen-bij-apples-nieuwe-macbook-air
   - /recensies/getest-vier-dingen-die-opvallen-bij-apples-nieuwe-macbook-air
+  - /recensies/macbook-air-(2022)-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/getest-vier-dingen-die-opvallen-bij-apples-nieuwe-macbook-air~a667e431/

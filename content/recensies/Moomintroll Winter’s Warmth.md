@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-moomintroll-winter-s-warmth
   - /artikelen/recensies/gamerecensie-moomintroll-winter-s-warmth
   - /recensies/gamerecensie-moomintroll-winter-s-warmth
+  - /recensies/moomintroll-winter’s-warmth
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-moomintroll-winter-s-warmth~982e615

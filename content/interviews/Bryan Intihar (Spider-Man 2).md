@@ -11,6 +11,7 @@ aliases:
   - /artikelen/sony-zet-alle-ballen-op-spider-man-2-voor-de-playstation-5
   - /artikelen/interviews/sony-zet-alle-ballen-op-spider-man-2-voor-de-playstation-5
   - /interviews/sony-zet-alle-ballen-op-spider-man-2-voor-de-playstation-5
+  - /interviews/bryan-intihar-(spider-man-2)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/sony-zet-alle-ballen-op-spider-man-2-voor-de-playstation-5~a1c15387/

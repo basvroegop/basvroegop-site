@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen
   - /artikelen/recensies/gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen
   - /recensies/gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen
+  - /recensies/mario-kart-world-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-mario-kart-world-zoals-je-gewend-bent-maar-met-leuke-toevoegingen~426a3a6

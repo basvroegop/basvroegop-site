@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-pokemon-lets-go-is-een-instapgame-voor-pokemon-go-fans
   - /artikelen/recensies/review-pokemon-lets-go-is-een-instapgame-voor-pokemon-go-fans
   - /recensies/review-pokemon-lets-go-is-een-instapgame-voor-pokemon-go-fans
+  - "/recensies/pokémon-let's-go,-pikachu!-en-let's-go,-eevee!"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5570402/review-pokemon-lets-go-is-een-instapgame-voor-pokemon-go-fans.html

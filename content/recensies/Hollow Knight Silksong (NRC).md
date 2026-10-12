@@ -12,6 +12,7 @@ socialImage: ../media/nrc/topgame-hollow-knight-silksong-durft-sommige-spelers-a
 publish: true
 aliases:
   - /recensies/topgame-hollow-knight-silksong-durft-sommige-spelers-af-te-schrikken
+  - /recensies/hollow-knight-silksong-(nrc)
 ---
 
 **Het vervolg op één van de best verkochte indiegames ooit gemaakt is grootser, ambitieuzer en vooral moeilijker. Dat zal sommige spelers wegjagen, maar wie bereid is door te zetten vindt iets prachtigs.**

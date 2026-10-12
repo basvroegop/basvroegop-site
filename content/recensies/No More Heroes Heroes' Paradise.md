@@ -11,6 +11,7 @@ aliases:
   - /artikelen/no-more-heroes-heroes-paradise-review
   - /artikelen/recensies/no-more-heroes-heroes-paradise-review
   - /recensies/no-more-heroes-heroes-paradise-review
+  - "/recensies/no-more-heroes-heroes'-paradise"
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1106127/game-van-de-week-no-more-heroes-heroes-paradise.html

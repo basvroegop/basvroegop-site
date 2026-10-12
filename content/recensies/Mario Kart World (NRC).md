@@ -13,6 +13,7 @@ publish: true
 aliases:
   - /mario-kart-world-mediatip
   - /recensies/mario-kart-world-mediatip
+  - /recensies/mario-kart-world-(nrc)
 ---
 
 Traditiegetrouw heeft Nintendo’s nieuwe spelcomputer ook een nieuwe _Mario Kart_, waarin de bekende mascotte samen met vrienden en rivalen over racebanen crossen en elkaar met schildpadschilden bekogelen. Ditmaal gebeurt dat niet op afgebakende banen, maar op een eiland waar ieder circuit naadloos op de ander aansluit. Een nieuwe spelmodus laat je als bij een soort rally navigeren tussen al die verschillende banen om een gevarieerde race te rijden. Dat wordt spannend gehouden door bij iedere ronde de meest achterliggende spelers te elimineren, waardoor je altijd scherp moet blijven. Ook leuk is de mogelijkheid het eiland vrij te verkennen, waarbij je in verlaten hoeken extra uitdagingen vindt. Wie die voltooit, verdient stickers om op de racewagens te plakken.

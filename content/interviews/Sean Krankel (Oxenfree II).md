@@ -15,6 +15,7 @@ aliases:
   - /artikelen/oxenfree-ii-interview
   - /artikelen/interviews/oxenfree-ii-interview
   - /interviews/oxenfree-ii-interview
+  - /interviews/sean-krankel-(oxenfree-ii)
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/oxenfree-ii-interview/

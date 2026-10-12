@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="post">
+      <div class="post__content">
+        {{ . }}
+      </div>
+    </div>
+  {{ end }}
+
+  {{/* Startpagina: titel en datum van recente publicaties, geen samenvattingen. */}}
+  <div class="post">
+    <div class="post__content">
+      {{ with .Params.mainSectionsTitle }}<h2>{{ . }}</h2>{{ end }}
+      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+      <ul class="titellijst">
+        {{ range $paginator.Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="pagination">
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

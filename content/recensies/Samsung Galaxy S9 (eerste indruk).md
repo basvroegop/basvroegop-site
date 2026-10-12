@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-samsung-galaxy-s9-verfijnt-een-al-goede-telefoon
   - /artikelen/recensies/eerste-indruk-samsung-galaxy-s9-verfijnt-een-al-goede-telefoon
   - /recensies/eerste-indruk-samsung-galaxy-s9-verfijnt-een-al-goede-telefoon
+  - /recensies/samsung-galaxy-s9-(eerste-indruk)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5150123/eerste-indruk-samsung-galaxy-s9-verfijnt-een-al-goede-telefoon.html

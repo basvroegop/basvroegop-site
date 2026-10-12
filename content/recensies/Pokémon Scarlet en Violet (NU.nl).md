@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel
   - /artikelen/recensies/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel
   - /recensies/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel
+  - /recensies/pokémon-scarlet-en-violet-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6236650/review-pokemon-scarlet-en-violet-zijn-totaal-anders-en-wat-gammel.html

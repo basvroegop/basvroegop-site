@@ -11,6 +11,7 @@ aliases:
   - /de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games
   - /artikelen/recensies/de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games
   - /recensies/de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games
+  - /recensies/playstation-vr2-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-psvr2-is-de-beste-vr-bril-ooit-maar-waar-zijn-de-nieuwe-games~abb72ee6/

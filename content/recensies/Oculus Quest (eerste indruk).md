@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-oculus-quest-kan-echte-vr-naar-de-massa-brengen
   - /artikelen/recensies/eerste-indruk-oculus-quest-kan-echte-vr-naar-de-massa-brengen
   - /recensies/eerste-indruk-oculus-quest-kan-echte-vr-naar-de-massa-brengen
+  - /recensies/oculus-quest-(eerste-indruk)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5836587/eerste-indruk-oculus-quest-kan-echte-vr-naar-de-massa-brengen.html

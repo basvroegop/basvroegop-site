@@ -11,6 +11,7 @@ aliases:
   - /artikelen/sarah-verdient-haar-brood-met-gamen-maar-heb-er-geen-fijn-gevoel-bij-als-kijkers-met-geld-strooien
   - /artikelen/interviews/sarah-verdient-haar-brood-met-gamen-maar-heb-er-geen-fijn-gevoel-bij-als-kijkers-met-geld-strooien
   - /interviews/sarah-verdient-haar-brood-met-gamen-maar-heb-er-geen-fijn-gevoel-bij-als-kijkers-met-geld-strooien
+  - /interviews/sarah-verhoeven-(twitch-streamer)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/sarah-verdient-haar-brood-met-gamen-maar-heb-er-geen-fijn-gevoel-bij-als-kijkers-met-geld-strooien~a20b774a/

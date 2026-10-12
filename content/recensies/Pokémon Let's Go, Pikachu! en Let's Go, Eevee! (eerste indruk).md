@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eerste-indruk-pokemon-lets-go-games-versimpelen-de-klassiekers
   - /artikelen/recensies/eerste-indruk-pokemon-lets-go-games-versimpelen-de-klassiekers
   - /recensies/eerste-indruk-pokemon-lets-go-games-versimpelen-de-klassiekers
+  - "/recensies/pokémon-let's-go,-pikachu!-en-let's-go,-eevee!-(eerste-indruk)"
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/5312567/eerste-indruk-pokemon-lets-go-games-versimpelen-de-klassiekers.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/crunchen-in-de-nederlandse-game-industrie
   - /artikelen/interviews/crunchen-in-de-nederlandse-game-industrie
   - /interviews/crunchen-in-de-nederlandse-game-industrie
+  - "/interviews/rami-ismail,-sebastiaan-moeys,-joost-van-dongen"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/achtergrond/hoe-is-het-om-te-crunchen-in-de-nederlandse-game-industrie

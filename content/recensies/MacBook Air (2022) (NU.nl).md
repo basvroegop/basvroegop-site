@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-nieuwe-macbook-air-heeft-giga-accu-2020-model-blijft-favoriet
   - /artikelen/recensies/review-nieuwe-macbook-air-heeft-giga-accu-2020-model-blijft-favoriet
   - /recensies/review-nieuwe-macbook-air-heeft-giga-accu-2020-model-blijft-favoriet
+  - /recensies/macbook-air-(2022)-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6211968/review-nieuwe-macbook-air-heeft-giga-accu-2020-model-blijft-favoriet.html

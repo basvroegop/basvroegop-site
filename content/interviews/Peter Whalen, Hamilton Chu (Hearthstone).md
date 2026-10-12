@@ -11,6 +11,7 @@ aliases:
   - /artikelen/interview-hearthstone-peter-whalen-hamilton-chu
   - /artikelen/interviews/interview-hearthstone-peter-whalen-hamilton-chu
   - /interviews/interview-hearthstone-peter-whalen-hamilton-chu
+  - "/interviews/peter-whalen,-hamilton-chu-(hearthstone)"
 author: Bastiaan Vroegop
 source: InsideGamer
 sourceUrl: https://inside.gamer.nl/124325-hearthstone-zelfs-lollige-lore-moet-je-serieus-nemen

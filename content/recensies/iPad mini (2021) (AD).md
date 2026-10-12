@@ -11,6 +11,7 @@ aliases:
   - /artikelen/dit-vinden-wij-van-de-nieuwe-ipad-mini
   - /artikelen/recensies/dit-vinden-wij-van-de-nieuwe-ipad-mini
   - /recensies/dit-vinden-wij-van-de-nieuwe-ipad-mini
+  - /recensies/ipad-mini-(2021)-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/dit-vinden-wij-van-de-nieuwe-ipad-mini~a393b968/

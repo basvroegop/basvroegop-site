@@ -11,6 +11,7 @@ aliases:
   - /de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen
   - /artikelen/recensies/de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen
   - /recensies/de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen
+  - /recensies/pokémon-scarlet-en-violet-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/games/de-pokemon-games-durven-eindelijk-weer-wat-nieuws-te-doen~af4d54b0/

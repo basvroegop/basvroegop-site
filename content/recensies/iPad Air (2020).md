@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-ipad-air-2020-maakt-apples-beste-tablet-iets-betaalbaarder
   - /artikelen/recensies/review-ipad-air-2020-maakt-apples-beste-tablet-iets-betaalbaarder
   - /recensies/review-ipad-air-2020-maakt-apples-beste-tablet-iets-betaalbaarder
+  - /recensies/ipad-air-(2020)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/6086068/review-ipad-air-2020-maakt-apples-beste-tablet-iets-betaalbaarder.html

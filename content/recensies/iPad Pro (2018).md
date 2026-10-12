@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-voor-wie-is-de-ipad-pro-nou-bedoeld
   - /artikelen/recensies/review-voor-wie-is-de-ipad-pro-nou-bedoeld
   - /recensies/review-voor-wie-is-de-ipad-pro-nou-bedoeld
+  - /recensies/ipad-pro-(2018)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/5588504/review-voor-wie-is-de-ipad-pro-nou-bedoeld.html

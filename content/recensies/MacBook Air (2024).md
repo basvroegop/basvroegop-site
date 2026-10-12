@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-is-de-nieuwe-macbook-air-van-apple-zijn-geld-waard
   - /artikelen/recensies/review-is-de-nieuwe-macbook-air-van-apple-zijn-geld-waard
   - /recensies/review-is-de-nieuwe-macbook-air-van-apple-zijn-geld-waard
+  - /recensies/macbook-air-(2024)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/review-is-de-nieuwe-macbook-air-van-apple-zijn-geld-waard~a34151ba/

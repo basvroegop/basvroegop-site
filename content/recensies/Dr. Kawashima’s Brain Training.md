@@ -12,6 +12,7 @@ aliases:
   - /artikelen/review-dr-kawashimas-brain-training
   - /artikelen/recensies/review-dr-kawashimas-brain-training
   - /recensies/review-dr-kawashimas-brain-training
+  - /recensies/dr.-kawashima’s-brain-training
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-dr-kawashimas-brain-training/

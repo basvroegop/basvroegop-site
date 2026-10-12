@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-macbook-pro-2018-is-krachtpatser-met-weinig-grote-veranderingen
   - /artikelen/recensies/review-macbook-pro-2018-is-krachtpatser-met-weinig-grote-veranderingen
   - /recensies/review-macbook-pro-2018-is-krachtpatser-met-weinig-grote-veranderingen
+  - /recensies/macbook-pro-(2018)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/gadgets/5418455/review-macbook-pro-2018-is-krachtpatser-met-weinig-grote-veranderingen.html

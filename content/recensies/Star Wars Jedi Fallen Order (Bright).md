@@ -9,6 +9,7 @@ aliases:
   - /artikelen/star-wars-jedi-fallen-order-game-review-ea-kopen
   - /artikelen/recensies/star-wars-jedi-fallen-order-game-review-ea-kopen
   - /recensies/star-wars-jedi-fallen-order-game-review-ea-kopen
+  - /recensies/star-wars-jedi-fallen-order-(bright)
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1124317/star-wars-jedi-fallen-order-game-review-ea-kopen.html

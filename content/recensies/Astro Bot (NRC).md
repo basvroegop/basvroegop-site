@@ -12,6 +12,7 @@ socialImage: ../media/nrc/schattige-springgame-astro-bot-is-visueel-sterk-maar-w
 publish: true
 aliases:
   - /recensies/schattige-springgame-astro-bot-is-visueel-sterk-maar-wel-een-beetje-simpel
+  - /recensies/astro-bot-(nrc)
 ---
 
 **Het avontuurlijk Astro Bot is een traktatie voor de Mario-generatie gamers en wellicht voor de meest koppige kleuters. Met knipogen naar diens eigen geschiedenis, levert Sony een visueel prachtige maar ook snel uit te spelen game af.**

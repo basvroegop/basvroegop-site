@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-xbox-series-x-moet-het-nu-vooral-van-oude-games-hebben
   - /artikelen/recensies/review-xbox-series-x-moet-het-nu-vooral-van-oude-games-hebben
   - /recensies/review-xbox-series-x-moet-het-nu-vooral-van-oude-games-hebben
+  - /recensies/xbox-series-x-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6088531/review-xbox-series-x-moet-het-nu-vooral-van-oude-games-hebben.html

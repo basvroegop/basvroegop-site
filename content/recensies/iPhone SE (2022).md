@@ -11,6 +11,7 @@ aliases:
   - /artikelen/de-iphone-se-2022-is-een-iphone-13-in-oude-kleren
   - /artikelen/recensies/de-iphone-se-2022-is-een-iphone-13-in-oude-kleren
   - /recensies/de-iphone-se-2022-is-een-iphone-13-in-oude-kleren
+  - /recensies/iphone-se-(2022)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/de-iphone-se-2022-is-een-iphone-13-in-oude-kleren~a9ef7013/

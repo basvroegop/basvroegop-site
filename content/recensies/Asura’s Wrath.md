@@ -15,6 +15,7 @@ aliases:
   - /artikelen/review-asuras-wrath
   - /artikelen/recensies/review-asuras-wrath
   - /recensies/review-asuras-wrath
+  - /recensies/asura’s-wrath
 author: Bastiaan Vroegop
 source: Gamepraat
 sourceUrl: https://gamepraat.nl/review-asuras-wrath/

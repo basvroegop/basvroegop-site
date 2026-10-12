@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-donkey-kong-bananza-verstopte-bananen-vinden-in-een-spel-dat-nooit-gaat-vervelen
   - /artikelen/recensies/gamerecensie-donkey-kong-bananza-verstopte-bananen-vinden-in-een-spel-dat-nooit-gaat-vervelen
   - /recensies/gamerecensie-donkey-kong-bananza-verstopte-bananen-vinden-in-een-spel-dat-nooit-gaat-vervelen
+  - /recensies/donkey-kong-bananza-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-donkey-kong-bananza-verstopte-bananen-vinden-in-een-spel-dat-nooit-gaat-vervelen~698a7a2

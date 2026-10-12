@@ -11,6 +11,7 @@ aliases:
   - /artikelen/de-nieuwe-ipad-is-als-een-toyota-aygo
   - /artikelen/recensies/de-nieuwe-ipad-is-als-een-toyota-aygo
   - /recensies/de-nieuwe-ipad-is-als-een-toyota-aygo
+  - /recensies/ipad-air-(2022)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/de-nieuwe-ipad-is-als-een-toyota-aygo~a749b468/

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/we-hebben-de-goedkopere-sonos-subwoofer-getest-vijf-dingen-die-opvielen
   - /artikelen/recensies/we-hebben-de-goedkopere-sonos-subwoofer-getest-vijf-dingen-die-opvielen
   - /recensies/we-hebben-de-goedkopere-sonos-subwoofer-getest-vijf-dingen-die-opvielen
+  - /recensies/sonos-sub-mini-(ad)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/we-hebben-de-goedkopere-sonos-subwoofer-getest-vijf-dingen-die-opvielen~ac4b09fe/

@@ -1,4 +1,5 @@
 ---
+type: page
 title: Lokalisatiegids Gold en Silver
 description: |-
   Hallo! Echt heel fijn dat je een handje wil helpen met onze lokalisatie van Pokémon Goud en Zilver. Ons doel is om de gehele game Nederlands te krijgen, gebaseerd op al bestaande Nederlandse lokalisaties in o.a. de cartoon en TCG, en waar nodig onze eigen redactionele keuzes.

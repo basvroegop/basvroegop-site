@@ -10,6 +10,7 @@ aliases:
   - /artikelen/review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger
   - /artikelen/recensies/review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger
   - /recensies/review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger
+  - /recensies/dragon-quest-iii-hd-2d-remake-(gamer.nl)
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/reviews/games/playstation/review-dragon-quest-3-hd-2d-remake-biedt-het-beste-van-vroeger/

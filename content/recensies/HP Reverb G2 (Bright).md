@@ -9,6 +9,7 @@ aliases:
   - /artikelen/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen
   - /artikelen/recensies/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen
   - /recensies/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen
+  - /recensies/hp-reverb-g2-(bright)
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1128531/de-hp-reverb-g2-de-beste-vr-bril-die-bijna-niemand-gaat-kopen.html

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/secret-of-mana-review
   - /artikelen/recensies/secret-of-mana-review
   - /recensies/secret-of-mana-review
+  - /recensies/secret-of-mana-(2018)
 author: Bastiaan Vroegop
 source: InsideGamer
 sourceUrl: https://inside.gamer.nl/131507secret-of-mana-review-een-achteruitgang-op-alle-fronten

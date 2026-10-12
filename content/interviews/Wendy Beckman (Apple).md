@@ -11,6 +11,7 @@ aliases:
   - /artikelen/apple-na-gijzeling-in-amsterdam-ving-personeel-wel-op-en-boekte-een-week-lang-een-hotel-voor-nazorg
   - /artikelen/interviews/apple-na-gijzeling-in-amsterdam-ving-personeel-wel-op-en-boekte-een-week-lang-een-hotel-voor-nazorg
   - /interviews/apple-na-gijzeling-in-amsterdam-ving-personeel-wel-op-en-boekte-een-week-lang-een-hotel-voor-nazorg
+  - /interviews/wendy-beckman-(apple)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/apple-na-gijzeling-in-amsterdam-ving-personeel-wel-op-en-boekte-een-week-lang-een-hotel-voor-nazorg~a75760e5/

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-nieuwe-macbook-pro-met-touch-bar-is-nog-wat-rommelig
   - /artikelen/recensies/review-nieuwe-macbook-pro-met-touch-bar-is-nog-wat-rommelig
   - /recensies/review-nieuwe-macbook-pro-met-touch-bar-is-nog-wat-rommelig
+  - /recensies/macbook-pro-(2016)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/4356299/review-nieuwe-macbook-pro-met-touch-bar-is-nog-wat-rommelig.html

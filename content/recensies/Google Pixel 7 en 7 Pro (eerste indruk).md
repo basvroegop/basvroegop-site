@@ -11,6 +11,7 @@ aliases:
   - /artikelen/eindelijk-in-nederland-wij-hebben-de-nieuwe-google-pixel-telefoons-al-getest
   - /artikelen/recensies/eindelijk-in-nederland-wij-hebben-de-nieuwe-google-pixel-telefoons-al-getest
   - /recensies/eindelijk-in-nederland-wij-hebben-de-nieuwe-google-pixel-telefoons-al-getest
+  - /recensies/google-pixel-7-en-7-pro-(eerste-indruk)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/eindelijk-in-nederland-wij-hebben-de-nieuwe-google-pixel-telefoons-al-getest~a0c1b06c/

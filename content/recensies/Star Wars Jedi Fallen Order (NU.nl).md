@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-star-wars-fallen-order-vermaakt-wel-maar-verbaast-nooit
   - /artikelen/recensies/review-star-wars-fallen-order-vermaakt-wel-maar-verbaast-nooit
   - /recensies/review-star-wars-fallen-order-vermaakt-wel-maar-verbaast-nooit
+  - /recensies/star-wars-jedi-fallen-order-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6011097/review-star-wars-fallen-order-vermaakt-wel-maar-verbaast-nooit.html

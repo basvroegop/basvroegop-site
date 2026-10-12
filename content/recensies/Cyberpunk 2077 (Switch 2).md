@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken
   - /artikelen/recensies/review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken
   - /recensies/review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken
+  - /recensies/cyberpunk-2077-(switch-2)
 author: Bastiaan Vroegop
 source: Power Unlimited
 sourceUrl: https://pu.nl/reviews/games/nintendo-switch/review-cyberpunk-2077-op-switch-2-draait-beter-dan-je-zou-denken/

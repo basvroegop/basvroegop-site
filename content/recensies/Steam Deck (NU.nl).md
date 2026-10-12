@@ -11,6 +11,7 @@ aliases:
   - /artikelen/review-de-steam-deck-kan-geweldig-worden-maar-is-nog-niet-af
   - /artikelen/recensies/review-de-steam-deck-kan-geweldig-worden-maar-is-nog-niet-af
   - /recensies/review-de-steam-deck-kan-geweldig-worden-maar-is-nog-niet-af
+  - /recensies/steam-deck-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6186022/review-de-steam-deck-kan-geweldig-worden-maar-is-nog-niet-af.html

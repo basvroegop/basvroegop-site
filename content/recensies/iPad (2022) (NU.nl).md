@@ -11,6 +11,7 @@ aliases:
   - /artikelen/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad
   - /artikelen/recensies/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad
   - /recensies/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad
+  - /recensies/ipad-(2022)-(nu.nl)
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/reviews/6231901/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad.html

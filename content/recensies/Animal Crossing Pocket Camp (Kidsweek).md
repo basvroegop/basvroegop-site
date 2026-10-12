@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet
   - /artikelen/recensies/gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet
   - /recensies/gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet
+  - /recensies/animal-crossing-pocket-camp-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-animal-crossing-pocket-camp-een-gezellig-spelletje-waarin-niet-teveel-moet~6d91e4f

@@ -11,6 +11,7 @@ aliases:
   - /artikelen/de-nieuwste-macs-zijn-niet-zo-revolutionair-als-in-2020
   - /artikelen/recensies/de-nieuwste-macs-zijn-niet-zo-revolutionair-als-in-2020
   - /recensies/de-nieuwste-macs-zijn-niet-zo-revolutionair-als-in-2020
+  - /recensies/mac-mini-en-macbook-pro-(2023)
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/de-nieuwste-macs-zijn-niet-zo-revolutionair-als-in-2020~a5ed8c63/

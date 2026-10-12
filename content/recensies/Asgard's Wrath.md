@@ -11,6 +11,7 @@ aliases:
   - /artikelen/asgards-wrath-review
   - /artikelen/recensies/asgards-wrath-review
   - /recensies/asgards-wrath-review
+  - "/recensies/asgard's-wrath"
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/asgards-wrath-is-de-eerste-echte-triple-a-voor-vr

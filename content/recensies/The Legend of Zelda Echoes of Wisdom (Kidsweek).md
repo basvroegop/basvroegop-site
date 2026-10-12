@@ -9,6 +9,7 @@ aliases:
   - /artikelen/gamerecensie-the-legend-of-zelda-echoes-of-wisdom-zelda-is-de-held
   - /artikelen/recensies/gamerecensie-the-legend-of-zelda-echoes-of-wisdom-zelda-is-de-held
   - /recensies/gamerecensie-the-legend-of-zelda-echoes-of-wisdom-zelda-is-de-held
+  - /recensies/the-legend-of-zelda-echoes-of-wisdom-(kidsweek)
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-the-legend-of-zelda~97840e45

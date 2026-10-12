@@ -11,6 +11,7 @@ aliases:
   - /artikelen/knights-of-pen-paper-2-review
   - /artikelen/recensies/knights-of-pen-paper-2-review
   - /recensies/knights-of-pen-paper-2-review
+  - /recensies/knights-of-pen--and--paper-2
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/review/knights-of-pen-paper
