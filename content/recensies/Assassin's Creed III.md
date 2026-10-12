@@ -10,7 +10,7 @@ aliases:
   - /artikelen/assassin-s-creed-iii-review
   - /artikelen/recensies/assassin-s-creed-iii-review
   - /recensies/assassin-s-creed-iii-review
-  - "/recensies/assassin's-creed-iii"
+  - /recensies/assassin's-creed-iii
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1102446/game-van-de-week-assassins-creed-iii.html

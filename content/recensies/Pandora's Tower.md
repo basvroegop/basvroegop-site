@@ -10,7 +10,7 @@ aliases:
   - /artikelen/pandora-s-tower-review
   - /artikelen/recensies/pandora-s-tower-review
   - /recensies/pandora-s-tower-review
-  - "/recensies/pandora's-tower"
+  - /recensies/pandora's-tower
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1103872/game-van-de-week-pandoras-tower.html

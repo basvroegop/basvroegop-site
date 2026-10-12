@@ -16,7 +16,7 @@ sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-the-legend-of-zeld
 socialImage: ../media/kidsweek/gamerecensie-the-legend-of-zelda-echoes-of-wisdom-zelda-is-de-held/fe994efcac7a.webp
 publish: true
 published: 2024-09-29
-modified: 2024-09-30
+modified: 2024-10-01
 rating: 5
 ---
 

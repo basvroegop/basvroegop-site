@@ -9,7 +9,7 @@ aliases:
   - /artikelen/gamerecensie-luigi-s-mansion-2-leuk-avontuur-met-spookhuisgevoel
   - /artikelen/recensies/gamerecensie-luigi-s-mansion-2-leuk-avontuur-met-spookhuisgevoel
   - /recensies/gamerecensie-luigi-s-mansion-2-leuk-avontuur-met-spookhuisgevoel
-  - "/recensies/luigi's-mansion-2"
+  - /recensies/luigi's-mansion-2
 author: Bastiaan Vroegop
 source: Kidsweek
 sourceUrl: https://www.kidsweek.nl/entertainment/gamerecensie-luigi-s-mansion-2-leuk-avontuur-met-spookhuisgevoel~c2389d6

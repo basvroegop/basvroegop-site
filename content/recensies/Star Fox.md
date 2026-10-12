@@ -16,7 +16,7 @@ socialImage: ../media/kidsweek/gamerecensie-star-fox-oude-vos-in-nieuw-jasje/a9e
 publish: true
 published: 2026-07-04
 modified: 2026-07-04
-rating: 4
+rating: 5
 ---
 
 Geen nieuwe Mario of Zelda deze zomer, maar een nieuwe Fox McCloud. Of eigenlijk het oude _Star Fox_, maar dan in een nieuw jasje.
@@ -35,4 +35,4 @@ Dit spel is en soort achtbaanrit. In elk level leg je exact dezelfde vluchtroute
 
 Nintendo, voor Nintendo Switch 2, €50
 
-> Beoordeling: ★★★★☆
+> Beoordeling: ★★★★★

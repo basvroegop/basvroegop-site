@@ -11,7 +11,7 @@ aliases:
   - /artikelen/uncharted-3-drake-s-deception-review
   - /artikelen/recensies/uncharted-3-drake-s-deception-review
   - /recensies/uncharted-3-drake-s-deception-review
-  - "/recensies/uncharted-3-drake's-deception"
+  - /recensies/uncharted-3-drake's-deception
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1105077/game-van-de-week-uncharted-3-drakes-deception.html
