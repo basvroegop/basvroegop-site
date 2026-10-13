@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/wat-stond-er-in-de-mysterieuze-e/
 socialImage: ../media/gamepraat/wat-stond-er-in-de-mysterieuze-e/00a3337b6e.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **De e-mail die een rechtszaak over machtsmisbruik begon**

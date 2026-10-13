@@ -5,6 +5,7 @@ published: 2023-08-25
 modified: 2023-09-21
 tags:
   - Games
+  - NRC
 author: Len Maessen en Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2023/08/25/keulen-is-dit-weekend-pelgrimsoord-voor-gamers-en-gamemakers-a4172776

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/een-geheime-kamer-vol-woedende-gameontwikkelaars/
 socialImage: ../media/gamepraat/een-geheime-kamer-vol-woedende-gameontwikkelaars/7fa139e0e3.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: waarom willen we zo graag dat The Last of Us een goede serie krijgt en vijfduizend woorden over de Dreamcast in Nederland**

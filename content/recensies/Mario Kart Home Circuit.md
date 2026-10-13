@@ -5,6 +5,7 @@ published: 2020-10-28
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-mario-kart-home-circuit
   - /artikelen/review-mario-kart-home-circuit

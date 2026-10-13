@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/nieuws-geen-paniek-de-dutch-game/
 socialImage: ../media/gamepraat/nieuws-geen-paniek-de-dutch-game/1fad40d9c3.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: het rampzalige lek bij Spider-Man-studio Insomniac**

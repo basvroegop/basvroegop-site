@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/speelde-het-wangedrag-van-kwebbelkop-ook-bij-zijn-gamebedrijf/
 socialImage: ../media/gamepraat/speelde-het-wangedrag-van-kwebbelkop-ook-bij-zijn-gamebedrijf/448854b72a.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Afgelopen weekend publiceerde _de Volkskrant_ een opzienbarend verhaal over het bedrijf van YouTuber Jordi 'Kwebbelkop' van den Bussche, die zijn personeel veelvuldig publiek afbrandde en van wangedrag werd beschuldigd. Daarbij ging het vooral over zijn YouTube-personeel, maar had zijn gedrag ook invloed op zijn bedrijf waar hij nu een game mee ontwikkelt?

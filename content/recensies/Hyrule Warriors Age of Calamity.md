@@ -5,6 +5,7 @@ published: 2020-11-23
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-hyrule-warriors-age-of-calamity
   - /artikelen/review-hyrule-warriors-age-of-calamity

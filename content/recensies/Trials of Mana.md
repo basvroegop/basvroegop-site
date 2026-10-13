@@ -7,6 +7,7 @@ published: 2020-05-18
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-trials-of-mana
   - /artikelen/review-trials-of-mana

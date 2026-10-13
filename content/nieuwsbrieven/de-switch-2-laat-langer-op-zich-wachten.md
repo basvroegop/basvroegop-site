@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-switch-2-laat-langer-op-zich-wachten/
 socialImage: ../media/gamepraat/de-switch-2-laat-langer-op-zich-wachten/68d63ed65c.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Wie (net als ik) had gegokt dat dit het jaar van de Switch 2 zou worden, kan het wel eens mis hebben. De Nintendo-console zou iets langer op zich laten wachten. Achteraf gezien hadden we dat kunnen verwachten - ik leg je straks uit waarom.

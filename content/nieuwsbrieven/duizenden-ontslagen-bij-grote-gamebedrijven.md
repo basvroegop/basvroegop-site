@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/duizenden-ontslagen-bij-grote-gamebedrijven/
 socialImage: ../media/gamepraat/duizenden-ontslagen-bij-grote-gamebedrijven/62e7c24c9d.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de beste manier om Tetris te spelen.**

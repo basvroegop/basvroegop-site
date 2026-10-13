@@ -20,6 +20,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/drie-belangrijke-transfers-in-de-nederlandse-gamesector/
 socialImage: ../media/gamepraat/drie-belangrijke-transfers-in-de-nederlandse-gamesector/75e172c518.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Het is een week met grote verschuivingen in de Nederlandse gamesector. Ik zet de drie die mij het meest fascineerden op een rij.

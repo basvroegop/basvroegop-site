@@ -10,6 +10,7 @@ published: 2012-09-17
 modified: 2025-03-07
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /torchlight-review
   - /artikelen/torchlight-review

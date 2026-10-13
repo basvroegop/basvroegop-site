@@ -1,5 +1,5 @@
 ---
-title: Pc-ports voor Zelda, Mario, Banjo Kazooie en meer
+title: Als Nintendo het niet doet, dan doen zij het wel
 description: Decompiles en recompiles van klassieke games zorgen ervoor dat je ze kunt spelen met moderne extra's zoals widescreen, 60 frames per seconde en meer.
 published: 2026-05-28
 modified: 2026-05-28

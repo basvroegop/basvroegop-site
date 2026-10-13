@@ -5,6 +5,7 @@ published: 2024-09-05
 modified: 2024-09-05
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/09/05/schattige-springgame-astro-bot-is-visueel-sterk-maar-wel-een-beetje-simpel-a4864733

@@ -5,6 +5,7 @@ published: 2020-06-04
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-51-worldwide-games
   - /artikelen/review-51-worldwide-games

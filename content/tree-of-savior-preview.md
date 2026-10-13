@@ -6,6 +6,7 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/tree-of-savior-preview
 author: Bastiaan Vroegop

@@ -6,6 +6,7 @@ modified: 2024-10-28
 tags:
   - Games
   - Cultuur
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/10/22/nieuwe-dragon-ball-serie-is-meer-sprookjesachtig-en-minder-schreeuwerig-a4870206

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/deze-ai-maakte-in-enkele-minuten/
 socialImage: ../media/gamepraat/deze-ai-maakte-in-enkele-minuten/494da0d3ea.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: een overleden YouTuber misbruikt voor politieke video's en GDC maakt einde aan diversiteitspanel.**

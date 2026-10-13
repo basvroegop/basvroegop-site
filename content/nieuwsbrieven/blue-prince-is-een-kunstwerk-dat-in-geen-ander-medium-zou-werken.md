@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/blue-prince-is-een-kunstwerk-dat-in-geen-ander-medium-zou-werken/
 socialImage: ../media/gamepraat/blue-prince-is-een-kunstwerk-dat-in-geen-ander-medium-zou-werken/01efd270e8.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Indiegame _Blue Prince_ zou wel eens iedere prijs dit jaar kunnen gaan winnen. Deze unieke samensmelting van interactie en artistieke visie laat zien hoe sommige kunstuitingen alleen in gamevorm mogelijk zijn.

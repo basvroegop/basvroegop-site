@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-redder-van-final-fantasy/
 socialImage: ../media/gamepraat/de-redder-van-final-fantasy/af50ef786d.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Hallo! Deze week een iets andere nieuwsbrief dan normaal. Onderstaand artikel naar aanleiding van de Final Fantasy-uitbreiding Dawntrail was op de plank blijven liggen, dus het leek mij leuk om hem met jullie te delen. Ik sprak in Berlijn uitgebreid met Naoki Yoshida, producent van _Final Fantasy XIV_ en XVI - en inmiddels de meest invloedrijke producent bij de Japanse gamereus Square Enix.

@@ -10,6 +10,7 @@ published: 2023-06-21
 modified: 2024-01-17
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /final-fantasy-xvi-review
   - /artikelen/final-fantasy-xvi-review

@@ -5,6 +5,7 @@ published: 2021-02-10
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-super-mario-3d-world
   - /artikelen/review-super-mario-3d-world

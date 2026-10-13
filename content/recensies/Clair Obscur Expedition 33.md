@@ -5,6 +5,7 @@ published: 2025-05-05
 modified: 2025-05-06
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/05/05/het-prachtige-clair-obscur-is-misschien-wel-de-meest-franse-game-ooit-gemaakt-a4892140

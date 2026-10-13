@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/agenda-bij-playstation-leeg/
 socialImage: ../media/gamepraat/agenda-bij-playstation-leeg/957fa517ed.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 PlayStation Studios lijkt wel te wankelen. Waar de gamestudio’s jarenlang grootse, filmische games uitbrachten en daarmee de PlayStation een positie als marktleider gaven, is de agenda dit jaar angstvallig leeg.

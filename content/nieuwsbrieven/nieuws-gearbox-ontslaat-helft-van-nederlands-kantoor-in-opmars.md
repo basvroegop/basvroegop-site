@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/nieuws-gearbox-ontslaat-helft-van-nederlands-kantoor-in-opmars/
 socialImage: ../media/gamepraat/nieuws-gearbox-ontslaat-helft-van-nederlands-kantoor-in-opmars/cde117e55b.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Eerder vandaag werd bekend dat uitgever Embracer op het punt staat ontwikkelstudio Gearbox te verkopen aan Take-Two. Die overname heeft grote gevolgen voor het Amsterdamse kantoor van Gearbox, dat één derde van al het personeel heeft ontslagen.

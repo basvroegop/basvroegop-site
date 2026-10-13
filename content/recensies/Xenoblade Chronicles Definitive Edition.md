@@ -5,6 +5,7 @@ published: 2020-07-02
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-xenoblade-chronicles-definitive-edition
   - /artikelen/review-xenoblade-chronicles-definitive-edition

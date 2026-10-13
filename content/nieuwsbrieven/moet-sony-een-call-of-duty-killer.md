@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/moet-sony-een-call-of-duty-killer/
 socialImage: ../media/gamepraat/moet-sony-een-call-of-duty-killer/b395a34054.png
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: wat te doen nu de eShop sluit en wat schuilt er achter de beta van Diablo 4?**

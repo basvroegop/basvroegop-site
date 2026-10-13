@@ -5,6 +5,7 @@ published: 2019-10-21
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /ring-fit-adventure-review
   - /artikelen/ring-fit-adventure-review

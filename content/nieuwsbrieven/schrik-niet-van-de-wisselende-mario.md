@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/schrik-niet-van-de-wisselende-mario/
 socialImage: ../media/gamepraat/schrik-niet-van-de-wisselende-mario/8ce87c08bb.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: één van de meest ervaren gamejournalisten in de Benelux stopt en Microsoft behaalt grote winst in de overname-oorlog.**

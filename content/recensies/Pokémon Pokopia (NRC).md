@@ -5,6 +5,7 @@ published: 2026-03-02
 modified: 2026-03-02
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2026/03/02/een-game-met-twee-succesformules-ineen-pokemon-en-animal-crossing-werkt-dat-a4921721

@@ -8,6 +8,7 @@ modified: 2022-07-04
 tags:
   - Achtergrond
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/pokemon-spelers-boos-vanwege-halvering-monsters
 author: Bastiaan Vroegop

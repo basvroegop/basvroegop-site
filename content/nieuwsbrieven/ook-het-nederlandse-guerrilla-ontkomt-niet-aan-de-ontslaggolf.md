@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/ook-het-nederlandse-guerrilla-ontkomt-niet-aan-de-ontslaggolf/
 socialImage: ../media/gamepraat/ook-het-nederlandse-guerrilla-ontkomt-niet-aan-de-ontslaggolf/53050755f9.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Al maanden zitten we in een onnoemelijk grote ontslaggolf binnen de game-industrie. Dat was meestal een ver-van-ons-bed-show, maar afgelopen week bereikte hij dan toch ongenadig ons eigen land: Guerrilla, onze grootste gamemaker, moest tientallen mensen op straat zetten. En zij waren niet de enigen die een ontslagronde aankondigden.

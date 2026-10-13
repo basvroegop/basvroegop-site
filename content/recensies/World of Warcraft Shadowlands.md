@@ -5,6 +5,7 @@ published: 2020-12-16
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-world-of-warcraft-shadowlands
   - /artikelen/review-world-of-warcraft-shadowlands

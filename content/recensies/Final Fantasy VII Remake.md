@@ -7,6 +7,7 @@ published: 2020-04-07
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /final-fantasy-vii-remake-review
   - /artikelen/final-fantasy-vii-remake-review

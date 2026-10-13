@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-laatste-dagen-van-ronimo-en-de/
 socialImage: ../media/gamepraat/de-laatste-dagen-van-ronimo-en-de/d123d41e63.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: wat opviel tijdens GamesCom**

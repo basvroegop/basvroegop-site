@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/cijfers-games-verkoop-nederland-2023/
 socialImage: ../media/gamepraat/cijfers-games-verkoop-nederland-2023/e1e376f170.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Uitgevers boekten met game- en hardwareverkoop in 2023 een omzet van 1,5 miljard euro - een stijging van 20 procent vergeleken met het jaar daarvoor. Het is een zeldzaam kijkje in hoe goed games in Nederland precies verkopen, want zulke cijfers worden zelden publiekelijk gedeeld.

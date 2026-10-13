@@ -5,6 +5,7 @@ published: 2011-10-04
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/de-catherine-taart-en-het-verschil-tussen-inkoop-en-verkoopcijfers
 author: Bastiaan Vroegop

@@ -5,6 +5,7 @@ published: 2020-11-18
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /godfall-review
   - /artikelen/godfall-review

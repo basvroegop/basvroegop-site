@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/gaan-zij-de-gamejournalistiek-redden/
 socialImage: ../media/gamepraat/gaan-zij-de-gamejournalistiek-redden/517311d1fb.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: het ongemak van Call of Duty**

@@ -19,6 +19,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/interview-mathijs-de-jonge/
 socialImage: ../media/gamepraat/interview-mathijs-de-jonge/903d01be57.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Hieronder het volledige gesprek met Guerrila Games-director Mathijs de Jonge, waarvan je een samengevatte versie en citaten terugvindt in mijn artikelen bij AD en NU.nl.

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/dit-gebeurt-er-met-de-game-industrie/
 socialImage: ../media/gamepraat/dit-gebeurt-er-met-de-game-industrie/551e83422e.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: een overzicht van mijn favoriete nieuwsbrieven**

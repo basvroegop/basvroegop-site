@@ -20,6 +20,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/dit-viel-op-toen-ik-de-switch-2-uitprobeerde/
 socialImage: ../media/gamepraat/dit-viel-op-toen-ik-de-switch-2-uitprobeerde/05cfa774d1.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Ik schrijf deze nieuwsbrief vanuit de trein terug uit Parijs, waar we op woensdag vier uur lang de Switch 2 mochten uitproberen. Daarom besteed ik ditmaal even alleen aandacht aan al het Nintendo-nieuws - daar is immers meer dan genoeg van.

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/team-reptile-is-het-grote-nederlandse/
 socialImage: ../media/gamepraat/team-reptile-is-het-grote-nederlandse/4d4a4f0d62.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: gamerwoede bij recensies en hoe Nederlands Guerrilla echt is**

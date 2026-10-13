@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-nederlandse-warcraft-killer-die/
 socialImage: ../media/gamepraat/de-nederlandse-warcraft-killer-die/d93769c270.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de tragedie van Gary Bowser en is Rovio echt zoveel waard?**

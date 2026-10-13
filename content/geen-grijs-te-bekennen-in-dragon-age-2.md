@@ -5,6 +5,7 @@ published: 2010-11-12
 modified: 2024-01-16
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/geen-grijs-te-bekennen-in-dragon-age-2
 author: Bastiaan Vroegop

@@ -6,6 +6,7 @@ modified: 2025-06-30
 tags:
   - Games
   - Technologie
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/06/30/nintendos-switch-2-is-meer-van-hetzelfde-in-een-mooiere-jas-a4898792

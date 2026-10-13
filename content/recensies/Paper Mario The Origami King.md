@@ -6,6 +6,7 @@ published: 2020-07-16
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-paper-mario-origami-king
   - /artikelen/review-paper-mario-origami-king

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/hoe-cloudgaming-de-grootste-game/
 socialImage: ../media/gamepraat/hoe-cloudgaming-de-grootste-game/7fc49be7df.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **En waarom de eilanden van Tears of the Kingdom zo belangrijk zijn.**

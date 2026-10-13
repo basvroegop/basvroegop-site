@@ -6,6 +6,7 @@ modified: 2022-07-04
 tags:
   - Achtergrond
   - Tech
+  - Gamepraat
 aliases:
   - /artikelen/koffie-welnee-we-treffen-elkaar-in-virtuele-wereld-facebook-horizon
 author: Bastiaan Vroegop

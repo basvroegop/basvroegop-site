@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/ik-speelde-zelda-tears-of-the-kingdom/
 socialImage: ../media/gamepraat/ik-speelde-zelda-tears-of-the-kingdom/88962f4416.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Het is Zelda-week!**

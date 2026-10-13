@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-mijdt-meta-de-nederlandse/
 socialImage: ../media/gamepraat/waarom-mijdt-meta-de-nederlandse/eb39616bae.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de ontslagen bij Epic Games en de drukke gameherfst**

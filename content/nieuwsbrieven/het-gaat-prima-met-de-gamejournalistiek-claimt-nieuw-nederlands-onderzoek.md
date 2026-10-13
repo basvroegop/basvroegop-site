@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/het-gaat-prima-met-de-gamejournalistiek-claimt-nieuw-nederlands-onderzoek/
 socialImage: ../media/gamepraat/het-gaat-prima-met-de-gamejournalistiek-claimt-nieuw-nederlands-onderzoek/d266773e29.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Bijna de helft van alle Nederlanders duikt af en toe in een verhaal over videogames. Daarmee lijkt gamejournalistiek nog steeds relevant, al bereiken podcasts en influencers een veel groter publiek.

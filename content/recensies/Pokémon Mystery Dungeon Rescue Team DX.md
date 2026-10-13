@@ -7,6 +7,7 @@ published: 2020-03-31
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-pokemon-mystery-dungeon-rescue-team-dx
   - /artikelen/review-pokemon-mystery-dungeon-rescue-team-dx

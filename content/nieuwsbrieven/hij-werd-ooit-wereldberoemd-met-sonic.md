@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/hij-werd-ooit-wereldberoemd-met-sonic/
 socialImage: ../media/gamepraat/hij-werd-ooit-wereldberoemd-met-sonic/0b88363a4f.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: hoe China een markt voor retro-handhelds creëerde en waarom de grootste Amerikaanse gamevakbond zo snel is geaccepteerd.**

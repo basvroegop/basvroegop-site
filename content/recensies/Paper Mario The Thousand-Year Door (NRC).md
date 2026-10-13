@@ -5,6 +5,7 @@ published: 2024-05-21
 modified: 2024-05-21
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/05/21/paper-mario-the-thousand-year-door-is-een-brutalere-game-dan-nintendo-nu-zou-maken-a4199488

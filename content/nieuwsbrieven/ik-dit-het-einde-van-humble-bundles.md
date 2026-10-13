@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/ik-dit-het-einde-van-humble-bundles/
 socialImage: ../media/gamepraat/ik-dit-het-einde-van-humble-bundles/965077ba80.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: discriminerende jrpg's en Octopath Traveler II lijkt op Elden Ring.**

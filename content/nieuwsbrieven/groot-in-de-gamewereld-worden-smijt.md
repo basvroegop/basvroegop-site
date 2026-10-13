@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/groot-in-de-gamewereld-worden-smijt/
 socialImage: ../media/gamepraat/groot-in-de-gamewereld-worden-smijt/bfe5d9c6e4.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Hopelijk hebben jullie een fijne kerst achter de rug! De mijne kon dankzij jullie niet meer stuk: echt gaaf om te zien hoeveel mensen zich op deze nieuwsbrief hebben geabonneerd. Het is een passieprojectje dat ik ook met twee abonnees had voortgezet, maar het motiveert ontzettend om te zien dat jullie allemaal meelezen.

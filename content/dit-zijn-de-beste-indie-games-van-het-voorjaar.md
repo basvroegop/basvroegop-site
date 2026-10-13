@@ -5,6 +5,7 @@ published: 2024-06-03
 modified: 2024-06-04
 tags:
   - Games
+  - NRC
 author: Len Maessen en Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/06/03/dit-zijn-de-beste-indie-games-van-het-voorjaar-a4263920

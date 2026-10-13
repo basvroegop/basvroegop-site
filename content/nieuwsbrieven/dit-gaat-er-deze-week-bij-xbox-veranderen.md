@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/dit-gaat-er-deze-week-bij-xbox-veranderen/
 socialImage: ../media/gamepraat/dit-gaat-er-deze-week-bij-xbox-veranderen/381b30366a.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Microsoft gaat de Xbox-divisie opschudden. Ik zet de gelekte plannen voor je op een rij.**

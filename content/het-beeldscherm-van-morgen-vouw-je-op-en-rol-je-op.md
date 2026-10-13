@@ -8,6 +8,7 @@ modified: 2022-07-04
 tags:
   - Achtergrond
   - Tech
+  - Gamepraat
 aliases:
   - /artikelen/het-beeldscherm-van-morgen-vouw-je-op-en-rol-je-op
 author: Bastiaan Vroegop

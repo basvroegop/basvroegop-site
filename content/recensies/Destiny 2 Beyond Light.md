@@ -5,6 +5,7 @@ published: 2020-12-02
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-destiny-2-beyond-light
   - /artikelen/review-destiny-2-beyond-light

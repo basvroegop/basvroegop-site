@@ -5,6 +5,7 @@ published: 2024-02-22
 modified: 2024-02-22
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/02/22/in-fenomenale-game-remake-final-fantasy-vii-rebirth-dwaal-je-van-de-gebaande-paden-af-a4190948

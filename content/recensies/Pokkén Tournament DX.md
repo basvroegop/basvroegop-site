@@ -5,6 +5,7 @@ published: 2018-09-17
 modified: 2022-07-11
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /pokken-tournament-dx-review
   - /artikelen/pokken-tournament-dx-review

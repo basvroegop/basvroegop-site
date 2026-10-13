@@ -13,6 +13,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-bizarre-groei-achter-zenless-zone-zero/
 socialImage: ./media/gamepraat/de-bizarre-groei-achter-zenless-zone-zero/090effa253.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Zat je afgelopen maanden op het internet, dan is de kans groot dat je reclame voorbij hebt zien komen voor _Zenless Zone Zero_. Het belooft één van de commercieel grootste gamereleases te worden van dit jaar, met ook een ongekend groot marketingbudget. Hoeveel schuilt er achter de game?

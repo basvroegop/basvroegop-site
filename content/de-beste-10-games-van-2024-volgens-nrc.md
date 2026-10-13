@@ -5,6 +5,7 @@ published: 2024-12-13
 modified: 2024-12-19
 tags:
   - Games
+  - NRC
 author: Len Maessen en Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/12/13/de-beste-10-games-van-2024-volgens-nrc-a4875771

@@ -5,6 +5,7 @@ published: 2025-12-17
 modified: 2025-12-17
 tags:
   - Games
+  - NRC
 author: Len Maessen en Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/12/17/dit-zijn-de-tien-beste-games-van-2025-a4914558

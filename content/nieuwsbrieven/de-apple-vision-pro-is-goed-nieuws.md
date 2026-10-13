@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-apple-vision-pro-is-goed-nieuws/
 socialImage: ../media/gamepraat/de-apple-vision-pro-is-goed-nieuws/dd7445b96b.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: help me bij het maken van een boek!**

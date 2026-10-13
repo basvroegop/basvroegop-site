@@ -5,6 +5,7 @@ published: 2025-03-06
 modified: 2025-03-06
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /over-het-emotionele-lootboxdebat-in-nederland
   - /artikelen/over-het-emotionele-lootboxdebat-in-nederland

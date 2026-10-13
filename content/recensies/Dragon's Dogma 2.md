@@ -5,6 +5,7 @@ published: 2024-03-20
 modified: 2024-03-20
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/03/20/een-open-cultgame-waarin-je-avonturen-kunt-beleven-met-zelfgemaakte-vrienden-a4193660

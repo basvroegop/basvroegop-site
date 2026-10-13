@@ -18,6 +18,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/gamepraat-is-verhuisd/
 socialImage: ../media/gamepraat/gamepraat-is-verhuisd/4ffaa567ae.png
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Vanaf vandaag vind je Gamepraat niet langer op Substack, maar op een zelfgehoste locatie. Op die manier kan ik de nieuwsbrief beter beheren en uitbreiden, terwijl ik hem ook samenvoeg met mijn eerdere blog.

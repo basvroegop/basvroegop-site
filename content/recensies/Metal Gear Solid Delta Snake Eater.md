@@ -5,6 +5,7 @@ published: 2025-09-05
 modified: 2025-09-05
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/09/05/mediatips-voor-het-weekend-reportageserie-over-zuid-korea-en-gameklassieker-in-nieuw-jasje-a4904894

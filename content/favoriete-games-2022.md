@@ -6,6 +6,7 @@ modified: 2022-12-30
 tags:
   - Games
   - Achtergrond
+  - Gamepraat
 aliases:
   - /artikelen/favoriete-games-2022
 author: Bastiaan Vroegop

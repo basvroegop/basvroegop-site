@@ -5,6 +5,7 @@ published: 2023-10-18
 modified: 2024-01-17
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /super-mario-wonder-review
   - /artikelen/super-mario-wonder-review

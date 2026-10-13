@@ -5,6 +5,7 @@ published: 2024-10-04
 modified: 2024-10-04
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/10/04/63415318-a4867957

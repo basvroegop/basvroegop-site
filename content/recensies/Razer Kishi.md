@@ -6,6 +6,7 @@ modified: 2022-07-04
 tags:
   - Tech
   - Games
+  - Gamepraat
 aliases:
   - /razer-kishi-review
   - /artikelen/razer-kishi-review

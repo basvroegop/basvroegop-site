@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/het-verlies-van-gamer-nl/
 socialImage: ../media/gamepraat/het-verlies-van-gamer-nl/a312d6d305.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Enkele weken geleden werd ik gebeld door Gamer.nl-hoofdredacteur Jacco Peek. De website zou ophouden te bestaan. Officieel wordt gesproken over een fusie, feitelijk zal alleen Power Unlimited overblijven. Bezoekers worden straks naar een website gestuurd met het hun bekende ontwerp, maar dan met inhoud van Power Unlimited.

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/is-e3-nog-e3-zonder-de-grote-drie/
 socialImage: ../media/gamepraat/is-e3-nog-e3-zonder-de-grote-drie/2476572eb8.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **En daarnaast: hoe Hi-Fi Rush laat zien dat Game Pass ideaal is voor obscure games.**

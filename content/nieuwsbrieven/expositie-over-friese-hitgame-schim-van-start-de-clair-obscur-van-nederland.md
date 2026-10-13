@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/expositie-over-friese-hitgame-schim-van-start-de-clair-obscur-van-nederland/
 socialImage: ../media/gamepraat/expositie-over-friese-hitgame-schim-van-start-de-clair-obscur-van-nederland/567eda5856.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Afgelopen maanden heb ik druk gesleuteld aan een expositie over de Friese indiegame _SCHiM_, die sinds afgelopen weekend te bezoeken is in Forum Groningen. Het is de [tweede keer](/deze-week-begint-de-zelda-expositie) dat ik zo'n tentoonstelling in elkaar mocht zetten - en de eerste voor een indiegame, waardoor ik veel directer met de makers kon praten. Het leidde niet alleen tot een uniek kijkje in de ontwikkeling van de Friese hitgame, maar ook in een totaal nieuw spel speciaal ontwikkeld voor de expositieruimte.

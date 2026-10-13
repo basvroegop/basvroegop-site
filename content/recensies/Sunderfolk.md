@@ -5,6 +5,7 @@ published: 2025-04-25
 modified: 2025-04-28
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/04/25/67013585-a4890796

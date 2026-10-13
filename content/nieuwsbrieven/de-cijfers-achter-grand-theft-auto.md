@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-cijfers-achter-grand-theft-auto/
 socialImage: ../media/gamepraat/de-cijfers-achter-grand-theft-auto/e21f764c8a.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **GTA VI is nu al op weg gigantisch te worden**

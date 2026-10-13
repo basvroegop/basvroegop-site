@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-haat-iedereen-forspoken/
 socialImage: ../media/gamepraat/waarom-haat-iedereen-forspoken/1211c8200b.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **En verder: hoe een beoordelingssysteem bij Blizzard tot wereldwijde ophef leidde.**

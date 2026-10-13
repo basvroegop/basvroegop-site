@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/mario-en-virtual-reality-zijn-terug/
 socialImage: ../media/gamepraat/mario-en-virtual-reality-zijn-terug/a7ae99e101.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 De afgelopen week testte ik de Quest 3 - de opvolger van Meta's immens populaire VR-bril uit 2020. Ik was een beetje uitgekeken op virtual reality, maar de Quest 3 is bijzonder genoeg om mijn interesse weer te doen herleven. Voor de mede-fanatiekelingen zet ik daarom deze week een paar van mijn favoriete games op een rij.

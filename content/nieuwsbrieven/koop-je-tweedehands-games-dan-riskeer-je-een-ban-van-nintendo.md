@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/koop-je-tweedehands-games-dan-riskeer-je-een-ban-van-nintendo/
 socialImage: ../media/gamepraat/koop-je-tweedehands-games-dan-riskeer-je-een-ban-van-nintendo/c521d47e55.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **De nieuwe flashkaart voor de Switch is slecht nieuws voor Nintendo - maar ook tweedehands gamekopers lopen gevaar.**

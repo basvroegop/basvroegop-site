@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-meest-opvallende-games-en-trends/
 socialImage: ../media/gamepraat/de-meest-opvallende-games-en-trends/ff2cb0626d.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Microsoft was de grote winnaar, maar...**

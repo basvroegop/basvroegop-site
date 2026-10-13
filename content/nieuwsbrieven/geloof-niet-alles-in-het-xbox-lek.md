@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/geloof-niet-alles-in-het-xbox-lek/
 socialImage: ../media/gamepraat/geloof-niet-alles-in-het-xbox-lek/6f720d5b1c.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Hoe zou de Microsoft-medewerker die per ongeluk het volledige Xbox-tienjarenplan lekte zich vandaag voelen? Door een verkeerd formuliertje wisten we ineens hoe de volgende Xbox er uit komt te zien en welke onaangekondigde games op de planning staan.

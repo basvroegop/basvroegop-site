@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/het-was-een-belangrijke-week-voor/
 socialImage: ../media/gamepraat/het-was-een-belangrijke-week-voor/76acc0d946.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **En het koffietafelboek '30 Jaar Gamegeschiedenis' is nu te koop**

@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/primeur-de-eerste-gamepodcast-in/
 socialImage: ../media/gamepraat/primeur-de-eerste-gamepodcast-in/e57535dc65.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Europa zet een kleine stap tegen lootboxgames en Stadia neemt gracieus afscheid.**

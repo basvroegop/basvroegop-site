@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/nieuwsbrief-optrommelen-hideo-kojima/
 socialImage: ../media/gamepraat/nieuwsbrief-optrommelen-hideo-kojima/591aaaa122.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Deze week kondigde Sony wederom grote plannen voor het komende gamejaar aan - met als grote klapper een presentatie van Metal Gear-bedenker Hideo Kojima. De constante optredens tijdens perspresentaties deze ontwerper beginnen echter een beetje gênant te voelen.

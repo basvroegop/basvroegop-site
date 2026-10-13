@@ -5,6 +5,7 @@ published: 2012-02-21
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-dear-esther
   - /artikelen/review-dear-esther

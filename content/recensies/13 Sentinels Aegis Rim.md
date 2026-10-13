@@ -5,6 +5,7 @@ published: 2020-11-09
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-13-sentinels-aegis-rim
   - /artikelen/review-13-sentinels-aegis-rim

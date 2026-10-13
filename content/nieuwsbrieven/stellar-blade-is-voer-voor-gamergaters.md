@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/stellar-blade-is-voer-voor-gamergaters/
 socialImage: ../media/gamepraat/stellar-blade-is-voer-voor-gamergaters/6c32976940.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Het Koreaanse _Stellar Blade_ doet oude Gamergate-ruzies op sociale media herleven, wat ons met de vraag achterlaat: kunnen we het online nog wel hebben over omstreden keuzes in games?

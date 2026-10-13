@@ -5,6 +5,7 @@ published: 2020-09-21
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-avengers
   - /artikelen/review-avengers

@@ -6,6 +6,7 @@ modified: 2022-07-11
 tags:
   - Preview
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/the-tomorrow-children-preview
 author: Bastiaan Vroegop

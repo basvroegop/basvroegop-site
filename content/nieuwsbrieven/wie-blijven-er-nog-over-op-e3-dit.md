@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/wie-blijven-er-nog-over-op-e3-dit/
 socialImage: ../media/gamepraat/wie-blijven-er-nog-over-op-e3-dit/21ff09f967.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 E3 loopt langzaamaan helemaal leeg. Sinds februari zeggen steeds meer bedrijven hun beursplannen af - tijd om daarom even een overzicht te maken van wie er nog overblijven. Verder is het de week waarin we eindelijk concrete gameplay te zien kregen van de volgende _Zelda_ en is er hommeles in _Dungeons & Dragons_\-land: een virtuele versie moet het spel meer een game maken.

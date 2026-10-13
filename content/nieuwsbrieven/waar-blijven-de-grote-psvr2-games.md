@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/waar-blijven-de-grote-psvr2-games/
 socialImage: ../media/gamepraat/waar-blijven-de-grote-psvr2-games/49373aa791.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: kritische Hogwarts Legacy-streamers onder vuur en het meest intieme kijkje bij een gamestudio ooit.**

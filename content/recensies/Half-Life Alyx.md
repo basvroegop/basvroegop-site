@@ -7,6 +7,7 @@ published: 2020-04-21
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-half-life-alyx
   - /artikelen/review-half-life-alyx

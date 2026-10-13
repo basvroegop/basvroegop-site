@@ -5,6 +5,7 @@ published: 2017-08-17
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /mario-rabbids-kingdom-battle-review
   - /artikelen/mario-rabbids-kingdom-battle-review

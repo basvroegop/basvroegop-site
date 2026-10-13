@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/deze-week-begint-de-zelda-expositie/
 socialImage: ../media/gamepraat/deze-week-begint-de-zelda-expositie/1647ce5283.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: waarom het zo'n slecht jaar is voor gamemakers**

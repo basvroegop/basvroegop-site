@@ -5,6 +5,7 @@ published: 2015-12-29
 modified: 2022-07-11
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /planetbase-review
   - /artikelen/planetbase-review

@@ -6,6 +6,7 @@ modified: 2022-07-04
 tags:
   - Achtergrond
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/picomy-apple-arcade
 author: Bastiaan Vroegop

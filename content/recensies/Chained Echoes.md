@@ -5,6 +5,7 @@ published: 2022-12-07
 modified: 2022-12-07
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-chained-echoes
   - /artikelen/review-chained-echoes

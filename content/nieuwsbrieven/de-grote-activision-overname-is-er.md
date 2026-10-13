@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-grote-activision-overname-is-er/
 socialImage: ../media/gamepraat/de-grote-activision-overname-is-er/f8698dd0bb.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: nog even over die beer in Baldur's Gate 3**

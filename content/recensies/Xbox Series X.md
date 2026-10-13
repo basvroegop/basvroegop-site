@@ -7,6 +7,7 @@ published: 2020-11-16
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-xbox-series
   - /artikelen/review-xbox-series

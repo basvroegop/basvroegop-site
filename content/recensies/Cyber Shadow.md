@@ -5,6 +5,7 @@ published: 2021-02-03
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-cyber-shadow
   - /artikelen/review-cyber-shadow

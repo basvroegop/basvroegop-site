@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/sven-is-blind-maar-verslaat-je-met/
 socialImage: ../media/gamepraat/sven-is-blind-maar-verslaat-je-met/51a87b3b15.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: een pijnlijke blik op hoe gamesmedia vroeger met Japan omgingen.**

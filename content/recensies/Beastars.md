@@ -6,6 +6,7 @@ published: 2020-04-14
 modified: 2022-07-04
 tags:
   - Series
+  - Gamepraat
 aliases:
   - /review-beastars
   - /artikelen/review-beastars

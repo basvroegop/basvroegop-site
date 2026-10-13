@@ -10,6 +10,7 @@ published: 2012-03-08
 modified: 2024-01-17
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-asuras-wrath
   - /artikelen/review-asuras-wrath

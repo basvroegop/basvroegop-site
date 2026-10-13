@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/wat-monster-hunter-van-call-of-duty-leerde/
 socialImage: ../media/gamepraat/wat-monster-hunter-van-call-of-duty-leerde/2410de4315.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Met Monster Hunter World brak de ooit typische Japanse reeks door in het westen. Deze week verschijnt het nieuwste deel, dat vooral lessen van westerse games toepast om een nog breder publiek te bereiken.

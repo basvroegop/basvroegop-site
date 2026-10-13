@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/hoeveel-in-palworld-is-gejat/
 socialImage: ../media/gamepraat/hoeveel-in-palworld-is-gejat/93df97cf38.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Palworld ligt onder vuur om zijn gestolen monsters, maar hoeveel in de game is echt gestolen?**

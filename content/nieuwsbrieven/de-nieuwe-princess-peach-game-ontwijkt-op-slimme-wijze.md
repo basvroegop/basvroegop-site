@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-nieuwe-princess-peach-game-ontwijkt-op-slimme-wijze/
 socialImage: ../media/gamepraat/de-nieuwe-princess-peach-game-ontwijkt-op-slimme-wijze/1f5bcbf2d9.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Voor het eerst in 19 jaar bekleedt prinses Peach weer de hoofdrol in een Nintendo-game. De vorige keer was er veel kritisch over seksisme, ditmaal weet Nintendo op vernuftige wijze die dans te ontspringen.

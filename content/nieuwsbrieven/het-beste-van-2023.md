@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/het-beste-van-2023/
 socialImage: ../media/gamepraat/het-beste-van-2023/568da67986.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Games, films, series, boeken en iets voor op je bureau.**

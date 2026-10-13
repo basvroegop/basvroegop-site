@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/dont-mention-the-advance-wars/
 socialImage: ../media/gamepraat/dont-mention-the-advance-wars/ff677e51c3.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de kannibalisatie van Game Pass en de Metroid-renaissance.**

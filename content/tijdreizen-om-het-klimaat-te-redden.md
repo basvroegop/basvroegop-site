@@ -9,6 +9,7 @@ modified: 2024-01-17
 tags:
   - Achtergrond
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/tijdreizen-om-het-klimaat-te-redden
 author: Bastiaan Vroegop

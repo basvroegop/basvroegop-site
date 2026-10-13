@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-nieuwe-lootboxwet-komt-te-laat/
 socialImage: ../media/gamepraat/de-nieuwe-lootboxwet-komt-te-laat/f86dc179a2.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **En het schrijven van '30 jaar Gamehistorie' is begonnen.**

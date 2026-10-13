@@ -25,6 +25,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/gamers-versus-microsoft-moet-vooral/
 socialImage: ../media/gamepraat/gamers-versus-microsoft-moet-vooral/17f171eb28.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Hallo,

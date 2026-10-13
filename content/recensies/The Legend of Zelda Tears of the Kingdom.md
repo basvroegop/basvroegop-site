@@ -10,6 +10,7 @@ published: 2023-05-11
 modified: 2024-01-17
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /zelda-tears-of-the-kingdom-review
   - /artikelen/zelda-tears-of-the-kingdom-review

@@ -6,6 +6,7 @@ modified: 2022-07-26
 tags:
   - Achtergrond
   - Games
+  - Gamepraat
 aliases:
   - /artikelen/xenoblade-chronicles-3
 author: Bastiaan Vroegop

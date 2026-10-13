@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-dood-van-eurogamer-benelux/
 socialImage: ../media/gamepraat/de-dood-van-eurogamer-benelux/c89a66eeef.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 De Nederlandse tak van Eurogamer sluit zijn deuren. Wie de site nu nog probeert te bezoeken, wordt automatisch richting de Britse hoofdwebsite gestuurd. Met dat besluit is ook in één klap het oude archief van de site niet meer makkelijk te vinden - wat laat zien hoe slecht zulke licentiedeals zijn voor onze eigen geschiedvorming.

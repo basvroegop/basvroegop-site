@@ -5,6 +5,7 @@ published: 2025-06-06
 modified: 2025-06-10
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/06/06/mediatips-voor-het-weekend-de-nieuwe-mario-kart-en-film-van-succession-maker-over-foute-techbazen-a4895772

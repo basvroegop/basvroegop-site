@@ -22,6 +22,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/over-seksisme-zombies-en-nintendos/
 socialImage: ../media/gamepraat/over-seksisme-zombies-en-nintendos/ec67ca303b.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Sociale media stonden deze week vol door een interview van de Volkskrant met Power Unlimited-hoofdredacteur Wouter Brugge. Was Power Unlimited vroeger seksistisch, en hoe staat het er nu voor?

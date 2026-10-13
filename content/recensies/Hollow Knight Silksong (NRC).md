@@ -5,6 +5,7 @@ published: 2025-09-23
 modified: 2025-09-23
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2025/09/23/topgame-hollow-knight-silksong-durft-sommige-spelers-af-te-schrikken-a4907147

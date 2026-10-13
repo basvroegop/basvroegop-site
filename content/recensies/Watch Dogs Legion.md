@@ -5,6 +5,7 @@ published: 2020-11-04
 modified: 2022-07-04
 tags:
   - Gam
+  - Gamepraat
 aliases:
   - /review-watch-dogs-legion
   - /artikelen/review-watch-dogs-legion

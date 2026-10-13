@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/rowling-is-een-transfoob-moet-je/
 socialImage: ../media/gamepraat/rowling-is-een-transfoob-moet-je/76efbd1420.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de gevolgen van de Fortnite-hype, een Grammy voor een game en de Banjo Kazooie-verslaving van Nick Offerman.**

@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/emulatie-op-de-iphone-mag-maar-niemand-weet-waar-de-grens-ligt/
 socialImage: ../media/gamepraat/emulatie-op-de-iphone-mag-maar-niemand-weet-waar-de-grens-ligt/b91c6a33d2.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Apple heeft de regels van de App Store aangepast waardoor emulators ineens zijn toegestaan. Daarmee lijkt de weg vrij voor apps als RetroArch en Dolphin om oude games mee te spelen - maar er wordt gevreesd dat Apples nieuwe regels juist zulke populaire apps niet toelaten.

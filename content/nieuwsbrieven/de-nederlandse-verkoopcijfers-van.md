@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/de-nederlandse-verkoopcijfers-van/
 socialImage: ../media/gamepraat/de-nederlandse-verkoopcijfers-van/51b72b53d1.jpeg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Verder: de bizarre AI-art van Hawken.**

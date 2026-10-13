@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/kreeg-ireen-wust-ooit-te-horen-dat/
 socialImage: ../media/gamepraat/kreeg-ireen-wust-ooit-te-horen-dat/3038c2e771.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Waarom we games anders behandelen dan sport**

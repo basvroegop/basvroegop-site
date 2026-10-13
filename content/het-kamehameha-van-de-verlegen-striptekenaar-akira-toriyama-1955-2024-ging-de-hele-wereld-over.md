@@ -6,6 +6,7 @@ modified: 2024-12-18
 tags:
   - Games
   - Cultuur
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/03/08/het-kamehameha-van-de-verlegen-striptekenaar-akira-toriyama-1955-2024-ging-de-hele-wereld-over-a4192469

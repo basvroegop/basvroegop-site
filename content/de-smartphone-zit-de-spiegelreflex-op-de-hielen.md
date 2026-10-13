@@ -7,6 +7,7 @@ modified: 2022-07-04
 tags:
   - Achtergrond
   - Tech
+  - Gamepraat
 aliases:
   - /artikelen/de-smartphone-zit-de-spiegelreflex-op-de-hielen
 author: Bastiaan Vroegop

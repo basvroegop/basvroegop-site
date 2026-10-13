@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/final-fantasy-xvi-is-fantastisch/
 socialImage: ../media/gamepraat/final-fantasy-xvi-is-fantastisch/dd15611108.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Naoki Yoshida wil weg uit de Raad van Bestuur van Square, maar...**

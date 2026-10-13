@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/gamepraat-gaat-naar-unpause/
 socialImage: ../media/gamepraat/gamepraat-gaat-naar-unpause/851c2908b7.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Het is je vast opgevallen: in de afgelopen maanden was het stil in deze nieuwsbrief. Dat had een goede reden. Vandaag start ik samen met een groep collega-gamejournalisten met een nieuw platform, waar we naast een wekelijks nieuwsoverzicht ook de mooiste verhalen willen delen. Nu [Unpause](https://unpause.nl/?ref=gamepraat.nl) de deuren heeft geopend, gaat Gamepraat hier in op.

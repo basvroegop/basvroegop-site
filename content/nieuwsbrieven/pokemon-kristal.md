@@ -15,6 +15,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/pokemon-kristal/
 socialImage: ../media/gamepraat/pokemon-kristal/d208d36a8b.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Toen mijn oudste zoon steeds meer interesse in games kreeg, had ik een stille droom: wat als hij, zodra hij een beetje kan lezen, zijn tanden in Pokémon zou zetten? Pokémon Blue was één van de belangrijkste games uit mijn jeugd, en de manier waarop hij de kleinste uithoekjes van Mario en Kirby uitpluist deed me vermoeden dat een grote monsterverzamelgame perfect bij hem zou passen.

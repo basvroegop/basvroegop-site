@@ -6,6 +6,7 @@ modified: 2022-07-04
 tags:
   - Tech
   - Games
+  - Gamepraat
 aliases:
   - /powera-enhanced-xbox-wired-controller-review
   - /artikelen/powera-enhanced-xbox-wired-controller-review

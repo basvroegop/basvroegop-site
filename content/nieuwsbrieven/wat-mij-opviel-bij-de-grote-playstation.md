@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/wat-mij-opviel-bij-de-grote-playstation/
 socialImage: ../media/gamepraat/wat-mij-opviel-bij-de-grote-playstation/91ba128c81.webp
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: een kwart van alle Game Mania's verdwijnt**

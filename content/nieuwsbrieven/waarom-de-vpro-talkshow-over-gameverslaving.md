@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/waarom-de-vpro-talkshow-over-gameverslaving/
 socialImage: ../media/gamepraat/waarom-de-vpro-talkshow-over-gameverslaving/411d2449ba.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Gameverslaving is belangrijk, maar Nadia van de VPRO deed bijna alles verkeerd**

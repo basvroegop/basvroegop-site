@@ -5,6 +5,7 @@ published: 2024-03-11
 modified: 2024-03-11
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/03/11/zaai-planten-en-ga-op-onderzoek-uit-niets-is-voor-niets-in-memorabele-game-ultros-a4192674

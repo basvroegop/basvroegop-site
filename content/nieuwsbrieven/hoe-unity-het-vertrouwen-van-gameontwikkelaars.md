@@ -12,6 +12,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/hoe-unity-het-vertrouwen-van-gameontwikkelaars/
 socialImage: ../media/gamepraat/hoe-unity-het-vertrouwen-van-gameontwikkelaars/aa2fd5e9b5.jpg
 publish: true
+tags:
+  - Gamepraat
 ---
 
 **Daarnaast: je iPhone is je volgende gameconsole en Wario spreekt nu Nederlands**

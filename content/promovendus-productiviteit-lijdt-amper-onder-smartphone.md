@@ -5,6 +5,7 @@ published: 2020-03-10
 modified: 2020-03-10
 tags:
   - Technologie
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2020/03/10/promovendus-productiviteit-lijdt-amper-onder-smartphone-a3993169

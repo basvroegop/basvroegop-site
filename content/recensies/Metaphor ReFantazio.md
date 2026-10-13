@@ -5,6 +5,7 @@ published: 2024-11-11
 modified: 2024-11-11
 tags:
   - Games
+  - NRC
 author: Bastiaan Vroegop
 source: NRC
 sourceUrl: https://www.nrc.nl/nieuws/2024/11/11/in-metaphor-strijd-je-tegen-oprukkend-fascisme-in-europa-a4872640

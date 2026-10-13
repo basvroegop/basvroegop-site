@@ -7,6 +7,7 @@ published: 2020-01-16
 modified: 2022-07-04
 tags:
   - Games
+  - Gamepraat
 aliases:
   - /review-dr-kawashimas-brain-training
   - /artikelen/review-dr-kawashimas-brain-training

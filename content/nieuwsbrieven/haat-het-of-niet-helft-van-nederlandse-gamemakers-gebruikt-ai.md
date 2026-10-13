@@ -17,6 +17,8 @@ source: Gamepraat
 sourceUrl: https://gamepraat.nl/haat-het-of-niet-helft-van-nederlandse-gamemakers-gebruikt-ai/
 socialImage: ../media/gamepraat/haat-het-of-niet-helft-van-nederlandse-gamemakers-gebruikt-ai/9617a28b52.png
 publish: true
+tags:
+  - Gamepraat
 ---
 
 Kunstmatige intelligentie is één van de meest omstreden middelen in zowat iedere sector, waaronder ook gaming. Toch zegt de helft van alle gamemakers in Nederland er wel gebruik van te maken, blijkt uit een nieuw gepubliceerd onderzoek.
