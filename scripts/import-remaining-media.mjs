@@ -757,7 +757,12 @@ function parseUnpause(html) {
   )
   return {
     subtitle: subtitle || undefined,
-    title: (data?.headline || $("h1").first().text()).replace(/\s+- Unpause$/, ""),
+    // De kop op de pagina is leidend; `headline` in de metadata is soms een aparte SEO-titel.
+    title: (
+      cleanText($(".elementor-widget-theme-post-title h1, h1").first().text()) ||
+      data?.headline ||
+      ""
+    ).replace(/\s+- Unpause$/, ""),
     description: data?.description || $('meta[name="description"]').attr("content"),
     date: data?.datePublished,
     modified: data?.dateModified,

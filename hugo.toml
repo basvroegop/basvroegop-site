@@ -10,7 +10,7 @@ summaryLength = 40
 timeout = "120s"
 
 [pagination]
-  pagerSize = 50
+  pagerSize = 20
 
 [services.rss]
   limit = 50
@@ -41,13 +41,13 @@ timeout = "120s"
     source = "static"
     target = "static"
 
-# Artikelen in de hoofdmap horen bij geen sectie; geef ze een eigen type zodat ze
-# in de lijst met recente publicaties komen.
+# Alle artikelen zijn voor het thema een "post": dan toont het de publicatiedatum op de
+# artikelpagina en komen ook de stukken uit de hoofdmap in de lijst met recente publicaties.
+# Losse pagina's (over-mij) zetten zelf `type: page`.
 [[cascade]]
-  type = "artikelen"
+  type = "post"
   [cascade.target]
     kind = "page"
-    path = "/*"
 
 [params]
   title = "Bastiaan Vroegop"
@@ -55,9 +55,14 @@ timeout = "120s"
   description = "Ik ben onderzoeksjournalist bij Dagblad van het Noorden en Leeuwarder Courant. Daarnaast schrijf ik over videogames voor NRC Handelsblad, Unpause en Kidsweek. Eerder maakte ik verhalen voor o.a. NU.nl, AD, Gamer.nl, Power Unlimited en Bright."
   profilePicture = "images/profile.webp"
   images = ["images/profile.webp"]
-  mainSections = ["artikelen", "recensies", "interviews", "nieuwsbrieven"]
+  mainSections = ["post"]
   customCss = ["css/archief.css"]
   doNotLoadAnimations = true
+  # Koppen letterlijk tonen; het thema zet titels anders In Hoofdletters Per Woord.
+  disableTitleCapitalization = true
+  disableArchiveTitleStyling = true
+  # Nederlandse maandnamen in plaats van Engelse.
+  localizedDates = true
   reversepagetitle = true
   singleDateFormat = "2 January 2006"
   indexDateFormat = "2 January 2006"

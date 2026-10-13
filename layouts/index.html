@@ -7,16 +7,46 @@
     </div>
   {{ end }}
 
-  {{/* Startpagina: titel en datum van recente publicaties, geen samenvattingen. */}}
+  {{/* Startpagina: titel, medium, datum en de eerste alinea van recente publicaties. */}}
   <div class="post">
     <div class="post__content">
       {{ with .Params.mainSectionsTitle }}<h2>{{ . }}</h2>{{ end }}
       {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
       <ul class="titellijst">
         {{ range $paginator.Pages }}
+          {{ $page := . }}
+          {{/* Medium uit `source`; met link naar de gelijknamige tag als het artikel die heeft. */}}
+          {{ $medium := .Params.source }}
+          {{ $mediumTag := false }}
+          {{ range .GetTerms "tags" }}
+            {{ if eq (lower .LinkTitle) (lower $medium) }}{{ $mediumTag = . }}{{ end }}
+          {{ end }}
+          {{/* Eerste intro-alinea: de eerste gewone alinea van de tekst. Een korte vette regel
+               is een onderkop of rubriek en telt niet (bij NU.nl is de vette regel wél de intro). */}}
+          {{ $intro := "" }}
+          {{ range split (strings.TrimSpace .RawContent) "\n\n" }}
+            {{ $block := strings.TrimSpace . }}
+            {{ if and (not $intro) $block (not (findRE `^(#|>|!\[|\[Bekijk ingesloten media\]|\|)` $block 1)) }}
+              {{ $plain := $block | $page.RenderString | plainify | htmlUnescape | strings.TrimSpace }}
+              {{ $kicker := and (findRE `^(\*\*|__).*(\*\*|__)$` $block 1) (lt (strings.RuneCount $plain) 60) (ne $medium "NU.nl") }}
+              {{ if not $kicker }}{{ $intro = $plain }}{{ end }}
+            {{ end }}
+          {{ end }}
           <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+            <div class="titellijst__kop">
+              <a class="titellijst__titel" href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span class="titellijst__meta">
+                {{ with $medium }}
+                  {{ if $mediumTag }}
+                    <a class="titellijst__medium" href="{{ $mediumTag.RelPermalink }}">{{ . }}</a>
+                  {{ else }}
+                    <span class="titellijst__medium">{{ . }}</span>
+                  {{ end }}
+                {{ end }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+              </span>
+            </div>
+            {{ with $intro }}<p class="titellijst__intro">{{ . | truncate 300 }}</p>{{ end }}
           </li>
         {{ end }}
       </ul>
