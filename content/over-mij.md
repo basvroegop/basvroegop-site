@@ -16,7 +16,11 @@ unlisted: true
 publish: true
 ---
 
-Hallo! Ik ben Bastiaan Vroegop, tech- en gamejournalist voor onder andere AD, NRC Handelsblad, Bright, Gamer.nl, Power Unlimited en Kidsweek. Ik schrijf dagelijks over de impact van technologie en videogames op de maatschappij.
+Hallo! Ik ben Bastiaan Vroegop, onderzoeksjournalist bij Dagblad van het Noorden en Leeuwarder Courant. Daarnaast schrijf ik over videogames bij 
+
+Eerder schreef ik onder andere bij AD, NRC Handelsblad, Bright, Gamer.nl
+
+tech- en gamejournalist voor onder andere AD, NRC Handelsblad, Bright, Gamer.nl, Power Unlimited en Kidsweek. Ik schrijf dagelijks over de impact van technologie en videogames op de maatschappij.
 
 Ik ben één van de hosts van gamepodcast [Spelkost](https://spelkost.nl/) en schreef daarnaast Gamepraat, een nieuwsbrief over de game-industrie. Oh, en af en toe sleutel ik aan oude Game Boys.
 
