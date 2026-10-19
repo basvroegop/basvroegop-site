@@ -8,7 +8,7 @@
 .titellijst { list-style: none; margin: 0; padding: 0; }
 .titellijst li { margin: 0; padding: 0.9em 0; border-bottom: 1px solid rgba(127, 127, 127, 0.18); }
 .titellijst li:last-child { border-bottom: 0; }
-.titellijst__kop { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0.1em 1.2em; }
+.titellijst__kop { display: flex; flex-direction: column; align-items: flex-start; gap: 0.1em; }
 .titellijst__titel { font-weight: 700; }
 .titellijst__meta { font-size: 0.85em; opacity: 0.65; white-space: nowrap; }
 .titellijst__medium::after { content: " · "; }
