@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren
+  - /achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/internet/4512075/achtergrond-hoe-netflix-je-dataverbruik-gaat-halveren.html

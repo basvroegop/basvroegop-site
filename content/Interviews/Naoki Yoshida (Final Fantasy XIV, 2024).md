@@ -9,6 +9,7 @@ aliases:
   - /interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida
   - /artikelen/interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida
   - /artikelen/interviews/interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida
+  - /interviews/interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/achtergrond/achtergrond/preview/interview-square-enix-vestigt-alle-hoop-op-final-fantasy-14-maker-naoki-yoshida/

@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-appje-nog
+  - /achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-appje-nog
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/5030603/achtergrond-25-jaar-sms-hoe-relevant-is-het-originele-appje-nog.html

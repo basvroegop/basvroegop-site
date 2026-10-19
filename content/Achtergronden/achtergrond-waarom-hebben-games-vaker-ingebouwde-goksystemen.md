@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-waarom-hebben-games-vaker-ingebouwde-goksystemen
+  - /achtergrond-waarom-hebben-games-vaker-ingebouwde-goksystemen
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/5022251/achtergrond-waarom-hebben-games-vaker-ingebouwde-goksystemen.html

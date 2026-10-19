@@ -339,6 +339,11 @@ function excerpt(value, maxLength = 300) {
   return result || `${text.slice(0, maxLength - 1).trimEnd()}…`
 }
 
+// De mappen in content/ hebben in Obsidian een hoofdletter (Recensies); URL's en aliassen niet.
+function contentFolder(folder) {
+  return folder ? folder[0].toUpperCase() + folder.slice(1) : ""
+}
+
 function slugify(value) {
   return value
     .normalize("NFD")
@@ -591,7 +596,7 @@ async function importStandalone(item, page) {
     throw new Error(`Bastiaan ontbreekt in de auteursregel: ${item.url}`)
   const slug = slugFromUrl(item.url)
   const relativePrefix = item.folder ? "../" : "./"
-  const relativePath = path.posix.join(item.folder || "", `${slug}.md`)
+  const relativePath = path.posix.join(contentFolder(item.folder), `${slug}.md`)
   const body = articleBody($)
   const markdown = await fragmentToMarkdown(body.html() || "", { slug, relativePrefix })
   if (wordCount(markdown) < 150) throw new Error(`Artikeltekst lijkt onvolledig: ${item.url}`)
@@ -692,7 +697,7 @@ async function importMediatip(url, page) {
   )
   const note = `> [!NOTE]\n> Deze mediatip verscheen eerder als onderdeel van [${overviewTitle}](${url}) in NRC.`
   await writeArticle(
-    path.posix.join("recensies", `${slug}.md`),
+    path.posix.join(contentFolder("recensies"), `${slug}.md`),
     {
       title,
       description,

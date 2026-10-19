@@ -12,6 +12,7 @@ aliases:
   - /artikelen/interviews/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
   - /interviews/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft
   - /interviews/naoki-yoshida-(final-fantasy-xiv)
+  - /interviews/naoki-yoshida-final-fantasy-xiv
 author: Bastiaan Vroegop
 source: Gamer.nl
 sourceUrl: https://gamer.nl/artikelen/interview/waarom-final-fantasy-14-geen-testservers-en-add-ons-heeft

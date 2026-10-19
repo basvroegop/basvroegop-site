@@ -10,6 +10,7 @@ aliases:
   - /interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two
   - /artikelen/interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two
   - /artikelen/interviews/interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two
+  - /interviews/interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/5310806/interview-skyrim-regisseur-maakt-al-games-voor-playstation-5-en-xbox-two.html

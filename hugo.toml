@@ -37,6 +37,14 @@ timeout = "120s"
   [[module.mounts]]
     source = "content/media"
     target = "static/media"
+  # Ook als assets, zodat render-image een kale bestandsnaam kan opzoeken: Obsidian kort
+  # afbeeldingslinks bij het verplaatsen van een notitie in tot alleen de bestandsnaam.
+  [[module.mounts]]
+    source = "content/media"
+    target = "assets/media"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
   [[module.mounts]]
     source = "static"
     target = "static"
@@ -82,8 +90,8 @@ timeout = "120s"
     pageRef = "/interviews"
     weight = 30
   [[menus.main]]
-    name = "Nieuwsbrieven"
-    pageRef = "/nieuwsbrieven"
+    name = "Achtergronden"
+    pageRef = "/achtergronden"
     weight = 40
   [[menus.main]]
     name = "Over mij"

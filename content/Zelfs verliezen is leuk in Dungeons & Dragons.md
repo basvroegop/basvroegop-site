@@ -8,6 +8,7 @@ tags:
   - Laadscherm
 aliases:
   - /artikelen/6209719
+  - /6209719
 author: Bastiaan Vroegop
 source: Laadscherm
 sourceUrl: https://laadscherm.nl/zelfs-verliezen-is-leuk-in-dungeons-dragons

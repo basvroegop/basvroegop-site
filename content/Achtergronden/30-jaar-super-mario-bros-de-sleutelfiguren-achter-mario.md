@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario
+  - /30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/4124451/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario.html

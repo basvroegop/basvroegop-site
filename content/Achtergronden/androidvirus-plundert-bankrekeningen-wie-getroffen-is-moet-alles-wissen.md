@@ -8,6 +8,7 @@ tags:
   - Technologie
 aliases:
   - /artikelen/androidvirus-plundert-bankrekeningen-wie-getroffen-is-moet-alles-wissen
+  - /androidvirus-plundert-bankrekeningen-wie-getroffen-is-moet-alles-wissen
 author: Bastiaan Vroegop
 source: AD
 sourceUrl: https://www.ad.nl/tech/androidvirus-plundert-bankrekeningen-wie-getroffen-is-moet-alles-wissen~ac1261b4/

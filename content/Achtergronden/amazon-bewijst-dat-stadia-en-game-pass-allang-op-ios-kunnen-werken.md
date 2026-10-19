@@ -6,6 +6,7 @@ tags:
   - Bright
 aliases:
   - /artikelen/amazon-bewijst-dat-stadia-en-game-pass-allang-op-ios-kunnen-werken
+  - /amazon-bewijst-dat-stadia-en-game-pass-allang-op-ios-kunnen-werken
 author: Bastiaan Vroegop
 source: Bright
 sourceUrl: https://www.bright.nl/nieuws/1127568/amazon-bewijst-dat-stadia-en-game-pass-allang-op-ios-kunnen-werken.html

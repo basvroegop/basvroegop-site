@@ -10,6 +10,7 @@ aliases:
   - /interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen
   - /artikelen/interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen
   - /artikelen/interviews/interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen
+  - /interviews/interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/5241359/interview-schrijver-detroit-become-human-zou-zeker-een-robothulp-kopen.html

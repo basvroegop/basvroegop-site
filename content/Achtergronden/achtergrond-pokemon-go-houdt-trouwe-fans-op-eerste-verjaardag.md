@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag
+  - /achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/4819977/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag.html

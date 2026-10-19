@@ -111,6 +111,11 @@ turndown.addRule("video", {
   },
 })
 
+// De mappen in content/ hebben in Obsidian een hoofdletter (Recensies); URL's en aliassen niet.
+function contentFolder(folder) {
+  return folder ? folder[0].toUpperCase() + folder.slice(1) : ""
+}
+
 function slugify(value) {
   return value
     .normalize("NFD")
@@ -366,7 +371,7 @@ function baseSlug(article) {
 
 function routeFor(article, slug) {
   const folder = isReview(article) ? "recensies" : isInterview(article) ? "interviews" : ""
-  const relativePath = path.posix.join(folder, `${slug}.md`)
+  const relativePath = path.posix.join(contentFolder(folder), `${slug}.md`)
   const aliases = folder
     ? [`/${slug}`, `/artikelen/${slug}`, `/artikelen/${folder}/${slug}`]
     : [`/artikelen/${slug}`]
@@ -380,7 +385,7 @@ function existingArticleFor(article, records) {
   if (!isReview(article)) return undefined
   return records.find(
     (record) =>
-      record.relativePath.startsWith("recensies/") &&
+      /^recensies\//i.test(record.relativePath) &&
       record.normalizedTitle === normalizeTitle(article.newsTitle),
   )
 }
@@ -428,7 +433,7 @@ async function updateExisting(record, article) {
   const aliases = unique([
     ...(record.data.aliases || []),
     // Alleen slugs krijgen een korte alias; op productnaam hernoemde bestanden hebben er al een.
-    ...(record.relativePath.startsWith("recensies/") &&
+    ...(/^recensies\//i.test(record.relativePath) &&
     /^[a-z0-9-]+$/.test(path.basename(record.relativePath, ".md"))
       ? [`/${path.basename(record.relativePath, ".md")}`]
       : []),
@@ -708,7 +713,7 @@ async function importArticle(summary, route) {
 }
 
 async function importContribution(spec, occupiedPaths, records) {
-  const relativePath = path.posix.join(spec.folder, `${spec.slug}.md`)
+  const relativePath = path.posix.join(contentFolder(spec.folder), `${spec.slug}.md`)
   // Een hernoemd bestand blijft herkenbaar aan de Bright-bron en het overzichtsartikel.
   const renamed = records.some(
     (record) => record.data.sourceArticle && [...record.ids].some((id) => id == spec.newsID),

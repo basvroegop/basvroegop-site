@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo
+  - /achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/4808319/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo.html

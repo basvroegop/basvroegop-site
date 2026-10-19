@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania
+  - /achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/games/4885922/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania.html

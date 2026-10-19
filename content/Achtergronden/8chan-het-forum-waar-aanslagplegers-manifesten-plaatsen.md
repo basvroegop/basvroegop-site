@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen
+  - /8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/tech/5974633/8chan-het-forum-waar-aanslagplegers-manifesten-plaatsen.html

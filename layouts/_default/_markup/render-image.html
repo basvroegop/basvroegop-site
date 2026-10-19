@@ -1,3 +1,9 @@
 {{- $src := replaceRE `^(\.\./|\./)+media/` "/media/" .Destination -}}
+{{- /* Obsidian schrijft na een verplaatsing alleen de bestandsnaam; zoek die op in media/. */ -}}
+{{- if not (findRE `[/:]` $src 1) -}}
+  {{- with resources.GetMatch (printf "media/**/%s" $src) -}}
+    {{- $src = printf "/%s" (strings.TrimPrefix "/" .Name) -}}
+  {{- end -}}
+{{- end -}}
 <img src="{{ $src | relURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
 {{- /* geen witruimte */ -}}

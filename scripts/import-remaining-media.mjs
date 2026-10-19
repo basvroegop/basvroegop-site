@@ -79,6 +79,11 @@ function normalizeEmbedUrl(value) {
   return value.startsWith("//") ? `https:${value}` : value
 }
 
+// De mappen in content/ hebben in Obsidian een hoofdletter (Recensies); URL's en aliassen niet.
+function contentFolder(folder) {
+  return folder ? folder[0].toUpperCase() + folder.slice(1) : ""
+}
+
 function slugify(value) {
   return String(value || "")
     .normalize("NFD")
@@ -430,7 +435,7 @@ async function writeArticle({ item, parsed, sourceSlug, linkUrl, existingOnly = 
   } else {
     pieces.push(noteAfterFirstParagraph(body, note))
   }
-  const outputDir = path.join(CONTENT_DIR, folder)
+  const outputDir = path.join(CONTENT_DIR, contentFolder(folder))
   const destination = path.join(outputDir, `${slug}.md`)
   if (!DRY_RUN) {
     await fs.mkdir(outputDir, { recursive: true })

@@ -8,6 +8,7 @@ tags:
   - NU.nl
 aliases:
   - /artikelen/achtergrond-waarom-huawei-liever-europa-dan-de-vs-verovert
+  - /achtergrond-waarom-huawei-liever-europa-dan-de-vs-verovert
 author: Bastiaan Vroegop
 source: NU.nl
 sourceUrl: https://www.nu.nl/internet/4972058/achtergrond-waarom-huawei-liever-europa-dan-de-vs-verovert.html
