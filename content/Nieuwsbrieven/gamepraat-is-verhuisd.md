@@ -45,10 +45,10 @@ Is je iets opgevallen wat onverhoopt toch mis is gegaan? Mail me of laat hierond
 -   Een nieuw domein! De nieuwsbrief vind je voortaan op [Gamepraat.nl](https://gamepraat.nl/). Het oude domein blijft je nog een tijdje doorsturen, maar update je bookmarks voor de zekerheid.
 -   Een vernieuwde huisstijl. Ik heb de huisstijl van de nieuwsbrief gecombineerd met de kleuren van mijn oude blog - met als extraatje een nieuw logo.
 -   Naast wekelijkse nieuwsbrieven vind je ook een archief van mijn oude verhalen. Er missen nog een paar, maar het gros kun je al vinden! Zoals:
-    -   [Reviews](/tag/review)
-    -   [Achtergrondverhalen](/tag/achtergrond)
-    -   [Interviews](/tag/interview)
-    -   [Eerdere nieuwsbrieven](/tag/nieuwsbrief)
+    -   [Reviews](/recensies)
+    -   [Achtergrondverhalen](/achtergronden)
+    -   [Interviews](/interviews)
+    -   [Eerdere nieuwsbrieven](/nieuwsbrieven)
 
 Ik hoop dat dit een verzamelplek wordt van al mijn schrijfwerk over games, zodat het niet verloren gaat omdat de plek waar ik het voor schreef toevallig ophoudt te bestaan.
 
