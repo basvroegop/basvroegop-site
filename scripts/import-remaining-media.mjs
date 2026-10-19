@@ -649,8 +649,9 @@ function parseKidsweek(html) {
   const authorText = $("article")
     .text()
     .match(/Door\s+Bastiaan Vroegop/i)?.[0]
+  // DPG wisselt de hoofdletters in de gehashte klassenamen (`uiSI8a_intro`, `tRQt0G_paragraph`).
   const elements = $("article").find(
-    'p[class*="Intro"], p[class*="Paragraph"], h2[class*="ChapterHeader"], h3[data-testid="review-chapter-header"], p[data-testid="review-paragraph"]',
+    'p[class*="Intro" i], p[class*="Paragraph" i], h2[class*="ChapterHeader" i], h3[data-testid="review-chapter-header"], p[data-testid="review-paragraph"]',
   )
   const htmlBody = elements
     .map((_, element) => $.html(element))
@@ -658,7 +659,11 @@ function parseKidsweek(html) {
     .join("\n")
   const articleData = Array.isArray(data?.author) ? data.author[0] : data?.author
   const review = $("article [data-testid='article-review']").first()
-  const rating = review.find("[data-testid='rating-stars'] [data-testid^='star-']").length
+  // Alle vijf sterren staan in de markup; alleen de actieve tellen mee.
+  const stars = review.find("[data-testid='rating-stars']").first()
+  const rating =
+    Number(stars.attr("aria-label")?.match(/(\d)\s+van\s+5/)?.[1]) ||
+    stars.find("[data-testid^='star-']").not("[data-active='false']").length
   const rawProductTitle = cleanText(
     review.find("[data-testid='review-chapter-header']").first().text(),
   )
