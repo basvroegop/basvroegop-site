@@ -1,5 +1,5 @@
 ---
-title: "Interview: Schrijver Detroit: Become Human 'zou zeker een robothulp kopen'"
+title: Adam Williams (Detroit - Become Human)
 description: "In de PlayStation 4-game Detroit: Become Human is de robot de nieuwe smartphone. Een utopie, of gaan robots de mensheid ooit vervangen?"
 published: 2018-04-29
 modified: 2025-03-28
