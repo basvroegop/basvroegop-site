@@ -28,19 +28,19 @@ De game zorgde voor immense drukte in bijvoorbeeld Kijkduin, waar spelers in gro
 
 Inmiddels zijn de groepen Pokémon-spelers minder duidelijk aanwezig in Nederland. Toch is er nog steeds een grote groep mensen die de game geregeld blijft spelen. Uit cijfers van marktonderzoeker App Annie blijkt dat de game in de eerste vijf maanden van het jaar alleen in Nederland al 300.000 dollar (265.000 euro) wist om te zetten. In diezelfde periode was het ook de meest geïnstalleerde Android-game in ons land.
 
-![Pokémon Go-spelers verzamelen zich massaal op het Deltaplein omdat hier veel Pokémon te vinden zijn.](./media/nu/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag/af886073fe6b.webp)
+![Pokémon Go-spelers verzamelen zich massaal op het Deltaplein omdat hier veel Pokémon te vinden zijn.](af886073fe6b.webp)
 
 _Achtergrond: Pokémon Go houdt trouwe fans op eerste verjaardag — Beeld: ANP_
 
-![Een Pikachupaal met 'Welkom in Kijkduin, Pokémon-hoofdstad van Nederland'.](./media/nu/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag/706111951039.webp)
+![Een Pikachupaal met 'Welkom in Kijkduin, Pokémon-hoofdstad van Nederland'.](706111951039.webp)
 
 _Achtergrond: Pokémon Go houdt trouwe fans op eerste verjaardag — Beeld: ANP_
 
-![Het spel zorgde deze zomer voor een hype.](./media/nu/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag/284e8733a4e0.webp)
+![Het spel zorgde deze zomer voor een hype.](284e8733a4e0.webp)
 
 _Achtergrond: Pokémon Go houdt trouwe fans op eerste verjaardag — Beeld: ANP_
 
-![De gemeente Den Haag wil met een kort geding overlast van de Pokémon Go-spelers aanpakken.](./media/nu/achtergrond-pokemon-go-houdt-trouwe-fans-op-eerste-verjaardag/c0771ca342e9.webp)
+![De gemeente Den Haag wil met een kort geding overlast van de Pokémon Go-spelers aanpakken.](c0771ca342e9.webp)
 
 _Achtergrond: Pokémon Go houdt trouwe fans op eerste verjaardag — Beeld: ANP_
 

@@ -30,7 +30,7 @@ Wie zijn er verantwoordelijk voor het succes van Mario en wie hebben hem door de
 
 Vier jaar voordat de eerste Mario-game zou verschijnen, bracht game-ontwerper Shigeru Miyamoto hem al tot leven. In de game _Donkey Kong_ nam Mario (toen nog 'Jumpman') het in ieder level op tegen Nintendo's reuzenaap, die bovenaan een groot bouwwerk een meisje gevangen hield.
 
-![Shigeru Miyamoto](./media/nu/30-jaar-super-mario-bros-de-sleutelfiguren-achter-mario/cc1739562df6.webp)
+![Shigeru Miyamoto](cc1739562df6.webp)
 
 _Shigeru Miyamoto — Beeld: AFP_
 

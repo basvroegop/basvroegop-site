@@ -1,5 +1,5 @@
 ---
-title: "Interview: Skyrim-regisseur maakt al games voor PlayStation 5 en Xbox Two"
+title: Todd Howard (Skyrim, Fallout, Starfield)
 description: "NU.nl sprak met ontwikkelaar Todd Howard van Bethesda, het brein achter commerciële successen zoals The Elder Scrolls: Skyrim en Fallout."
 published: 2018-06-13
 modified: 2025-03-28

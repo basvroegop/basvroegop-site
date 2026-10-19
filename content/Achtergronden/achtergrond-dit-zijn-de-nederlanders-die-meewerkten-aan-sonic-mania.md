@@ -26,7 +26,7 @@ Dat lukte. De Mega Drive (in andere landen bekend als de Genesis) ging bijna 30 
 
 Het zorgde ervoor dat miljoenen gamers in de jaren ’90 spellen van Sonic voor hun kiezen kregen. Voor deze mensen was het wat Mario voor velen anderen is. Of wat Lara Croft en Crash Bandicoot waren voor een jongere generatie.
 
-![Sonic Mania](./media/nu/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania/c669e241e8b2.webp)
+![Sonic Mania](c669e241e8b2.webp)
 
 _Sonic Mania — Beeld: Sega_
 
@@ -52,7 +52,7 @@ Picomy was niet de enige Nederlandse naam die aan het project sleutelde. Pixelar
 
 Balm: "Het is echt indrukwekkend wat hij heeft gedaan. Die personages bewegen met 60 beelden per seconde, wat betekent dat er ontzettend veel werk in zit."
 
-![Sonic Mania](./media/nu/achtergrond-dit-zijn-de-nederlanders-die-meewerkten-aan-sonic-mania/73b1d2dd6129.webp)
+![Sonic Mania](73b1d2dd6129.webp)
 
 _Sonic Mania — Beeld: Sega_
 

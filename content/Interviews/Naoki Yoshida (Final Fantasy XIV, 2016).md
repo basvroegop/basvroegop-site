@@ -1,5 +1,5 @@
 ---
-title: Naoki Yoshida (Final Fantasy XIV)
+title: Naoki Yoshida (Final Fantasy XIV, 2016)
 description: FF14-baas Naoki Yoshida over de technische kant van de game.
 published: 2016-04-20
 modified: 2022-07-11

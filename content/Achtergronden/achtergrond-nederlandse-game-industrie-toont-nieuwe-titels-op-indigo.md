@@ -38,7 +38,7 @@ Toch zijn er genoeg voorbeelden van succesvolle game-ontwikkelaars in Nederland.
 
 "Die ontwikkelaar vormde een vast bedrijf waar ik fulltime in dienst kon komen, maar dat heb ik geweigerd. In plaats daarvan ben ik mijn eigen studio begonnen." Van der Werf werkt inmiddels aan _Staxel_.
 
-![Staxel](./media/nu/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo/61e81bd110c0.webp)
+![Staxel](61e81bd110c0.webp)
 
 _Staxel — Beeld: Plukit_
 
@@ -50,7 +50,7 @@ Het is vrij duidelijk dat Van der Werf zijn naam in de game-industrie inmiddels 
 
 Gevraagd over hoe lastig het is om een eigen studio in Nederland te beginnen, zegt Van der Werf dat het Nederlandse belastingklimaat slecht is. Bij zijn huidige bedrijf is officieel ook enkel hijzelf in dienst. "Verder werk ik alleen met externe freelancers." Het brengt volgens hem te veel risico met zich mee om iemand vast in dienst te nemen.
 
-![INDIGO](./media/nu/achtergrond-nederlandse-game-industrie-toont-nieuwe-titels-op-indigo/278af9e4e79e.webp)
+![INDIGO](278af9e4e79e.webp)
 
 _INDIGO — Beeld: NU.nl/Bastiaan Vroegop_
 
