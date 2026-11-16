@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T11:06:06.874Z",
+  "generatedAt": "2026-11-16T13:41:43.301Z",
   "discovered": {
-    "kidsweek": 46,
-    "unpause": 12
+    "kidsweek": 47,
+    "unpause": 13
   },
   "normalized": {
     "gamer": 0,
@@ -12,21 +12,26 @@
   },
   "imported": {
     "gamerPu": 0,
-    "kidsweek": 0,
+    "kidsweek": 1,
     "unpause": 12
   },
   "existing": 57,
   "deferred": [
     {
       "source": "Kidsweek",
-      "url": "https://www.kidsweek.nl/entertainment/games/voorproefje-the-legend-of-zelda-ocarina-of-time-beste-game-ooit-in-nieuw-jasje~adcdae6",
-      "published": "2026-10-14T13:07:53.000Z"
+      "url": "https://www.kidsweek.nl/entertainment/games/gamerecensie-nintendo-switch-sports-resort-zwiepen-zoeven-en-zweten~2489cf7",
+      "published": "2026-11-14T11:23:01.000Z"
+    },
+    {
+      "source": "Unpause",
+      "url": "https://www.unpause.nl/verhalen/actueel/voor-cloud-in-final-fantasy-resonance-is-niks-persoonlijk/",
+      "published": "2026-10-20T13:00:00.000Z"
     }
   ],
   "failures": [],
   "ratings": {
-    "found": 43,
-    "updated": 1,
+    "found": 44,
+    "updated": 0,
     "missing": [
       {
         "url": "https://www.kidsweek.nl/entertainment/gamerecensie-the-plucky-squire-reis-door-een-prentenboek~1514725",
@@ -35,18 +40,20 @@
     ]
   },
   "images": {
-    "downloaded": 0,
+    "downloaded": 1,
     "reused": 0,
     "skipped": []
   },
-  "files": [],
+  "files": [
+    "content/voorproefje-the-legend-of-zelda-ocarina-of-time-beste-game-ooit-in-nieuw-jasje.md"
+  ],
   "coverage": {
     "sourceCounts": {
       "Gamer.nl": 112,
       "InsideGamer": 21,
       "Power Unlimited": 5,
       "Laadscherm": 6,
-      "Kidsweek": 45,
+      "Kidsweek": 46,
       "Unpause": 12
     },
     "gamerPuSelection": {
@@ -62,8 +69,8 @@
     "validation": {
       "missingPublished": [],
       "missingSourceUrl": [
-        "content/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven.md",
-        "content/recensies/Dragon Quest VII.md"
+        "content/Recensies/Dragon Quest VII.md",
+        "content/fan-fest-2017-bewijst-dat-final-fantasy-14-nog-lange-tijd-zal-blijven.md"
       ],
       "shortBody": []
     }
