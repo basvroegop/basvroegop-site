@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T13:41:43.301Z",
+  "generatedAt": "2026-11-23T16:01:24.779Z",
   "discovered": {
-    "kidsweek": 47,
+    "kidsweek": 48,
     "unpause": 13
   },
   "normalized": {
@@ -12,25 +12,25 @@
   },
   "imported": {
     "gamerPu": 0,
-    "kidsweek": 1,
-    "unpause": 12
+    "kidsweek": 0,
+    "unpause": 13
   },
-  "existing": 57,
+  "existing": 58,
   "deferred": [
+    {
+      "source": "Kidsweek",
+      "url": "https://www.kidsweek.nl/entertainment/games/gamerecensie-star-wars-galactic-racer-razendsnelle-ruimterace~933591a",
+      "published": "2026-11-20T11:32:06.000Z"
+    },
     {
       "source": "Kidsweek",
       "url": "https://www.kidsweek.nl/entertainment/games/gamerecensie-nintendo-switch-sports-resort-zwiepen-zoeven-en-zweten~2489cf7",
       "published": "2026-11-14T11:23:01.000Z"
-    },
-    {
-      "source": "Unpause",
-      "url": "https://www.unpause.nl/verhalen/actueel/voor-cloud-in-final-fantasy-resonance-is-niks-persoonlijk/",
-      "published": "2026-10-20T13:00:00.000Z"
     }
   ],
   "failures": [],
   "ratings": {
-    "found": 44,
+    "found": 45,
     "updated": 0,
     "missing": [
       {
@@ -45,7 +45,7 @@
     "skipped": []
   },
   "files": [
-    "content/voorproefje-the-legend-of-zelda-ocarina-of-time-beste-game-ooit-in-nieuw-jasje.md"
+    "content/voor-cloud-in-final-fantasy-resonance-is-niks-persoonlijk.md"
   ],
   "coverage": {
     "sourceCounts": {
@@ -54,7 +54,7 @@
       "Power Unlimited": 5,
       "Laadscherm": 6,
       "Kidsweek": 46,
-      "Unpause": 12
+      "Unpause": 13
     },
     "gamerPuSelection": {
       "selected": 26,
